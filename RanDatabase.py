@@ -905,44 +905,6 @@ print('Start gathering Primera Division (Arg) 17/18...')
 fillLeague('arg-primera-division', '2017-2018', 'se24540/2017-2018/ro74633', 27, conn)
 print('Gathering Primera Division (Arg) 17/18 done.')
 
-####################### BUNDESLIGA #######################
-
-# Bundesliga 2012-2013
-renewLeague('Bundesliga', '2012-2013', conn)
-print('Start gathering Bundesliga 12/13...')
-fillLeague('Bundesliga', '2012-2013', 'se9024/2012-2013/ro29872', 34, conn)
-print('Gathering Bundesliga 12/13 done.')
-
-# Bundesliga 2013-2014
-renewLeague('Bundesliga', '2013-2014', conn)
-print('Start gathering Bundesliga 13/14...')
-fillLeague('Bundesliga', '2013-2014', 'se11976/2013-2014/ro38889', 34, conn)
-print('Gathering Bundesliga 13/14 done.')
-
-# Bundesliga 2014-2015
-renewLeague('Bundesliga', '2014-2015', conn)
-print('Start gathering Bundesliga 14/15...')
-fillLeague('Bundesliga', '2014-2015', 'se15388/2014-2015/ro47269', 34, conn)
-print('Gathering Bundesliga 14/15 done.')
-
-# Bundesliga 2015-2016
-renewLeague('Bundesliga', '2015-2016', conn)
-print('Start gathering Bundesliga 15/16...')
-fillLeague('Bundesliga', '2015-2016', 'se18336/2015-2016/ro57041', 34, conn)
-print('Gathering Bundesliga 15/16 done.')
-
-# Bundesliga 2016-2017
-renewLeague('Bundesliga', '2016-2017', conn)
-print('Start gathering Bundesliga 16/17...')
-fillLeague('Bundesliga', '2016-2017', 'se20812/2016-2017/ro63882', 34, conn)
-print('Gathering Bundesliga 16/17 done.')
-
-# Bundesliga 2017-2018
-renewLeague('Bundesliga', '2017-2018', conn)
-print('Start gathering Bundesliga 17/18...')
-fillLeague('Bundesliga', '2017-2018', 'se23906/2017-2018/ro73072', 34, conn)
-print('Gathering Bundesliga 17/18 done.')
-
 ####################### 2. BUNDESLIGA #######################
 
 # 2. Bundesliga 2012-2013
