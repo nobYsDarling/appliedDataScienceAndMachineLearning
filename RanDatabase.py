@@ -37,13 +37,10 @@ def getStarter(parser, home) :
     for player in playerNames :
         playerNameList.append(player.a.string)
 
-    #### debug ####
-    #if (len(playerNameList) < 11) :
-    #    print ('LängeFehlerStarter: ' + str(len(playerNameList)))
-    #    print (playerNameList)
-    ###############
-
-
+    # Fehlerbehandlung falls auf der Seite keine Daten verfügbar (vereinzelte Spiele)
+    while (len(playerNameList) < 11) :
+        playerNameList.append(None)
+        
     return playerNameList
 
 # Bankspieler
@@ -165,12 +162,6 @@ def getGameLineUp(parser) :
         result.append(str(player).replace('\'', ''))
     for player in benchAway :
         result.append(str(player).replace('\'', ''))
-
-    #### debug ####
-    #if (len(result) < 36) :
-    #    print ('LängeFehler: ' + str(len(result)))
-    #    print (result)
-    ###############
     
     return result
 
@@ -181,6 +172,10 @@ def getGameLineUp(parser) :
 #           Scorer, Cards, Substitutions)
 def addGame(table, matchID, league, season, game, conn):
     cur = conn.cursor()
+
+    # Fehlerbehandlung falls auf der Seite keine Daten verfügbar (vereinzelte Spiele)
+    while (len(game) < 4) :
+        game.append(None)
     
     sql = "INSERT INTO " + table + " (GameID, League, Season, Date, HomeTeam, AwayTeam, Result) VALUES ('%d', '%s', '%s', '%s', '%s', '%s', '%s')"
 
@@ -256,6 +251,9 @@ def fillLeague(league, season, seasonSpecification, maxGameDays, conn) :
         cards = getCards(parser)
         substitutions = getSubstitutions(parser)
 
+        if (league == "Super-League") :
+            league = "suisuperleague"
+            
         league = league.replace('-', '')
         seasonSplit = re.split('-', season)
         preTable = league.lower() + seasonSplit[0] + seasonSplit[1]
@@ -295,7 +293,7 @@ def fillCup(league, season, seasonSpecification, groups, rounds, conn) :
         scorer = getScorer(parser)
         cards = getCards(parser)
         substitutions = getSubstitutions(parser)
-
+        
         league = league.replace('-', '')
         preTable = league.lower() + season
     
@@ -319,6 +317,10 @@ def fillCup(league, season, seasonSpecification, groups, rounds, conn) :
 def renewLeague(league, season, conn) :
     cur = conn.cursor()
 
+    if (league == "Super-League") :
+        league = "suisuperleague"
+        print (league)
+    print (league)
     league = league.replace('-', '')
 
     preTable = ""
@@ -355,7 +357,7 @@ def renewLeague(league, season, conn) :
 conn = sqlite3.connect('fifaLeagueGames.db')
 
 ####################### BUNDESLIGA #######################
-"""
+###
 # Bundesliga 2012-2013
 renewLeague('Bundesliga', '2012-2013', conn)
 print('Start gathering Bundesliga 12/13...')
@@ -399,7 +401,7 @@ renewLeague('Premier-League', '2012-2013', conn)
 print('Start gathering Premier League 12/13...')
 fillLeague('Premier-League', '2012-2013', 'se9032/2012-2013/ro29915', 38, conn)
 print('Gathering Premier League 12/13 done.')
-"""
+
 # Premier League 2013-2014
 renewLeague('Premier-League', '2013-2014', conn)
 print('Start gathering Premier League 13/14...')
@@ -447,7 +449,7 @@ print('Gathering Primera Division 13/14 done.')
 # Primera Division 2014-2015
 renewLeague('Primera-Division', '2014-2015', conn)
 print('Start gathering Primera Division 14/15...')
-fillLigue('Primera-Division', '2014-2015', 'se15380/2014-2015/ro47268', 38, conn)
+fillLeague('Primera-Division', '2014-2015', 'se15380/2014-2015/ro47268', 38, conn)
 print('Gathering Primera Division 14/15 done.')
 
 # Primera Division 2015-2016
@@ -697,7 +699,7 @@ fillLeague('Primeira-Liga', '2017-2018', 'se23910/2017-2018/ro73078', 34, conn)
 print('Gathering Primeira Liga 17/18 done.')
 
 ####################### SUPERLEAGUE #######################
-
+####
 # Superleague 2012-2013
 renewLeague('Superleague', '2012-2013', conn)
 print('Start gathering Superleague 12/13...')
@@ -711,11 +713,11 @@ fillLeague('Superleague', '2013-2014', 'se11999/2013-2014/ro39168', 34, conn)
 print('Gathering Superleague 13/14 done.')
 
 # Superleague 2014-2015
-renewLigue('Superleague', '2014-2015', conn)
+renewLeague('Superleague', '2014-2015', conn)
 print('Start gathering Superleague 14/15...')
 fillLeague('Superleague', '2014-2015', 'se15430/2014-2015/ro47401', 34, conn)
 print('Gathering Superleague 14/15 done.')
-
+####
 # Superleague 2015-2016
 renewLeague('Superleague', '2015-2016', conn)
 print('Start gathering Superleague 15/16...')
@@ -773,7 +775,7 @@ fillLeague('AUT-Bundesliga', '2017-2018', 'se23922/2017-2018/ro73105', 36, conn)
 print('Gathering AUT-Bundesliga 17/18 done.')
 
 ####################### SUPER LEAGUE #######################
-
+###
 # Super League 2012-2013
 renewLeague('Super-League', '2012-2013', conn)
 print('Start gathering Super League 12/13...')
@@ -984,8 +986,169 @@ print('Start gathering DFB-Pokal 17/18...')
 fillCup('DFB-Pokal', '2018', 'se23924/2017-2018/ro73116', DFBGroups, DFBRounds, conn)
 print('Gathering DFB-Pokal 17/18 done.')
 
-# TODO
-# ANDERE POKALE: England, Spanien, Frankreich, Italien
+####################### FA CUP #######################
+
+FACGroups = []
+FACRounds= ['1-runde', '2-runde', '3-runde', '4-runde', 'achtelfinale', 'viertelfinale', 'halbfinale', 'finale']
+
+# fa-cup 2012-2013
+renewLeague('fa-cup', '2013', conn)
+print('Start gathering fa-cup 12/13...')
+fillCup('fa-cup', '2013', 'se9693/2012-2013/ro36560', FACGroups, FACRounds, conn)
+print('Gathering fa-cup 12/13 done.')
+
+# fa-cup 2013-2014
+renewLeague('fa-cup', '2014', conn)
+print('Start gathering fa-cup 13/14...')
+fillCup('fa-cup', '2014', 'se14423/2013-2014/ro46285', FACGroups, FACRounds, conn)
+print('Gathering fa-cup 13/14 done.')
+
+# fa-cup 2014-2015
+renewLeague('fa-cup', '2015', conn)
+print('Start gathering fa-cup 14/15...')
+fillCup('fa-cup', '2015', 'se16343/2014-2015/ro53486', FACGroups, FACRounds, conn)
+print('Gathering fa-cup 14/15 done.')
+
+# fa-cup 2015-2016
+renewLeague('fa-cup', '2016', conn)
+print('Start gathering fa-cup 15/16...')
+fillCup('fa-cup', '2016', 'se19460/2015-2016/ro62762', FACGroups, FACRounds, conn)
+print('Gathering fa-cup 15/16 done.')
+
+# fa-cup 2016-2017
+renewLeague('fa-cup', '2017', conn)
+print('Start gathering fa-cup 16/17...')
+fillCup('fa-cup', '2017', 'se22238/2016-2017/ro71871', FACGroups, FACRounds, conn)
+print('Gathering fa-cup 16/17 done.')
+
+# fa-cup 2017-2018
+renewLeague('fa-cup', '2018', conn)
+print('Start gathering fa-cup 17/18...')
+fillCup('fa-cup', '2018', 'se25104/2017-2018/ro86280', DFBGroups, DFBRounds, conn)
+print('Gathering fa-cup 17/18 done.')
+
+####################### LEAGUE CUP #######################
+
+LCGroups = []
+LCRounds= ['1-runde', '2-runde', '3-runde', 'achtelfinale', 'viertelfinale', 'halbfinale', 'finale']
+
+# league-cup 2012-2013
+renewLeague('league-cup', '2013', conn)
+print('Start gathering league-cup 12/13...')
+fillCup('league-cup', '2013', 'se9161/2012-2013/ro32353', LCGroups, LCRounds, conn)
+print('Gathering league-cup 12/13 done.')
+
+# league-cup 2013-2014
+renewLeague('league-cup', '2014', conn)
+print('Start gathering league-cup 13/14...')
+fillCup('league-cup', '2014', 'se12610/2013-2014/ro45025', LCGroups, LCRounds, conn)
+print('Gathering league-cup 13/14 done.')
+
+# league-cup 2014-2015
+renewLeague('league-cup', '2015', conn)
+print('Start gathering league-cup 14/15...')
+fillCup('league-cup', '2015', 'se15570/2014-2015/ro51649', LCGroups, LCRounds, conn)
+print('Gathering league-cup 14/15 done.')
+
+# league-cup 2015-2016
+renewLeague('league-cup', '2016', conn)
+print('Start gathering league-cup 15/16...')
+fillCup('league-cup', '2016', 'se18536/2015-2016/ro60720', LCGroups, LCRounds, conn)
+print('Gathering league-cup 15/16 done.')
+
+# league-cup 2016-2017
+renewLeague('league-cup', '2017', conn)
+print('Start gathering league-cup 16/17...')
+fillCup('league-cup', '2017', 'se21426/2016-2017/ro69643', LCGroups, LCRounds, conn)
+print('Gathering league-cup 16/17 done.')
+
+# league-cup 2017-2018
+renewLeague('league-cup', '2018', conn)
+print('Start gathering league-cup 17/18...')
+fillCup('league-cup', '2018', 'se24158/2017-2018/ro78264', LCGroups, LCRounds, conn)
+print('Gathering league-cup 17/18 done.')
+
+####################### COPPA ITALIA #######################
+
+CIGroups = []
+CIRounds= ['1-runde', '2-runde', '3-runde', '4-runde', 'achtelfinale', 'viertelfinale', 'halbfinale', 'finale']
+
+# coppa-italia 2012-2013
+renewLeague('coppa-italia', '2013', conn)
+print('Start gathering coppa-italia 12/13...')
+fillCup('coppa-italia', '2013', 'se9167/2012-2013/ro30260', CIGroups, CIRounds, conn)
+print('Gathering coppa-italia 12/13 done.')
+
+# coppa-italia 2013-2014
+renewLeague('coppa-italia', '2014', conn)
+print('Start gathering coppa-italia 13/14...')
+fillCup('coppa-italia', '2014', 'se13190/2013-2014/ro44849', CIGroups, CIRounds, conn)
+print('Gathering coppa-italia 13/14 done.')
+
+# coppa-italia 2014-2015
+renewLeague('coppa-italia', '2015', conn)
+print('Start gathering coppa-italia 14/15...')
+fillCup('coppa-italia', '2015', 'se15605/2014-2015/ro48227', CIGroups, CIRounds, conn)
+print('Gathering coppa-italia 14/15 done.')
+
+# coppa-italia 2015-2016
+renewLeague('coppa-italia', '2016', conn)
+print('Start gathering coppa-italia 15/16...')
+fillCup('coppa-italia', '2016', 'se19034/2015-2016/ro60880', CIGroups, CIRounds, conn)
+print('Gathering coppa-italia 15/16 done.')
+
+# coppa-italia 2016-2017
+renewLeague('coppa-italia', '2017', conn)
+print('Start gathering coppa-italia 16/17...')
+fillCup('coppa-italia', '2017', 'se21795/2016-2017/ro71375', CIGroups, CIRounds, conn)
+print('Gathering coppa-italia 16/17 done.')
+
+# coppa-italia 2017-2018
+renewLeague('coppa-italia', '2018', conn)
+print('Start gathering coppa-italia 17/18...')
+fillCup('coppa-italia', '2018', 'se24417/2017-2018/ro81486', CIGroups, CIRounds, conn)
+print('Gathering coppa-italia 17/18 done.')
+
+####################### COPA DEL REY #######################
+
+CDRGroups = []
+CDRRounds= ['1-runde', '2-runde', '3-runde', '4-runde', 'achtelfinale', 'viertelfinale', 'halbfinale', 'finale']
+
+# copa-del-rey 2012-2013
+renewLeague('copa-del-rey', '2013', conn)
+print('Start gathering copa-del-rey 12/13...')
+fillCup('copa-del-rey', '2013', 'se9407/2012-2013/ro35909', CDRGroups, CDRRounds, conn)
+print('Gathering copa-del-rey 12/13 done.')
+
+# supercopa 2013-2014
+renewLeague('copa-del-rey', '2014', conn)
+print('Start gathering copa-del-rey 13/14...')
+fillCup('copa-del-rey', '2014', 'se13321/2013-2014/ro45622', CDRGroups, CDRRounds, conn)
+print('Gathering copa-del-rey 13/14 done.')
+
+# copa-del-rey 2014-2015
+renewLeague('copa-del-rey', '2015', conn)
+print('Start gathering copa-del-rey 14/15...')
+fillCup('copa-del-rey', '2015', 'se15370/2014-2015/ro49716', CDRGroups, CDRRounds, conn)
+print('Gathering copa-del-rey 14/15 done.')
+
+# copa-del-rey 2015-2016
+renewLeague('copa-del-rey', '2016', conn)
+print('Start gathering copa-del-rey 15/16...')
+fillCup('copa-del-rey', '2016', 'se18779/2015-2016/ro59247', CDRGroups, CDRRounds, conn)
+print('Gathering copa-del-rey 15/16 done.')
+
+# copa-del-rey 2016-2017
+renewLeague('copa-del-rey', '2017', conn)
+print('Start gathering copa-del-rey 16/17...')
+fillCup('copa-del-rey', '2017', 'se21797/2016-2017/ro70753', CDRGroups, CDRRounds, conn)
+print('Gathering copa-del-rey 16/17 done.')
+
+# copa-del-rey 2017-2018
+renewLeague('copa-del-rey', '2018', conn)
+print('Start gathering copa-del-rey 17/18...')
+fillCup('copa-del-rey', '2018', 'se24523/2017-2018/ro81050', CDRGroups, CDRRounds, conn)
+print('Gathering copa-del-rey 17/18 done.')
 
 ####################### WM #######################
 
@@ -1096,47 +1259,6 @@ renewLeague('Confed-Cup', '2017', conn)
 print('Start gathering Confed Cup 2017...')
 fillCup('Confed-Cup', '2017', 'se18688/2017-in-russland/ro58481', ['gruppe-a', 'gruppe-b'], ['halbfinale', 'spiel-um-platz-3', 'finale'], conn)
 print('Gathering Confed Cup 2017 done.')
-
-####################### DFB POKAL #######################
-
-DFBGroups = []
-DFBRounds= ['1-runde', '2-runde', 'achtelfinale', 'viertelfinale', 'halbfinale', 'finale']
-
-# DFB-Pokal 2012-2013
-renewLeague('DFB-Pokal', '2013', conn)
-print('Start gathering DFB-Pokal 12/13...')
-fillCup('DFB-Pokal', '2013', 'se9167/2012-2013/ro30260', DFBGroups, DFBRounds, conn)
-print('Gathering DFB-Pokal 12/13 done.')
-
-# DFB-Pokal 2013-2014
-renewLeague('DFB-Pokal', '2014', conn)
-print('Start gathering DFB-Pokal 13/14...')
-fillCup('DFB-Pokal', '2014', 'se12096/2013-2014/ro39981', DFBGroups, DFBRounds, conn)
-print('Gathering DFB-Pokal 13/14 done.')
-
-# DFB-Pokal 2014-2015
-renewLeague('DFB-Pokal', '2015', conn)
-print('Start gathering DFB-Pokal 14/15...')
-fillCup('DFB-Pokal', '2015', 'se15490/2014-2015/ro47544', DFBGroups, DFBRounds, conn)
-print('Gathering DFB-Pokal 14/15 done.')
-
-# DFB-Pokal 2015-2016
-renewLeague('DFB-Pokal', '2016', conn)
-print('Start gathering DFB-Pokal 15/16...')
-fillCup('DFB-Pokal', '2016', 'se18517/2015-2016/ro57639', DFBGroups, DFBRounds, conn)
-print('Gathering DFB-Pokal 15/16 done.')
-
-# DFB-Pokal 2016-2017
-renewLeague('DFB-Pokal', '2017', conn)
-print('Start gathering DFB-Pokal 16/17...')
-fillCup('DFB-Pokal', '2017', 'se20914/2016-2017/ro64452', DFBGroups, DFBRounds, conn)
-print('Gathering DFB-Pokal 16/17 done.')
-
-# DFB-Pokal 2017-2018
-renewLeague('DFB-Pokal', '2018', conn)
-print('Start gathering DFB-Pokal 17/18...')
-fillCup('DFB-Pokal', '2018', 'se23924/2017-2018/ro73116', DFBGroups, DFBRounds, conn)
-print('Gathering DFB-Pokal 17/18 done.')
 
 ####################### KLUB WM #######################
 
