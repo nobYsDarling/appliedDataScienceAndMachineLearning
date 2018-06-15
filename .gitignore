@@ -1,1 +1,4 @@
 .idea
+*.pyc
+wikilib/__pycache__/
+wikilib/__pycache__/wikipedia.cpython-35.pyc
