@@ -1,0 +1,1034 @@
+GameID,Minute,PlayerIn,PlayerOut,Team
+8243399,46,Maximilian Hofmann,Christopher Dibon,Rapid Wien
+8243399,60,Ivan Močinić,Christoph Schösswendter,Rapid Wien
+8243399,70,Arnór Ingvi Traustason,Thomas Murg,Rapid Wien
+8243399,46,Alberto Prada,Michael Brandner,SV Ried
+8243399,60,Thomas Fröschl,Clemens Walch,SV Ried
+8243399,78,Mathias Honsak,Peter Žulj,SV Ried
+8243400,75,Sascha Horvath,Deni Alar,Sturm Graz
+8243400,79,Roman Kienast,Bright Edomwonyi,Sturm Graz
+8243400,83,Stefan Hierländer,Marc Andre Schmerböck,Sturm Graz
+8243400,46,Jonathan Soriano,Yordy Reyna,RB Salzburg
+8243400,57,Fredrik Gulbrandsen,Munas Dabbur,RB Salzburg
+8243400,67,Christian Schwegler,Stefan Lainer,RB Salzburg
+8243401,58,Dimitri Oberlin,Martin Harrer,SCR Altach
+8243401,58,Boris Prokopič,Daniel Luxbacher,SCR Altach
+8243401,88,Jan Zwischenbrugger,César Ortiz,SCR Altach
+8243401,81,Daniel Offenbacher,Christopher Wernitznig,Wolfsberger AC
+8243401,85,Philip Hellquist,Peter Tschernegg,Wolfsberger AC
+8243401,90,Gerald Nutz,Michael Sollbauer,Wolfsberger AC
+8243403,56,Kevin Luckassen,Daniel Segovia,SKN St. Pölten
+8243403,62,Daniel Schütz,David Steć,SKN St. Pölten
+8243403,77,Michael Ambichl,Peter Brandl,SKN St. Pölten
+8243403,64,Alexander Grünwald,Roi Kehat,Austria Wien
+8243403,83,Ismael Tajouri,Felipe Pires,Austria Wien
+8243403,87,Kevin Friesenbichler,Raphael Holzhauser,Austria Wien
+8243402,60,Alexander Ibser,Alois Höller,SV Mattersburg
+8243402,60,Markus Pink,Patrick Bürger,SV Mattersburg
+8243402,76,Mario Grgic,Sven Sprangler,SV Mattersburg
+8243402,63,Ilter Ayyildiz,Maximilian Sax,FC Admira Wacker
+8243402,66,Markus Blutsch,Christoph Knasmüllner,FC Admira Wacker
+8243402,87,Patrick Schmidt,Dominik Starkl,FC Admira Wacker
+8243404,62,Wanderson,Valentino Lazaro,RB Salzburg
+8243404,65,Konrad Laimer,Diadie Samassekou,RB Salzburg
+8243404,79,Marc Rzatkowski,Munas Dabbur,RB Salzburg
+8243404,62,Daniel Offenbacher,Michael Sollbauer,Wolfsberger AC
+8243404,62,Gerald Nutz,Christopher Wernitznig,Wolfsberger AC
+8243404,68,Philip Hellquist,Philipp Prosenik,Wolfsberger AC
+8243406,64,Ronny Marcos,Mathias Honsak,SV Ried
+8243406,75,Dieter Elsneg,Thomas Fröschl,SV Ried
+8243406,78,Patrick Möschl,Clemens Walch,SV Ried
+8243406,62,Bright Edomwonyi,Roman Kienast,Sturm Graz
+8243406,62,Sascha Horvath,Philipp Huspek,Sturm Graz
+8243406,68,Stefan Hierländer,James Jeggo,Sturm Graz
+8243405,61,Olarenwaju Kayode,Ognjen Vukojević,Austria Wien
+8243405,61,Lucas Venuto,Felipe Pires,Austria Wien
+8243405,86,Tarkan Serbest,Kevin Friesenbichler,Austria Wien
+8243405,62,Markus Pink,Patrick Bürger,SV Mattersburg
+8243405,76,Alexander Ibser,Alois Höller,SV Mattersburg
+8243405,76,Julius Ertlthaler,Sven Sprangler,SV Mattersburg
+8243408,60,Dimitri Oberlin,Nikola Dovedan,SCR Altach
+8243408,71,Patrick Salomon,Daniel Luxbacher,SCR Altach
+8243408,82,Nikola Zivotić,Martin Harrer,SCR Altach
+8243408,63,Tamás Szántó,Arnór Ingvi Traustason,Rapid Wien
+8243408,77,Thomas Murg,Louis Schaub,Rapid Wien
+8243408,77,Maximilian Entrup,Srđan Grahovac,Rapid Wien
+8243407,62,Manuel Hartl,Michael Ambichl,SKN St. Pölten
+8243407,77,Jeroen Lumu,David Steć,SKN St. Pölten
+8243407,85,Mario Mosböck,Kevin Luckassen,SKN St. Pölten
+8243407,67,Christoph Knasmüllner,Christoph Monschein,FC Admira Wacker
+8243407,75,Eldis Bajrami,Ilter Ayyildiz,FC Admira Wacker
+8243407,81,Dominik Starkl,Srđan Spiridonović,FC Admira Wacker
+8243409,64,Florian Templ,Julius Ertlthaler,SV Mattersburg
+8243409,66,Alexander Ibser,Patrick Farkas,SV Mattersburg
+8243409,78,Mario Grgic,Sven Sprangler,SV Mattersburg
+8243409,55,Marc Andre Schmerböck,Deni Alar,Sturm Graz
+8243409,76,Kristijan Dobras,Stefan Hierländer,Sturm Graz
+8243409,87,Christian Schoissengeyr,Sascha Horvath,Sturm Graz
+8243410,52,Wanderson,Yordy Reyna,RB Salzburg
+8243410,65,Diadie Samassekou,Munas Dabbur,RB Salzburg
+8243410,82,Fredrik Gulbrandsen,Valentino Lazaro,RB Salzburg
+8243410,46,Manuel Hartl,David Steć,SKN St. Pölten
+8243410,66,Daniel Segovia,Florian Mader,SKN St. Pölten
+8243410,82,Michael Ambichl,Lukas Thürauer,SKN St. Pölten
+8243411,46,Lukas Grozurek,Christoph Knasmüllner,FC Admira Wacker
+8243411,51,Srđan Spiridonović,Maximilian Sax,FC Admira Wacker
+8243411,77,Eldis Bajrami,Dominik Starkl,FC Admira Wacker
+8243411,62,Patrick Salomon,Daniel Luxbacher,SCR Altach
+8243411,70,Martin Harrer,Nikola Dovedan,SCR Altach
+8243411,86,Jan Zwischenbrugger,Galvão,SCR Altach
+8243412,63,Philipp Prosenik,Dario Baldauf,Wolfsberger AC
+8243412,75,Jacobo,Daniel Offenbacher,Wolfsberger AC
+8243412,23,Dieter Elsneg,Thomas Fröschl,SV Ried
+8243412,64,Alberto Prada,Michael Brandner,SV Ried
+8243412,76,Fabian Schubert,Peter Žulj,SV Ried
+8243413,61,Alexander Grünwald,Petar Filipović,Austria Wien
+8243413,76,Ismael Tajouri,Kevin Friesenbichler,Austria Wien
+8243413,88,Marko Kvasina,Lucas Venuto,Austria Wien
+8243413,44,Philipp Schobesberger,Arnór Ingvi Traustason,Rapid Wien
+8243413,57,Srđan Grahovac,Tamás Szántó,Rapid Wien
+8243413,90,Maximilian Entrup,Joelinton,Rapid Wien
+8243416,55,Thomas Bergmann,Dieter Elsneg,SV Ried
+8243416,55,Peter Žulj,Patrick Möschl,SV Ried
+8243416,73,Fabian Schubert,Mathias Honsak,SV Ried
+8243416,72,Wanderson,Valentino Lazaro,RB Salzburg
+8243416,86,Konrad Laimer,Munas Dabbur,RB Salzburg
+8243414,57,Srđan Grahovac,Tamás Szántó,Rapid Wien
+8243414,63,Maximilian Hofmann,Christoph Schösswendter,Rapid Wien
+8243414,72,Thomas Murg,Louis Schaub,Rapid Wien
+8243414,26,Christoph Knasmüllner,Philipp Posch,FC Admira Wacker
+8243414,70,Eldis Bajrami,Maximilian Sax,FC Admira Wacker
+8243414,84,Srđan Spiridonović,Dominik Starkl,FC Admira Wacker
+8243417,25,Patrick Salomon,Philipp Netzer,SCR Altach
+8243417,62,Daniel Luxbacher,Nicolas Ngamaleu,SCR Altach
+8243417,79,Martin Harrer,Dimitri Oberlin,SCR Altach
+8243417,46,Jeroen Lumu,Manuel Hartl,SKN St. Pölten
+8243417,46,Marco Perchtold,Michael Ambichl,SKN St. Pölten
+8243417,76,Daniel Segovia,Kevin Luckassen,SKN St. Pölten
+8243418,61,Patrick Farkas,Thorsten Röcher,SV Mattersburg
+8243418,65,Mario Grgic,Alexander Ibser,SV Mattersburg
+8243418,76,Patrick Bürger,Markus Pink,SV Mattersburg
+8243418,46,Philipp Prosenik,Dario Baldauf,Wolfsberger AC
+8243418,46,Jacobo,Thomas Zündel,Wolfsberger AC
+8243418,73,Mihret Topčagić,Philip Hellquist,Wolfsberger AC
+8243415,60,Philipp Huspek,Stefan Hierländer,Sturm Graz
+8243415,82,Marko Stanković,Deni Alar,Sturm Graz
+8243415,90,Roman Kienast,Bright Edomwonyi,Sturm Graz
+8243415,46,Kevin Friesenbichler,Raphael Holzhauser,Austria Wien
+8243415,71,Ismael Tajouri,Felipe Pires,Austria Wien
+8243423,46,Daniel Segovia,Florian Mader,SKN St. Pölten
+8243423,69,Jeroen Lumu,David Steć,SKN St. Pölten
+8243423,67,Marko Stanković,Stefan Hierländer,Sturm Graz
+8243423,78,Christian Schoissengeyr,Philipp Huspek,Sturm Graz
+8243423,88,Marvin Potzmann,Charalampos Lykogiannis,Sturm Graz
+8243419,67,Wanderson,Fredrik Gulbrandsen,RB Salzburg
+8243419,74,Konrad Laimer,Xaver Schlager,RB Salzburg
+8243419,79,Valon Berisha,Hee-chan Hwang,RB Salzburg
+8243419,16,Mario Grgic,Alexander Ibser,SV Mattersburg
+8243419,56,Manuel Seidl,Michael Perlak,SV Mattersburg
+8243419,72,Patrick Bürger,Markus Pink,SV Mattersburg
+8243421,73,Dominik Starkl,Srđan Spiridonović,FC Admira Wacker
+8243421,76,Markus Blutsch,Ante Roguljić,FC Admira Wacker
+8243421,90,Manuel Maranda,Maximilian Sax,FC Admira Wacker
+8243421,85,Patrick Möschl,Dieter Elsneg,SV Ried
+8243421,90,Thomas Bergmann,Michael Brandner,SV Ried
+8243422,59,Philipp Prosenik,Thomas Zündel,Wolfsberger AC
+8243422,64,Daniel Offenbacher,Boris Hüttenbrenner,Wolfsberger AC
+8243422,80,Mihret Topčagić,Philip Hellquist,Wolfsberger AC
+8243422,60,Arnór Ingvi Traustason,Thomas Murg,Rapid Wien
+8243422,80,Stephan Auer,Stefan Schwab,Rapid Wien
+8243420,72,Felipe Pires,Lucas Venuto,Austria Wien
+8243420,72,Alexander Grünwald,Marko Kvasina,Austria Wien
+8243420,86,Olarenwaju Kayode,Kevin Friesenbichler,Austria Wien
+8243420,68,César Ortiz,Lukas Jäger,SCR Altach
+8243420,72,Martin Harrer,Patrick Salomon,SCR Altach
+8243420,79,Emanuel Sakic,Boris Prokopič,SCR Altach
+8243425,74,Philipp Huspek,Deni Alar,Sturm Graz
+8243425,84,Kristijan Dobras,Stefan Hierländer,Sturm Graz
+8243425,86,Roman Kienast,Bright Edomwonyi,Sturm Graz
+8243425,46,Patrick Salomon,César Ortiz,SCR Altach
+8243425,62,Nikola Zivotić,Dimitri Oberlin,SCR Altach
+8243425,75,Daniel Luxbacher,Nikola Dovedan,SCR Altach
+8243426,66,Christopher Wernitznig,Jacobo,Wolfsberger AC
+8243426,74,Mihret Topčagić,Philipp Prosenik,Wolfsberger AC
+8243426,77,Daniel Offenbacher,Peter Tschernegg,Wolfsberger AC
+8243426,46,Christoph Monschein,Ante Roguljić,FC Admira Wacker
+8243426,67,Daniel Toth,Maximilian Sax,FC Admira Wacker
+8243426,80,Markus Blutsch,Lukas Grozurek,FC Admira Wacker
+8243569,66,Patrick Bürger,Michael Perlak,SV Mattersburg
+8243569,66,Julius Ertlthaler,Patrick Farkas,SV Mattersburg
+8243569,82,Florian Templ,Mario Grgic,SV Mattersburg
+8243569,68,Peter Brandl,Marco Perchtold,SKN St. Pölten
+8243569,87,Kai Heerings,Paul Pârvulescu,SKN St. Pölten
+8243569,90,Michael Ambichl,Lukas Thürauer,SKN St. Pölten
+8243424,46,Tamás Szántó,Stefan Schwab,Rapid Wien
+8243424,83,Thomas Murg,Louis Schaub,Rapid Wien
+8243424,79,Fredrik Gulbrandsen,Munas Dabbur,RB Salzburg
+8243424,89,Diadie Samassekou,Valentino Lazaro,RB Salzburg
+8243427,46,Mathias Honsak,Ronny Marcos,SV Ried
+8243427,73,Patrick Möschl,Thomas Fröschl,SV Ried
+8243427,80,Alberto Prada,Dieter Elsneg,SV Ried
+8243427,65,Tarkan Serbest,Alexander Grünwald,Austria Wien
+8243427,75,Marko Kvasina,Raphael Holzhauser,Austria Wien
+8243427,83,Olarenwaju Kayode,Ognjen Vukojević,Austria Wien
+8243430,72,Marc Andre Schmerböck,Sascha Horvath,Sturm Graz
+8243430,77,Kristijan Dobras,Philipp Huspek,Sturm Graz
+8243430,84,Roman Kienast,Deni Alar,Sturm Graz
+8243430,19,Maximilian Hofmann,Christopher Dibon,Rapid Wien
+8243430,74,Thomas Murg,Arnór Ingvi Traustason,Rapid Wien
+8243430,88,Srđan Grahovac,Tamás Szántó,Rapid Wien
+8243428,46,Ismael Tajouri,Tarkan Serbest,Austria Wien
+8243428,77,Richard Windbichler,Felipe Pires,Austria Wien
+8243428,83,Thomas Salamon,Christoph Martschinko,Austria Wien
+8243428,63,Jacobo,Christopher Wernitznig,Wolfsberger AC
+8243428,71,Daniel Offenbacher,Peter Tschernegg,Wolfsberger AC
+8243428,83,Christoph Rabitsch,Boris Hüttenbrenner,Wolfsberger AC
+8243431,62,Andreas Lienhart,Emanuel Sakic,SCR Altach
+8243431,67,Gabriel Lüchinger,Boris Prokopič,SCR Altach
+8243431,73,Nikola Zivotić,Nikola Dovedan,SCR Altach
+8243431,12,Lukas Rath,Nedeljko Malić,SV Mattersburg
+8243431,25,Julius Ertlthaler,Thorsten Röcher,SV Mattersburg
+8243431,62,Michael Perlak,Mario Grgic,SV Mattersburg
+8243432,46,Kevin Luckassen,David Steć,SKN St. Pölten
+8243432,65,Marco Perchtold,Lukas Thürauer,SKN St. Pölten
+8243432,79,Paul Pârvulescu,Martin Grasegger,SKN St. Pölten
+8243432,74,Stefan Nutz,Dieter Elsneg,SV Ried
+8243432,74,Thomas Fröschl,Clemens Walch,SV Ried
+8243432,82,Patrick Möschl,Mathias Honsak,SV Ried
+8243429,63,Ante Roguljić,Lukas Grozurek,FC Admira Wacker
+8243429,73,Toni Vastić,Dominik Starkl,FC Admira Wacker
+8243429,81,Christoph Knasmüllner,Daniel Toth,FC Admira Wacker
+8243429,64,Josip Radošević,Valentino Lazaro,RB Salzburg
+8243429,76,Takumi Minamino,Valon Berisha,RB Salzburg
+8243429,79,Andre Wisdom,Paulo Miranda,RB Salzburg
+8243583,66,Stefan Nutz,Mathias Honsak,SV Ried
+8243583,66,Thomas Fröschl,Orhan Ademi,SV Ried
+8243583,78,Ronny Marcos,Dieter Elsneg,SV Ried
+8243583,61,Patrick Salomon,Lukas Jäger,SCR Altach
+8243583,67,Martin Harrer,Nikola Dovedan,SCR Altach
+8243583,87,Gabriel Lüchinger,Dimitri Oberlin,SCR Altach
+8243441,59,Dominik Starkl,Maximilian Sax,FC Admira Wacker
+8243441,74,Christoph Monschein,Lukas Grozurek,FC Admira Wacker
+8243441,86,Patrick Wessely,Srđan Spiridonović,FC Admira Wacker
+8243441,77,Simon Piesinger,Sascha Horvath,Sturm Graz
+8243441,84,Philipp Huspek,Marc Andre Schmerböck,Sturm Graz
+8243441,86,Roman Kienast,Deni Alar,Sturm Graz
+8243444,71,Gerald Nutz,Daniel Offenbacher,Wolfsberger AC
+8243444,71,Philip Hellquist,Thomas Zündel,Wolfsberger AC
+8243444,87,Mihret Topčagić,Philipp Prosenik,Wolfsberger AC
+8243444,71,Jeroen Lumu,Manuel Hartl,SKN St. Pölten
+8243444,88,Daniel Petrovic,Manuel Martic,SKN St. Pölten
+8243437,63,Josip Radošević,Valentino Lazaro,RB Salzburg
+8243437,80,Munas Dabbur,Jonathan Soriano,RB Salzburg
+8243437,86,Christoph Leitgeb,Konrad Laimer,RB Salzburg
+8243437,71,Ismael Tajouri,Raphael Holzhauser,Austria Wien
+8243437,80,Marko Kvasina,Olarenwaju Kayode,Austria Wien
+8243438,74,Steffen Hofmann,Tamás Szántó,Rapid Wien
+8243438,86,Giorgi Kvilitaia,Joelinton,Rapid Wien
+8243438,86,Kelvin Arase,Michael Perlak,Rapid Wien
+8243438,72,Markus Pink,Patrick Bürger,SV Mattersburg
+8243438,72,Mario Grgic,Sven Sprangler,SV Mattersburg
+8243438,86,Julius Ertlthaler,Louis Schaub,SV Mattersburg
+8243451,80,Andreas Dober,Manuel Hartl,SKN St. Pölten
+8243451,82,Kevin Luckassen,Daniel Segovia,SKN St. Pölten
+8243451,90,Martin Grasegger,Manuel Martic,SKN St. Pölten
+8243451,79,Kelvin Arase,Tamás Szántó,Rapid Wien
+8243447,65,Olarenwaju Kayode,Raphael Holzhauser,Austria Wien
+8243447,78,Felipe Pires,Ismael Tajouri,Austria Wien
+8243447,86,Marko Kvasina,Tarkan Serbest,Austria Wien
+8243447,61,Eldis Bajrami,Dominik Starkl,FC Admira Wacker
+8243447,71,Patrick Schmidt,Christoph Monschein,FC Admira Wacker
+8243447,85,Fabio Strauss,Christoph Knasmüllner,FC Admira Wacker
+8243448,65,Kristijan Dobras,Philipp Huspek,Sturm Graz
+8243448,80,Bright Edomwonyi,Deni Alar,Sturm Graz
+8243448,84,Christian Schoissengeyr,Stefan Hierländer,Sturm Graz
+8243448,63,Jacobo,Peter Tschernegg,Wolfsberger AC
+8243448,68,Philip Hellquist,Christopher Wernitznig,Wolfsberger AC
+8243448,90,Stephan Palla,Philipp Prosenik,Wolfsberger AC
+8243450,66,Florian Templ,Fran,SV Mattersburg
+8243450,70,Mario Grgic,Michael Perlak,SV Mattersburg
+8243450,86,Sven Sprangler,Thorsten Röcher,SV Mattersburg
+8243450,23,Michael Brandner,Marcel Ziegl,SV Ried
+8243450,62,Thomas Fröschl,Orhan Ademi,SV Ried
+8243450,72,Alberto Prada,Dieter Elsneg,SV Ried
+8243449,66,Nikola Zivotić,Daniel Luxbacher,SCR Altach
+8243449,77,Nicolas Ngamaleu,Dimitri Oberlin,SCR Altach
+8243449,86,Valentino Müller,Nikola Dovedan,SCR Altach
+8243449,60,Takumi Minamino,Munas Dabbur,RB Salzburg
+8243449,83,Josip Radošević,Paulo Miranda,RB Salzburg
+8243449,85,Hee-chan Hwang,Valon Berisha,RB Salzburg
+8243455,46,Daniel Offenbacher,Boris Hüttenbrenner,Wolfsberger AC
+8243455,69,Philip Hellquist,Zakaria Sanogo,Wolfsberger AC
+8243455,80,Mihret Topčagić,Philipp Prosenik,Wolfsberger AC
+8243455,46,Martin Kobras,Andreas Lukse,SCR Altach
+8243455,60,Dimitri Oberlin,Nikola Dovedan,SCR Altach
+8243455,84,Nikola Zivotić,Daniel Luxbacher,SCR Altach
+8243454,62,Lukas Grozurek,Dominik Starkl,FC Admira Wacker
+8243454,73,Eldis Bajrami,Christoph Knasmüllner,FC Admira Wacker
+8243454,90,Manuel Maranda,Maximilian Sax,FC Admira Wacker
+8243454,62,Florian Templ,Fran,SV Mattersburg
+8243454,69,Patrick Bürger,Barnabás Varga,SV Mattersburg
+8243454,81,Sven Sprangler,Thorsten Röcher,SV Mattersburg
+8243452,56,Josip Radošević,Wanderson,RB Salzburg
+8243452,72,Hee-chan Hwang,Valentino Lazaro,RB Salzburg
+8243452,62,Bright Edomwonyi,Stefan Hierländer,Sturm Graz
+8243452,81,Kristijan Dobras,Philipp Huspek,Sturm Graz
+8243452,86,Roman Kienast,Deni Alar,Sturm Graz
+8243456,70,Thomas Fröschl,Orhan Ademi,SV Ried
+8243456,70,Dieter Elsneg,Stefan Nutz,SV Ried
+8243456,81,Thomas Bergmann,Clemens Walch,SV Ried
+8243456,23,Tamás Szántó,Steffen Hofmann,Rapid Wien
+8243456,46,Ivan Močinić,Srđan Grahovac,Rapid Wien
+8243456,69,Giorgi Kvilitaia,Thomas Murg,Rapid Wien
+8243453,67,Olarenwaju Kayode,Ismael Tajouri,Austria Wien
+8243453,67,Felipe Pires,Raphael Holzhauser,Austria Wien
+8243453,90,Patrizio Stronati,Kevin Friesenbichler,Austria Wien
+8243453,73,Michael Ambichl,Jeroen Lumu,SKN St. Pölten
+8243453,78,Kevin Luckassen,Alhassane Keita,SKN St. Pölten
+8243464,65,Philip Hellquist,Mihret Topčagić,Wolfsberger AC
+8243464,65,Jacobo,Christoph Rabitsch,Wolfsberger AC
+8243464,83,Marcel Holzer,Christopher Wernitznig,Wolfsberger AC
+8243464,59,Takumi Minamino,Munas Dabbur,RB Salzburg
+8243464,72,Hee-chan Hwang,Valon Berisha,RB Salzburg
+8243458,63,Arnór Ingvi Traustason,Thomas Murg,Rapid Wien
+8243458,77,Giorgi Kvilitaia,Louis Schaub,Rapid Wien
+8243458,76,Patrick Salomon,Daniel Luxbacher,SCR Altach
+8243458,84,Nikola Zivotić,Dimitri Oberlin,SCR Altach
+8243458,89,Christian Schilling,Emanuel Schreiner,SCR Altach
+8243460,60,Eldis Bajrami,Maximilian Sax,FC Admira Wacker
+8243460,84,Markus Blutsch,Christoph Knasmüllner,FC Admira Wacker
+8243460,88,Toni Vastić,Christoph Monschein,FC Admira Wacker
+8243460,58,Kevin Luckassen,Alhassane Keita,SKN St. Pölten
+8243460,71,Lukas Thürauer,Manuel Martic,SKN St. Pölten
+8243460,76,Andreas Dober,David Steć,SKN St. Pölten
+8243462,71,Philipp Zulechner,Bright Edomwonyi,Sturm Graz
+8243462,82,Kristijan Dobras,Philipp Huspek,Sturm Graz
+8243462,90,Sandi Lovrič,Uroš Matić,Sturm Graz
+8243462,75,Thomas Fröschl,Dieter Elsneg,SV Ried
+8243462,82,Thomas Bergmann,Stefan Nutz,SV Ried
+8243462,90,Patrick Möschl,Clemens Walch,SV Ried
+8243466,69,Markus Pink,Barnabás Varga,SV Mattersburg
+8243466,69,Michael Perlak,Mario Grgic,SV Mattersburg
+8243466,74,Patrick Bürger,Sven Sprangler,SV Mattersburg
+8243466,88,Ismael Tajouri,Lucas Venuto,Austria Wien
+8243466,90,Marko Kvasina,Olarenwaju Kayode,Austria Wien
+8243466,90,Abdul Kadiri Mohammed,Raphael Holzhauser,Austria Wien
+8243468,77,Philipp Zulechner,Bright Edomwonyi,Sturm Graz
+8243468,82,Kristijan Dobras,Philipp Huspek,Sturm Graz
+8243468,90,Christian Schoissengeyr,Deni Alar,Sturm Graz
+8243468,59,Fran,Julius Ertlthaler,SV Mattersburg
+8243468,70,Alexander Ibser,Vitālijs Maksimenko,SV Mattersburg
+8243468,87,Barnabás Varga,Patrick Farkas,SV Mattersburg
+8243469,70,Dieter Elsneg,Stefan Nutz,SV Ried
+8243469,77,Patrick Möschl,Mathias Honsak,SV Ried
+8243469,83,Thomas Fröschl,Marcel Ziegl,SV Ried
+8243469,70,Zakaria Sanogo,Marcel Holzer,Wolfsberger AC
+8243469,79,Jacobo,Thomas Zündel,Wolfsberger AC
+8243470,63,Nikola Dovedan,Daniel Luxbacher,SCR Altach
+8243470,77,Martin Harrer,Dimitri Oberlin,SCR Altach
+8243470,85,Emanuel Sakic,Nicolas Ngamaleu,SCR Altach
+8243470,46,Eldis Bajrami,Dominik Starkl,FC Admira Wacker
+8243470,66,Christoph Knasmüllner,Maximilian Sax,FC Admira Wacker
+8243470,83,Patrick Schmidt,Toni Vastić,FC Admira Wacker
+8243471,28,Florian Mader,Marco Perchtold,SKN St. Pölten
+8243471,46,Lukas Thürauer,Daniel Segovia,SKN St. Pölten
+8243471,84,Jeroen Lumu,David Steć,SKN St. Pölten
+8243471,65,Fredrik Gulbrandsen,Hee-chan Hwang,RB Salzburg
+8243471,71,Xaver Schlager,Marc Rzatkowski,RB Salzburg
+8243471,84,Valentino Lazaro,Konrad Laimer,RB Salzburg
+8243467,45,Tamás Szántó,Stefan Schwab,Rapid Wien
+8243467,51,Giorgi Kvilitaia,Arnór Ingvi Traustason,Rapid Wien
+8243467,57,Thomas Schrammel,Stephan Auer,Rapid Wien
+8243467,66,Dominik Prokop,Raphael Holzhauser,Austria Wien
+8243467,74,Ismael Tajouri,Lucas Venuto,Austria Wien
+8243467,86,Patrizio Stronati,Felipe Pires,Austria Wien
+8243480,62,Srđan Spiridonović,Eldis Bajrami,FC Admira Wacker
+8243480,75,Patrick Schmidt,Christoph Monschein,FC Admira Wacker
+8243480,84,Dominik Starkl,Maximilian Sax,FC Admira Wacker
+8243480,46,Srđan Grahovac,Matej Jelić,Rapid Wien
+8243480,61,Arnór Ingvi Traustason,Tamás Szántó,Rapid Wien
+8243480,69,Joelinton,Giorgi Kvilitaia,Rapid Wien
+8243475,60,Xaver Schlager,Konrad Laimer,RB Salzburg
+8243475,72,Munas Dabbur,Hee-chan Hwang,RB Salzburg
+8243475,82,Valentino Lazaro,Marc Rzatkowski,RB Salzburg
+8243475,46,Patrick Möschl,Ronny Marcos,SV Ried
+8243475,46,Mathias Honsak,Thomas Bergmann,SV Ried
+8243475,74,Stefan Nutz,Dieter Elsneg,SV Ried
+8243483,46,Christopher Wernitznig,Thomas Zündel,Wolfsberger AC
+8243483,82,Christoph Rabitsch,Daniel Offenbacher,Wolfsberger AC
+8243483,88,Marcel Holzer,Philipp Prosenik,Wolfsberger AC
+8243483,46,Michael Novak,Lukas Rath,SV Mattersburg
+8243483,65,Alexander Ibser,Patrick Farkas,SV Mattersburg
+8243483,74,Barnabás Varga,Fran,SV Mattersburg
+8243484,67,Alhassane Keita,Daniel Segovia,SKN St. Pölten
+8243484,75,Jeroen Lumu,Lukas Thürauer,SKN St. Pölten
+8243484,88,Kai Heerings,David Steć,SKN St. Pölten
+8243484,63,Daniel Luxbacher,Dimitri Oberlin,SCR Altach
+8243484,84,Emanuel Sakic,Nikola Dovedan,SCR Altach
+8243484,89,Christian Schilling,Patrick Salomon,SCR Altach
+8243477,82,Dominik Prokop,Tarkan Serbest,Austria Wien
+8243477,89,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243477,90,Ismael Tajouri,Lucas Venuto,Austria Wien
+8243477,62,Stefan Hierländer,Marc Andre Schmerböck,Sturm Graz
+8243477,71,Philipp Zulechner,Bright Edomwonyi,Sturm Graz
+8243477,81,Roman Kienast,James Jeggo,Sturm Graz
+8243488,46,Philipp Zulechner,Bright Edomwonyi,Sturm Graz
+8243488,58,Philipp Huspek,Sandi Lovrič,Sturm Graz
+8243488,71,Marko Stanković,Stefan Hierländer,Sturm Graz
+8243488,75,Andreas Dober,Paul Pârvulescu,SKN St. Pölten
+8243488,81,Manuel Martic,Michael Ambichl,SKN St. Pölten
+8243488,89,Kai Heerings,Marcel Holzmann,SKN St. Pölten
+8243489,64,Marcel Ziegl,Michael Brandner,SV Ried
+8243489,64,Alberto Prada,Peter Žulj,SV Ried
+8243489,80,Dieter Elsneg,Stefan Nutz,SV Ried
+8243489,89,Dominik Starkl,Markus Pavic,FC Admira Wacker
+8243489,90,Toni Vastić,Christoph Knasmüllner,FC Admira Wacker
+8243487,64,Joelinton,Giorgi Kvilitaia,Rapid Wien
+8243487,76,Arnór Ingvi Traustason,Thomas Murg,Rapid Wien
+8243487,86,Philipp Malicsek,Srđan Grahovac,Rapid Wien
+8243487,65,Zakaria Sanogo,Christopher Wernitznig,Wolfsberger AC
+8243487,79,Joachim Standfest,Jacobo,Wolfsberger AC
+8243487,84,Christoph Rabitsch,Philipp Prosenik,Wolfsberger AC
+8243492,61,Dimitri Oberlin,Nicolas Ngamaleu,SCR Altach
+8243492,81,Emanuel Sakic,Lukas Jäger,SCR Altach
+8243492,83,Valentino Müller,Nikola Dovedan,SCR Altach
+8243492,46,Christoph Martschinko,Thomas Salamon,Austria Wien
+8243492,46,Felipe Pires,Ismael Tajouri,Austria Wien
+8243492,84,Dominik Prokop,Tarkan Serbest,Austria Wien
+8243495,55,Thorsten Röcher,Alexander Ibser,SV Mattersburg
+8243495,74,Florian Templ,Patrick Bürger,SV Mattersburg
+8243495,85,Mario Grgic,Sven Sprangler,SV Mattersburg
+8243495,17,Munas Dabbur,Jonathan Soriano,RB Salzburg
+8243495,78,Takumi Minamino,Konrad Laimer,RB Salzburg
+8243505,64,Dimitri Oberlin,Nicolas Ngamaleu,SCR Altach
+8243505,77,Martin Harrer,Boris Prokopič,SCR Altach
+8243505,84,Patrick Salomon,Nikola Dovedan,SCR Altach
+8243505,67,Marc Andre Schmerböck,Deni Alar,Sturm Graz
+8243505,75,Bright Edomwonyi,Philipp Zulechner,Sturm Graz
+8243505,84,Roman Kienast,James Jeggo,Sturm Graz
+8243501,83,Dominik Prokop,Raphael Holzhauser,Austria Wien
+8243501,87,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243501,90,Ismael Tajouri,Lucas Venuto,Austria Wien
+8243501,74,Clemens Walch,Mathias Honsak,SV Ried
+8243501,74,Marvin Egho,Dieter Elsneg,SV Ried
+8243501,79,Stefan Nutz,Peter Žulj,SV Ried
+8243504,66,Srđan Spiridonović,Markus Lackner,FC Admira Wacker
+8243504,71,Toni Vastić,Christoph Monschein,FC Admira Wacker
+8243504,84,Nico Löffler,Thomas Ebner,FC Admira Wacker
+8243504,61,Jacobo,Dario Baldauf,Wolfsberger AC
+8243504,69,Mihret Topčagić,Philipp Prosenik,Wolfsberger AC
+8243504,79,Christopher Wernitznig,Daniel Offenbacher,Wolfsberger AC
+8243506,84,Daniel Segovia,Lukas Thürauer,SKN St. Pölten
+8243506,90,Manuel Martic,Florian Mader,SKN St. Pölten
+8243506,55,Florian Templ,Patrick Bürger,SV Mattersburg
+8243506,55,Thorsten Röcher,Alexander Ibser,SV Mattersburg
+8243506,73,Barnabás Varga,Michael Perlak,SV Mattersburg
+8243500,73,Josip Radošević,Fredrik Gulbrandsen,RB Salzburg
+8243500,87,Reinhold Yabo,Diadie Samassekou,RB Salzburg
+8243500,90,Andre Wisdom,Munas Dabbur,RB Salzburg
+8243500,33,Srđan Grahovac,Joelinton,Rapid Wien
+8243500,64,Tomi,Thomas Murg,Rapid Wien
+8243500,67,Philipp Malicsek,Ivan Močinić,Rapid Wien
+8243514,32,Dieter Elsneg,Mathias Honsak,SV Ried
+8243514,55,Thomas Fröschl,Clemens Walch,SV Ried
+8243514,78,Marvin Egho,Patrick Möschl,SV Ried
+8243514,23,Peter Brandl,Florian Mader,SKN St. Pölten
+8243514,72,Jeroen Lumu,Marcel Holzmann,SKN St. Pölten
+8243514,77,Manuel Martic,Andreas Dober,SKN St. Pölten
+8243515,46,Michael Perlak,Alexander Ibser,SV Mattersburg
+8243515,66,Barnabás Varga,Nedeljko Malić,SV Mattersburg
+8243515,82,Markus Pink,Florian Templ,SV Mattersburg
+8243515,66,Dimitri Oberlin,Nikola Dovedan,SCR Altach
+8243515,68,Daniel Luxbacher,Emanuel Schreiner,SCR Altach
+8243515,89,César Ortiz,Boris Prokopič,SCR Altach
+8243513,53,Dario Baldauf,Christian Klem,Wolfsberger AC
+8243513,61,Jacobo,Zakaria Sanogo,Wolfsberger AC
+8243513,71,Mihret Topčagić,Gerald Nutz,Wolfsberger AC
+8243513,75,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243513,79,Dominik Prokop,Lucas Venuto,Austria Wien
+8243513,87,Richard Windbichler,Raphael Holzhauser,Austria Wien
+8243509,54,Xaver Schlager,Marc Rzatkowski,RB Salzburg
+8243509,65,Reinhold Yabo,Konrad Laimer,RB Salzburg
+8243509,73,Takumi Minamino,Hee-chan Hwang,RB Salzburg
+8243509,65,Toni Vastić,Christoph Monschein,FC Admira Wacker
+8243509,73,Patrick Wessely,Christoph Knasmüllner,FC Admira Wacker
+8243509,90,Manuel Maranda,Daniel Toth,FC Admira Wacker
+8243510,46,Ivan Močinić,Osarenren Okungbowa,Rapid Wien
+8243510,60,Tamás Szántó,Philipp Schobesberger,Rapid Wien
+8243510,70,Matej Jelić,Louis Schaub,Rapid Wien
+8243510,71,Philipp Zulechner,Bright Edomwonyi,Sturm Graz
+8243510,84,Marvin Potzmann,Marc Andre Schmerböck,Sturm Graz
+8243524,64,Lukas Jäger,César Ortiz,SCR Altach
+8243524,71,Nikola Dovedan,Daniel Luxbacher,SCR Altach
+8243524,82,Louis NGwat-Mahop,Boris Prokopič,SCR Altach
+8243524,46,Alberto Prada,Peter Žulj,SV Ried
+8243524,56,Thomas Fröschl,Orhan Ademi,SV Ried
+8243524,66,Gernot Trauner,Clemens Walch,SV Ried
+8243522,62,Lucas Venuto,Dominik Prokop,Austria Wien
+8243522,69,Richard Windbichler,Petar Filipović,Austria Wien
+8243522,84,Ismael Tajouri,Christoph Martschinko,Austria Wien
+8243522,19,Hee-chan Hwang,Fredrik Gulbrandsen,RB Salzburg
+8243522,65,Takumi Minamino,Munas Dabbur,RB Salzburg
+8243522,74,Josip Radošević,Diadie Samassekou,RB Salzburg
+8243523,22,Roman Kienast,Deni Alar,Sturm Graz
+8243523,67,Kristijan Dobras,Philipp Huspek,Sturm Graz
+8243523,79,Marko Stanković,James Jeggo,Sturm Graz
+8243523,10,Patrick Wessely,Markus Pavic,FC Admira Wacker
+8243523,76,Maximilian Sax,Eldis Bajrami,FC Admira Wacker
+8243523,82,Patrick Schmidt,Christoph Monschein,FC Admira Wacker
+8243525,62,Alexander Ibser,Barnabás Varga,SV Mattersburg
+8243525,72,Markus Pink,Florian Templ,SV Mattersburg
+8243525,79,Michael Novak,Patrick Farkas,SV Mattersburg
+8243525,12,Arnór Ingvi Traustason,Manuel Thurnwald,Rapid Wien
+8243525,74,Philipp Malicsek,Ivan Močinić,Rapid Wien
+8243525,85,Srđan Grahovac,Christopher Dibon,Rapid Wien
+8243530,59,Peter Brandl,Florian Mader,SKN St. Pölten
+8243530,59,Daniel Segovia,Lukas Thürauer,SKN St. Pölten
+8243530,67,Kevin Luckassen,Jeroen Lumu,SKN St. Pölten
+8243530,76,Jacobo,Zakaria Sanogo,Wolfsberger AC
+8243530,76,Philip Hellquist,Mihret Topčagić,Wolfsberger AC
+8243530,83,Christoph Rabitsch,Daniel Offenbacher,Wolfsberger AC
+8243538,46,Srđan Grahovac,Christoph Schösswendter,Rapid Wien
+8243538,64,Matej Jelić,Giorgi Kvilitaia,Rapid Wien
+8243538,72,Philipp Malicsek,Ivan Močinić,Rapid Wien
+8243538,62,Daniel Segovia,Alhassane Keita,SKN St. Pölten
+8243538,63,Lukas Thürauer,Jeroen Lumu,SKN St. Pölten
+8243538,73,Paul Pârvulescu,Andreas Dober,SKN St. Pölten
+8243535,60,Takumi Minamino,Munas Dabbur,RB Salzburg
+8243535,76,Xaver Schlager,Hee-chan Hwang,RB Salzburg
+8243535,60,Patrick Salomon,Nicolas Ngamaleu,SCR Altach
+8243535,74,Daniel Luxbacher,Boris Prokopič,SCR Altach
+8243535,83,Martin Harrer,Nikola Dovedan,SCR Altach
+8243539,59,Maximilian Sax,Christoph Knasmüllner,FC Admira Wacker
+8243539,66,Dominik Starkl,Patrick Schmidt,FC Admira Wacker
+8243539,79,Markus Blutsch,Daniel Toth,FC Admira Wacker
+8243539,84,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243539,88,Ismael Tajouri,Felipe Pires,Austria Wien
+8243539,90,Richard Windbichler,Raphael Holzhauser,Austria Wien
+8243541,46,Patrick Möschl,Mathias Honsak,SV Ried
+8243541,80,Orhan Ademi,Peter Žulj,SV Ried
+8243541,80,Dennis Chessa,Alberto Prada,SV Ried
+8243541,72,Philipp Erhardt,Patrick Bürger,SV Mattersburg
+8243541,83,Markus Pink,Barnabás Varga,SV Mattersburg
+8243541,90,Alexander Ibser,Florian Templ,SV Mattersburg
+8243540,46,Jacobo,Christopher Wernitznig,Wolfsberger AC
+8243540,62,Gerald Nutz,Jacobo,Wolfsberger AC
+8243540,73,Philip Hellquist,Philipp Prosenik,Wolfsberger AC
+8243540,76,Marvin Potzmann,Kristijan Dobras,Sturm Graz
+8243540,83,Deni Alar,Bright Edomwonyi,Sturm Graz
+8243540,89,Philipp Huspek,Marc Andre Schmerböck,Sturm Graz
+8243548,62,Patrick Salomon,Daniel Luxbacher,SCR Altach
+8243548,81,Nikola Zivotić,Boris Prokopič,SCR Altach
+8243548,87,Nicolas Ngamaleu,Dimitri Oberlin,SCR Altach
+8243548,66,Christoph Rabitsch,Christopher Wernitznig,Wolfsberger AC
+8243548,76,Philipp Prosenik,Mihret Topčagić,Wolfsberger AC
+8243548,87,Stephan Palla,Peter Tschernegg,Wolfsberger AC
+8243551,46,Jano,Vitālijs Maksimenko,SV Mattersburg
+8243551,63,Patrick Farkas,Thorsten Röcher,SV Mattersburg
+8243551,77,Alexander Ibser,Fran,SV Mattersburg
+8243551,53,Dominik Starkl,Daniel Toth,FC Admira Wacker
+8243551,61,Eldis Bajrami,Markus Lackner,FC Admira Wacker
+8243551,76,Patrick Schmidt,Philipp Posch,FC Admira Wacker
+8243542,46,Manuel Thurnwald,Arnór Ingvi Traustason,Rapid Wien
+8243542,46,Tamás Szántó,Ivan Močinić,Rapid Wien
+8243542,70,Srđan Grahovac,Christopher Dibon,Rapid Wien
+8243542,54,Clemens Walch,Patrick Möschl,SV Ried
+8243542,55,Peter Žulj,Stefan Nutz,SV Ried
+8243542,79,Orhan Ademi,Thomas Fröschl,SV Ried
+8243545,68,Philipp Zulechner,Deni Alar,Sturm Graz
+8243545,68,Marc Andre Schmerböck,James Jeggo,Sturm Graz
+8243545,85,Kristijan Dobras,Philipp Huspek,Sturm Graz
+8243545,72,Andre Wisdom,Xaver Schlager,RB Salzburg
+8243545,86,Christian Schwegler,Hee-chan Hwang,RB Salzburg
+8243554,66,Christopher Drazan,Peter Brandl,SKN St. Pölten
+8243554,75,Alhassane Keita,Lukas Thürauer,SKN St. Pölten
+8243554,90,Florian Mader,Marco Perchtold,SKN St. Pölten
+8243554,61,Lucas Venuto,Felipe Pires,Austria Wien
+8243554,61,Olarenwaju Kayode,Lukas Rotpuller,Austria Wien
+8243554,86,Marko Kvasina,Thomas Salamon,Austria Wien
+8243562,60,Clemens Walch,Marvin Egho,SV Ried
+8243562,72,Orhan Ademi,Stefan Nutz,SV Ried
+8243562,83,Thomas Fröschl,Marcel Ziegl,SV Ried
+8243562,66,Andreas Gruber,Philipp Huspek,Sturm Graz
+8243562,88,Christian Schoissengeyr,Deni Alar,Sturm Graz
+8243562,90,Sascha Horvath,Kristijan Dobras,Sturm Graz
+8243558,76,Konrad Laimer,Josip Radošević,RB Salzburg
+8243558,85,Hannes Wolf,Takumi Minamino,RB Salzburg
+8243558,90,Fredrik Gulbrandsen,Valon Berisha,RB Salzburg
+8243558,46,Christoph Rabitsch,Daniel Offenbacher,Wolfsberger AC
+8243558,74,Michael Augustin,Stephan Palla,Wolfsberger AC
+8243558,88,Florian Prohart,Philipp Prosenik,Wolfsberger AC
+8243560,88,Ismael Tajouri,Lucas Venuto,Austria Wien
+8243560,60,Michael Perlak,Nedeljko Malić,SV Mattersburg
+8243560,63,Markus Pink,Florian Templ,SV Mattersburg
+8243560,70,Thorsten Röcher,Alois Höller,SV Mattersburg
+8243566,67,Christopher Drazan,Peter Brandl,SKN St. Pölten
+8243566,74,Alhassane Keita,Daniel Segovia,SKN St. Pölten
+8243566,48,Srđan Spiridonović,Maximilian Sax,FC Admira Wacker
+8243566,64,Eldis Bajrami,Dominik Starkl,FC Admira Wacker
+8243566,90,Daniel Toth,Christoph Knasmüllner,FC Admira Wacker
+8243564,51,Nikola Dovedan,Louis NGwat-Mahop,SCR Altach
+8243564,76,Nicolas Ngamaleu,Dimitri Oberlin,SCR Altach
+8243564,87,Valentino Müller,Boris Prokopič,SCR Altach
+8243564,71,Tamás Szántó,Louis Schaub,Rapid Wien
+8243564,77,Steffen Hofmann,Stephan Auer,Rapid Wien
+8243564,77,Tomi,Giorgi Kvilitaia,Rapid Wien
+8243550,65,Maximilian Sax,Christoph Knasmüllner,FC Admira Wacker
+8243550,79,Dominik Starkl,Srđan Spiridonović,FC Admira Wacker
+8243550,28,Nikola Zivotić,Martin Harrer,SCR Altach
+8243550,79,Nikola Dovedan,Daniel Luxbacher,SCR Altach
+8243550,90,Hannes Aigner,Nicolas Ngamaleu,SCR Altach
+8243544,69,Takumi Minamino,Valentino Lazaro,RB Salzburg
+8243544,78,Josip Radošević,Diadie Samassekou,RB Salzburg
+8243544,84,Christoph Leitgeb,Hee-chan Hwang,RB Salzburg
+8243544,40,Cheikhou Dieng,Ümit Korkmaz,SKN St. Pölten
+8243544,46,Paul Pârvulescu,Marcel Holzmann,SKN St. Pölten
+8243544,76,Manuel Hartl,Kevin Luckassen,SKN St. Pölten
+8243553,49,Stephan Palla,Christian Klem,Wolfsberger AC
+8243553,83,Mihret Topčagić,Dever Orgill,Wolfsberger AC
+8243553,75,Thomas Fröschl,Mathias Honsak,SV Ried
+8243553,75,Orhan Ademi,Marvin Egho,SV Ried
+8243553,90,Michael Brandner,Marcel Ziegl,SV Ried
+8243556,81,Florian Templ,Stefan Maierhofer,SV Mattersburg
+8243556,86,Fran,David Atanga,SV Mattersburg
+8243556,90,Julius Ertlthaler,Michael Perlak,SV Mattersburg
+8243556,61,Seifedin Chabbi,Marc Andre Schmerböck,Sturm Graz
+8243556,67,Andreas Gruber,Sascha Horvath,Sturm Graz
+8243556,73,Barış Atik,Simon Piesinger,Sturm Graz
+8243547,69,Ismael Tajouri,Lucas Venuto,Austria Wien
+8243547,76,Dominik Prokop,Raphael Holzhauser,Austria Wien
+8243547,83,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243547,63,Thomas Murg,Louis Schaub,Rapid Wien
+8243547,70,Osarenren Okungbowa,Giorgi Kvilitaia,Rapid Wien
+8243547,90,Christoph Schösswendter,Stephan Auer,Rapid Wien
+8243529,62,Barış Atik,Philipp Huspek,Sturm Graz
+8243529,68,Seifedin Chabbi,Martin Ovenstad,Sturm Graz
+8243529,80,Sascha Horvath,Marc Andre Schmerböck,Sturm Graz
+8243529,82,Ismael Tajouri,Lucas Venuto,Austria Wien
+8243529,90,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243529,90,Abdul Kadiri Mohammed,Alexander Grünwald,Austria Wien
+8243527,73,Steffen Hofmann,Louis Schaub,Rapid Wien
+8243527,82,Alex Sobczyk,Arnór Ingvi Traustason,Rapid Wien
+8243527,85,Tamás Szántó,Christopher Dibon,Rapid Wien
+8243527,64,Dominik Starkl,Christoph Knasmüllner,FC Admira Wacker
+8243527,79,Maximilian Sax,Srđan Spiridonović,FC Admira Wacker
+8243527,90,Philipp Posch,Fabio Strauss,FC Admira Wacker
+8243534,23,Jan Zwischenbrugger,Boris Prokopič,SCR Altach
+8243534,46,Hannes Aigner,Emanuel Schreiner,SCR Altach
+8243534,73,Nikola Zivotić,Emanuel Sakic,SCR Altach
+8243534,60,Manuel Hartl,Lonsana Doumbouya,SKN St. Pölten
+8243534,79,Marco Perchtold,Daniel Schütz,SKN St. Pölten
+8243534,90,Martin Grasegger,Cheikhou Dieng,SKN St. Pölten
+8243537,74,Patrick Bürger,Stefan Maierhofer,SV Mattersburg
+8243537,85,Fran,David Atanga,SV Mattersburg
+8243537,90,Julius Ertlthaler,Michael Perlak,SV Mattersburg
+8243537,68,Mihret Topčagić,Philipp Prosenik,Wolfsberger AC
+8243537,70,Issiaka Ouédraogo,Thomas Zündel,Wolfsberger AC
+8243537,84,Zakaria Sanogo,Peter Tschernegg,Wolfsberger AC
+8243532,46,Ronny Marcos,Thomas Bergmann,SV Ried
+8243532,69,Peter Žulj,Marcel Ziegl,SV Ried
+8243532,74,Clemens Walch,Mathias Honsak,SV Ried
+8243532,63,Josip Radošević,Konrad Laimer,RB Salzburg
+8243532,63,Christian Schwegler,Andreas Ulmer,RB Salzburg
+8243532,75,Christoph Leitgeb,Jonathan Soriano,RB Salzburg
+8243519,26,Zakaria Sanogo,Thomas Zündel,Wolfsberger AC
+8243519,46,Daniel Offenbacher,Zakaria Sanogo,Wolfsberger AC
+8243519,87,Dario Baldauf,Stephan Palla,Wolfsberger AC
+8243519,54,Tamás Szántó,Stephan Auer,Rapid Wien
+8243519,54,Joelinton,Louis Schaub,Rapid Wien
+8243519,87,Steffen Hofmann,Mario Sonnleitner,Rapid Wien
+8243508,46,Andreas Ulmer,Christian Schwegler,RB Salzburg
+8243508,46,Dimitri Oberlin,Josip Radošević,RB Salzburg
+8243508,77,Xaver Schlager,Hee-chan Hwang,RB Salzburg
+8243508,68,Fran,David Atanga,SV Mattersburg
+8243508,77,Patrick Bürger,Stefan Maierhofer,SV Mattersburg
+8243508,80,Julius Ertlthaler,Michael Perlak,SV Mattersburg
+8243512,46,Dominik Prokop,Alexandar Borković,Austria Wien
+8243512,63,Ismael Tajouri,Lukas Rotpuller,Austria Wien
+8243512,80,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243512,63,Andreas Lienhart,Emanuel Sakic,SCR Altach
+8243512,77,Jan Zwischenbrugger,Louis NGwat-Mahop,SCR Altach
+8243512,83,Daniel Luxbacher,Nikola Dovedan,SCR Altach
+8243517,67,Dominik Starkl,Srđan Spiridonović,FC Admira Wacker
+8243517,87,Eldis Bajrami,Maximilian Sax,FC Admira Wacker
+8243517,90,Toni Vastić,Christoph Knasmüllner,FC Admira Wacker
+8243517,76,Marvin Egho,Clemens Walch,SV Ried
+8243517,82,Orhan Ademi,Dieter Elsneg,SV Ried
+8243521,55,Christopher Drazan,Daniel Schütz,SKN St. Pölten
+8243521,74,Seifedin Chabbi,Barış Atik,Sturm Graz
+8243521,83,Martin Ovenstad,Christian Schoissengeyr,Sturm Graz
+8243521,90,Andreas Gruber,Deni Alar,Sturm Graz
+8243494,81,Sascha Horvath,Barış Atik,Sturm Graz
+8243494,85,Andreas Gruber,Marc Andre Schmerböck,Sturm Graz
+8243494,85,Marvin Potzmann,Stefan Hierländer,Sturm Graz
+8243494,31,Jan Zwischenbrugger,Galvão,SCR Altach
+8243494,60,Daniel Luxbacher,Emanuel Schreiner,SCR Altach
+8243494,67,Nikola Zivotić,Louis NGwat-Mahop,SCR Altach
+8243497,62,Philipp Prosenik,Mihret Topčagić,Wolfsberger AC
+8243497,79,Zakaria Sanogo,Dever Orgill,Wolfsberger AC
+8243497,90,Daniel Offenbacher,Peter Tschernegg,Wolfsberger AC
+8243497,46,Dominik Starkl,Srđan Spiridonović,FC Admira Wacker
+8243497,69,Lukas Grozurek,Maximilian Sax,FC Admira Wacker
+8243497,82,Toni Vastić,Daniel Toth,FC Admira Wacker
+8243499,54,Patrick Möschl,Clemens Walch,SV Ried
+8243499,60,Nico Antonitsch,Florian Hart,SV Ried
+8243499,68,Thomas Fröschl,Dieter Elsneg,SV Ried
+8243499,54,Alexandar Borković,Lukas Rotpuller,Austria Wien
+8243499,79,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243499,87,Marko Kvasina,Lucas Venuto,Austria Wien
+8243503,68,Fran,David Atanga,SV Mattersburg
+8243503,81,Patrick Bürger,Stefan Maierhofer,SV Mattersburg
+8243503,88,Thorsten Mahrer,Michael Perlak,SV Mattersburg
+8243503,61,Christopher Drazan,Manuel Hartl,SKN St. Pölten
+8243503,78,Kevin Luckassen,Manuel Martic,SKN St. Pölten
+8243503,85,Michael Ambichl,Lukas Thürauer,SKN St. Pölten
+8243491,38,Tamás Szántó,Arnór Ingvi Traustason,Rapid Wien
+8243491,76,Giorgi Kvilitaia,Mario Sonnleitner,Rapid Wien
+8243491,76,Thomas Schrammel,Andreas Kuen,Rapid Wien
+8243491,70,Dimitri Oberlin,Valentino Lazaro,RB Salzburg
+8243491,82,Josip Radošević,Hee-chan Hwang,RB Salzburg
+8243486,67,Manuel Hartl,Kevin Luckassen,SKN St. Pölten
+8243486,73,Ümit Korkmaz,Christopher Drazan,SKN St. Pölten
+8243486,88,Lukas Thürauer,Lonsana Doumbouya,SKN St. Pölten
+8243486,46,Mathias Honsak,Dieter Elsneg,SV Ried
+8243486,58,Thomas Fröschl,Orhan Ademi,SV Ried
+8243486,74,Stefan Nutz,Clemens Walch,SV Ried
+8243473,83,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243473,88,Dominik Prokop,Tarkan Serbest,Austria Wien
+8243473,90,Michael Blauensteiner,Jens Stryger Larsen,Austria Wien
+8243473,70,Daniel Offenbacher,Peter Tschernegg,Wolfsberger AC
+8243473,70,Mihret Topčagić,Philipp Prosenik,Wolfsberger AC
+8243473,70,Issiaka Ouédraogo,Dever Orgill,Wolfsberger AC
+8243476,62,Dominik Starkl,Srđan Spiridonović,FC Admira Wacker
+8243476,85,Lukas Grozurek,Eldis Bajrami,FC Admira Wacker
+8243476,90,Toni Vastić,Christoph Monschein,FC Admira Wacker
+8243476,62,Dimitri Oberlin,Hee-chan Hwang,RB Salzburg
+8243476,62,Wanderson,Konrad Laimer,RB Salzburg
+8243482,70,Valentino Müller,Daniel Luxbacher,SCR Altach
+8243482,74,Nikola Zivotić,Hannes Aigner,SCR Altach
+8243482,84,Martin Harrer,Nicolas Ngamaleu,SCR Altach
+8243482,46,Fran,David Atanga,SV Mattersburg
+8243482,58,Thorsten Mahrer,Nedeljko Malić,SV Mattersburg
+8243482,71,Markus Pink,Michael Perlak,SV Mattersburg
+8243479,66,Philipp Huspek,Marc Andre Schmerböck,Sturm Graz
+8243479,74,Sascha Horvath,Barış Atik,Sturm Graz
+8243479,87,Martin Ovenstad,Stefan Hierländer,Sturm Graz
+8243479,46,Steffen Hofmann,Stephan Auer,Rapid Wien
+8243479,46,Thomas Schrammel,Andreas Kuen,Rapid Wien
+8243479,77,Christoph Schösswendter,Louis Schaub,Rapid Wien
+8243579,46,Louis Schaub,Arnór Ingvi Traustason,Rapid Wien
+8243579,61,Tamás Szántó,Christoph Schösswendter,Rapid Wien
+8243579,73,Matej Jelić,Steffen Hofmann,Rapid Wien
+8243579,64,Patrick Farkas,Fran,SV Mattersburg
+8243579,73,Thorsten Mahrer,Stefan Maierhofer,SV Mattersburg
+8243579,78,Markus Pink,Thorsten Röcher,SV Mattersburg
+8243580,64,Dominik Starkl,Srđan Spiridonović,FC Admira Wacker
+8243580,85,Lukas Grozurek,Maximilian Sax,FC Admira Wacker
+8243580,70,Sascha Horvath,Marc Andre Schmerböck,Sturm Graz
+8243580,73,Seifedin Chabbi,Martin Ovenstad,Sturm Graz
+8243580,79,Kristijan Dobras,Philipp Huspek,Sturm Graz
+8243581,65,Philipp Prosenik,Mihret Topčagić,Wolfsberger AC
+8243581,80,Jacobo,Christopher Wernitznig,Wolfsberger AC
+8243581,85,Philip Hellquist,Issiaka Ouédraogo,Wolfsberger AC
+8243581,57,Manuel Hartl,Marcel Holzmann,SKN St. Pölten
+8243581,63,Ümit Korkmaz,Christopher Drazan,SKN St. Pölten
+8243581,78,Daniel Petrovic,Adi Mehremić,SKN St. Pölten
+8243582,40,Mathias Honsak,Clemens Walch,SV Ried
+8243582,70,Michael Brandner,Patrick Möschl,SV Ried
+8243582,78,Dieter Elsneg,Stefan Nutz,SV Ried
+8243582,61,Nikola Dovedan,Emanuel Sakic,SCR Altach
+8243582,61,Martin Harrer,Hannes Aigner,SCR Altach
+8243582,72,Nikola Zivotić,Valentino Müller,SCR Altach
+8243578,61,Hee-chan Hwang,Dimitri Oberlin,RB Salzburg
+8243578,73,Josip Radošević,Diadie Samassekou,RB Salzburg
+8243578,86,Wanderson,Valon Berisha,RB Salzburg
+8243578,71,Dominik Prokop,Felipe Pires,Austria Wien
+8243578,83,Kevin Friesenbichler,Lucas Venuto,Austria Wien
+8243578,83,Marko Kvasina,Olarenwaju Kayode,Austria Wien
+8243446,61,Daniel Schütz,Ümit Korkmaz,SKN St. Pölten
+8243446,78,Manuel Hartl,Lukas Thürauer,SKN St. Pölten
+8243446,86,Manuel Martic,Marco Perchtold,SKN St. Pölten
+8243446,37,Max Wöber,Maximilian Hofmann,Rapid Wien
+8243446,68,Thomas Murg,Steffen Hofmann,Rapid Wien
+8243446,73,Stephan Auer,Mario Pavelić,Rapid Wien
+8243434,69,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243434,69,Ismael Tajouri,Lucas Venuto,Austria Wien
+8243434,69,Dominik Prokop,Raphael Holzhauser,Austria Wien
+8243434,62,Eldis Bajrami,Maximilian Sax,FC Admira Wacker
+8243434,78,Lukas Grozurek,Dominik Starkl,FC Admira Wacker
+8243434,90,Patrick Schmidt,Christoph Monschein,FC Admira Wacker
+8243436,24,Philipp Huspek,Sandi Lovrič,Sturm Graz
+8243436,64,Marvin Potzmann,Christian Schulz,Sturm Graz
+8243436,78,Sascha Horvath,Deni Alar,Sturm Graz
+8243436,46,Mario Leitgeb,Daniel Offenbacher,Wolfsberger AC
+8243436,46,Dever Orgill,Mihret Topčagić,Wolfsberger AC
+8243436,53,Thomas Zündel,Joachim Standfest,Wolfsberger AC
+8243443,37,Patrick Farkas,Alois Höller,SV Mattersburg
+8243443,59,Markus Pink,Michael Perlak,SV Mattersburg
+8243443,71,Patrick Bürger,David Atanga,SV Mattersburg
+8243443,66,Michael Brandner,Dieter Elsneg,SV Ried
+8243443,82,Marvin Egho,Stefan Nutz,SV Ried
+8243440,59,Martin Harrer,Louis NGwat-Mahop,SCR Altach
+8243440,66,Bernhard Janeczek,Nikola Dovedan,SCR Altach
+8243440,81,Nikola Zivotić,Nicolas Ngamaleu,SCR Altach
+8243440,77,Mergim Berisha,Wanderson,RB Salzburg
+8243440,77,Christoph Leitgeb,Valon Berisha,RB Salzburg
+8243440,84,Josip Radošević,Takumi Minamino,RB Salzburg
+8243576,49,Marvin Egho,Orhan Ademi,SV Ried
+8243576,76,Alberto Prada,Marcel Ziegl,SV Ried
+8243576,80,Gernot Trauner,Stefan Nutz,SV Ried
+8243576,37,Mario Sonnleitner,Christoph Schösswendter,Rapid Wien
+8243576,46,Giorgi Kvilitaia,Tamás Szántó,Rapid Wien
+8243576,50,Steffen Hofmann,Mario Sonnleitner,Rapid Wien
+8243570,72,Kevin Friesenbichler,Christoph Martschinko,Austria Wien
+8243570,72,Marko Kvasina,Lucas Venuto,Austria Wien
+8243570,83,De Paula,Ismael Tajouri,Austria Wien
+8243570,54,Ümit Korkmaz,Daniel Schütz,SKN St. Pölten
+8243570,80,Marco Perchtold,Manuel Hartl,SKN St. Pölten
+8243570,87,Kevin Luckassen,Lonsana Doumbouya,SKN St. Pölten
+8243572,35,Lukas Grozurek,Philipp Posch,FC Admira Wacker
+8243572,75,Srđan Spiridonović,Dominik Starkl,FC Admira Wacker
+8243572,75,Toni Vastić,Christoph Monschein,FC Admira Wacker
+8243572,72,Stefan Maierhofer,Patrick Bürger,SV Mattersburg
+8243572,72,Fran,David Atanga,SV Mattersburg
+8243572,81,Mario Grgic,Michael Perlak,SV Mattersburg
+8243574,78,Philip Hellquist,Gerald Nutz,Wolfsberger AC
+8243574,89,Zakaria Sanogo,Dever Orgill,Wolfsberger AC
+8243574,76,Jan Zwischenbrugger,Louis NGwat-Mahop,SCR Altach
+8243574,81,Nikola Zivotić,Hannes Aigner,SCR Altach
+8243574,88,Emanuel Sakic,Nikola Dovedan,SCR Altach
+8243567,72,Xaver Schlager,Konrad Laimer,RB Salzburg
+8243567,83,Wanderson,Hee-chan Hwang,RB Salzburg
+8243567,90,Amadou Haïdara,Valon Berisha,RB Salzburg
+8243567,70,Sascha Horvath,Dario Maresić,Sturm Graz
+8243567,70,Philipp Huspek,Marc Andre Schmerböck,Sturm Graz
+8243567,77,Philipp Zulechner,Barış Atik,Sturm Graz
+8243563,66,Philipp Prosenik,Dever Orgill,Wolfsberger AC
+8243563,66,Gerald Nutz,Christopher Wernitznig,Wolfsberger AC
+8243563,73,Daniel Offenbacher,Peter Tschernegg,Wolfsberger AC
+8243563,46,Wanderson,Takumi Minamino,RB Salzburg
+8243563,65,Amadou Haïdara,Valon Berisha,RB Salzburg
+8243563,84,Duje Ćaleta-Car,Stefan Lainer,RB Salzburg
+8243557,60,Philipp Malicsek,Steffen Hofmann,Rapid Wien
+8243557,72,Giorgi Kvilitaia,Joelinton,Rapid Wien
+8243557,82,Matej Jelić,Thomas Murg,Rapid Wien
+8243557,46,Louis NGwat-Mahop,Nikola Dovedan,SCR Altach
+8243557,71,Hannes Aigner,Jan Zwischenbrugger,SCR Altach
+8243557,87,Nikola Zivotić,Patrick Salomon,SCR Altach
+8243559,8,Philipp Posch,Ione Cabrera,FC Admira Wacker
+8243559,60,Lukas Grozurek,Dominik Starkl,FC Admira Wacker
+8243559,89,Patrick Schmidt,Christoph Monschein,FC Admira Wacker
+8243559,62,Daniel Schütz,Ümit Korkmaz,SKN St. Pölten
+8243559,67,Kevin Luckassen,Lonsana Doumbouya,SKN St. Pölten
+8243559,76,Lukas Thürauer,Michael Huber,SKN St. Pölten
+8243561,46,Sascha Horvath,Philipp Huspek,Sturm Graz
+8243561,64,Philipp Zulechner,Marc Andre Schmerböck,Sturm Graz
+8243561,86,Marvin Potzmann,Deni Alar,Sturm Graz
+8243561,62,Alberto Prada,Stefan Nutz,SV Ried
+8243561,79,Dennis Chessa,Dieter Elsneg,SV Ried
+8243561,90,Marvin Egho,Peter Žulj,SV Ried
+8243565,53,Stefan Maierhofer,Michael Perlak,SV Mattersburg
+8243565,72,Alexander Ibser,Jano,SV Mattersburg
+8243565,79,Barnabás Varga,Patrick Bürger,SV Mattersburg
+8243565,83,Marko Kvasina,Felipe Pires,Austria Wien
+8243565,87,Abdul Kadiri Mohammed,Tarkan Serbest,Austria Wien
+8243565,89,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243546,46,Daniel Lück,Christian Gratzei,Sturm Graz
+8243546,63,Seifedin Chabbi,Simon Piesinger,Sturm Graz
+8243546,78,Marc Andre Schmerböck,Fabian Koch,Sturm Graz
+8243546,46,Patrick Farkas,Alois Höller,SV Mattersburg
+8243546,66,Thorsten Mahrer,Florian Templ,SV Mattersburg
+8243546,75,Patrick Bürger,Stefan Maierhofer,SV Mattersburg
+8243549,16,Nico Antonitsch,Marcel Ziegl,SV Ried
+8243549,79,Thomas Bergmann,Patrick Möschl,SV Ried
+8243549,62,Christopher Wernitznig,Stephan Palla,Wolfsberger AC
+8243549,69,Philipp Prosenik,Dever Orgill,Wolfsberger AC
+8243549,89,Daniel Offenbacher,Gerald Nutz,Wolfsberger AC
+8243552,70,Louis NGwat-Mahop,Patrick Salomon,SCR Altach
+8243552,73,Nikola Dovedan,Galvão,SCR Altach
+8243552,84,Nikola Zivotić,Hannes Aigner,SCR Altach
+8243552,49,Lukas Malicsek,Daniel Toth,FC Admira Wacker
+8243552,89,Ilter Ayyildiz,Toni Vastić,FC Admira Wacker
+8243555,70,Ümit Korkmaz,Daniel Schütz,SKN St. Pölten
+8243555,73,Kevin Luckassen,Manuel Hartl,SKN St. Pölten
+8243555,79,Lukas Thürauer,Marco Perchtold,SKN St. Pölten
+8243555,46,Diadie Samassekou,Josip Radošević,RB Salzburg
+8243555,61,Wanderson,Marc Rzatkowski,RB Salzburg
+8243555,83,Christoph Leitgeb,Valon Berisha,RB Salzburg
+8243543,54,Max Wöber,Mario Sonnleitner,Rapid Wien
+8243543,62,Giorgi Kvilitaia,Joelinton,Rapid Wien
+8243543,72,Philipp Malicsek,Stefan Schwab,Rapid Wien
+8243543,26,Ismael Tajouri,Lucas Venuto,Austria Wien
+8243543,82,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243543,90,Marko Kvasina,Felipe Pires,Austria Wien
+8243528,77,Abdul Kadiri Mohammed,Raphael Holzhauser,Austria Wien
+8243528,81,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243528,90,De Paula,Ismael Tajouri,Austria Wien
+8243528,63,Philipp Zulechner,Philipp Huspek,Sturm Graz
+8243528,63,Marc Andre Schmerböck,Stefan Hierländer,Sturm Graz
+8243528,76,Kristijan Dobras,Lukas Spendlhofer,Sturm Graz
+8243526,46,Wanderson,Diadie Samassekou,RB Salzburg
+8243526,82,Stefan Lainer,Hee-chan Hwang,RB Salzburg
+8243526,56,Nico Antonitsch,Florian Hart,SV Ried
+8243526,79,Thomas Fröschl,Dieter Elsneg,SV Ried
+8243526,83,Michael Brandner,Marcel Ziegl,SV Ried
+8243533,64,Dever Orgill,Gerald Nutz,Wolfsberger AC
+8243533,79,Christopher Wernitznig,Philipp Prosenik,Wolfsberger AC
+8243533,80,Christoph Rabitsch,Daniel Offenbacher,Wolfsberger AC
+8243533,46,Thorsten Mahrer,Nedeljko Malić,SV Mattersburg
+8243533,55,Alois Höller,Florian Templ,SV Mattersburg
+8243533,68,Patrick Bürger,David Atanga,SV Mattersburg
+8243536,46,Thomas Vollnhofer,Christoph Riegler,SKN St. Pölten
+8243536,62,Ümit Korkmaz,Daniel Schütz,SKN St. Pölten
+8243536,77,Michael Huber,Lukas Thürauer,SKN St. Pölten
+8243536,45,Jan Zwischenbrugger,Benedikt Zech,SCR Altach
+8243536,45,Nikola Dovedan,Philipp Netzer,SCR Altach
+8243536,74,Hannes Aigner,Daniel Luxbacher,SCR Altach
+8243531,46,Daniel Toth,Lukas Grozurek,FC Admira Wacker
+8243531,80,Marcus Maier,Eldis Bajrami,FC Admira Wacker
+8243531,89,Philipp Posch,Thomas Ebner,FC Admira Wacker
+8243531,55,Thomas Murg,Andreas Kuen,Rapid Wien
+8243531,64,Giorgi Kvilitaia,Joelinton,Rapid Wien
+8243531,73,Steffen Hofmann,Arnór Ingvi Traustason,Rapid Wien
+8243520,72,Thorsten Mahrer,Thorsten Röcher,SV Mattersburg
+8243520,76,Patrick Bürger,Stefan Maierhofer,SV Mattersburg
+8243520,83,Barnabás Varga,David Atanga,SV Mattersburg
+8243520,63,Stefan Stangl,Christian Schwegler,RB Salzburg
+8243520,63,Hee-chan Hwang,Diadie Samassekou,RB Salzburg
+8243520,74,Josip Radošević,Valon Berisha,RB Salzburg
+8243507,44,Mario Sonnleitner,Christopher Dibon,Rapid Wien
+8243507,61,Joelinton,Matej Jelić,Rapid Wien
+8243507,80,Steffen Hofmann,Giorgi Kvilitaia,Rapid Wien
+8243507,46,Philipp Prosenik,Christoph Rabitsch,Wolfsberger AC
+8243507,61,Jacobo,Zakaria Sanogo,Wolfsberger AC
+8243507,80,Issiaka Ouédraogo,Philip Hellquist,Wolfsberger AC
+8243511,70,Sascha Horvath,Barış Atik,Sturm Graz
+8243511,85,Philipp Zulechner,Deni Alar,Sturm Graz
+8243511,90,Marvin Potzmann,Marc Andre Schmerböck,Sturm Graz
+8243511,59,Marco Perchtold,Manuel Martic,SKN St. Pölten
+8243511,65,Ümit Korkmaz,Daniel Schütz,SKN St. Pölten
+8243511,75,Christopher Drazan,Paul Pârvulescu,SKN St. Pölten
+8243516,39,Clemens Walch,Dieter Elsneg,SV Ried
+8243516,58,Thomas Fröschl,Stefan Nutz,SV Ried
+8243516,82,Michael Brandner,Patrick Möschl,SV Ried
+8243516,64,Patrick Schmidt,Lukas Grozurek,FC Admira Wacker
+8243516,71,Toni Vastić,Eldis Bajrami,FC Admira Wacker
+8243516,90,Philipp Posch,Markus Lackner,FC Admira Wacker
+8243518,46,Emanuel Sakic,Galvão,SCR Altach
+8243518,86,Martin Harrer,Louis NGwat-Mahop,SCR Altach
+8243518,87,Valentino Müller,Nicolas Ngamaleu,SCR Altach
+8243518,86,De Paula,Ismael Tajouri,Austria Wien
+8243518,89,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243518,90,Thomas Salamon,Felipe Pires,Austria Wien
+8243490,83,Takumi Minamino,Hee-chan Hwang,RB Salzburg
+8243490,59,Louis Schaub,Matej Jelić,Rapid Wien
+8243490,69,Philipp Malicsek,Thomas Murg,Rapid Wien
+8243490,77,Joelinton,Stefan Schwab,Rapid Wien
+8243493,76,Dominik Prokop,Ismael Tajouri,Austria Wien
+8243493,79,Kevin Friesenbichler,Olarenwaju Kayode,Austria Wien
+8243493,84,Marko Kvasina,Tarkan Serbest,Austria Wien
+8243493,46,Clemens Walch,Thomas Fröschl,SV Ried
+8243493,46,Özgür Özdemir,Nico Antonitsch,SV Ried
+8243493,63,Michael Brandner,Peter Žulj,SV Ried
+8243496,76,Patrick Schmidt,Eldis Bajrami,FC Admira Wacker
+8243496,86,Lukas Grozurek,Maximilian Sax,FC Admira Wacker
+8243496,89,Toni Vastić,Christoph Knasmüllner,FC Admira Wacker
+8243496,61,Jacobo,Stephan Palla,Wolfsberger AC
+8243496,72,Dever Orgill,Philipp Prosenik,Wolfsberger AC
+8243496,85,Zakaria Sanogo,Daniel Offenbacher,Wolfsberger AC
+8243502,58,Ümit Korkmaz,Cheikhou Dieng,SKN St. Pölten
+8243502,81,Lukas Thürauer,Manuel Hartl,SKN St. Pölten
+8243502,90,Lonsana Doumbouya,Kevin Luckassen,SKN St. Pölten
+8243502,61,Mario Grgic,Thorsten Röcher,SV Mattersburg
+8243502,76,Patrick Bürger,Stefan Maierhofer,SV Mattersburg
+8243502,79,Florian Templ,David Atanga,SV Mattersburg
+8243498,62,Hannes Aigner,Daniel Luxbacher,SCR Altach
+8243498,80,Martin Harrer,Bernhard Janeczek,SCR Altach
+8243498,90,Nikola Zivotić,Emanuel Schreiner,SCR Altach
+8243498,73,Barış Atik,Marc Andre Schmerböck,Sturm Graz
+8243498,83,Seifedin Chabbi,Philipp Zulechner,Sturm Graz
+8243481,61,Michael Brandner,Stefan Nutz,SV Ried
+8243481,74,Clemens Walch,Peter Žulj,SV Ried
+8243481,83,Thomas Fröschl,Marcel Ziegl,SV Ried
+8243481,27,Adi Mehremić,Paul Pârvulescu,SKN St. Pölten
+8243481,46,Lonsana Doumbouya,Kevin Luckassen,SKN St. Pölten
+8243481,69,Lukas Thürauer,Ümit Korkmaz,SKN St. Pölten
+8243472,61,Christoph Leitgeb,Josip Radošević,RB Salzburg
+8243472,61,Hannes Wolf,Marc Rzatkowski,RB Salzburg
+8243472,80,Amadou Haïdara,Wanderson,RB Salzburg
+8243472,66,Marcus Maier,Eldis Bajrami,FC Admira Wacker
+8243472,69,Lukas Grozurek,Christoph Monschein,FC Admira Wacker
+8243472,83,Srđan Spiridonović,Maximilian Sax,FC Admira Wacker
+8243478,46,Joachim Standfest,Stephan Palla,Wolfsberger AC
+8243478,80,Philipp Prosenik,Issiaka Ouédraogo,Wolfsberger AC
+8243478,71,Kevin Friesenbichler,Alexander Grünwald,Austria Wien
+8243478,74,De Paula,Jens Stryger Larsen,Austria Wien
+8243478,85,Marko Kvasina,Ismael Tajouri,Austria Wien
+8243485,73,Florian Templ,Patrick Bürger,SV Mattersburg
+8243485,84,Thorsten Mahrer,Michael Perlak,SV Mattersburg
+8243485,90,Manuel Seidl,David Atanga,SV Mattersburg
+8243485,63,Nicolas Ngamaleu,Daniel Luxbacher,SCR Altach
+8243485,78,Emanuel Sakic,Andreas Lienhart,SCR Altach
+8243485,84,Nikola Zivotić,Emanuel Schreiner,SCR Altach
+8243474,24,Joelinton,Giorgi Kvilitaia,Rapid Wien
+8243474,54,Matej Jelić,Tamás Szántó,Rapid Wien
+8243474,58,Arnór Ingvi Traustason,Louis Schaub,Rapid Wien
+8243474,68,Deni Alar,Stefan Hierländer,Sturm Graz
+8243474,68,Sascha Horvath,Barış Atik,Sturm Graz
+8243474,82,Seifedin Chabbi,Simon Piesinger,Sturm Graz
+8243457,62,De Paula,Ismael Tajouri,Austria Wien
+8243457,78,Kevin Friesenbichler,Raphael Holzhauser,Austria Wien
+8243457,85,Marko Kvasina,Felipe Pires,Austria Wien
+8243457,54,Wanderson,Valon Berisha,RB Salzburg
+8243457,68,Takumi Minamino,Valentino Lazaro,RB Salzburg
+8243457,76,Christoph Leitgeb,Amadou Haïdara,RB Salzburg
+8243459,64,Philipp Zulechner,Barış Atik,Sturm Graz
+8243459,80,Sascha Horvath,Stefan Hierländer,Sturm Graz
+8243459,90,Marvin Potzmann,Deni Alar,Sturm Graz
+8243459,82,Srđan Spiridonović,Eldis Bajrami,FC Admira Wacker
+8243459,86,Patrick Schmidt,Daniel Toth,FC Admira Wacker
+8243461,14,Emanuel Sakic,Andreas Lienhart,SCR Altach
+8243461,46,Hannes Aigner,Bernhard Janeczek,SCR Altach
+8243461,67,Daniel Luxbacher,Louis NGwat-Mahop,SCR Altach
+8243461,52,Thomas Fröschl,Orhan Ademi,SV Ried
+8243461,60,Dieter Elsneg,Clemens Walch,SV Ried
+8243461,84,Michael Brandner,Patrick Möschl,SV Ried
+8243463,71,Michael Perlak,Patrick Farkas,SV Mattersburg
+8243463,87,Patrick Bürger,Philipp Erhardt,SV Mattersburg
+8243463,28,Mario Sonnleitner,Max Wöber,Rapid Wien
+8243463,61,Thomas Schrammel,Andreas Kuen,Rapid Wien
+8243463,66,Arnór Ingvi Traustason,Manuel Thurnwald,Rapid Wien
+8243465,70,Adi Mehremić,Christopher Drazan,SKN St. Pölten
+8243465,79,Peter Brandl,Lukas Thürauer,SKN St. Pölten
+8243465,84,Aleksandar Vucenovic,Paul Pârvulescu,SKN St. Pölten
+8243465,66,Mario Leitgeb,Daniel Offenbacher,Wolfsberger AC
+8243465,79,Joachim Standfest,Stephan Palla,Wolfsberger AC
+8243465,87,Philipp Prosenik,Dever Orgill,Wolfsberger AC
+8243433,59,Dimitri Oberlin,Christoph Leitgeb,RB Salzburg
+8243433,73,Amadou Haïdara,Valon Berisha,RB Salzburg
+8243433,90,Valentino Lazaro,Christian Schwegler,RB Salzburg
+8243433,37,Nikola Zivotić,Hannes Aigner,SCR Altach
+8243433,72,Daniel Luxbacher,Nikola Dovedan,SCR Altach
+8243433,90,Daniel Nussbaumer,Nicolas Ngamaleu,SCR Altach
+8243435,46,Manuel Thurnwald,Andreas Dober,Rapid Wien
+8243435,60,Stephan Auer,Tamás Szántó,Rapid Wien
+8243435,78,Joelinton,Arnór Ingvi Traustason,Rapid Wien
+8243435,76,Peter Brandl,Manuel Martic,SKN St. Pölten
+8243435,76,Kevin Luckassen,Manuel Hartl,SKN St. Pölten
+8243439,77,Philipp Posch,Manuel Maranda,FC Admira Wacker
+8243439,77,Lukas Grozurek,Marcus Maier,FC Admira Wacker
+8243439,81,De Paula,Dominik Prokop,Austria Wien
+8243439,83,Marko Kvasina,Kevin Friesenbichler,Austria Wien
+8243439,88,Petar Gluhakovic,Ismael Tajouri,Austria Wien
+8243442,46,Benjamin Rosenberger,Gerald Nutz,Wolfsberger AC
+8243442,61,Mario Leitgeb,Peter Tschernegg,Wolfsberger AC
+8243442,87,Philip Hellquist,Issiaka Ouédraogo,Wolfsberger AC
+8243442,46,Philipp Zulechner,James Jeggo,Sturm Graz
+8243442,60,Philipp Huspek,Marc Andre Schmerböck,Sturm Graz
+8243442,75,Romano Schmid,Fabian Koch,Sturm Graz
+8243445,6,Thomas Bergmann,Florian Hart,SV Ried
+8243445,46,Thomas Fröschl,Dieter Elsneg,SV Ried
+8243445,46,Clemens Walch,Orhan Ademi,SV Ried
+8243445,60,Manuel Seidl,Michael Perlak,SV Mattersburg
+8243445,69,Vitālijs Maksimenko,Michael Novak,SV Mattersburg
+8243445,77,Stefan Maierhofer,Florian Templ,SV Mattersburg

@@ -1,0 +1,1699 @@
+GameID,Minute,Player,Team,Card
+2203991,44,Thiago Heleno,Figueirense,yellow
+2203991,66,Paulo Roberto,Figueirense,yellow
+2203997,20,Juan,Internacional,yellow
+2203997,72,Andrés DAlessandro,Internacional,yellow
+2203997,10,Mansur,EC Vitória BA,yellow
+2203997,82,Vinícius,EC Vitória BA,yellow
+2203997,86,Marcelo,EC Vitória BA,yellow
+2203999,76,Carlinhos,Coritiba FC,yellow
+2203992,31,Álvaro Pereira,São Paulo FC,yellow
+2203992,30,Juan Ferreyra,Botafogo RJ,yellow
+2203992,67,Marcelo Mattos,Botafogo RJ,yellow
+2203994,38,Paulinho Dias,Atlético Paranaense,yellow
+2203994,62,Ramiro,Grêmio Porto Alegre,yellow
+2203994,72,Edinho,Grêmio Porto Alegre,yellow
+2203996,39,Fahel,EC Bahia,yellow
+2203996,41,Rhayner,EC Bahia,yellow
+2203996,60,Pará,EC Bahia,yellow
+2203996,78,Titi,EC Bahia,yellow
+2203996,22,Nílton,Cruzeiro EC,yellow
+2203996,45,Willian,Cruzeiro EC,yellow
+2203996,48,Tinga,Cruzeiro EC,yellow
+2203996,90,Willian Farias,Cruzeiro EC,yellow
+2203990,24,Amaral,Flamengo RJ,yellow
+2203990,31,Leó Moura,Flamengo RJ,yellow
+2203990,37,Lucas Mugni,Flamengo RJ,yellow
+2203990,47,Wallace Reis,Flamengo RJ,yellow
+2203990,69,Tiago Real,Goiás EC,yellow
+2203990,72,Thiago Mendes,Goiás EC,yellow
+2203993,90,Jubal Júnior,Santos FC,yellow
+2203993,43,Rodrigo Mancha,Sport Club Recife,yellow
+2203993,55,Ferron,Sport Club Recife,yellow
+2203993,75,Neto Baiano,Sport Club Recife,yellow
+2203998,29,João Vitor,Criciúma EC,yellow
+2203998,56,Sergio Escudero,Criciúma EC,yellow
+2203998,72,Silvinho,Criciúma EC,yellow
+2203998,22,Jorge Valdivia,SE Palmeiras,yellow
+2203998,26,Marcelo Oliveira,SE Palmeiras,yellow
+2203998,72,Fernando Prass,SE Palmeiras,yellow
+2203998,90,Alan Kardec,SE Palmeiras,yellow
+2203998,90,Josimar,SE Palmeiras,yellow
+2204004,47,Luccas Claro,Coritiba FC,yellow
+2204004,52,Zé Eduardo,Coritiba FC,yellow
+2204004,56,Gil,Coritiba FC,yellow
+2204004,17,Cicinho,Santos FC,yellow
+2204004,79,Alison,Santos FC,yellow
+2204004,81,Alan Santos,Santos FC,yellow
+2204004,89,Stéfano Yuri,Santos FC,yellow
+2204003,86,Jorge Valdivia,SE Palmeiras,yellow
+2204003,64,Darío Conca,Fluminense RJ,yellow
+2204003,72,Rafael Sóbis,Fluminense RJ,yellow
+2204000,52,Aírton,Botafogo RJ,yellow
+2204000,82,Edílson,Botafogo RJ,yellow
+2204000,90,Lucas,Botafogo RJ,red
+2204000,16,Willians,Internacional,yellow
+2204000,66,Gladestony,Internacional,yellow
+2204000,82,Charles Aránguiz,Internacional,yellow
+2204000,90,Otávio,Internacional,yellow
+2204002,7,Paolo Guerrero,Corinthians SP,yellow
+2204002,26,Ralf,Corinthians SP,yellow
+2204002,37,Víctor Cáceres,Flamengo RJ,yellow
+2204002,43,Leó Moura,Flamengo RJ,red
+2204005,70,Henrique,Cruzeiro EC,yellow
+2204005,90,Miguel Samudio,Cruzeiro EC,yellow
+2204005,23,Álvaro Pereira,São Paulo FC,yellow
+2204006,73,Dão,EC Vitória BA,yellow
+2204006,10,Dráusio,Atlético Paranaense,yellow
+2204001,69,Danilo Barcelos,Sport Club Recife,yellow
+2204001,53,Rafael Lima,Chapecoense,yellow
+2204007,34,Alan Ruíz,Grêmio Porto Alegre,yellow
+2204007,45,Rodriguinho,Grêmio Porto Alegre,yellow
+2204007,87,Matheus Bressan,Grêmio Porto Alegre,yellow-red
+2204007,41,Nicolás Otamendi,Atlético Mineiro,yellow
+2204007,51,Leonardo Silva,Atlético Mineiro,yellow
+2204007,90,André,Atlético Mineiro,yellow
+2204008,35,Paulo Roberto,Figueirense,yellow
+2204008,70,Thiago Heleno,Figueirense,yellow
+2204008,73,Marcos Assunção,Figueirense,yellow
+2204008,32,Demerson,EC Bahia,yellow
+2204008,66,Fahel,EC Bahia,yellow
+2204009,18,Bruno Lopes,Criciúma EC,yellow
+2204012,23,Alexandre Pato,São Paulo FC,yellow
+2204012,53,Antônio Carlos,São Paulo FC,yellow
+2204012,76,Luís Fabiano,São Paulo FC,yellow
+2204012,36,Zé Eduardo,Coritiba FC,yellow
+2204012,52,Luccas Claro,Coritiba FC,yellow
+2204012,58,Leandro Almeida,Coritiba FC,yellow
+2204013,26,Alan Santos,Santos FC,yellow
+2204013,29,Edinho,Grêmio Porto Alegre,yellow
+2204014,27,Cleberson,Atlético Paranaense,yellow
+2204014,47,Dráusio,Atlético Paranaense,red
+2204014,60,Wéverton,Atlético Paranaense,yellow
+2204014,74,Natanael Pimienta,Atlético Paranaense,yellow
+2204014,71,Luan,Cruzeiro EC,yellow
+2204014,77,Wallace,Cruzeiro EC,yellow
+2204014,90,Souza,Cruzeiro EC,yellow
+2204011,90,Fred,Fluminense RJ,yellow
+2204011,61,Souza,EC Vitória BA,yellow
+2204010,51,Negueba,Flamengo RJ,yellow
+2204010,77,André Santos,Flamengo RJ,yellow
+2204010,41,Josimar,SE Palmeiras,yellow
+2204010,57,Juninho,SE Palmeiras,yellow
+2204010,90,Henrique Dourado,SE Palmeiras,yellow
+2204010,90,William Mendieta,SE Palmeiras,yellow
+2204016,5,Marcelo Lomba,EC Bahia,yellow
+2204016,8,Uelliton,EC Bahia,yellow
+2204016,12,Anderson Talisca,EC Bahia,yellow
+2204016,81,Lincoln,EC Bahia,yellow
+2204016,13,Júnior César,Botafogo RJ,yellow
+2204016,45,Gabriel,Botafogo RJ,yellow
+2204016,56,Edílson,Botafogo RJ,yellow
+2204016,90,Doria,Botafogo RJ,yellow
+2204017,57,Juan,Internacional,yellow
+2204017,81,Charles Aránguiz,Internacional,yellow
+2204017,37,Ferron,Sport Club Recife,yellow
+2204017,48,Ananias,Sport Club Recife,yellow
+2204018,85,Rodrigo Silva,Criciúma EC,yellow
+2204018,31,Nirley,Figueirense,yellow-red
+2204018,31,Tiago Volpi,Figueirense,yellow
+2204018,47,Paulo Roberto,Figueirense,yellow
+2204018,72,Rivaldo,Figueirense,yellow
+2204018,82,Thiago Heleno,Figueirense,yellow
+2204015,67,Claudinei,Atlético Mineiro,yellow
+2204015,90,Victor,Atlético Mineiro,yellow
+2204015,90,Tiago Real,Goiás EC,yellow
+2204019,19,André Paulinho,Chapecoense,yellow
+2204019,23,Neuton,Chapecoense,yellow
+2204019,80,Rafael Lima,Chapecoense,yellow
+2204019,15,Romarinho,Corinthians SP,yellow
+2204019,25,Guilherme,Corinthians SP,yellow
+2204019,43,Fágner,Corinthians SP,yellow
+2204023,28,Lúcio,SE Palmeiras,yellow
+2204023,30,Wesley,SE Palmeiras,yellow
+2204023,45,Fabio,SE Palmeiras,yellow
+2204023,87,Jorge Valdivia,SE Palmeiras,yellow
+2204023,88,Henrique Dourado,SE Palmeiras,yellow
+2204023,15,Amaral,Goiás EC,yellow
+2204023,34,Alex Alves,Goiás EC,yellow
+2204023,69,Edson,Goiás EC,yellow
+2204023,73,Jackson Souza,Goiás EC,yellow
+2204027,30,Alex,Internacional,yellow
+2204027,57,Willians,Internacional,yellow
+2204027,71,Charles Aránguiz,Internacional,yellow
+2204027,63,Deivid,Atlético Paranaense,yellow
+2204020,68,Doria,Botafogo RJ,yellow
+2204020,27,Serginho,Criciúma EC,yellow
+2204020,36,Fábio Ferreira,Criciúma EC,yellow
+2204020,47,Eduardo Santos,Criciúma EC,yellow
+2204020,69,Bruno Lopes,Criciúma EC,yellow
+2204020,85,Rodrigo Souza,Criciúma EC,yellow
+2204021,18,Carlinhos,Fluminense RJ,yellow
+2204021,88,Chiquinho,Fluminense RJ,yellow
+2204021,8,Víctor Cáceres,Flamengo RJ,yellow
+2204021,10,Paulinho,Flamengo RJ,yellow
+2204021,16,André Santos,Flamengo RJ,yellow
+2204021,38,Lucas Mugni,Flamengo RJ,yellow
+2204022,29,Álvaro Pereira,São Paulo FC,yellow
+2204022,83,Luiz Ricardo,São Paulo FC,yellow
+2204022,90,Maicon,São Paulo FC,yellow
+2204022,29,Petros,Corinthians SP,yellow
+2204022,70,Luciano,Corinthians SP,yellow
+2204025,40,Marlone,Cruzeiro EC,yellow
+2204025,70,Léo,Cruzeiro EC,yellow
+2204025,76,Luan,Cruzeiro EC,red
+2204025,90,Marcelo Moreno,Cruzeiro EC,red
+2204029,32,André Paulinho,Chapecoense,yellow
+2204029,79,Rafael Lima,Chapecoense,yellow
+2204029,46,Dudu,Grêmio Porto Alegre,yellow
+2204029,58,Edinho,Grêmio Porto Alegre,yellow
+2204029,66,Hernán Barcos,Grêmio Porto Alegre,yellow
+2204029,77,Luan,Grêmio Porto Alegre,yellow
+2204024,20,Carlinhos,Coritiba FC,yellow
+2204024,42,Chico,Coritiba FC,yellow
+2204024,86,Leandro Almeida,Coritiba FC,yellow
+2204024,39,Leonardo,Sport Club Recife,yellow
+2204026,45,Demerson,EC Bahia,yellow
+2204026,55,Roniery,EC Bahia,yellow
+2204026,75,Uelliton,EC Bahia,red
+2204026,90,Pará,EC Bahia,yellow
+2204026,42,José Welison,EC Vitória BA,yellow
+2204026,45,Neto Coruja,EC Vitória BA,yellow
+2204026,75,Souza,EC Vitória BA,red
+2204028,52,Nem,Figueirense,yellow
+2204028,56,Luan,Figueirense,yellow
+2204028,67,Raul Silva,Figueirense,red
+2204028,89,Cicinho,Santos FC,yellow-red
+2204039,78,Alex Alves,Goiás EC,yellow
+2204039,81,Amaral,Goiás EC,yellow
+2204039,89,Esquerdinha,Goiás EC,yellow
+2204035,73,Dagoberto,Cruzeiro EC,yellow
+2204035,90,Éverton Ribeiro,Cruzeiro EC,yellow
+2204035,49,Luccas Claro,Coritiba FC,yellow
+2204030,19,Leó Moura,Flamengo RJ,yellow
+2204030,21,Maicon,São Paulo FC,yellow
+2204032,35,Guilherme,Corinthians SP,yellow
+2204032,43,Jádson,Corinthians SP,yellow
+2204032,59,Romarinho,Corinthians SP,yellow
+2204032,80,Cléber Reis,Corinthians SP,yellow
+2204032,24,Leandro Silva,Figueirense,yellow
+2204032,71,Éverton Santos,Figueirense,yellow
+2204032,79,Ricardo Bueno,Figueirense,yellow
+2204034,15,Marcos Guilherme,Atlético Paranaense,yellow
+2204034,78,Marcelo Cirino,Atlético Paranaense,yellow
+2204034,16,Bruno Silva,Chapecoense,yellow
+2204034,63,Fabiano,Chapecoense,yellow
+2204037,41,Ramiro,Grêmio Porto Alegre,yellow
+2204037,68,Pará,Grêmio Porto Alegre,yellow
+2204037,69,Fred,Fluminense RJ,yellow-red
+2204037,81,Elivélton,Fluminense RJ,yellow
+2204033,27,David Braz,Santos FC,yellow
+2204033,40,Neto,Santos FC,yellow
+2204033,83,Thiago Ribeiro,Santos FC,yellow
+2204033,69,Emerson,Atlético Mineiro,yellow
+2204033,71,Victor,Atlético Mineiro,yellow
+2204033,88,Leonardo Silva,Atlético Mineiro,yellow
+2204038,44,Eduardo Santos,Criciúma EC,yellow-red
+2204038,90,Rodrigo Souza,Criciúma EC,yellow
+2204038,36,Willians,Internacional,yellow
+2204038,54,Rafael Moura,Internacional,yellow
+2204038,80,Juan,Internacional,yellow
+2204031,18,Durval,Sport Club Recife,yellow
+2204031,48,Rithely,Sport Club Recife,yellow
+2204031,51,Magrão,Sport Club Recife,yellow
+2204031,61,Patric,Sport Club Recife,yellow
+2204031,82,Zé Mário,Sport Club Recife,yellow
+2204031,90,Aílton,Sport Club Recife,yellow
+2204031,19,Anderson Talisca,EC Bahia,yellow
+2204031,51,Marcelo Lomba,EC Bahia,yellow-red
+2204031,52,Fahel,EC Bahia,yellow
+2204031,83,Roniery,EC Bahia,yellow-red
+2204040,22,Alecsandro,Flamengo RJ,yellow
+2204040,53,Elano,Flamengo RJ,yellow
+2204040,69,Éverton,Flamengo RJ,yellow
+2204040,11,Titi,EC Bahia,yellow
+2204044,24,Alex,Coritiba FC,yellow
+2204044,45,Roni,Coritiba FC,yellow
+2204044,25,Wellington,Internacional,yellow
+2204044,54,Valdivia,Internacional,yellow
+2204044,56,Índio,Internacional,yellow
+2204044,70,Otávio,Internacional,yellow
+2204044,75,Dida,Internacional,yellow
+2204044,90,Wellington Paulista,Internacional,yellow
+2204048,86,João Vitor,Criciúma EC,yellow
+2204041,55,Darío Conca,Fluminense RJ,yellow
+2204041,45,Luís Fabiano,São Paulo FC,yellow
+2204041,55,Paulo Miranda,São Paulo FC,yellow
+2204041,70,Alexandre Pato,São Paulo FC,yellow
+2204041,83,Reinaldo,São Paulo FC,yellow
+2204042,75,Jádson,Corinthians SP,yellow
+2204042,21,Natanael Pimienta,Atlético Paranaense,yellow
+2204042,25,Marcos Guilherme,Atlético Paranaense,yellow
+2204042,49,Sueliton,Atlético Paranaense,yellow
+2204042,73,Cleberson,Atlético Paranaense,yellow
+2204042,90,Otavio,Atlético Paranaense,yellow
+2204047,73,Hernán Barcos,Grêmio Porto Alegre,yellow
+2204047,88,Alan Ruíz,Grêmio Porto Alegre,yellow
+2204047,40,Gabriel,Botafogo RJ,yellow
+2204047,43,Carlos Alberto,Botafogo RJ,yellow
+2204047,71,Emerson Sheik,Botafogo RJ,yellow
+2204043,11,Wendel,SE Palmeiras,yellow
+2204043,83,William Matheus,SE Palmeiras,yellow
+2204043,52,Luan,Figueirense,yellow
+2204043,58,Thiago Heleno,Figueirense,yellow
+2204043,62,Marquinhos,Figueirense,yellow
+2204049,37,Esquerdinha,Goiás EC,yellow
+2204049,38,Thiago Mendes,Goiás EC,yellow
+2204049,77,David,Goiás EC,yellow
+2204049,12,David Braz,Santos FC,yellow
+2204049,45,Gabriel,Santos FC,yellow
+2204046,35,Ayrton,EC Vitória BA,yellow
+2204046,45,Alemão,EC Vitória BA,yellow
+2204046,30,Marion,Atlético Mineiro,yellow
+2204046,45,Pierre,Atlético Mineiro,yellow
+2204056,78,Branquinho,EC Bahia,yellow
+2204052,28,Souza,São Paulo FC,yellow
+2204052,31,Ganso,São Paulo FC,yellow
+2204052,62,Douglas,São Paulo FC,yellow
+2204052,72,Maicon,São Paulo FC,yellow
+2204052,27,Ramiro,Grêmio Porto Alegre,yellow
+2204052,60,Breno,Grêmio Porto Alegre,yellow
+2204051,34,Rodrigo Mancha,Sport Club Recife,yellow
+2204051,54,Durval,Sport Club Recife,yellow-red
+2204051,71,Patric,Sport Club Recife,yellow
+2204051,72,Neto Baiano,Sport Club Recife,red
+2204051,45,Bruno Henrique,Corinthians SP,yellow
+2204053,3,Jubal Júnior,Santos FC,yellow
+2204053,77,Geuvânio,Santos FC,red
+2204053,90,David Braz,Santos FC,yellow
+2204053,24,Samir,Flamengo RJ,yellow
+2204053,44,Luiz Antônio,Flamengo RJ,yellow
+2204053,80,Amaral,Flamengo RJ,yellow
+2204054,12,Cleberson,Atlético Paranaense,yellow
+2204054,39,Otavio,Atlético Paranaense,yellow
+2204054,44,Wéverton,Atlético Paranaense,yellow
+2204054,20,Júlio César,Coritiba FC,yellow
+2204054,58,Welinton Souza,Coritiba FC,yellow
+2204054,66,Keirrison,Coritiba FC,yellow
+2204054,67,Geraldo,Coritiba FC,yellow
+2204054,90,Carlinhos,Coritiba FC,yellow
+2204058,88,Marquinhos,Figueirense,yellow
+2204058,72,Thiago Mendes,Goiás EC,yellow
+2204058,89,Alex Alves,Goiás EC,yellow
+2204050,30,Emerson Sheik,Botafogo RJ,yellow
+2204050,57,Mario Bolatti,Botafogo RJ,yellow
+2204050,69,Júnior César,Botafogo RJ,yellow
+2204050,90,Gabriel,Botafogo RJ,yellow
+2204050,30,Neto Coruja,EC Vitória BA,yellow
+2204050,55,Josa,EC Vitória BA,yellow
+2204050,77,Tarracha,EC Vitória BA,yellow
+2204050,81,Wilson,EC Vitória BA,yellow
+2204055,44,Alex Silva,Atlético Mineiro,yellow
+2204055,56,Leandro Donizete,Atlético Mineiro,yellow
+2204055,43,João Vitor,Criciúma EC,yellow
+2204055,59,Bruno Cortês,Criciúma EC,yellow
+2204057,68,Wellington,Internacional,yellow
+2204057,35,Dagoberto,Cruzeiro EC,yellow
+2204057,90,Ricardo Goulart,Cruzeiro EC,yellow
+2204059,33,Fabiano,Chapecoense,yellow
+2204059,45,Neném,Chapecoense,yellow
+2204059,29,Wesley,SE Palmeiras,yellow
+2204059,60,Lúcio,SE Palmeiras,yellow
+2204061,66,Renê,Sport Club Recife,yellow
+2204061,28,Pará,Grêmio Porto Alegre,yellow
+2204061,58,Dudu,Grêmio Porto Alegre,yellow
+2204063,70,Wesley,SE Palmeiras,yellow-red
+2204063,9,Mario Bolatti,Botafogo RJ,yellow
+2204063,16,Emerson Sheik,Botafogo RJ,yellow
+2204063,86,Rodrigo Souto,Botafogo RJ,yellow
+2204068,25,Silvinho,Criciúma EC,yellow
+2204068,37,Serginho,Criciúma EC,yellow
+2204068,63,Bruno Lopes,Criciúma EC,yellow
+2204068,73,Paulo Baier,Criciúma EC,yellow
+2204068,78,Eduardo Santos,Criciúma EC,yellow
+2204068,27,Jajá,Coritiba FC,yellow
+2204068,35,Denner,Coritiba FC,yellow
+2204068,59,Chico,Coritiba FC,yellow
+2204068,84,Júlio César,Coritiba FC,yellow
+2204068,89,Norberto Neto,Coritiba FC,yellow
+2204067,23,Andrés DAlessandro,Internacional,yellow
+2204067,90,Dida,Internacional,yellow
+2204067,52,Neuton,Chapecoense,yellow
+2204067,77,Wanderson,Chapecoense,yellow
+2204067,79,André Paulinho,Chapecoense,yellow
+2204067,81,Diones,Chapecoense,yellow
+2204062,75,Petros,Corinthians SP,yellow
+2204062,84,Cléber Reis,Corinthians SP,yellow
+2204064,24,Léo Pereira,Atlético Paranaense,yellow
+2204064,65,Deivid,Atlético Paranaense,yellow
+2204064,78,Osvaldo,São Paulo FC,yellow
+2204065,36,Pierre,Atlético Mineiro,yellow
+2204065,41,Leonardo Silva,Atlético Mineiro,yellow
+2204065,70,Emerson,Atlético Mineiro,yellow
+2204065,71,Leandro Donizete,Atlético Mineiro,yellow
+2204065,75,Jesús Dátolo,Atlético Mineiro,yellow
+2204065,81,Alex Silva,Atlético Mineiro,yellow
+2204065,87,Edcarlos,Atlético Mineiro,yellow
+2204065,4,Gum,Fluminense RJ,yellow
+2204065,36,Chiquinho,Fluminense RJ,yellow
+2204065,44,Carlinhos,Fluminense RJ,yellow
+2204065,70,Kenedy,Fluminense RJ,yellow
+2204065,84,Michael,Fluminense RJ,red
+2204060,85,Luan,Figueirense,yellow
+2204066,10,Titi,EC Bahia,yellow
+2204066,32,Henrique Almeida,EC Bahia,yellow
+2204066,35,Fahel,EC Bahia,yellow
+2204066,63,Guilherme Santos,EC Bahia,yellow
+2204066,13,Cicinho,Santos FC,yellow
+2204066,26,Alan Santos,Santos FC,yellow
+2204072,61,Denilson,São Paulo FC,yellow
+2204072,77,Lucão Cavalcante,São Paulo FC,yellow
+2204072,84,Reinaldo,São Paulo FC,yellow
+2204072,84,Pierre,Atlético Mineiro,yellow
+2204072,85,Emerson,Atlético Mineiro,yellow
+2204074,40,Gil,Coritiba FC,yellow
+2204074,42,Reginaldo,Coritiba FC,yellow
+2204074,50,Vanderlei,Coritiba FC,yellow
+2204074,65,Germano,Coritiba FC,yellow
+2204074,2,Alex Alves,Goiás EC,yellow
+2204074,72,Lucas Lima,Goiás EC,yellow
+2204076,35,Tarracha,EC Vitória BA,yellow
+2204076,62,Vinícius,EC Vitória BA,yellow
+2204076,78,Josa,EC Vitória BA,yellow
+2204076,89,Euller,EC Vitória BA,yellow
+2204076,15,Rodrigo Mancha,Sport Club Recife,yellow
+2204076,18,Érico Júnior,Sport Club Recife,yellow
+2204076,59,Durval,Sport Club Recife,yellow
+2204075,74,Luiz Antônio,Flamengo RJ,yellow
+2204077,30,Werley,Grêmio Porto Alegre,yellow
+2204077,72,Maxi Rodríguez,Grêmio Porto Alegre,yellow
+2204077,76,Ramiro,Grêmio Porto Alegre,yellow
+2204077,30,Henrique Dourado,SE Palmeiras,yellow
+2204077,41,Marcelo Oliveira,SE Palmeiras,yellow
+2204077,57,Lúcio,SE Palmeiras,yellow
+2204077,86,Renato Augusto,SE Palmeiras,yellow
+2204077,88,Marquinhos Gabriel,SE Palmeiras,yellow
+2204079,54,Neuton,Chapecoense,yellow
+2204079,56,Bruno Silva,Chapecoense,yellow
+2204079,60,Bérgson,Chapecoense,yellow
+2204079,66,Alemão,Chapecoense,yellow
+2204079,48,Roniery,EC Bahia,yellow
+2204079,65,Anderson Talisca,EC Bahia,yellow
+2204079,71,Rafael Miranda,EC Bahia,yellow
+2204071,36,Diguinho,Fluminense RJ,yellow
+2204071,69,Bruno,Fluminense RJ,yellow
+2204071,38,Wellington Paulista,Internacional,yellow
+2204071,62,Cláudio Winck,Internacional,yellow
+2204071,90,Wellington,Internacional,yellow
+2204073,62,Cicinho,Santos FC,yellow
+2204073,85,Aranha,Santos FC,yellow
+2204073,34,Rodrigo Souza,Criciúma EC,yellow
+2204073,45,Sergio Escudero,Criciúma EC,yellow
+2204073,47,João Vitor,Criciúma EC,yellow
+2204073,72,Lucca,Criciúma EC,yellow
+2204078,20,Marquinhos,Figueirense,yellow
+2204078,59,Vitor Júnior,Figueirense,yellow
+2204078,62,Nem,Figueirense,yellow
+2204078,90,Thiago Heleno,Figueirense,yellow
+2204078,43,Deivid,Atlético Paranaense,yellow
+2204078,61,Léo Pereira,Atlético Paranaense,yellow
+2204078,67,Douglas Coutinho,Atlético Paranaense,yellow
+2204078,71,Natanael Pimienta,Atlético Paranaense,yellow
+2204070,21,Yuri Mamute,Botafogo RJ,yellow
+2204070,34,Rogério,Botafogo RJ,yellow
+2204070,72,Mario Bolatti,Botafogo RJ,yellow-red
+2204070,40,Fágner,Corinthians SP,yellow
+2204070,74,Fábio Santos,Corinthians SP,yellow
+2204081,57,Rithely,Sport Club Recife,yellow
+2204081,35,Lucas,Botafogo RJ,yellow
+2204081,41,Gabriel,Botafogo RJ,yellow
+2204084,90,Leandro Almeida,Coritiba FC,yellow
+2204084,47,Dener,Figueirense,yellow
+2204084,52,Luan,Figueirense,yellow
+2204087,85,Luan,Grêmio Porto Alegre,yellow
+2204087,24,Assuério,Goiás EC,yellow
+2204087,27,Valmir Lucas,Goiás EC,yellow
+2204087,68,Ramón,Goiás EC,yellow
+2204087,87,Alex Alves,Goiás EC,yellow
+2204080,62,Elano,Flamengo RJ,yellow
+2204080,26,Douglas Coutinho,Atlético Paranaense,yellow
+2204080,40,Lucas Olaza,Atlético Paranaense,yellow
+2204080,81,João Paulo,Atlético Paranaense,yellow
+2204086,12,Titi,EC Bahia,yellow
+2204086,40,Fahel,EC Bahia,yellow
+2204086,69,Léo Gago,EC Bahia,yellow
+2204086,72,Guilherme Santos,EC Bahia,yellow
+2204086,15,Osvaldo,São Paulo FC,yellow
+2204086,26,Álvaro Pereira,São Paulo FC,yellow
+2204086,35,Rodrigo Caio,São Paulo FC,yellow
+2204086,67,Antônio Carlos,São Paulo FC,yellow
+2204088,36,Sergio Escudero,Criciúma EC,yellow
+2204088,56,Eduardo Santos,Criciúma EC,yellow
+2204088,36,Rafael Sóbis,Fluminense RJ,yellow
+2204088,56,Carlinhos,Fluminense RJ,yellow
+2204082,52,Gil,Corinthians SP,yellow
+2204082,62,Paolo Guerrero,Corinthians SP,yellow
+2204082,70,Elías,Corinthians SP,yellow
+2204082,24,João Afonso,Internacional,yellow
+2204082,54,Wellington Silva,Internacional,yellow
+2204082,79,Willians,Internacional,yellow
+2204082,87,Paulão,Internacional,yellow
+2204083,6,Gabriel,Santos FC,yellow
+2204083,26,Wellington da Silva,SE Palmeiras,yellow
+2204083,48,Marcelo Oliveira,SE Palmeiras,yellow
+2204083,61,Wesley,SE Palmeiras,yellow
+2204085,49,Richarlyson,EC Vitória BA,yellow
+2204085,73,Alemão,EC Vitória BA,yellow
+2204085,83,José Welison,EC Vitória BA,yellow
+2204089,71,Rafael Lima,Chapecoense,yellow
+2204089,15,Marcos Rocha,Atlético Mineiro,yellow
+2204092,13,Rodrigo Caio,São Paulo FC,yellow
+2204092,64,Maicon,São Paulo FC,yellow
+2204092,65,Souza,São Paulo FC,yellow
+2204092,25,Rafael Lima,Chapecoense,yellow
+2204092,69,Rodrigo Biro,Chapecoense,yellow
+2204092,90,Bruno Silva,Chapecoense,yellow
+2204095,39,Marcos Rocha,Atlético Mineiro,yellow
+2204095,79,Guilherme,Atlético Mineiro,yellow
+2204095,90,Jemerson,Atlético Mineiro,yellow
+2204095,6,Léo Gago,EC Bahia,yellow
+2204095,36,Henrique Almeida,EC Bahia,yellow
+2204095,45,Demerson,EC Bahia,yellow
+2204095,90,Titi,EC Bahia,yellow
+2204098,61,Nirley,Figueirense,yellow
+2204098,64,Thiago Heleno,Figueirense,red
+2204098,37,Saimon,Grêmio Porto Alegre,yellow
+2204098,67,Dudu,Grêmio Porto Alegre,yellow
+2204098,79,Marcelo Grohe,Grêmio Porto Alegre,yellow
+2204098,87,Alan Ruíz,Grêmio Porto Alegre,yellow
+2204098,90,Geromel,Grêmio Porto Alegre,yellow
+2204098,90,Zé Roberto,Grêmio Porto Alegre,yellow
+2204090,9,Júnior César,Botafogo RJ,yellow
+2204090,74,Lucas,Botafogo RJ,yellow
+2204090,56,Luccas Claro,Coritiba FC,yellow
+2204093,58,William Mendieta,SE Palmeiras,yellow
+2204093,77,Henrique Dourado,SE Palmeiras,yellow
+2204093,90,Lúcio,SE Palmeiras,yellow
+2204093,16,Lucas Silva,Cruzeiro EC,yellow
+2204093,53,Henrique,Cruzeiro EC,yellow
+2204093,55,Egídio,Cruzeiro EC,yellow
+2204093,70,Fábio,Cruzeiro EC,yellow
+2204093,72,Willian Farias,Cruzeiro EC,yellow
+2204096,84,José Welison,EC Vitória BA,yellow
+2204096,73,Jádson,Corinthians SP,yellow
+2204097,38,Amaral,Flamengo RJ,yellow
+2204097,45,Chicão,Flamengo RJ,red
+2204091,61,Cícero,Fluminense RJ,yellow
+2204091,90,Henrique,Fluminense RJ,yellow
+2204091,89,David Braz,Santos FC,yellow
+2204094,73,Cleberson,Atlético Paranaense,yellow
+2204094,85,João Vitor,Criciúma EC,yellow
+2204099,89,Lucas Lima,Goiás EC,yellow
+2204099,33,Rithely,Sport Club Recife,yellow
+2204099,87,Patric,Sport Club Recife,yellow
+2204099,90,Wendel,Sport Club Recife,yellow
+2204103,60,David Braz,Santos FC,yellow
+2204103,69,Alison,Santos FC,yellow
+2204103,40,Rodrigo Biro,Chapecoense,yellow
+2204105,34,Marco Antonio,Figueirense,yellow
+2204105,49,Rivaldo,Figueirense,yellow
+2204108,36,João Vitor,Criciúma EC,yellow
+2204108,37,Serginho,Criciúma EC,yellow
+2204108,38,Sergio Escudero,Criciúma EC,yellow-red
+2204108,31,Wilson,EC Vitória BA,yellow
+2204108,43,Adriano,EC Vitória BA,yellow
+2204108,62,Luiz Gustavo,EC Vitória BA,yellow
+2204106,56,Uelliton,EC Bahia,yellow
+2204106,69,Léo Gago,EC Bahia,yellow
+2204106,61,Juan,Internacional,yellow
+2204106,62,Alan Patrick,Internacional,yellow
+2204101,53,Leonardo Silva,Atlético Mineiro,yellow
+2204101,56,Victor,Atlético Mineiro,yellow
+2204101,90,Leandro Donizete,Atlético Mineiro,yellow
+2204102,72,Paolo Guerrero,Corinthians SP,yellow
+2204102,64,Henrique Dourado,SE Palmeiras,yellow
+2204102,72,Wendel,SE Palmeiras,yellow
+2204104,34,Wéverton,Atlético Paranaense,yellow
+2204104,45,Sueliton,Atlético Paranaense,yellow
+2204104,87,Deivid,Atlético Paranaense,yellow
+2204104,90,Wálter,Fluminense RJ,yellow
+2204109,68,Erik,Goiás EC,yellow
+2204109,70,David,Goiás EC,yellow
+2204109,62,Ganso,São Paulo FC,yellow
+2204100,38,Leó Moura,Flamengo RJ,yellow
+2204100,75,Alecsandro,Flamengo RJ,yellow
+2204100,90,Víctor Cáceres,Flamengo RJ,yellow-red
+2204100,25,Carlos Alberto,Botafogo RJ,yellow
+2204100,71,Edílson,Botafogo RJ,yellow
+2204100,76,Aírton,Botafogo RJ,yellow
+2204100,88,Emerson Sheik,Botafogo RJ,yellow
+2204107,88,Matías Rodríguez,Grêmio Porto Alegre,yellow
+2204107,42,Luccas Claro,Coritiba FC,yellow
+2204107,54,Norberto Neto,Coritiba FC,yellow
+2204110,14,Edílson,Botafogo RJ,yellow
+2204110,49,Emerson Sheik,Botafogo RJ,yellow
+2204110,38,Henrique,Cruzeiro EC,yellow
+2204112,80,Douglas,São Paulo FC,yellow
+2204112,90,Luiz Silva,Criciúma EC,yellow
+2204113,10,Wendel,SE Palmeiras,yellow
+2204113,24,Lúcio,SE Palmeiras,yellow
+2204113,60,Leandro,SE Palmeiras,yellow
+2204113,3,Titi,EC Bahia,yellow
+2204113,23,Rhayner,EC Bahia,yellow
+2204113,70,Kieza,EC Bahia,yellow
+2204114,42,Zé Eduardo,Coritiba FC,yellow
+2204114,63,Alex,Coritiba FC,yellow
+2204114,90,Luccas Claro,Coritiba FC,yellow
+2204114,11,Ángel Romero,Corinthians SP,yellow
+2204114,66,Fágner,Corinthians SP,yellow-red
+2204118,43,Léo Lisboa,Figueirense,yellow
+2204118,90,Durval,Sport Club Recife,yellow
+2204119,21,Jailton,Chapecoense,yellow
+2204119,76,Abuda,Chapecoense,yellow
+2204119,85,Leandro Pereira,Chapecoense,yellow
+2204119,86,Neuton,Chapecoense,yellow
+2204119,77,Muralha,Flamengo RJ,yellow
+2204111,84,Wagner,Fluminense RJ,yellow
+2204111,82,David,Goiás EC,yellow
+2204115,11,Pierre,Atlético Mineiro,yellow
+2204115,90,Luan,Atlético Mineiro,yellow
+2204115,26,Sueliton,Atlético Paranaense,yellow
+2204115,59,Cléo,Atlético Paranaense,yellow
+2204115,70,Cleberson,Atlético Paranaense,yellow
+2204117,57,Paulão,Internacional,yellow-red
+2204117,86,Fabrício,Internacional,yellow
+2204117,87,Jorge Henrique,Internacional,yellow
+2204117,90,Ygor,Internacional,yellow
+2204117,39,Lucas Lima,Santos FC,yellow
+2204117,71,Eugenio Mena,Santos FC,yellow-red
+2204126,20,Roniery,EC Bahia,yellow
+2204126,24,Guilherme Santos,EC Bahia,yellow
+2204126,59,Demerson,EC Bahia,yellow
+2204126,61,Rhayner,EC Bahia,yellow
+2204126,27,Pedro Henrique,Goiás EC,yellow
+2204126,38,Bruno Mineiro,Goiás EC,yellow
+2204128,33,Martinez,Criciúma EC,yellow
+2204128,62,Serginho,Criciúma EC,yellow
+2204128,78,Lucca,Criciúma EC,yellow
+2204128,26,Léo,Cruzeiro EC,yellow
+2204121,14,Rafael Sóbis,Fluminense RJ,yellow
+2204121,80,Jean,Fluminense RJ,yellow
+2204121,84,Edwin Valencia,Fluminense RJ,yellow
+2204121,71,Baraka,Coritiba FC,yellow
+2204120,65,Wallace Reis,Flamengo RJ,yellow
+2204120,90,Víctor Cáceres,Flamengo RJ,yellow
+2204120,80,Patric,Sport Club Recife,yellow
+2204123,13,Lucas Lima,Santos FC,yellow
+2204123,39,David Braz,Santos FC,yellow
+2204123,45,Alison,Santos FC,yellow-red
+2204123,14,Paolo Guerrero,Corinthians SP,yellow
+2204123,30,Gil,Corinthians SP,yellow
+2204123,45,Fábio Santos,Corinthians SP,yellow
+2204124,5,Doria,Botafogo RJ,yellow
+2204124,64,Júnior César,Botafogo RJ,yellow
+2204124,71,Emerson Sheik,Botafogo RJ,yellow
+2204127,59,Alex,Internacional,yellow
+2204127,86,Cláudio Winck,Internacional,yellow
+2204127,90,Wellington Paulista,Internacional,yellow
+2204127,2,Rodriguinho,Grêmio Porto Alegre,yellow
+2204127,27,Marcelo Grohe,Grêmio Porto Alegre,yellow
+2204127,74,Fellipe Bastos,Grêmio Porto Alegre,yellow
+2204127,80,Ramiro,Grêmio Porto Alegre,yellow
+2204127,90,Pará,Grêmio Porto Alegre,yellow
+2204122,24,Antônio Carlos,São Paulo FC,yellow
+2204122,41,Osvaldo,São Paulo FC,yellow
+2204122,52,Kaká,São Paulo FC,yellow
+2204122,60,Douglas,São Paulo FC,yellow
+2204122,84,Denilson,São Paulo FC,yellow
+2204122,9,Euller,EC Vitória BA,yellow
+2204122,72,José Welison,EC Vitória BA,yellow
+2204125,17,Josué,Atlético Mineiro,yellow
+2204125,65,Wesley,SE Palmeiras,yellow
+2204125,79,Fernando Tobio,SE Palmeiras,yellow
+2204129,18,Rafael Lima,Chapecoense,yellow
+2204129,61,Zezinho,Chapecoense,yellow
+2204129,18,Marquinhos,Figueirense,yellow
+2204129,78,Luan,Figueirense,yellow
+2204139,51,Bruno Mineiro,Goiás EC,yellow
+2204139,37,Wellington,Internacional,yellow
+2204132,45,Ralf,Corinthians SP,yellow
+2204132,42,Rafael Miranda,EC Bahia,yellow
+2204132,86,Demerson,EC Bahia,yellow
+2204132,90,Fahel,EC Bahia,yellow
+2204132,90,Raul,EC Bahia,yellow
+2204133,48,Fernando Tobio,SE Palmeiras,yellow
+2204133,65,Lúcio,SE Palmeiras,yellow
+2204133,10,Souza,São Paulo FC,yellow
+2204133,59,Édson Silva,São Paulo FC,yellow
+2204133,67,Rafael Tolói,São Paulo FC,yellow
+2204133,74,Álvaro Pereira,São Paulo FC,yellow
+2204134,32,Germano,Coritiba FC,yellow
+2204134,82,Robinho,Coritiba FC,yellow-red
+2204134,42,Éverton,Flamengo RJ,yellow
+2204134,45,Héctor Canteros,Flamengo RJ,yellow
+2204134,57,Alecsandro,Flamengo RJ,yellow
+2204134,90,Marcelo,Flamengo RJ,yellow
+2204135,20,Éverton Ribeiro,Cruzeiro EC,yellow
+2204135,47,Mayke,Cruzeiro EC,yellow
+2204135,89,Júlio Baptista,Cruzeiro EC,yellow
+2204135,54,Alan Santos,Santos FC,yellow
+2204136,41,Ayrton,EC Vitória BA,yellow
+2204136,56,Jailton,Chapecoense,yellow
+2204137,40,Matías Rodríguez,Grêmio Porto Alegre,yellow
+2204137,30,Serginho,Criciúma EC,yellow
+2204137,64,João Vitor,Criciúma EC,yellow
+2204130,14,Aírton,Botafogo RJ,yellow
+2204130,63,Gabriel,Botafogo RJ,yellow
+2204130,72,Luis Ramírez,Botafogo RJ,yellow
+2204130,43,Edwin Valencia,Fluminense RJ,yellow
+2204130,71,Bruno,Fluminense RJ,yellow
+2204131,22,Régis,Sport Club Recife,yellow
+2204131,52,Wendel,Sport Club Recife,yellow
+2204131,65,Felipe Azevedo,Sport Club Recife,yellow
+2204131,87,Patric,Sport Club Recife,yellow
+2204131,22,João Paulo,Atlético Paranaense,yellow
+2204131,62,Deivid,Atlético Paranaense,yellow
+2204131,69,Cleberson,Atlético Paranaense,yellow
+2204138,27,Jean,Figueirense,yellow
+2204138,42,Marco Antonio,Figueirense,yellow
+2204138,53,Thiago Heleno,Figueirense,yellow
+2204138,73,Roberto Cereceda,Figueirense,yellow
+2204138,73,Tiago Volpi,Figueirense,yellow
+2204138,90,Vitor Júnior,Figueirense,yellow
+2204138,42,Pedro Botelho,Atlético Mineiro,yellow
+2204138,44,Leonardo Silva,Atlético Mineiro,yellow
+2204138,62,Alex Silva,Atlético Mineiro,yellow
+2204138,85,Jesús Dátolo,Atlético Mineiro,yellow
+2204138,88,Jemerson,Atlético Mineiro,yellow
+2204143,14,Léo Pereira,Atlético Paranaense,yellow
+2204143,46,Dráusio,Atlético Paranaense,yellow
+2204148,36,Clayton,Figueirense,yellow
+2204148,45,Luis Ramírez,Botafogo RJ,yellow
+2204148,67,Rogério,Botafogo RJ,yellow
+2204144,38,Gil,Coritiba FC,yellow
+2204144,66,Zé Rafael,Coritiba FC,yellow
+2204144,90,Hélder,Coritiba FC,yellow
+2204144,29,Ayrton,EC Vitória BA,yellow
+2204146,41,Titi,EC Bahia,yellow
+2204146,70,Rhayner,EC Bahia,yellow
+2204146,38,Giovanni,Criciúma EC,yellow
+2204146,73,João Vitor,Criciúma EC,yellow
+2204146,76,Rodrigo Souza,Criciúma EC,yellow
+2204146,82,Bruno Cortês,Criciúma EC,yellow
+2204146,90,Luiz Silva,Criciúma EC,yellow
+2204140,54,João Paulo,Flamengo RJ,yellow
+2204140,56,Héctor Canteros,Flamengo RJ,yellow
+2204140,28,Rafael Carioca,Atlético Mineiro,yellow
+2204140,29,Alex Silva,Atlético Mineiro,yellow
+2204147,90,Fabrício,Internacional,yellow
+2204147,55,Húdson,São Paulo FC,yellow
+2204149,6,Jailton,Chapecoense,yellow
+2204149,24,Abuda,Chapecoense,yellow
+2204149,6,Henrique,Fluminense RJ,yellow
+2204149,90,Carlinhos,Fluminense RJ,yellow-red
+2204149,90,Cícero,Fluminense RJ,yellow
+2204142,79,Luciano,Corinthians SP,yellow
+2204142,69,David,Goiás EC,yellow
+2204142,77,Thiago Mendes,Goiás EC,yellow
+2204142,84,Samuel Rosa,Goiás EC,yellow
+2204145,50,Lucas Silva,Cruzeiro EC,yellow
+2204145,56,Henrique,Cruzeiro EC,yellow
+2204145,73,Nílton,Cruzeiro EC,yellow
+2204145,87,Alisson,Cruzeiro EC,yellow
+2204145,90,Dedé,Cruzeiro EC,yellow
+2204145,48,Edinho,Grêmio Porto Alegre,yellow
+2204145,65,Dudu,Grêmio Porto Alegre,yellow
+2204145,76,Zé Roberto,Grêmio Porto Alegre,yellow
+2204150,40,Juan Ferreyra,Botafogo RJ,yellow
+2204150,90,Bolívar,Botafogo RJ,yellow
+2204150,49,Fabiano,Chapecoense,yellow
+2204155,76,Luan,Atlético Mineiro,yellow
+2204155,81,Diego Tardelli,Atlético Mineiro,yellow
+2204155,90,Jesús Dátolo,Atlético Mineiro,yellow
+2204155,33,Andrés DAlessandro,Internacional,yellow
+2204155,35,Wellington,Internacional,yellow
+2204153,18,Marcelo Oliveira,SE Palmeiras,yellow
+2204153,23,Leandro,SE Palmeiras,yellow
+2204153,55,Fernando Tobio,SE Palmeiras,yellow
+2204153,73,Wendel,SE Palmeiras,yellow
+2204153,83,Gabriel Dias,SE Palmeiras,yellow
+2204153,90,Henrique Dourado,SE Palmeiras,yellow
+2204153,27,Baraka,Coritiba FC,yellow
+2204153,36,Welinton Souza,Coritiba FC,yellow
+2204153,44,Robinho,Coritiba FC,yellow
+2204153,45,Leandro Almeida,Coritiba FC,red
+2204153,55,Zé Eduardo,Coritiba FC,yellow
+2204151,56,Cícero,Fluminense RJ,yellow
+2204152,1,Alexandre Pato,São Paulo FC,yellow
+2204152,65,Rafael Tolói,São Paulo FC,yellow
+2204152,73,Paulo Miranda,São Paulo FC,yellow
+2204152,84,Álvaro Pereira,São Paulo FC,yellow
+2204152,72,David Braz,Santos FC,yellow
+2204156,53,Caio,EC Vitória BA,yellow
+2204156,85,Roger Carvalho,EC Vitória BA,yellow
+2204156,45,Luan,Figueirense,yellow
+2204156,49,Rivaldo,Figueirense,yellow
+2204157,55,Rhodolfo,Grêmio Porto Alegre,yellow
+2204157,81,Matheus Biteco,Grêmio Porto Alegre,yellow
+2204157,24,Anderson Martins,Corinthians SP,yellow
+2204157,42,Nicolás Lodeiro,Corinthians SP,yellow
+2204157,55,Elías,Corinthians SP,yellow
+2204157,90,Paolo Guerrero,Corinthians SP,red
+2204158,34,Silvinho,Criciúma EC,yellow
+2204158,37,Cléber Santana,Criciúma EC,yellow
+2204158,76,João Vitor,Criciúma EC,red
+2204154,60,Bady,Atlético Paranaense,yellow
+2204154,58,Maxi Biancucchi,EC Bahia,yellow
+2204159,55,Thiago Mendes,Goiás EC,yellow
+2204159,69,Bruno Mineiro,Goiás EC,yellow
+2204159,77,Jackson Souza,Goiás EC,yellow
+2204159,87,Leo Veloso,Goiás EC,yellow
+2204159,82,Ceará,Cruzeiro EC,yellow
+2204159,90,Dedé,Cruzeiro EC,yellow
+2204159,90,Miguel Samudio,Cruzeiro EC,yellow
+2204163,13,William Mendieta,SE Palmeiras,yellow
+2204163,51,Sebastián Eguren,SE Palmeiras,yellow
+2204163,11,Rafael Moura,Internacional,yellow
+2204163,16,Paulão,Internacional,yellow
+2204163,53,Gilberto,Internacional,yellow
+2204165,54,Ricardo Goulart,Cruzeiro EC,yellow
+2204165,67,Henrique,Cruzeiro EC,yellow
+2204165,70,Éverton Ribeiro,Cruzeiro EC,yellow
+2204165,79,Lucas Silva,Cruzeiro EC,yellow
+2204165,23,Ednei,Chapecoense,yellow
+2204165,37,Abuda,Chapecoense,yellow
+2204165,89,Zezinho,Chapecoense,yellow
+2204160,44,Edílson,Botafogo RJ,yellow
+2204160,69,Emerson Sheik,Botafogo RJ,yellow
+2204160,57,Edu Dracena,Santos FC,yellow
+2204160,90,Cicinho,Santos FC,yellow
+2204161,44,Zé Mário,Sport Club Recife,yellow
+2204161,51,Danilo Barcelos,Sport Club Recife,yellow
+2204161,57,Wendel,Sport Club Recife,yellow
+2204161,36,Rafael Costa,Criciúma EC,yellow
+2204161,50,Serginho,Criciúma EC,yellow
+2204161,57,Eduardo Santos,Criciúma EC,yellow
+2204161,66,Bruno Cortês,Criciúma EC,yellow
+2204162,82,Gil,Corinthians SP,yellow
+2204162,87,Elías,Corinthians SP,yellow
+2204162,90,Luciano,Corinthians SP,yellow
+2204162,83,Diguinho,Fluminense RJ,yellow
+2204162,90,Rafael Sóbis,Fluminense RJ,yellow
+2204164,56,Dudu,Coritiba FC,yellow
+2204164,90,Gil,Coritiba FC,yellow
+2204164,49,Alex Silva,Atlético Mineiro,yellow
+2204164,55,Jemerson,Atlético Mineiro,yellow
+2204164,59,Leandro Donizete,Atlético Mineiro,yellow
+2204164,90,André,Atlético Mineiro,yellow
+2204168,61,Paulo Roberto,Figueirense,yellow
+2204168,32,Ademilson,São Paulo FC,yellow
+2204168,88,Michel Bastos,São Paulo FC,red
+2204168,90,Kaká,São Paulo FC,yellow
+2204166,69,Richarlyson,EC Vitória BA,yellow
+2204166,78,Damián Escudero,EC Vitória BA,yellow
+2204166,29,Alecsandro,Flamengo RJ,yellow
+2204166,65,Éverton,Flamengo RJ,yellow
+2204166,78,Wallace Reis,Flamengo RJ,yellow
+2204167,26,Matías Rodríguez,Grêmio Porto Alegre,yellow
+2204167,37,Fellipe Bastos,Grêmio Porto Alegre,yellow
+2204167,76,Hernán Barcos,Grêmio Porto Alegre,yellow
+2204167,89,Ramiro,Grêmio Porto Alegre,yellow
+2204167,4,Fahel,EC Bahia,yellow
+2204167,49,Guilherme Santos,EC Bahia,yellow
+2204167,61,Kieza,EC Bahia,yellow
+2204170,86,Amaral,Flamengo RJ,yellow
+2204170,45,Walace,Grêmio Porto Alegre,yellow
+2204170,87,Fellipe Bastos,Grêmio Porto Alegre,yellow
+2204173,79,Edu Dracena,Santos FC,yellow
+2204173,9,Luiz Gustavo,EC Vitória BA,yellow
+2204173,17,Nino Paraíba,EC Vitória BA,yellow
+2204173,60,Ednei,EC Vitória BA,yellow
+2204173,75,Roberto Fernández,EC Vitória BA,yellow
+2204173,77,Juan,EC Vitória BA,yellow
+2204179,11,Rodrigo Biro,Chapecoense,yellow
+2204179,64,Douglas Grolli,Chapecoense,yellow
+2204179,51,Valmir Lucas,Goiás EC,yellow
+2204171,14,Cícero,Fluminense RJ,yellow
+2204171,27,Ceará,Cruzeiro EC,yellow
+2204171,66,Dedé,Cruzeiro EC,yellow
+2204171,70,Willian,Cruzeiro EC,yellow
+2204171,90,Marquinhos,Cruzeiro EC,yellow
+2204172,35,Ronaldo,Sport Club Recife,yellow
+2204172,90,Rithely,Sport Club Recife,yellow
+2204175,26,Emerson,Atlético Mineiro,yellow
+2204175,83,Luan,Atlético Mineiro,yellow
+2204175,87,Guilherme,Atlético Mineiro,yellow
+2204175,45,Mario Bolatti,Botafogo RJ,yellow
+2204175,46,Dankler,Botafogo RJ,yellow-red
+2204175,70,Luis Ramírez,Botafogo RJ,yellow
+2204178,32,Fábio Ferreira,Criciúma EC,yellow
+2204178,45,Rodrigo Souza,Criciúma EC,yellow
+2204178,51,Cléber Santana,Criciúma EC,yellow
+2204178,88,Maurinho,Criciúma EC,yellow
+2204178,90,Luís Felipe,Criciúma EC,yellow
+2204178,35,Felipe Monteiro,Corinthians SP,yellow
+2204178,67,Bruno Henrique,Corinthians SP,yellow
+2204178,72,Fágner,Corinthians SP,yellow
+2204174,22,Cleberson,Atlético Paranaense,yellow
+2204174,30,Dellatorre,Atlético Paranaense,yellow
+2204174,64,Wéverton,Atlético Paranaense,yellow
+2204174,64,Josimar,SE Palmeiras,red
+2204176,45,Roniery,EC Bahia,yellow
+2204176,62,Henrique Almeida,EC Bahia,yellow
+2204176,70,Kieza,EC Bahia,yellow
+2204176,85,Rhayner,EC Bahia,yellow
+2204176,89,Pará,EC Bahia,yellow
+2204176,76,Carlinhos,Coritiba FC,yellow
+2204176,90,Robinho,Coritiba FC,yellow
+2204177,36,Jorge Henrique,Internacional,yellow
+2204177,39,Alex,Internacional,yellow
+2204177,78,Wellington Paulista,Internacional,yellow
+2204177,14,Nem,Figueirense,yellow
+2204177,17,Tiago Volpi,Figueirense,yellow
+2204177,27,Thiago Heleno,Figueirense,yellow
+2204177,90,Roberto Cereceda,Figueirense,yellow-red
+2204183,42,Mauricio Victorino,SE Palmeiras,yellow
+2204183,63,Sebastián Eguren,SE Palmeiras,yellow
+2204183,71,Jonathan Cristaldo,SE Palmeiras,yellow
+2204183,90,Diogo,SE Palmeiras,yellow
+2204183,44,Luís Felipe,Criciúma EC,yellow
+2204183,58,Rodrigo Souza,Criciúma EC,yellow
+2204183,81,João Vitor,Criciúma EC,yellow
+2204187,64,Ramiro,Grêmio Porto Alegre,yellow
+2204187,69,Geromel,Grêmio Porto Alegre,yellow
+2204187,62,Marcos Guilherme,Atlético Paranaense,yellow
+2204187,75,João Paulo,Atlético Paranaense,yellow
+2204187,90,Natanael Pimienta,Atlético Paranaense,yellow
+2204188,53,Leandro Silva,Figueirense,yellow-red
+2204188,73,Nirley,Figueirense,yellow
+2204188,80,Marco Antonio,Figueirense,yellow
+2204188,11,Diguinho,Fluminense RJ,yellow
+2204188,54,Biro Biro,Fluminense RJ,yellow
+2204188,71,Bruno,Fluminense RJ,red
+2204181,26,Ibson,Sport Club Recife,yellow
+2204181,30,Renê,Sport Club Recife,yellow
+2204181,49,Wendel,Sport Club Recife,yellow
+2204181,70,Vitor,Sport Club Recife,yellow
+2204181,79,Danilo Barcelos,Sport Club Recife,yellow
+2204181,33,Alan Santos,Santos FC,yellow
+2204184,48,Alejandro Martinuccio,Coritiba FC,yellow
+2204184,66,Norberto Neto,Coritiba FC,yellow
+2204184,78,Welinton Souza,Coritiba FC,yellow
+2204184,66,Camilo,Chapecoense,yellow
+2204184,69,Fabiano,Chapecoense,yellow
+2204180,49,Aírton,Botafogo RJ,red
+2204180,72,Sidney,Botafogo RJ,yellow
+2204180,12,Souza,São Paulo FC,yellow
+2204180,45,Alexandre Pato,São Paulo FC,yellow
+2204186,82,Roberto Fernández,EC Vitória BA,yellow
+2204186,90,Fabrício,Internacional,yellow
+2204182,86,Petros,Corinthians SP,yellow
+2204182,90,Elías,Corinthians SP,yellow
+2204182,90,Leonardo Silva,Atlético Mineiro,yellow
+2204185,15,Henrique,Cruzeiro EC,yellow
+2204185,20,Guilherme Santos,EC Bahia,yellow
+2204185,20,Léo Gago,EC Bahia,yellow
+2204185,42,Fahel,EC Bahia,yellow-red
+2204185,55,Titi,EC Bahia,yellow-red
+2204191,50,Wagner,Fluminense RJ,yellow
+2204191,52,Diogo,SE Palmeiras,yellow
+2204191,62,Sebastián Eguren,SE Palmeiras,yellow
+2204191,67,Jonathan Cristaldo,SE Palmeiras,yellow
+2204191,90,Mauricio Victorino,SE Palmeiras,yellow
+2204199,84,Rodrigo Biro,Chapecoense,yellow
+2204199,19,Durval,Sport Club Recife,yellow
+2204199,38,Érico Júnior,Sport Club Recife,yellow
+2204199,85,Magrão,Sport Club Recife,yellow
+2204193,29,Alison,Santos FC,yellow
+2204193,60,Cicinho,Santos FC,yellow
+2204193,76,Leandro Damião,Santos FC,yellow
+2204193,78,David Braz,Santos FC,yellow
+2204193,7,Carlinhos,Coritiba FC,yellow
+2204193,53,Hélder,Coritiba FC,yellow
+2204193,61,Zé Eduardo,Coritiba FC,yellow
+2204190,37,Márcio Araújo,Flamengo RJ,yellow
+2204190,74,Víctor Cáceres,Flamengo RJ,yellow
+2204190,60,Fágner,Corinthians SP,yellow
+2204192,35,Kaká,São Paulo FC,yellow
+2204192,63,Alan Kardec,São Paulo FC,yellow
+2204192,65,Álvaro Pereira,São Paulo FC,yellow
+2204192,8,Dedé,Cruzeiro EC,yellow
+2204192,33,Ricardo Goulart,Cruzeiro EC,yellow
+2204196,42,Kieza,EC Bahia,yellow
+2204196,55,Rafinha,EC Bahia,yellow
+2204196,32,Giovanni Augusto,Figueirense,yellow
+2204197,68,Alan Ruschel,Internacional,yellow
+2204197,87,Bertotto,Internacional,yellow
+2204197,61,Rogério,Botafogo RJ,yellow
+2204197,83,Bolívar,Botafogo RJ,yellow
+2204197,90,Sidney,Botafogo RJ,yellow
+2204194,89,Willian Rocha,Atlético Paranaense,yellow
+2204194,7,José Welison,EC Vitória BA,yellow
+2204194,56,Willie,EC Vitória BA,yellow
+2204195,69,Marcos Rocha,Atlético Mineiro,yellow
+2204195,21,Ramiro,Grêmio Porto Alegre,yellow
+2204195,59,Zé Roberto,Grêmio Porto Alegre,yellow
+2204198,54,Gualberto,Criciúma EC,yellow
+2204198,63,Luís Felipe,Criciúma EC,yellow
+2204198,90,Serginho,Criciúma EC,yellow
+2204198,38,Tiago Real,Goiás EC,yellow
+2204198,39,Erik,Goiás EC,yellow
+2204198,45,Leo Veloso,Goiás EC,yellow
+2204198,85,Murilo,Goiás EC,yellow
+2204198,90,Thiago Mendes,Goiás EC,yellow
+2204205,29,Alisson,Cruzeiro EC,yellow
+2204206,56,Willie,EC Vitória BA,yellow
+2204201,38,Felipe Azevedo,Sport Club Recife,yellow
+2204201,58,Rithely,Sport Club Recife,yellow
+2204201,79,Gilberto,Internacional,yellow
+2204208,33,Thiago Heleno,Figueirense,yellow
+2204208,88,Willian Cordeiro,Figueirense,yellow
+2204208,34,Silvinho,Criciúma EC,yellow
+2204208,69,Zé Carlos,Criciúma EC,yellow
+2204208,75,Souza,Criciúma EC,yellow
+2204208,77,Paulo Baier,Criciúma EC,yellow
+2204200,57,Luis Ramírez,Botafogo RJ,red
+2204200,59,Emerson Sheik,Botafogo RJ,yellow-red
+2204200,76,Gabriel,Botafogo RJ,yellow
+2204200,90,Júlio César,Botafogo RJ,red
+2204200,90,Bolívar,Botafogo RJ,yellow
+2204200,18,Marcelo Lomba,EC Bahia,yellow
+2204200,40,Guilherme Santos,EC Bahia,yellow
+2204200,76,Marcos Aurélio,EC Bahia,yellow
+2204203,8,Juninho,SE Palmeiras,yellow
+2204203,82,Jorge Valdivia,SE Palmeiras,red
+2204203,19,Alecsandro,Flamengo RJ,yellow
+2204203,36,Héctor Canteros,Flamengo RJ,yellow
+2204203,40,Víctor Cáceres,Flamengo RJ,yellow
+2204203,69,Chicão,Flamengo RJ,yellow
+2204204,6,Alex,Coritiba FC,yellow
+2204204,17,Rosinei,Coritiba FC,yellow
+2204204,73,Luccas Claro,Coritiba FC,yellow
+2204204,83,Zé Eduardo,Coritiba FC,yellow
+2204204,87,Joel Tagueu,Coritiba FC,yellow
+2204204,24,Michel Bastos,São Paulo FC,yellow
+2204202,38,Jailton,Chapecoense,yellow
+2204202,77,Rodrigo Biro,Chapecoense,yellow
+2204202,82,Fabiano,Chapecoense,yellow
+2204209,90,Jô,Atlético Mineiro,yellow
+2204207,36,Matheus Biteco,Grêmio Porto Alegre,yellow
+2204207,42,Ramiro,Grêmio Porto Alegre,yellow
+2204214,61,Douglas Coutinho,Atlético Paranaense,yellow
+2204214,60,Fabrício,Internacional,yellow
+2204218,6,Gualberto,Criciúma EC,yellow
+2204218,36,João Vitor,Criciúma EC,yellow
+2204218,61,Silvinho,Criciúma EC,yellow
+2204218,71,Luís Felipe,Criciúma EC,yellow
+2204218,31,Sidney,Botafogo RJ,yellow
+2204218,34,Rogério,Botafogo RJ,yellow
+2204218,60,Dankler,Botafogo RJ,yellow
+2204218,63,Jefferson,Botafogo RJ,yellow
+2204210,28,Márcio Araújo,Flamengo RJ,yellow
+2204210,19,Darío Conca,Fluminense RJ,yellow
+2204210,38,Edwin Valencia,Fluminense RJ,yellow
+2204210,80,Jean,Fluminense RJ,yellow
+2204210,89,Rafinha,Fluminense RJ,yellow
+2204210,90,Carlinhos,Fluminense RJ,yellow
+2204211,79,Neto Baiano,Sport Club Recife,yellow
+2204211,90,Patric,Sport Club Recife,yellow
+2204211,67,Norberto Neto,Coritiba FC,yellow
+2204211,78,Robinho,Coritiba FC,yellow
+2204212,42,Paolo Guerrero,Corinthians SP,yellow
+2204212,45,Bruno Henrique,Corinthians SP,yellow
+2204212,81,Gil,Corinthians SP,yellow
+2204212,82,Malcom,Corinthians SP,yellow
+2204212,84,Fábio Santos,Corinthians SP,red
+2204212,90,Luciano,Corinthians SP,yellow
+2204212,66,Álvaro Pereira,São Paulo FC,red
+2204212,77,Ganso,São Paulo FC,yellow
+2204212,77,Édson Silva,São Paulo FC,yellow
+2204212,82,Kaká,São Paulo FC,yellow
+2204215,84,Leandro Donizete,Atlético Mineiro,yellow
+2204215,85,Diego Tardelli,Atlético Mineiro,yellow
+2204215,90,Carlos,Atlético Mineiro,yellow
+2204216,57,Dinei,EC Vitória BA,yellow
+2204216,65,Marcinho,EC Vitória BA,yellow
+2204216,90,Gustavo,EC Vitória BA,yellow
+2204216,8,Kieza,EC Bahia,yellow
+2204216,46,Uelliton,EC Bahia,yellow
+2204216,64,Branquinho,EC Bahia,yellow
+2204216,66,Maxi Biancucchi,EC Bahia,yellow
+2204213,83,David Braz,Santos FC,yellow
+2204213,7,Marquinhos,Figueirense,yellow
+2204213,59,Paulo Roberto,Figueirense,yellow
+2204217,58,Geromel,Grêmio Porto Alegre,yellow
+2204217,74,Matheus Biteco,Grêmio Porto Alegre,yellow
+2204217,49,Fabiano,Chapecoense,yellow
+2204217,84,Leandro Pereira,Chapecoense,yellow
+2204217,86,Rafael Lima,Chapecoense,yellow
+2204217,86,Hyoran,Chapecoense,yellow
+2204219,45,Jackson Souza,Goiás EC,yellow
+2204219,69,David,Goiás EC,yellow
+2204219,79,Moisés,Goiás EC,yellow
+2204219,90,Welinton,Goiás EC,yellow
+2204219,40,Diogo,SE Palmeiras,yellow
+2204219,74,Agustin Allione,SE Palmeiras,red
+2204224,7,Germano,Coritiba FC,yellow
+2204224,86,Alex,Coritiba FC,yellow
+2204224,90,Carlinhos,Coritiba FC,yellow
+2204224,38,Willian,Cruzeiro EC,yellow
+2204224,77,Dedé,Cruzeiro EC,yellow
+2204227,45,Rafael Moura,Internacional,yellow
+2204227,69,Wellington,Internacional,yellow
+2204227,45,Gualberto,Criciúma EC,yellow
+2204227,66,Souza,Criciúma EC,yellow
+2204227,75,Fábio Ferreira,Criciúma EC,yellow
+2204226,15,Lucas Fonseca,EC Bahia,yellow
+2204226,18,Kieza,EC Bahia,yellow
+2204226,17,Ronaldo,Sport Club Recife,yellow
+2204226,32,Henrique Mattos,Sport Club Recife,yellow
+2204226,53,Diego Souza,Sport Club Recife,yellow
+2204229,44,Rafael Lima,Chapecoense,yellow
+2204229,32,Gustavo Schiavolin,Atlético Paranaense,yellow
+2204229,57,Willian Rocha,Atlético Paranaense,yellow
+2204222,67,Ganso,São Paulo FC,yellow
+2204222,74,Michel Bastos,São Paulo FC,red
+2204222,39,Víctor Cáceres,Flamengo RJ,yellow
+2204222,82,João Paulo,Flamengo RJ,yellow
+2204222,88,Alecsandro,Flamengo RJ,yellow
+2204228,70,França,Figueirense,yellow
+2204228,90,Marco Antonio,Figueirense,yellow
+2204220,39,Bolívar,Botafogo RJ,yellow
+2204220,37,Moisés,Goiás EC,yellow
+2204220,80,Leo Veloso,Goiás EC,yellow
+2204223,36,Nathan Cardoso,SE Palmeiras,yellow
+2204223,49,Juninho,SE Palmeiras,yellow
+2204223,51,Richarlyson,EC Vitória BA,yellow
+2204223,55,Juan,EC Vitória BA,yellow
+2204223,76,Luís Aguiar,EC Vitória BA,yellow
+2204223,79,Mansur,EC Vitória BA,yellow
+2204225,81,Pierre,Atlético Mineiro,yellow
+2204225,83,Carlos,Atlético Mineiro,yellow
+2204225,89,André,Atlético Mineiro,yellow
+2204225,42,Alison,Santos FC,yellow
+2204225,52,Edu Dracena,Santos FC,yellow
+2204225,89,Neto,Santos FC,yellow
+2204231,11,Wendel,Sport Club Recife,yellow
+2204231,90,Augusto,Sport Club Recife,yellow
+2204231,90,Mayke,Cruzeiro EC,yellow
+2204239,40,Bruno Silva,Chapecoense,red
+2204239,45,Fabiano,Chapecoense,yellow
+2204239,43,Zé Carlos,Criciúma EC,red
+2204239,61,Giovanni,Criciúma EC,yellow
+2204239,68,Souza,Criciúma EC,yellow
+2204239,69,Joílson,Criciúma EC,yellow
+2204232,82,Álvaro Pereira,São Paulo FC,yellow
+2204232,85,Antônio Carlos,São Paulo FC,yellow
+2204232,89,Denilson,São Paulo FC,yellow
+2204232,41,Elivélton,Fluminense RJ,yellow
+2204230,30,Aírton,Botafogo RJ,yellow
+2204230,51,Gabriel,Botafogo RJ,yellow
+2204230,63,Dankler,Botafogo RJ,yellow
+2204230,45,Dudu,Grêmio Porto Alegre,yellow
+2204230,73,Walace,Grêmio Porto Alegre,yellow
+2204230,75,Hernán Barcos,Grêmio Porto Alegre,yellow
+2204230,86,Alan Ruíz,Grêmio Porto Alegre,yellow
+2204234,60,Natanael Pimienta,Atlético Paranaense,yellow
+2204234,64,Hernani,Atlético Paranaense,yellow
+2204234,81,Sueliton,Atlético Paranaense,yellow
+2204234,75,Gil,Corinthians SP,yellow
+2204234,90,Fágner,Corinthians SP,yellow
+2204235,67,Guilherme,Atlético Mineiro,yellow
+2204235,74,Diego Tardelli,Atlético Mineiro,yellow
+2204235,33,Kadu,EC Vitória BA,yellow
+2204235,76,Juan,EC Vitória BA,yellow
+2204236,42,Uelliton,EC Bahia,yellow
+2204233,74,Lucas Lima,Santos FC,yellow
+2204233,52,Jackson Souza,Goiás EC,yellow
+2204233,81,Esquerdinha,Goiás EC,yellow
+2204237,38,Willians,Internacional,yellow
+2204237,56,Zé Eduardo,Coritiba FC,yellow
+2204238,22,Paulo Roberto,Figueirense,yellow
+2204238,72,Nirley,Figueirense,yellow
+2204238,21,Marcelo Oliveira,SE Palmeiras,yellow
+2204238,37,Henrique Dourado,SE Palmeiras,yellow
+2204238,69,Bruninho,SE Palmeiras,yellow
+2204238,89,Nathan Cardoso,SE Palmeiras,red
+2204243,21,Zezinho,Chapecoense,yellow
+2204243,38,Fabinho,Chapecoense,yellow
+2204243,45,Rafael Lima,Chapecoense,yellow
+2204243,69,Rodrigo Biro,Chapecoense,yellow
+2204240,42,Víctor Cáceres,Flamengo RJ,yellow
+2204240,56,Héctor Canteros,Flamengo RJ,yellow
+2204240,77,Éverton,Flamengo RJ,yellow
+2204240,84,Alison,Santos FC,yellow
+2204240,86,Vladimir,Santos FC,yellow
+2204241,33,Fred,Fluminense RJ,yellow
+2204241,81,Jean,Fluminense RJ,yellow
+2204241,90,Edson,Fluminense RJ,yellow
+2204241,90,Lucas Fonseca,EC Bahia,yellow
+2204244,30,Norberto Neto,Coritiba FC,yellow
+2204244,19,Sueliton,Atlético Paranaense,yellow
+2204244,51,Deivid,Atlético Paranaense,yellow
+2204246,54,Nino Paraíba,EC Vitória BA,yellow
+2204246,60,Damián Escudero,EC Vitória BA,yellow
+2204246,41,Luis Ramírez,Botafogo RJ,yellow
+2204246,45,Gabriel,Botafogo RJ,yellow
+2204246,51,Dankler,Botafogo RJ,yellow
+2204247,31,Pará,Grêmio Porto Alegre,yellow
+2204247,54,Rhodolfo,Grêmio Porto Alegre,yellow
+2204247,61,Fellipe Bastos,Grêmio Porto Alegre,yellow
+2204247,66,Hernán Barcos,Grêmio Porto Alegre,yellow
+2204247,90,Zé Roberto,Grêmio Porto Alegre,yellow
+2204247,15,Húdson,São Paulo FC,yellow
+2204247,75,Édson Silva,São Paulo FC,yellow
+2204247,80,Reinaldo,São Paulo FC,yellow
+2204242,51,Durval,Sport Club Recife,yellow
+2204245,40,Dedé,Cruzeiro EC,yellow
+2204245,66,Henrique,Cruzeiro EC,yellow
+2204245,33,Fabrício,Internacional,yellow
+2204245,35,Willians,Internacional,yellow
+2204245,47,Rafael Moura,Internacional,yellow
+2204245,53,Juan,Internacional,yellow
+2204245,84,Andrés DAlessandro,Internacional,yellow
+2204248,66,Joílson,Criciúma EC,yellow
+2204248,36,Douglas Santos,Atlético Mineiro,yellow
+2204248,37,Edcarlos,Atlético Mineiro,yellow
+2204249,90,Mazola,Figueirense,yellow
+2204250,24,Matheus,Botafogo RJ,yellow
+2204250,76,Carlos Alberto,Botafogo RJ,yellow
+2204250,84,Luis Ramírez,Botafogo RJ,yellow
+2204250,39,Marcelo Oliveira,SE Palmeiras,yellow
+2204250,56,Juninho,SE Palmeiras,yellow
+2204250,74,Jorge Valdivia,SE Palmeiras,yellow
+2204252,55,Paulo Miranda,São Paulo FC,yellow
+2204252,59,Michel Bastos,São Paulo FC,yellow
+2204252,81,Ganso,São Paulo FC,yellow
+2204252,36,Gustavo Schiavolin,Atlético Paranaense,yellow
+2204252,60,Cléo,Atlético Paranaense,yellow
+2204254,20,Zé Eduardo,Coritiba FC,yellow
+2204254,66,Bruno Lopes,Criciúma EC,yellow
+2204256,71,Edno,EC Vitória BA,yellow
+2204256,83,Tiago Real,Goiás EC,yellow
+2204255,30,Henrique,Cruzeiro EC,yellow
+2204255,38,Anderson Martins,Corinthians SP,yellow
+2204255,90,Cássio,Corinthians SP,yellow
+2204257,7,Geromel,Grêmio Porto Alegre,yellow
+2204257,69,Giuliano,Grêmio Porto Alegre,yellow
+2204257,85,Walace,Grêmio Porto Alegre,yellow
+2204257,79,Wendel,Sport Club Recife,yellow
+2204258,11,França,Figueirense,yellow
+2204258,45,Willian Cordeiro,Figueirense,yellow
+2204258,74,Giovanni Augusto,Figueirense,yellow
+2204258,74,Thiago Heleno,Figueirense,yellow
+2204258,76,Clayton,Figueirense,yellow
+2204258,26,Paulo Victor,Flamengo RJ,yellow
+2204258,72,Gabriel,Flamengo RJ,yellow
+2204251,86,Cícero,Fluminense RJ,yellow
+2204251,26,Luan,Atlético Mineiro,yellow
+2204251,59,Leandro Donizete,Atlético Mineiro,yellow
+2204253,45,David Braz,Santos FC,yellow
+2204253,45,Kieza,EC Bahia,yellow
+2204259,75,Nilmar,Internacional,yellow
+2204259,86,Dida,Internacional,red
+2204262,4,Juan Ferreyra,Botafogo RJ,yellow
+2204262,33,Aírton,Botafogo RJ,yellow
+2204262,88,Edílson,Botafogo RJ,yellow
+2204269,45,Samuel Rosa,Goiás EC,yellow
+2204269,61,Erik,Goiás EC,yellow
+2204269,55,Leandro Almeida,Coritiba FC,yellow
+2204269,75,Gil,Coritiba FC,yellow
+2204263,15,Lúcio,SE Palmeiras,yellow
+2204263,10,Fellipe Bastos,Grêmio Porto Alegre,yellow
+2204263,63,Hernán Barcos,Grêmio Porto Alegre,yellow-red
+2204263,65,Cristian Riveros,Grêmio Porto Alegre,yellow
+2204263,81,Dudu,Grêmio Porto Alegre,yellow
+2204263,90,Ramiro,Grêmio Porto Alegre,yellow
+2204260,35,Víctor Cáceres,Flamengo RJ,yellow
+2204260,45,Marcelo,Flamengo RJ,yellow
+2204260,36,Marquinhos,Cruzeiro EC,yellow
+2204260,37,Nílton,Cruzeiro EC,yellow
+2204265,64,Denilson,São Paulo FC,yellow
+2204266,42,Uelliton,EC Bahia,yellow
+2204266,45,Abuda,Chapecoense,yellow
+2204266,53,Tiago Luis,Chapecoense,yellow-red
+2204267,6,Wellington Paulista,Internacional,yellow
+2204267,23,Willians,Internacional,yellow
+2204267,72,Nilmar,Internacional,yellow
+2204267,15,Jean,Fluminense RJ,yellow
+2204267,65,Marlon,Fluminense RJ,yellow
+2204267,90,Edson,Fluminense RJ,yellow
+2204261,68,Wendel,Sport Club Recife,yellow
+2204261,78,Durval,Sport Club Recife,yellow
+2204261,43,Edno,EC Vitória BA,yellow
+2204261,63,Roberto Fernández,EC Vitória BA,yellow
+2204261,71,Richarlyson,EC Vitória BA,yellow
+2204261,76,Gustavo,EC Vitória BA,yellow
+2204264,62,Cleberson,Atlético Paranaense,yellow
+2204264,88,Mosquito,Atlético Paranaense,yellow
+2204264,28,Marquinhos,Figueirense,yellow
+2204264,38,Everaldo,Figueirense,yellow
+2204264,56,Giovanni Augusto,Figueirense,yellow
+2204268,6,Cléber Santana,Criciúma EC,yellow
+2204268,49,João Vitor,Criciúma EC,yellow
+2204268,74,Ronaldo Alves,Criciúma EC,yellow
+2204268,80,Souza,Criciúma EC,yellow
+2204268,44,Cicinho,Santos FC,yellow
+2204271,31,Bruno,Fluminense RJ,yellow
+2204271,45,Fred,Fluminense RJ,yellow
+2204271,74,Darío Conca,Fluminense RJ,yellow
+2204271,80,Diego Cavalieri,Fluminense RJ,yellow
+2204271,88,Edson,Fluminense RJ,yellow
+2204271,9,João Vitor,Criciúma EC,yellow
+2204271,30,Joílson,Criciúma EC,yellow
+2204271,72,Zé Carlos,Criciúma EC,yellow
+2204271,81,Serginho,Criciúma EC,yellow
+2204271,84,Souza,Criciúma EC,yellow-red
+2204272,22,Michel Bastos,São Paulo FC,yellow
+2204272,37,Kaká,São Paulo FC,yellow
+2204272,78,Ganso,São Paulo FC,yellow
+2204272,90,Maicon,São Paulo FC,yellow
+2204272,90,Luís Fabiano,São Paulo FC,yellow
+2204272,36,Guilherme Santos,EC Bahia,yellow
+2204272,39,Rafael Miranda,EC Bahia,yellow
+2204279,26,Amaral,Goiás EC,yellow
+2204279,53,Felipe Macedo,Goiás EC,yellow
+2204279,72,Pedro Henrique,Goiás EC,yellow
+2204279,25,Pará,Grêmio Porto Alegre,yellow
+2204279,90,Matheus Bressan,Grêmio Porto Alegre,yellow
+2204275,78,Rodrigo Biro,Chapecoense,yellow
+2204273,8,Jorge Valdivia,SE Palmeiras,yellow
+2204273,45,Wesley,SE Palmeiras,yellow
+2204273,84,Henrique Dourado,SE Palmeiras,yellow
+2204273,34,Alison,Santos FC,yellow
+2204273,56,Eugenio Mena,Santos FC,yellow
+2204273,62,Robinho,Santos FC,yellow
+2204273,67,David Braz,Santos FC,yellow
+2204273,76,Geuvânio,Santos FC,yellow
+2204273,90,Edu Dracena,Santos FC,yellow
+2204274,80,Natanael Pimienta,Atlético Paranaense,yellow
+2204274,39,Leó Moura,Flamengo RJ,yellow
+2204277,41,Willians,Internacional,yellow
+2204277,45,Ernando,Internacional,yellow
+2204277,45,Paulão,Internacional,yellow
+2204277,74,Fabrício,Internacional,yellow
+2204277,90,Alex,Internacional,yellow
+2204277,29,Elías,Corinthians SP,yellow
+2204277,34,Paolo Guerrero,Corinthians SP,yellow
+2204277,50,Cássio,Corinthians SP,yellow
+2204277,55,Fágner,Corinthians SP,yellow
+2204277,74,Petros,Corinthians SP,yellow
+2204278,38,Nirley,Figueirense,yellow
+2204278,40,Jefferson,Figueirense,yellow
+2204278,89,Mazola,Figueirense,yellow
+2204278,28,Sérgio Manoel,Coritiba FC,yellow
+2204278,34,Vanderlei,Coritiba FC,yellow
+2204278,38,Zé Eduardo,Coritiba FC,yellow
+2204270,90,Ananias,Sport Club Recife,yellow
+2204276,29,Luiz Gustavo,EC Vitória BA,yellow
+2204276,69,Marcinho,EC Vitória BA,yellow
+2204276,90,Nino Paraíba,EC Vitória BA,yellow
+2204276,71,Lucas Silva,Cruzeiro EC,yellow
+2204276,76,Manoel,Cruzeiro EC,yellow
+2204286,44,Pará,EC Bahia,yellow
+2204286,87,Guilherme Santos,EC Bahia,yellow-red
+2204286,33,Josué,Atlético Mineiro,yellow
+2204286,63,Edcarlos,Atlético Mineiro,yellow
+2204286,64,Luan,Atlético Mineiro,yellow
+2204286,90,Diego Tardelli,Atlético Mineiro,red
+2204280,50,Chicão,Flamengo RJ,yellow
+2204280,90,João Paulo,Flamengo RJ,yellow
+2204280,44,Wellington Silva,Internacional,yellow
+2204282,86,Gil,Corinthians SP,yellow
+2204282,88,Gustavo,EC Vitória BA,yellow
+2204285,60,Egídio,Cruzeiro EC,yellow
+2204285,23,Bernardo,SE Palmeiras,yellow
+2204285,57,João Pedro,SE Palmeiras,yellow
+2204285,60,Juninho,SE Palmeiras,yellow
+2204285,90,Pablo Mouche,SE Palmeiras,yellow
+2204288,15,Martinez,Criciúma EC,yellow
+2204288,62,Bruno Lopes,Criciúma EC,yellow
+2204288,65,Giovanni,Criciúma EC,yellow
+2204288,90,Paulo Baier,Criciúma EC,yellow
+2204288,10,Gustavo Schiavolin,Atlético Paranaense,yellow
+2204288,57,Dellatorre,Atlético Paranaense,yellow
+2204288,86,Cléo,Atlético Paranaense,yellow
+2204284,69,Joel Tagueu,Coritiba FC,yellow
+2204284,76,Luccas Claro,Coritiba FC,yellow
+2204284,89,Gil,Coritiba FC,yellow
+2204284,15,Luis Ramírez,Botafogo RJ,yellow
+2204284,41,Aírton,Botafogo RJ,yellow-red
+2204284,51,Rogério,Botafogo RJ,yellow
+2204287,67,Luan,Grêmio Porto Alegre,yellow
+2204287,72,Zé Roberto,Grêmio Porto Alegre,yellow
+2204287,80,Cristian Riveros,Grêmio Porto Alegre,yellow
+2204287,0,Thiago Heleno,Figueirense,yellow
+2204287,18,Paulo Roberto,Figueirense,yellow
+2204287,82,Marco Antonio,Figueirense,yellow
+2204287,90,Rivaldo,Figueirense,red
+2204283,31,Rildo,Santos FC,yellow
+2204283,72,Eugenio Mena,Santos FC,yellow
+2204283,74,Guilherme Mattis,Fluminense RJ,yellow
+2204289,36,Douglas Grolli,Chapecoense,yellow
+2204289,41,Diones,Chapecoense,yellow
+2204289,40,Kaká,São Paulo FC,yellow
+2204289,72,Rafael Tolói,São Paulo FC,yellow
+2204289,76,Paulo Miranda,São Paulo FC,red
+2204289,85,Souza,São Paulo FC,yellow
+2204281,73,Henrique Mattos,Sport Club Recife,yellow
+2204281,5,Felipe Macedo,Goiás EC,yellow
+2204281,13,Jackson Souza,Goiás EC,yellow
+2204281,82,Tiago Real,Goiás EC,yellow
+2204281,90,Esquerdinha,Goiás EC,yellow
+2204291,50,Wagner,Fluminense RJ,yellow
+2204291,89,Cleberson,Atlético Paranaense,yellow
+2204293,42,Marcelo Oliveira,SE Palmeiras,yellow
+2204293,44,Nathan Cardoso,SE Palmeiras,yellow
+2204293,55,Henrique Dourado,SE Palmeiras,yellow
+2204293,81,Juninho,SE Palmeiras,yellow
+2204293,90,Washington,SE Palmeiras,yellow
+2204293,42,Fábio Santos,Corinthians SP,yellow
+2204293,44,Luciano,Corinthians SP,yellow
+2204293,55,Petros,Corinthians SP,yellow
+2204298,86,Lucas Silva,Cruzeiro EC,yellow
+2204294,72,Robinho,Coritiba FC,yellow
+2204294,90,Norberto Neto,Coritiba FC,yellow
+2204294,42,Matheus Biteco,Grêmio Porto Alegre,yellow
+2204294,51,Zé Roberto,Grêmio Porto Alegre,yellow
+2204294,84,Alan Ruíz,Grêmio Porto Alegre,yellow
+2204294,89,Lucas Coelho,Grêmio Porto Alegre,yellow
+2204294,90,Cristian Riveros,Grêmio Porto Alegre,yellow
+2204295,53,Victor,Atlético Mineiro,red
+2204295,68,Marcos Rocha,Atlético Mineiro,yellow
+2204295,19,Rodrigo Mancha,Sport Club Recife,yellow
+2204295,34,Diego Souza,Sport Club Recife,yellow
+2204295,42,Durval,Sport Club Recife,yellow
+2204296,59,João Vitor,Criciúma EC,yellow
+2204296,85,Joílson,Criciúma EC,yellow
+2204296,90,Bruno Lopes,Criciúma EC,yellow
+2204296,90,Ronaldo Alves,Criciúma EC,yellow
+2204299,23,Abuda,Chapecoense,yellow
+2204299,25,David Braz,Santos FC,yellow
+2204299,28,Bruno Uvini,Santos FC,yellow
+2204299,51,Cicinho,Santos FC,yellow
+2204299,87,Souza,Santos FC,yellow
+2204290,83,André Bahia,Botafogo RJ,yellow
+2204290,90,Jefferson,Botafogo RJ,yellow
+2204290,69,Léo,Flamengo RJ,yellow
+2204297,38,Charles Aránguiz,Internacional,yellow
+2204297,64,Alan Costa,Internacional,yellow
+2204297,33,Bruno Paulista,EC Bahia,yellow
+2204297,70,Uelliton,EC Bahia,yellow
+2204297,90,Lincoln,EC Bahia,yellow
+2204297,90,Demerson,EC Bahia,yellow
+2204292,63,Antônio Carlos,São Paulo FC,yellow
+2204292,63,Erik,Goiás EC,yellow
+2204292,76,Amaral,Goiás EC,yellow
+2204307,40,Richarlyson,EC Vitória BA,yellow
+2204309,37,Edson,Fluminense RJ,yellow
+2204309,54,Chiquinho,Fluminense RJ,yellow
+2204309,88,Diguinho,Fluminense RJ,yellow
+2204301,45,Diego Souza,Sport Club Recife,yellow
+2204301,54,Ronaldo,Sport Club Recife,yellow
+2204301,55,Patric,Sport Club Recife,yellow
+2204301,18,França,Figueirense,yellow
+2204301,63,Jefferson,Figueirense,yellow
+2204303,50,Edu Dracena,Santos FC,yellow
+2204303,76,Cicinho,Santos FC,yellow
+2204303,26,Fabrício,Internacional,yellow
+2204303,45,Jorge Henrique,Internacional,yellow
+2204303,61,Alan Patrick,Internacional,yellow
+2204303,75,Alisson,Internacional,yellow
+2204303,89,Charles Aránguiz,Internacional,yellow
+2204305,21,Lucas Silva,Cruzeiro EC,yellow
+2204305,44,Marquinhos,Cruzeiro EC,yellow
+2204305,15,Rodrigo Souto,Botafogo RJ,yellow
+2204305,33,Júnior César,Botafogo RJ,yellow
+2204305,61,Andreazzi,Botafogo RJ,yellow
+2204308,27,Fábio Ferreira,Criciúma EC,yellow
+2204308,43,Cléber Santana,Criciúma EC,yellow
+2204308,41,Húdson,São Paulo FC,yellow
+2204308,75,Álvaro Pereira,São Paulo FC,yellow
+2204300,28,Léo,Flamengo RJ,yellow
+2204300,88,Amaral,Flamengo RJ,yellow
+2204300,37,Rodrigo Biro,Chapecoense,yellow
+2204304,0,Douglas Coutinho,Atlético Paranaense,yellow
+2204304,86,Hernani,Atlético Paranaense,yellow
+2204304,53,Josué,Atlético Mineiro,yellow
+2204306,0,Douglas Pires,EC Bahia,yellow
+2204306,61,Guilherme Santos,EC Bahia,yellow
+2204306,76,Kieza,EC Bahia,yellow
+2204306,79,Maxi Biancucchi,EC Bahia,yellow
+2204306,50,Marcelo Oliveira,SE Palmeiras,yellow
+2204306,57,Wesley,SE Palmeiras,yellow
+2204306,90,Agustin Allione,SE Palmeiras,yellow
+2204313,57,Pierre,Atlético Mineiro,yellow
+2204314,39,Rosinei,Coritiba FC,yellow
+2204314,90,Zé Eduardo,Coritiba FC,yellow
+2204314,5,Wagner,Fluminense RJ,yellow
+2204314,5,Elivélton,Fluminense RJ,yellow
+2204314,62,Guilherme Mattis,Fluminense RJ,yellow
+2204314,89,Fabrício,Fluminense RJ,yellow
+2204314,90,Darío Conca,Fluminense RJ,yellow
+2204310,68,Júnior César,Botafogo RJ,red
+2204311,22,Wendel,Sport Club Recife,yellow
+2204311,32,Ewerton Páscoa,Sport Club Recife,yellow
+2204311,75,Felipe Azevedo,Sport Club Recife,yellow
+2204311,28,Léo,Flamengo RJ,yellow
+2204311,43,Víctor Cáceres,Flamengo RJ,yellow
+2204311,88,Samir,Flamengo RJ,yellow
+2204316,78,Dinei,EC Vitória BA,yellow
+2204316,88,Roger Carvalho,EC Vitória BA,yellow
+2204316,32,Álvaro Pereira,São Paulo FC,yellow
+2204317,31,Geromel,Grêmio Porto Alegre,yellow
+2204317,86,Alan Ruíz,Grêmio Porto Alegre,yellow
+2204317,41,Willians,Internacional,yellow
+2204317,86,Rafael Moura,Internacional,yellow
+2204318,84,Roberto Cereceda,Figueirense,yellow
+2204318,89,Marco Antonio,Figueirense,yellow
+2204318,90,Thiago Heleno,Figueirense,yellow
+2204312,60,Fágner,Corinthians SP,yellow
+2204312,65,Elías,Corinthians SP,yellow
+2204312,34,Victor Ferraz,Santos FC,yellow
+2204312,64,Edu Dracena,Santos FC,yellow
+2204315,45,Léo,Cruzeiro EC,yellow
+2204315,65,Mayke,Cruzeiro EC,yellow
+2204315,85,Bruno Rodrigo,Cruzeiro EC,yellow
+2204315,90,Éverton Ribeiro,Cruzeiro EC,yellow
+2204315,15,Giovanni,Criciúma EC,yellow
+2204315,15,Bruno Cortês,Criciúma EC,yellow
+2204315,30,Rafael Pereira,Criciúma EC,yellow
+2204315,80,Maurinho,Criciúma EC,yellow
+2204319,6,Pedro Henrique,Goiás EC,yellow
+2204319,26,Rafael Miranda,EC Bahia,yellow
+2204321,24,Marlon,Fluminense RJ,yellow
+2204321,58,Rafael Sóbis,Fluminense RJ,yellow
+2204321,66,Edson,Fluminense RJ,yellow
+2204321,87,Wagner,Fluminense RJ,yellow
+2204321,28,Andreazzi,Botafogo RJ,yellow
+2204321,86,Gegê,Botafogo RJ,yellow
+2204321,87,Marcelo Mattos,Botafogo RJ,yellow
+2204328,26,Lucca,Criciúma EC,yellow
+2204328,36,Martinez,Criciúma EC,yellow
+2204328,65,Cléber Santana,Criciúma EC,yellow
+2204328,71,Maurinho,Criciúma EC,yellow
+2204328,27,Luan,Grêmio Porto Alegre,yellow
+2204328,40,Fellipe Bastos,Grêmio Porto Alegre,yellow
+2204320,79,Héctor Canteros,Flamengo RJ,yellow
+2204320,15,Robinho,Coritiba FC,yellow
+2204320,78,Norberto Neto,Coritiba FC,yellow
+2204320,88,Leandro Almeida,Coritiba FC,yellow
+2204323,63,Lucas Lima,Santos FC,yellow
+2204323,70,Alison,Santos FC,yellow
+2204323,56,Henrique,Cruzeiro EC,yellow
+2204324,17,Gustavo Schiavolin,Atlético Paranaense,yellow
+2204324,28,Cleberson,Atlético Paranaense,yellow
+2204324,36,Danilo Barcelos,Sport Club Recife,yellow
+2204326,45,Fahel,EC Bahia,yellow
+2204326,55,Railan,EC Bahia,yellow
+2204326,42,Fábio Santos,Corinthians SP,yellow
+2204326,45,Petros,Corinthians SP,yellow
+2204327,45,Bertotto,Internacional,yellow
+2204327,63,Alan Ruschel,Internacional,yellow
+2204327,50,Esquerdinha,Goiás EC,yellow
+2204327,50,Tiago Real,Goiás EC,yellow
+2204327,81,David,Goiás EC,yellow
+2204322,30,Édson Silva,São Paulo FC,yellow
+2204322,34,Souza,São Paulo FC,yellow
+2204322,66,Alan Kardec,São Paulo FC,yellow
+2204322,23,Fernando Prass,SE Palmeiras,yellow
+2204322,81,Jonathan Cristaldo,SE Palmeiras,yellow
+2204325,42,Nirley,Figueirense,yellow
+2204325,63,Roberto Cereceda,Figueirense,yellow
+2204325,90,Jefferson,Figueirense,yellow
+2204329,60,Nino Paraíba,EC Vitória BA,yellow
+2204329,67,Richarlyson,EC Vitória BA,yellow
+2204329,90,Juan,EC Vitória BA,yellow
+2204332,32,Ganso,São Paulo FC,yellow
+2204332,45,Kaká,São Paulo FC,yellow
+2204332,90,Rogério Ceni,São Paulo FC,yellow
+2204332,90,Auro,São Paulo FC,yellow
+2204332,68,Ygor,Internacional,yellow
+2204332,85,Taiberson Ruan,Internacional,yellow
+2204332,90,Fabrício,Internacional,yellow-red
+2204330,1,Felipe,Figueirense,yellow
+2204330,5,França,Figueirense,yellow
+2204330,79,Tiago Volpi,Figueirense,yellow
+2204334,33,Cleberson,Atlético Paranaense,yellow
+2204334,45,Sueliton,Atlético Paranaense,yellow
+2204334,89,Alan Santos,Santos FC,yellow
+2204336,64,Luis Cáceres,EC Vitória BA,yellow
+2204336,73,Nino Paraíba,EC Vitória BA,yellow
+2204336,90,José Welison,EC Vitória BA,yellow
+2204336,31,Carlinhos,Coritiba FC,yellow
+2204336,90,Alejandro Martinuccio,Coritiba FC,yellow
+2204338,37,Bruno Lopes,Criciúma EC,yellow
+2204338,48,Souza,Criciúma EC,yellow
+2204338,63,João Vitor,Criciúma EC,yellow
+2204338,80,Bruno Cortês,Criciúma EC,yellow
+2204338,90,Railan,EC Bahia,yellow
+2204339,23,Felipe Macedo,Goiás EC,yellow
+2204339,72,Amaral,Goiás EC,yellow
+2204333,30,Marcelo Oliveira,SE Palmeiras,yellow
+2204333,90,Henrique Dourado,SE Palmeiras,yellow
+2204333,6,Joelinton,Sport Club Recife,yellow
+2204335,36,Luan,Atlético Mineiro,yellow
+2204335,85,Marcos Rocha,Atlético Mineiro,yellow
+2204331,68,Guilherme Mattis,Fluminense RJ,yellow
+2204331,75,Edwin Valencia,Fluminense RJ,yellow
+2204331,90,Carlinhos,Fluminense RJ,yellow
+2204331,19,Douglas Grolli,Chapecoense,yellow
+2204337,0,Cristian Riveros,Grêmio Porto Alegre,yellow
+2204337,42,Zé Roberto,Grêmio Porto Alegre,yellow
+2204337,63,Geromel,Grêmio Porto Alegre,yellow
+2204337,78,Pará,Grêmio Porto Alegre,yellow
+2204337,25,Mayke,Cruzeiro EC,yellow
+2204337,34,Miguel Samudio,Cruzeiro EC,yellow
+2204337,74,Willian Farias,Cruzeiro EC,yellow
+2204347,22,Charles Aránguiz,Internacional,yellow
+2204347,25,Fabrício,Internacional,yellow
+2204347,28,Andrés DAlessandro,Internacional,yellow
+2204347,43,Alan Costa,Internacional,yellow
+2204346,84,Titi,EC Bahia,yellow
+2204346,90,Guilherme Santos,EC Bahia,yellow-red
+2204340,59,Wallace Reis,Flamengo RJ,yellow
+2204340,41,Fábio Ferreira,Criciúma EC,yellow
+2204340,42,Barreto,Criciúma EC,yellow
+2204340,43,Giovanni,Criciúma EC,yellow
+2204340,60,Lucca,Criciúma EC,yellow
+2204341,45,Danilo Barcelos,Sport Club Recife,yellow
+2204341,54,Mike,Sport Club Recife,yellow
+2204341,81,Rodrigo Mancha,Sport Club Recife,yellow
+2204341,85,Durval,Sport Club Recife,yellow
+2204341,37,Fabrício,Fluminense RJ,yellow
+2204343,40,Lucas Lima,Santos FC,yellow
+2204343,77,Edu Dracena,Santos FC,yellow
+2204343,89,Alison,Santos FC,yellow
+2204343,82,Osvaldo,São Paulo FC,yellow
+2204345,32,Henrique,Cruzeiro EC,yellow
+2204345,25,Tiago Real,Goiás EC,yellow
+2204345,90,Welinton,Goiás EC,yellow
+2204348,32,Marco Antonio,Figueirense,yellow
+2204348,90,Paulo Roberto,Figueirense,yellow
+2204348,68,Vinícius,EC Vitória BA,yellow
+2204348,88,Edno,EC Vitória BA,yellow
+2204348,90,William Henrique,EC Vitória BA,yellow
+2204342,90,Cássio,Corinthians SP,yellow
+2204342,84,Dudu,Grêmio Porto Alegre,yellow
+2204342,90,Alan Ruíz,Grêmio Porto Alegre,yellow
+2204344,19,Zé Eduardo,Coritiba FC,yellow
+2204344,78,Carlinhos,Coritiba FC,yellow
+2204344,90,Welinton Souza,Coritiba FC,yellow
+2204344,35,Renato Augusto,SE Palmeiras,yellow
+2204344,48,Juninho,SE Palmeiras,yellow
+2204344,73,Nathan Cardoso,SE Palmeiras,yellow
+2204344,90,Agustin Allione,SE Palmeiras,yellow
+2204349,57,Wanderson,Chapecoense,yellow
+2204349,78,Leandro Pereira,Chapecoense,yellow
+2204349,90,Abuda,Chapecoense,yellow
+2204349,26,Jóbson,Botafogo RJ,yellow
+2204349,89,Marcelo Mattos,Botafogo RJ,yellow
+2204356,37,Gilberto,Internacional,yellow
+2204356,45,Andrés DAlessandro,Internacional,yellow
+2204356,90,Fabrício,Internacional,red
+2204356,87,Agustin Allione,SE Palmeiras,yellow-red
+2204356,90,Bruno César,SE Palmeiras,red
+2204357,32,Cléber Santana,Criciúma EC,yellow
+2204357,40,Iago Maidana,Criciúma EC,yellow
+2204357,42,João Vitor,Criciúma EC,yellow
+2204357,79,Lucca,Criciúma EC,yellow
+2204350,15,Leó Moura,Flamengo RJ,yellow
+2204350,34,Éverton,Flamengo RJ,yellow
+2204350,90,Héctor Canteros,Flamengo RJ,yellow
+2204350,30,Richarlyson,EC Vitória BA,yellow
+2204350,66,Dinei,EC Vitória BA,yellow
+2204350,70,William Henrique,EC Vitória BA,yellow
+2204350,74,Damián Escudero,EC Vitória BA,yellow-red
+2204351,60,Carlinhos,Fluminense RJ,yellow
+2204351,74,Marlon,Fluminense RJ,yellow-red
+2204351,12,Gil,Corinthians SP,yellow
+2204351,34,Renato Augusto,Corinthians SP,yellow
+2204351,67,Fábio Santos,Corinthians SP,yellow
+2204351,77,Paolo Guerrero,Corinthians SP,yellow
+2204351,90,Luciano,Corinthians SP,yellow
+2204352,54,Álvaro Pereira,São Paulo FC,yellow
+2204352,73,Ganso,São Paulo FC,yellow
+2204352,50,Dener,Figueirense,yellow
+2204352,77,Willian Cordeiro,Figueirense,yellow-red
+2204352,85,Mazola,Figueirense,yellow
+2204352,90,Marcos Pedroso,Figueirense,yellow
+2204353,78,Caju,Santos FC,yellow
+2204353,59,Júnior César,Botafogo RJ,yellow
+2204359,56,Fabiano,Chapecoense,yellow
+2204359,57,Rodrigo Biro,Chapecoense,yellow
+2204354,40,Gustavo Schiavolin,Atlético Paranaense,yellow
+2204354,44,Hernani,Atlético Paranaense,yellow
+2204354,42,Felipe,Goiás EC,yellow
+2204354,82,Samuel Rosa,Goiás EC,yellow
+2204354,86,Amaral,Goiás EC,yellow
+2204354,90,Thiago Mendes,Goiás EC,red
+2204354,90,Jackson Souza,Goiás EC,red
+2204355,41,Fahel,EC Bahia,yellow
+2204355,63,Pará,EC Bahia,yellow
+2204355,29,Geromel,Grêmio Porto Alegre,red
+2204355,90,Zé Roberto,Grêmio Porto Alegre,yellow
+2204355,90,Matheus Bressan,Grêmio Porto Alegre,yellow
+2204358,77,Diego Tardelli,Atlético Mineiro,yellow
+2204358,88,Dodô,Atlético Mineiro,yellow
+2204358,90,Leonardo Silva,Atlético Mineiro,yellow
+2204358,33,Bonfim,Coritiba FC,yellow
+2204358,42,Leandro Almeida,Coritiba FC,yellow
+2204358,74,Norberto Neto,Coritiba FC,yellow
+2204358,90,Germano,Coritiba FC,yellow
+2204362,5,Petros,Corinthians SP,yellow
+2204362,57,Elías,Corinthians SP,yellow
+2204362,10,Rafael Pereira,Criciúma EC,yellow
+2204362,74,Barreto,Criciúma EC,yellow
+2204368,39,Thiago Heleno,Figueirense,yellow
+2204368,68,Yago,Figueirense,yellow
+2204368,76,França,Figueirense,red
+2204368,90,Nirley,Figueirense,red
+2204368,19,Willians,Internacional,yellow
+2204368,41,Rafael Moura,Internacional,yellow
+2204368,88,Alan Ruschel,Internacional,yellow-red
+2204368,90,Wellington Paulista,Internacional,red
+2204360,57,Fabiano,Botafogo RJ,yellow
+2204360,77,Maikon,Botafogo RJ,yellow
+2204360,85,Marcelo Mattos,Botafogo RJ,yellow
+2204360,31,Pedro Botelho,Atlético Mineiro,yellow
+2204360,65,Eduardo,Atlético Mineiro,yellow
+2204360,74,Jemerson,Atlético Mineiro,yellow
+2204361,59,Osvaldo,São Paulo FC,yellow
+2204363,57,Jonathan Cristaldo,SE Palmeiras,yellow
+2204363,19,Dráusio,Atlético Paranaense,yellow
+2204364,23,Luccas Claro,Coritiba FC,yellow
+2204364,40,Zé Eduardo,Coritiba FC,yellow
+2204364,80,Alex,Coritiba FC,yellow
+2204364,87,Lucas Fonseca,EC Bahia,yellow
+2204365,16,Willian,Cruzeiro EC,yellow
+2204365,41,Edson,Fluminense RJ,yellow
+2204365,63,Elivélton,Fluminense RJ,yellow
+2204365,83,Diguinho,Fluminense RJ,yellow
+2204365,90,Edwin Valencia,Fluminense RJ,yellow
+2204367,53,Pará,Grêmio Porto Alegre,yellow
+2204367,67,Rhodolfo,Grêmio Porto Alegre,yellow
+2204367,74,Ramiro,Grêmio Porto Alegre,yellow
+2204367,56,César,Flamengo RJ,red
+2204369,42,Welinton,Goiás EC,yellow
+2204369,63,Felipe Macedo,Goiás EC,yellow
+2204369,53,Camilo,Chapecoense,yellow

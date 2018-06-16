@@ -1,0 +1,2231 @@
+GameID,Minute,PlayerIn,PlayerOut,Team
+2353374,60,Egídio,Jorge Valdivia,SE Palmeiras
+2353374,72,Kelvin,Gabriel,SE Palmeiras
+2353374,72,Alan Patrick,Dudu,SE Palmeiras
+2353374,59,Carlos,Sherman Cardenas,Atlético Mineiro
+2353374,70,Dodô,Giovanni Augusto,Atlético Mineiro
+2353374,79,Danilo Pires,Eduardo,Atlético Mineiro
+2353382,71,Maranhão,Ananias,Chapecoense
+2353382,76,Bruno Silva,Hyoran,Chapecoense
+2353382,88,Maylson,Camilo,Chapecoense
+2353382,45,Thiago Galhardo,Luccas Claro,Coritiba FC
+2353382,78,Rodolfo,Negueba,Coritiba FC
+2353382,85,Mateus Oliveira,Pedro Ken,Coritiba FC
+2353375,46,Robert,Pierre,Fluminense RJ
+2353375,63,Wagner,Gerson,Fluminense RJ
+2353375,77,Vinicius,Giovanni,Fluminense RJ
+2353375,27,Anselmo,Welinton,Joinville EC
+2353375,63,llian Popp,Augusto,Joinville EC
+2353375,86,Dankler,Wellington Saci,Joinville EC
+2353377,72,Everton,Lincoln,Grêmio Porto Alegre
+2353377,74,Matías Rodríguez,Rafael Galhardo,Grêmio Porto Alegre
+2353377,75,Douglas,Giuliano,Grêmio Porto Alegre
+2353377,46,Diego Ivo,Paulinho,Ponte Preta
+2353377,70,Juninho,Josimar,Ponte Preta
+2353377,75,Felipe Azevedo,Rildo,Ponte Preta
+2353373,46,Ganso,Húdson,São Paulo FC
+2353373,72,Alexandre Pato,Boschilia,São Paulo FC
+2353373,78,Thiago Mendes,Luís Fabiano,São Paulo FC
+2353373,72,Arthur Maia,Gabriel,Flamengo RJ
+2353373,73,Lucas Mugni,Almir,Flamengo RJ
+2353373,81,Eduardo,Héctor Canteros,Flamengo RJ
+2353378,46,Willian Farias,Charles,Cruzeiro EC
+2353378,52,Mayke,Fabiano,Cruzeiro EC
+2353378,71,Judivan,Gabriel Xavier,Cruzeiro EC
+2353378,46,Emerson Sheik,Danilo,Corinthians SP
+2353378,63,Ángel Romero,Vágner Love,Corinthians SP
+2353378,90,John Mendoza,Malcom,Corinthians SP
+2353380,58,Douglas Coutinho,Marco Damasceno,Atlético Paranaense
+2353380,78,Hernani,Felipe,Atlético Paranaense
+2353380,84,Nikão,Marcos Guilherme,Atlético Paranaense
+2353380,57,Alex,Léo,Internacional
+2353380,57,Valdivia,Vitinho,Internacional
+2353380,73,Alisson Farias,Cláudio Winck,Internacional
+2353381,74,Régis,Joelinton,Sport Club Recife
+2353381,82,Rodrigo Mancha,Wendel,Sport Club Recife
+2353381,83,Mike,Élber,Sport Club Recife
+2353381,46,Léo Lisboa,Jean Deretti,Figueirense
+2353381,62,Mazola,Dudu,Figueirense
+2353381,66,Carlos Henrique,Nirley,Figueirense
+2353376,60,Bernardo,Serginho,Vasco da Gama
+2353376,71,Yago,Rafael Silva,Vasco da Gama
+2353376,77,Marcinho,Dagoberto,Vasco da Gama
+2353376,62,Lucas Coelho,Wesley,Goiás EC
+2353376,90,Esquerdinha,Felipe Menezes,Goiás EC
+2353376,90,Péricles,Rafael Forster,Goiás EC
+2353379,60,Roberto,Renan Oliveira,Avaí FC
+2353379,81,Everton Silva,Anderson Lopes,Avaí FC
+2353379,0,Gabriel,,Santos FC
+2353379,51,Gustavo Henrique,Werley,Santos FC
+2353379,85,Cicinho,Chiquinho,Santos FC
+2353390,80,Negueba,Rafhael Lucas,Coritiba FC
+2353390,89,Fabricio Baiano,,Coritiba FC
+2353390,90,Wallyson,Rosinei,Coritiba FC
+2353390,33,Yuri Mamute,Júnior Tavares,Grêmio Porto Alegre
+2353390,64,Everton,Pedro Rocha,Grêmio Porto Alegre
+2353390,75,Fellipe Bastos,Walace,Grêmio Porto Alegre
+2353391,66,Willian Kozlowski,Péricles,Goiás EC
+2353391,80,Juliano,Patrick Bezerra,Goiás EC
+2353391,82,Fred,Rafael Forster,Goiás EC
+2353391,56,Bady,Hernani,Atlético Paranaense
+2353391,60,Edigar Junio,Douglas Coutinho,Atlético Paranaense
+2353391,68,Nikão,Felipe,Atlético Paranaense
+2353383,64,Bruno Henrique,Elías,Corinthians SP
+2353383,67,Emerson Sheik,John Mendoza,Corinthians SP
+2353383,74,Petros,Malcom,Corinthians SP
+2353383,70,Bruno Rangel,Roger,Chapecoense
+2353383,78,Neném,Gil,Chapecoense
+2353383,83,Hyoran,Bruno Silva,Chapecoense
+2353389,57,Mazola,Yago,Figueirense
+2353389,65,Marcão,Everaldo,Figueirense
+2353389,75,Dudu,Clayton,Figueirense
+2353389,70,Bernardo,Rafael Silva,Vasco da Gama
+2353389,76,Lucas Siqueira,Serginho,Vasco da Gama
+2353389,85,Jhon Cley,Julio Dos Santos,Vasco da Gama
+2353384,70,Gabriel Barbosa,Geuvânio,Santos FC
+2353384,81,Thiago Maia,Lucas Otávio,Santos FC
+2353384,85,Elano,Robinho,Santos FC
+2353384,27,Eurico,Willian Farias,Cruzeiro EC
+2353384,46,Gabriel Xavier,Giorgian de Arrascaeta,Cruzeiro EC
+2353384,63,Joel Tagueu,Henrique Dourado,Cruzeiro EC
+2353386,46,Márcio Araújo,Jonas,Flamengo RJ
+2353386,46,Paulinho,Almir,Flamengo RJ
+2353386,83,Eduardo,Anderson Pico,Flamengo RJ
+2353386,35,Joelinton,Samuel Rosa,Sport Club Recife
+2353386,54,Rodrigo Mancha,Mike,Sport Club Recife
+2353386,66,Vitor,Samuel Xavier,Sport Club Recife
+2353388,64,Giovanni Augusto,Thiago Ribeiro,Atlético Mineiro
+2353388,78,Josué,Jesús Dátolo,Atlético Mineiro
+2353388,83,Maicosuel,Carlos,Atlético Mineiro
+2353388,46,Wagner,Pierre,Fluminense RJ
+2353388,46,Magno Alves,Gerson,Fluminense RJ
+2353388,66,Lucas Gomes,Vinicius,Fluminense RJ
+2353385,64,Borges,Diego Ivo,Ponte Preta
+2353385,70,Roni,Renato Cajá,Ponte Preta
+2353385,81,Juninho,Felipe Azevedo,Ponte Preta
+2353385,22,Paulo Miranda,Rafael Tolói,São Paulo FC
+2353385,55,Luís Fabiano,Wesley,São Paulo FC
+2353385,83,Jonathan Cafú,Ricardo Centurión,São Paulo FC
+2353387,61,Vitinho,Rafael Moura,Internacional
+2353387,61,Alisson Farias,Carlos Luque,Internacional
+2353387,71,Eduardo Sasha,Léo,Internacional
+2353387,55,Romário,Eltinho,Avaí FC
+2353387,60,André Lima,Hugo Cabral,Avaí FC
+2353387,73,Renan Oliveira,Nino Paraíba,Avaí FC
+2353392,68,Willian Popp,Augusto,Joinville EC
+2353392,79,Wellington Saci,William Henrique,Joinville EC
+2353392,88,Sueliton,Mario Sérgio,Joinville EC
+2353392,46,Jorge Valdivia,Egídio,SE Palmeiras
+2353392,74,Kelvin,Rafael Marques,SE Palmeiras
+2353392,79,Ayrton,Lucas,SE Palmeiras
+2353393,46,Alexandre Pato,Luís Fabiano,São Paulo FC
+2353393,64,Húdson,Bruno,São Paulo FC
+2353393,78,Leonardo,Michel Bastos,São Paulo FC
+2353393,60,Willian Popp,William Henrique,Joinville EC
+2353393,61,Jael,Kempes,Joinville EC
+2353393,69,Augusto,Marcelinho,Joinville EC
+2353396,46,Lucas Siqueira,Serginho,Vasco da Gama
+2353396,64,Yago,Marcinho,Vasco da Gama
+2353396,72,Thalles Lima,Dagoberto,Vasco da Gama
+2353396,23,Taiberson Ruan,Geferson,Internacional
+2353396,64,Vitinho,Nilmar,Internacional
+2353396,70,Eduardo Bauermann,Lucas Marques,Internacional
+2353397,45,Braian Rodríguez,Pedro Rocha,Grêmio Porto Alegre
+2353397,65,Yuri Mamute,Douglas,Grêmio Porto Alegre
+2353397,72,Fellipe Bastos,Rafael Galhardo,Grêmio Porto Alegre
+2353397,45,Marcão,Everaldo,Figueirense
+2353397,73,Mazola,Yago,Figueirense
+2353394,60,Jonathan Cristaldo,Leandro Pereira,SE Palmeiras
+2353394,74,Leandro,Zé Roberto,SE Palmeiras
+2353394,79,Alan Patrick,Gabriel,SE Palmeiras
+2353394,46,Wesley,Erik,Goiás EC
+2353394,59,Robert Geannine,Arthur,Goiás EC
+2353394,82,Willian Kozlowski,Péricles,Goiás EC
+2353395,64,Lucas Gomes,Vinicius,Fluminense RJ
+2353395,74,Wellington Silva,Renato,Fluminense RJ
+2353395,75,Magno Alves,Gerson,Fluminense RJ
+2353395,66,Emerson Sheik,John Mendoza,Corinthians SP
+2353395,85,Elías,Bruno Henrique,Corinthians SP
+2353395,86,Danilo,Jádson,Corinthians SP
+2353399,72,Roberto,Hugo Cabral,Avaí FC
+2353399,81,Marrone,Romário,Avaí FC
+2353399,81,Renan Oliveira,Marquinhos,Avaí FC
+2353399,46,Paulinho,Éverton,Flamengo RJ
+2353399,62,Arthur Maia,Héctor Canteros,Flamengo RJ
+2353399,69,Luiz Antônio,Pará,Flamengo RJ
+2353400,58,Guilherme Arana,Nikão,Atlético Paranaense
+2353400,64,Dellatorre,Douglas Coutinho,Atlético Paranaense
+2353400,87,Paulinho Dias,Natanael Pimienta,Atlético Paranaense
+2353400,46,Giovanni Augusto,Carlos,Atlético Mineiro
+2353400,71,Jô,Thiago Ribeiro,Atlético Mineiro
+2353400,82,Maicosuel,Luan,Atlético Mineiro
+2353402,46,Edmilson,Roger,Chapecoense
+2353402,71,Wagner,Ananias,Chapecoense
+2353402,83,Hyoran,Camilo,Chapecoense
+2353402,20,Lucas Otávio,Edwin Valencia,Santos FC
+2353402,59,Rafael Longuine,Leandrinho,Santos FC
+2353398,58,Alisson,Gabriel Xavier,Cruzeiro EC
+2353398,63,Neilton,Bruno Ramires,Cruzeiro EC
+2353398,79,Duvier Riascos,Henrique Dourado,Cruzeiro EC
+2353398,62,Borges,Diego Ivo,Ponte Preta
+2353398,70,Fábio Santos,Felipe Azevedo,Ponte Preta
+2353398,82,Roni,Renato Cajá,Ponte Preta
+2353401,61,Élber,Neto,Sport Club Recife
+2353401,68,Diego Souza,Régis,Sport Club Recife
+2353401,68,Danilo Barcelos,Mike,Sport Club Recife
+2353401,58,Wellington Paulista,Rosinei,Coritiba FC
+2353401,73,Carlinhos,Thiago Galhardo,Coritiba FC
+2353401,88,Negueba,Rafhael Lucas,Coritiba FC
+2353405,70,Felipe Azevedo,Rildo,Ponte Preta
+2353405,77,Borges,Diego Ivo,Ponte Preta
+2353405,90,Juninho,Biro Biro,Ponte Preta
+2353405,61,William Barbio,Bruno Silva,Chapecoense
+2353405,67,Abuda,Hyoran,Chapecoense
+2353405,82,Wagner,Ananias,Chapecoense
+2353410,48,Carlinhos,João Paulo,Coritiba FC
+2353410,73,Giva,Wellington Paulista,Coritiba FC
+2353410,81,Negueba,Ruy,Coritiba FC
+2353410,61,Roberto,Hugo Cabral,Avaí FC
+2353410,68,Rômulo,Anderson Lopes,Avaí FC
+2353410,76,André Lima,Pablo Barros,Avaí FC
+2353412,41,Rafael Furlan,Naldo,Joinville EC
+2353412,59,Ítalo Melo,Tiago Luis,Joinville EC
+2353412,59,Niltinho,Marcelinho,Joinville EC
+2353412,63,Jadson,Giovanni,Atlético Paranaense
+2353412,75,Ytalo,Nikão,Atlético Paranaense
+2353412,87,Edigar Junio,Douglas Coutinho,Atlético Paranaense
+2353404,58,Chiquinho,Daniel Guedes,Santos FC
+2353404,66,Gabriel,Geuvânio,Santos FC
+2353404,74,Rafael Longuine,Ricardo Oliveira,Santos FC
+2353404,46,Diego Souza,Régis,Sport Club Recife
+2353404,46,Élber,Maikon Leite,Sport Club Recife
+2353404,60,Mike,Joelinton,Sport Club Recife
+2353403,46,John Mendoza,Ralf,Corinthians SP
+2353403,66,Danilo,Petros,Corinthians SP
+2353403,71,Edílson,Fágner,Corinthians SP
+2353403,76,Ayrton,Lucas,SE Palmeiras
+2353403,82,Amaral,Arouca,SE Palmeiras
+2353403,88,Leandro,Kelvin,SE Palmeiras
+2353407,46,Paulão,Réver,Internacional
+2353407,64,Nílton,Vitinho,Internacional
+2353407,78,Alisson Farias,Taiberson Ruan,Internacional
+2353407,69,Ricardo Centurión,Luís Fabiano,São Paulo FC
+2353407,77,João Paulo,Alexandre Pato,São Paulo FC
+2353407,80,Wesley,Michel Bastos,São Paulo FC
+2353408,46,Leandro Donizete,Giovanni Augusto,Atlético Mineiro
+2353408,52,Dodô,Jesús Dátolo,Atlético Mineiro
+2353408,75,Carlos César,Patric,Atlético Mineiro
+2353408,46,Yago,Duvier Riascos,Vasco da Gama
+2353408,68,Marcinho,Julio Dos Santos,Vasco da Gama
+2353408,73,Bernardo,Rafael Silva,Vasco da Gama
+2353411,46,Robert Geannine,Patrick Bezerra,Goiás EC
+2353411,82,Ruan,Erik,Goiás EC
+2353411,89,Fred,Felipe Macedo,Goiás EC
+2353411,64,Everton,Pedro Rocha,Grêmio Porto Alegre
+2353411,82,Braian Rodríguez,Yuri Mamute,Grêmio Porto Alegre
+2353411,84,Fellipe Bastos,Rafael Galhardo,Grêmio Porto Alegre
+2353406,46,Marcelo Cirino,Arthur Maia,Flamengo RJ
+2353406,52,Gabriel,Pará,Flamengo RJ
+2353406,82,Eduardo,Víctor Cáceres,Flamengo RJ
+2353406,52,Pierre,Gerson,Fluminense RJ
+2353406,74,Wellington Silva,Vinicius,Fluminense RJ
+2353406,88,Marlone,Fred,Fluminense RJ
+2353409,26,Carlos Alberto,Rafael Bastos,Figueirense
+2353409,36,Roberto Cereceda,Marcos Pedroso,Figueirense
+2353409,79,Yago,Carlos Alberto,Figueirense
+2353409,46,Charles,Willian Farias,Cruzeiro EC
+2353409,70,Alisson,Willians,Cruzeiro EC
+2353409,78,Joel Tagueu,Charles,Cruzeiro EC
+2353416,30,Charles,Julio Dos Santos,Vasco da Gama
+2353416,47,Yago,Diguinho,Vasco da Gama
+2353416,47,Jackson,Dagoberto,Vasco da Gama
+2353416,66,Cesinha,Felipe Azevedo,Ponte Preta
+2353416,71,Borges,Diego Ivo,Ponte Preta
+2353416,84,Roni,Renato Cajá,Ponte Preta
+2353420,46,Giovanni,Cléo,Atlético Paranaense
+2353420,72,Ytalo,Douglas Coutinho,Atlético Paranaense
+2353420,78,Jadson,Nikão,Atlético Paranaense
+2353420,46,Elias,Everaldo,Figueirense
+2353420,65,Mazola,Clayton,Figueirense
+2353420,79,Yago,Carlos Alberto,Figueirense
+2353422,72,Maranhão,Ananias,Chapecoense
+2353422,84,Wanderson,Gil,Chapecoense
+2353422,86,Neném,Wagner,Chapecoense
+2353422,46,Tiago Luis,Naldo,Joinville EC
+2353422,46,Kempes,Welinton,Joinville EC
+2353422,66,Marcelinho,Rafael Furlan,Joinville EC
+2353413,61,Húdson,Bruno,São Paulo FC
+2353413,64,Ricardo Centurión,Thiago Mendes,São Paulo FC
+2353413,74,Luís Fabiano,Alexandre Pato,São Paulo FC
+2353413,46,Vanderlei,Rafael Longuine,Santos FC
+2353413,46,Marquinhos Gabriel,Vladimir,Santos FC
+2353413,77,Marquinhos,Geuvânio,Santos FC
+2353417,64,Victor Rangel,Pedro Rocha,Grêmio Porto Alegre
+2353417,68,Fellipe Bastos,Maicon,Grêmio Porto Alegre
+2353417,77,Lincoln,Yuri Mamute,Grêmio Porto Alegre
+2353417,61,Vágner Love,Ángel Romero,Corinthians SP
+2353417,75,Danilo,Renato Augusto,Corinthians SP
+2353417,75,Petros,Bruno Henrique,Corinthians SP
+2353418,60,Alisson,Gabriel Xavier,Cruzeiro EC
+2353418,69,Allano,Willian,Cruzeiro EC
+2353418,72,Henrique Dourado,Leandro Damião,Cruzeiro EC
+2353418,46,Luiz Antônio,Anderson Pico,Flamengo RJ
+2353418,68,Gabriel,Marcelo Cirino,Flamengo RJ
+2353418,84,Eduardo,Márcio Araújo,Flamengo RJ
+2353419,46,Roberto,Hugo Cabral,Avaí FC
+2353419,66,André Lima,Renanzinho,Avaí FC
+2353419,79,Rômulo,Anderson Lopes,Avaí FC
+2353419,61,Leandro Donizete,Thiago Ribeiro,Atlético Mineiro
+2353419,69,Maicosuel,Luan,Atlético Mineiro
+2353419,74,Dodô,Giovanni Augusto,Atlético Mineiro
+2353415,71,Magno Alves,Vinicius,Fluminense RJ
+2353415,78,Pierre,Wagner,Fluminense RJ
+2353415,85,Marcos Júnior,Gerson,Fluminense RJ
+2353415,60,Rafhael Lucas,Thiago Galhardo,Coritiba FC
+2353415,64,Luis Cáceres,Hélder,Coritiba FC
+2353415,71,Ivan,Henrique Gelain,Coritiba FC
+2353414,71,Cleiton Xavier,Kelvin,SE Palmeiras
+2353414,84,Jonathan Cristaldo,Zé Roberto,SE Palmeiras
+2353414,88,Amaral,Arouca,SE Palmeiras
+2353414,60,Anderson,Alex,Internacional
+2353414,72,Rafael Moura,Nílton,Internacional
+2353414,76,Vitinho,Artur,Internacional
+2353421,46,Mike,Neto,Sport Club Recife
+2353421,46,Maikon Leite,Régis,Sport Club Recife
+2353421,73,Rodrigo Mancha,Wendel,Sport Club Recife
+2353421,66,Arthur,Felipe Menezes,Goiás EC
+2353421,75,Willian Kozlowski,Diogo Barbosa,Goiás EC
+2353421,81,Péricles,Rodrigo,Goiás EC
+2353424,73,Thiago Maia,Elano,Santos FC
+2353424,82,Chiquinho,Daniel Guedes,Santos FC
+2353424,85,Neto Berola,Gabriel,Santos FC
+2353424,71,Borges,Diego Ivo,Ponte Preta
+2353424,76,Cesinha,Felipe Azevedo,Ponte Preta
+2353424,85,Juninho,Renato Cajá,Ponte Preta
+2353426,73,Paulinho,Gabriel,Flamengo RJ
+2353426,81,Rodrigo Frauches,Jonas,Flamengo RJ
+2353426,84,Matheus Bressan,Samir,Flamengo RJ
+2353426,64,Neto,Ananias,Chapecoense
+2353426,74,Maranhão,Wagner,Chapecoense
+2353426,74,Abuda,Bruno Silva,Chapecoense
+2353428,61,Guilherme,Jesús Dátolo,Atlético Mineiro
+2353428,61,Thiago Ribeiro,Carlos,Atlético Mineiro
+2353428,74,Maicosuel,Giovanni Augusto,Atlético Mineiro
+2353428,46,Gabriel Xavier,Alisson,Cruzeiro EC
+2353428,68,Allano,Gabriel Xavier,Cruzeiro EC
+2353428,74,Joel Tagueu,Leandro Damião,Cruzeiro EC
+2353423,67,Húdson,Denilson,São Paulo FC
+2353423,72,Thiago Mendes,Souza,São Paulo FC
+2353423,78,Reinaldo,Michel Bastos,São Paulo FC
+2353423,58,Braian Rodríguez,Yuri Mamute,Grêmio Porto Alegre
+2353423,58,Júnior Tavares,Araujo,Grêmio Porto Alegre
+2353423,75,Victor Rangel,Pedro Rocha,Grêmio Porto Alegre
+2353430,57,Ytalo,Giovanni,Atlético Paranaense
+2353430,75,Guilherme Arana,Natanael Pimienta,Atlético Paranaense
+2353430,84,Jadson,Nikão,Atlético Paranaense
+2353430,25,Jackson,Serginho,Vasco da Gama
+2353430,62,Duvier Riascos,Julio Dos Santos,Vasco da Gama
+2353430,69,Jhon Cley,Júlio César,Vasco da Gama
+2353432,46,Welinton,Renato Augusto,Joinville EC
+2353432,64,Kempes,Niltinho,Joinville EC
+2353432,72,Marcelinho,Rafael Costa,Joinville EC
+2353432,30,Petros,Bruno Henrique,Corinthians SP
+2353432,71,Vágner Love,Ángel Romero,Corinthians SP
+2353432,71,Ralf,Renato Augusto,Corinthians SP
+2353427,56,Alex,Vitinho,Internacional
+2353427,76,Nicolás Freitas,Valdivia,Internacional
+2353427,87,Rafael Moura,Anderson,Internacional
+2353427,58,Luis Cáceres,Fabricio Baiano,Coritiba FC
+2353427,61,Icaro,Thiago Galhardo,Coritiba FC
+2353427,80,Wallyson,Rafhael Lucas,Coritiba FC
+2353425,45,Magno Alves,Fred,Fluminense RJ
+2353425,63,Wellington Silva,Renato,Fluminense RJ
+2353425,82,Marcos Júnior,Vinicius,Fluminense RJ
+2353425,65,Danilo Barcelos,Mike,Sport Club Recife
+2353425,76,Régis,Neto,Sport Club Recife
+2353425,81,Rodrigo Mancha,Maikon Leite,Sport Club Recife
+2353429,31,Yago,Carlos Alberto,Figueirense
+2353429,39,Thiago Santana,Fabinho,Figueirense
+2353429,70,Dener,Clayton,Figueirense
+2353429,48,Fernando Tobio,Jackson Souza,SE Palmeiras
+2353429,64,Jonathan Cristaldo,Dudu,SE Palmeiras
+2353429,74,Cleiton Xavier,Arouca,SE Palmeiras
+2353431,64,Jarlan,Wesley,Goiás EC
+2353431,72,Arthur,Felipe Menezes,Goiás EC
+2353431,76,Lucas Coelho,Carlos Eduardo,Goiás EC
+2353431,25,Denner,Renan Oliveira,Avaí FC
+2353431,71,Rômulo,Pablo Barros,Avaí FC
+2353431,81,Adriano,Eduardo Neto,Avaí FC
+2353438,45,Maicosuel,Carlos,Atlético Mineiro
+2353438,67,Jô,Lucas Pratto,Atlético Mineiro
+2353438,67,Guilherme,Giovanni Augusto,Atlético Mineiro
+2353438,14,Rafael Longuine,Elano,Santos FC
+2353438,69,Leandrinho,Gabriel,Santos FC
+2353438,88,Thiago Maia,Geuvânio,Santos FC
+2353433,14,Ralf,Cristian Baroni,Corinthians SP
+2353433,46,Vágner Love,Petros,Corinthians SP
+2353433,64,Danilo,Ángel Romero,Corinthians SP
+2353433,69,Vitinho,Jorge Henrique,Internacional
+2353433,74,Nílton,Nicolás Freitas,Internacional
+2353433,83,Taiberson Ruan,Alan Costa,Internacional
+2353440,46,Thiago Galhardo,Fabricio Baiano,Coritiba FC
+2353440,63,Marcos Aurélio,Hélder,Coritiba FC
+2353440,75,Negueba,Henrique Gelain,Coritiba FC
+2353440,54,Paulinho,Gabriel,Flamengo RJ
+2353440,59,Marcelo Cirino,Eduardo,Flamengo RJ
+2353440,60,Arthur Maia,Éverton,Flamengo RJ
+2353442,57,Camilo,Wagner,Chapecoense
+2353442,71,Maranhão,Ananias,Chapecoense
+2353442,82,Bruno Rangel,Elicarlos,Chapecoense
+2353442,54,Alexandre Pato,Reinaldo,São Paulo FC
+2353442,60,Wesley,Húdson,São Paulo FC
+2353442,71,Auro,Carlinhos,São Paulo FC
+2353436,42,Yago,Diguinho,Vasco da Gama
+2353436,57,Julio Dos Santos,Jackson,Vasco da Gama
+2353436,64,Thalles Lima,Jhon Cley,Vasco da Gama
+2353436,69,Joel Tagueu,Willian,Cruzeiro EC
+2353436,70,Bruno Ramires,Allano,Cruzeiro EC
+2353436,73,Fabiano,Mayke,Cruzeiro EC
+2353441,57,Ewerton Páscoa,Matheus Ferraz,Sport Club Recife
+2353441,68,André,Samuel Xavier,Sport Club Recife
+2353441,69,Danilo Barcelos,Neto,Sport Club Recife
+2353441,46,Kempes,Tiago Luis,Joinville EC
+2353441,46,Marcelinho,Rafael Costa,Joinville EC
+2353441,81,Jael,Willian Popp,Joinville EC
+2353435,67,Cesinha,Diego Oliveira,Ponte Preta
+2353435,76,Roni,Felipe Azevedo,Ponte Preta
+2353435,84,Juninho,Gilson,Ponte Preta
+2353435,70,Willian Kozlowski,Felipe Menezes,Goiás EC
+2353435,84,Péricles,Rodrigo,Goiás EC
+2353435,85,Carlos Eduardo,Bruno Henrique,Goiás EC
+2353434,46,Alecsandro,Zé Roberto,SE Palmeiras
+2353434,67,Robinho,Cleiton Xavier,SE Palmeiras
+2353434,82,Jonathan Cristaldo,Arouca,SE Palmeiras
+2353434,46,Henrique,Antônio Carlos,Fluminense RJ
+2353434,70,Marcos Júnior,Vinicius,Fluminense RJ
+2353434,87,Lucas Gomes,Gerson,Fluminense RJ
+2353437,46,Yuri Mamute,Giuliano,Grêmio Porto Alegre
+2353437,65,Braian Rodríguez,Douglas,Grêmio Porto Alegre
+2353437,81,Lucas Ramon,Rafael Galhardo,Grêmio Porto Alegre
+2353437,56,Felipe,Douglas Coutinho,Atlético Paranaense
+2353437,78,Cléo,Hernani,Atlético Paranaense
+2353437,81,Giovanni,Nikão,Atlético Paranaense
+2353439,65,William Souza,Pablo Barros,Avaí FC
+2353439,80,Eduardo Costa,André Lima,Avaí FC
+2353439,54,Saimon,Paulo Roberto,Figueirense
+2353439,66,Thiago Santana,Yago,Figueirense
+2353439,90,Everaldo,Clayton,Figueirense
+2353449,53,Thiago Santana,França,Figueirense
+2353449,65,Everaldo,Elias,Figueirense
+2353449,76,Jefferson,Yago,Figueirense
+2353449,61,Vitinho,Lisandro López,Internacional
+2353449,70,Taiberson Ruan,Alex,Internacional
+2353449,81,Alan Ruschel,Artur,Internacional
+2353444,62,Neto Berola,Gabriel,Santos FC
+2353444,72,Thiago Maia,Marquinhos Gabriel,Santos FC
+2353444,80,Leandrinho,Geuvânio,Santos FC
+2353444,59,Luciano,Petros,Corinthians SP
+2353444,73,Danilo,Edu Dracena,Corinthians SP
+2353444,78,Edílson,John Mendoza,Corinthians SP
+2353446,46,Alan Patrick,Pará,Flamengo RJ
+2353446,46,Marcelo Cirino,Gabriel,Flamengo RJ
+2353446,69,Paulinho,Eduardo,Flamengo RJ
+2353446,73,Dodô,Thiago Ribeiro,Atlético Mineiro
+2353446,76,Leandro Donizete,Giovanni Augusto,Atlético Mineiro
+2353446,85,Josué,Rafael Carioca,Atlético Mineiro
+2353451,46,Marlone,Neto,Sport Club Recife
+2353451,73,Samuel Rosa,Maikon Leite,Sport Club Recife
+2353451,83,Régis,Diego Souza,Sport Club Recife
+2353451,46,Rafael Silva,Jhon Cley,Vasco da Gama
+2353451,61,Julio Dos Santos,Emanuel Biancucchi,Vasco da Gama
+2353451,74,Júlio César,Duvier Riascos,Vasco da Gama
+2353447,68,Yuri Mamute,Pedro Rocha,Grêmio Porto Alegre
+2353447,81,Edinho,Douglas,Grêmio Porto Alegre
+2353447,86,Braian Rodríguez,Giuliano,Grêmio Porto Alegre
+2353447,46,Amaral,Gabriel,SE Palmeiras
+2353447,64,Zé Roberto,Robinho,SE Palmeiras
+2353447,74,Cleiton Xavier,Arouca,SE Palmeiras
+2353448,46,Bruno Ramires,Henrique,Cruzeiro EC
+2353448,46,Fabiano,Mayke,Cruzeiro EC
+2353448,57,Joel Tagueu,Pará,Cruzeiro EC
+2353448,29,Hyoran,Wagner,Chapecoense
+2353448,69,Cléber Santana,Hyoran,Chapecoense
+2353448,76,Neném,Gil,Chapecoense
+2353443,65,Édson Silva,Thiago Mendes,São Paulo FC
+2353443,73,Ricardo Centurión,Alexandre Pato,São Paulo FC
+2353443,57,André Lima,Pablo Barros,Avaí FC
+2353443,59,Rômulo,Hugo Cabral,Avaí FC
+2353443,77,Eltinho,Romário,Avaí FC
+2353450,53,Giovanni,Felipe,Atlético Paranaense
+2353450,58,Edigar Junio,Ytalo,Atlético Paranaense
+2353450,72,Dellatorre,Douglas Coutinho,Atlético Paranaense
+2353450,50,Hélder,Luis Cáceres,Coritiba FC
+2353450,82,Rafhael Lucas,Esquerdinha,Coritiba FC
+2353450,88,Lúcio Flávio,Ruy,Coritiba FC
+2353452,47,Dankler,Augusto,Joinville EC
+2353452,62,Naldo,Tiago Luis,Joinville EC
+2353452,71,Willian Popp,Lucas Crispim,Joinville EC
+2353452,62,Robert Geannine,Rafael Forster,Goiás EC
+2353452,76,Willian Kozlowski,Patrick Bezerra,Goiás EC
+2353452,80,Lucas Coelho,Clayton Sales,Goiás EC
+2353445,46,Marcos Felipe,Gerson,Fluminense RJ
+2353445,75,Victor,Marlon,Fluminense RJ
+2353445,83,Gustavo Scarpa,Wagner,Fluminense RJ
+2353445,59,Roni,Borges,Ponte Preta
+2353445,71,Juninho,Josimar,Ponte Preta
+2353445,77,Pablo Castro,Renato Cajá,Ponte Preta
+2353459,22,Pablo Barros,Jéci,Avaí FC
+2353459,64,Juninho,Denner,Avaí FC
+2353459,75,Rômulo,Adriano,Avaí FC
+2353459,38,Fellipe Bastos,Maicon,Grêmio Porto Alegre
+2353459,57,Yuri Mamute,Pedro Rocha,Grêmio Porto Alegre
+2353459,77,Braian Rodríguez,Douglas,Grêmio Porto Alegre
+2353462,58,Maranhão,Ananias,Chapecoense
+2353462,64,Wagner,Bruno Silva,Chapecoense
+2353462,77,Bruno Rangel,Edmilson,Chapecoense
+2353462,67,Neto,Marlone,Sport Club Recife
+2353462,68,Samuel Rosa,Diego Souza,Sport Club Recife
+2353462,74,Mike,Maikon Leite,Sport Club Recife
+2353453,65,Marciel,Bruno Henrique,Corinthians SP
+2353453,77,Danilo,Luciano,Corinthians SP
+2353453,84,Yago,Vágner Love,Corinthians SP
+2353453,63,Thiago Santana,Rafael Bastos,Figueirense
+2353453,73,Elias,Marcão,Figueirense
+2353453,77,Everaldo,Ricardinho,Figueirense
+2353458,60,Guilherme,Thiago Ribeiro,Atlético Mineiro
+2353458,61,Leandro Donizete,Giovanni Augusto,Atlético Mineiro
+2353458,82,Carlos,Maicosuel,Atlético Mineiro
+2353458,55,Sueliton,Lucas Crispim,Joinville EC
+2353458,66,Mateus,Marcelinho,Joinville EC
+2353458,71,Tiago Luis,Kempes,Joinville EC
+2353454,60,Jonathan Cristaldo,Leandro Pereira,SE Palmeiras
+2353454,77,Cleiton Xavier,Robinho,SE Palmeiras
+2353454,82,Gabriel Jesus,Dudu,SE Palmeiras
+2353454,70,Ricardo Centurión,Húdson,São Paulo FC
+2353454,84,Thiago Mendes,Alexandre Pato,São Paulo FC
+2353455,46,Renato Chaves,Tiago Alves,Ponte Preta
+2353455,81,Roni,Felipe Azevedo,Ponte Preta
+2353455,88,Paulinho,Biro Biro,Ponte Preta
+2353455,57,Edigar Junio,Ytalo,Atlético Paranaense
+2353455,75,Cléo,Hernani,Atlético Paranaense
+2353455,87,Felipe,Eduardo Santos,Atlético Paranaense
+2353460,58,Rafhael Lucas,Kléber Gladiador,Coritiba FC
+2353460,81,Paulinho Moccelin,Marcos Aurélio,Coritiba FC
+2353460,88,Rodolfo,Thiago Galhardo,Coritiba FC
+2353460,43,Marcos Vinicius,Allano,Cruzeiro EC
+2353460,69,Henrique Dourado,Leandro Damião,Cruzeiro EC
+2353460,69,Joel Tagueu,Willian,Cruzeiro EC
+2353461,61,Arthur,Patrick Bezerra,Goiás EC
+2353461,70,Wesley,Liniker,Goiás EC
+2353461,77,Willian Kozlowski,Felipe Menezes,Goiás EC
+2353461,46,Lucas Gomes,Gerson,Fluminense RJ
+2353461,59,Henrique,Magno Alves,Fluminense RJ
+2353461,77,Pierre,Wagner,Fluminense RJ
+2353456,58,Rafael Silva,Jhon Cley,Vasco da Gama
+2353456,60,Thalles Lima,Duvier Riascos,Vasco da Gama
+2353456,69,Lucas Siqueira,Gilberto,Vasco da Gama
+2353456,46,Alan Patrick,Anderson Pico,Flamengo RJ
+2353456,64,Marcelo Cirino,Eduardo,Flamengo RJ
+2353456,70,Paulinho,Éverton,Flamengo RJ
+2353457,15,Muriel Becker,Alisson,Internacional
+2353457,46,Valdivia,Alan Ruschel,Internacional
+2353457,77,Rafael Moura,Nilmar,Internacional
+2353457,64,Caju,Daniel Guedes,Santos FC
+2353466,54,Emanuel Biancucchi,Jhon Cley,Vasco da Gama
+2353466,61,Rafael Silva,Júlio César,Vasco da Gama
+2353466,78,Julio Dos Santos,Gilberto,Vasco da Gama
+2353466,61,William Souza,André Lima,Avaí FC
+2353466,68,Everton Silva,Juninho,Avaí FC
+2353466,80,Denner,Pablo Barros,Avaí FC
+2353471,65,Samuel Rosa,Régis,Sport Club Recife
+2353471,77,Neto,Maikon Leite,Sport Club Recife
+2353471,86,Danilo Barcelos,Marlone,Sport Club Recife
+2353471,55,Vitinho,Valdivia,Internacional
+2353471,61,Alisson Farias,Nilmar,Internacional
+2353471,75,Rodrigo Dourado,Wellington,Internacional
+2353464,65,Zé Roberto,Dudu,SE Palmeiras
+2353464,68,Jonathan Cristaldo,Leandro Pereira,SE Palmeiras
+2353464,84,Andrei,Arouca,SE Palmeiras
+2353464,22,Neném,Gil,Chapecoense
+2353464,46,William Barbio,Wagner,Chapecoense
+2353464,78,Hyoran,Camilo,Chapecoense
+2353468,63,Maicosuel,Carlos,Atlético Mineiro
+2353468,90,Josué,Giovanni Augusto,Atlético Mineiro
+2353468,90,Sherman Cardenas,Thiago Ribeiro,Atlético Mineiro
+2353468,46,Marcos Aurélio,Alan Santos,Coritiba FC
+2353468,70,Carlinhos,Lúcio Flávio,Coritiba FC
+2353468,82,Misael,Rafhael Lucas,Coritiba FC
+2353467,67,Braian Rodríguez,Pedro Rocha,Grêmio Porto Alegre
+2353467,86,Edinho,Douglas,Grêmio Porto Alegre
+2353467,46,Marcos Vinicius,Marquinhos,Cruzeiro EC
+2353467,46,Allano,Leandro Damião,Cruzeiro EC
+2353467,73,Léo,Charles,Cruzeiro EC
+2353470,70,Jadson,Ytalo,Atlético Paranaense
+2353470,84,Giovanni,Marcos Guilherme,Atlético Paranaense
+2353470,86,Douglas Coutinho,Wálter,Atlético Paranaense
+2353470,60,Lyanco,Bruno,São Paulo FC
+2353470,63,Ricardo Centurión,Jonathan Cafú,São Paulo FC
+2353470,76,Matheus Reis,Alexandre Pato,São Paulo FC
+2353472,46,Marcelinho,Guti,Joinville EC
+2353472,46,Niltinho,Danrlei,Joinville EC
+2353472,68,Fabrício,Diego Rodrigues,Joinville EC
+2353472,6,Marcelo,Samir,Flamengo RJ
+2353472,64,Márcio Araújo,Jonas,Flamengo RJ
+2353472,89,Paulinho,Marcelo Cirino,Flamengo RJ
+2353463,68,John Mendoza,Malcom,Corinthians SP
+2353463,73,Ralf,Elías,Corinthians SP
+2353463,82,Danilo,Bruno Henrique,Corinthians SP
+2353463,62,Cesinha,Felipe Azevedo,Ponte Preta
+2353463,77,Paulinho,Josimar,Ponte Preta
+2353463,86,Roni,Biro Biro,Ponte Preta
+2353469,66,Jefferson,Ricardinho,Figueirense
+2353469,70,Yago,Rafael Bastos,Figueirense
+2353469,74,Elias,Thiago Santana,Figueirense
+2353469,4,Rafael Forster,Péricles,Goiás EC
+2353469,78,Jarlan,Liniker,Goiás EC
+2353465,63,Lucas Gomes,Marcos Júnior,Fluminense RJ
+2353465,73,Gustavo Scarpa,Gerson,Fluminense RJ
+2353465,82,Pierre,Wagner,Fluminense RJ
+2353465,77,Caju,Daniel Guedes,Santos FC
+2353465,82,Nilson,Geuvânio,Santos FC
+2353465,85,Serginho,Rafael Longuine,Santos FC
+2353480,46,João Paulo,Hélder,Coritiba FC
+2353480,59,Carlinhos,Thiago Galhardo,Coritiba FC
+2353480,69,Negueba,Henrique Gelain,Coritiba FC
+2353480,46,Naldo,Niltinho,Joinville EC
+2353480,54,Dankler,Mario Sérgio,Joinville EC
+2353480,74,Kempes,Marion,Joinville EC
+2353478,17,Paulo André,Bruno Rodrigo,Cruzeiro EC
+2353478,58,Marinho,Marquinhos,Cruzeiro EC
+2353478,66,Charles,Marcos Vinicius,Cruzeiro EC
+2353478,56,Giovanni,Hernani,Atlético Paranaense
+2353478,75,Dellatorre,Nikão,Atlético Paranaense
+2353478,79,Matheus Ribeiro,Eduardo Santos,Atlético Paranaense
+2353482,57,Wagner,Elicarlos,Chapecoense
+2353482,72,Roger,Bruno Silva,Chapecoense
+2353482,74,Maranhão,Hyoran,Chapecoense
+2353482,46,Jhon Cley,Emanuel Biancucchi,Vasco da Gama
+2353482,49,Lucas Siqueira,Gilberto,Vasco da Gama
+2353482,80,Thalles Lima,Duvier Riascos,Vasco da Gama
+2353479,74,Everton Silva,Anderson Lopes,Avaí FC
+2353479,75,Roberto,Rômulo,Avaí FC
+2353479,81,Pablo Barros,Tinga,Avaí FC
+2353479,59,Régis,Maikon Leite,Sport Club Recife
+2353479,76,Samuel Rosa,Wendel,Sport Club Recife
+2353479,90,Rodrigo Mancha,Diego Souza,Sport Club Recife
+2353473,53,Rodrigo Caio,Édson Silva,São Paulo FC
+2353473,68,Ricardo Centurión,Michel Bastos,São Paulo FC
+2353473,74,Wesley,Húdson,São Paulo FC
+2353473,66,Lucas Gomes,Gerson,Fluminense RJ
+2353473,74,Gustavo Scarpa,Giovanni,Fluminense RJ
+2353473,83,Higor,Marcos Júnior,Fluminense RJ
+2353474,46,Rafael Longuine,Lucas Otávio,Santos FC
+2353474,59,Nilson,Gabriel Barbosa,Santos FC
+2353474,75,Neto Berola,Thiago Maia,Santos FC
+2353474,46,Yuri Mamute,Pedro Rocha,Grêmio Porto Alegre
+2353474,84,Frickson Erazo,Rhodolfo,Grêmio Porto Alegre
+2353474,90,Moisés Gaúcho,Douglas,Grêmio Porto Alegre
+2353481,74,Juliano,David,Goiás EC
+2353481,76,Arthur,Felipe Menezes,Goiás EC
+2353481,79,Carlos Eduardo,Wesley,Goiás EC
+2353481,72,Ángel Romero,Vágner Love,Corinthians SP
+2353481,73,Danilo,Renato Augusto,Corinthians SP
+2353481,83,Rodriguinho,Jádson,Corinthians SP
+2353475,63,Leandro,Paulinho,Ponte Preta
+2353475,74,Biro Biro,Roni,Ponte Preta
+2353475,80,Diego Ivo,Cesinha,Ponte Preta
+2353475,46,Zé Roberto,Robinho,SE Palmeiras
+2353475,59,Jonathan Cristaldo,Leandro Pereira,SE Palmeiras
+2353475,74,Cleiton Xavier,Rafael Marques,SE Palmeiras
+2353476,78,Paulinho,Alan Patrick,Flamengo RJ
+2353476,88,Eduardo,Marcelo Cirino,Flamengo RJ
+2353476,14,Everaldo,Elias,Figueirense
+2353476,75,Dudu,Thiago Santana,Figueirense
+2353476,82,Yago,Rafael Bastos,Figueirense
+2353477,65,Alisson Farias,Jorge Henrique,Internacional
+2353477,66,Josué,Leandro Donizete,Atlético Mineiro
+2353477,66,Danilo Pires,Carlos César,Atlético Mineiro
+2353477,82,Pedro Botelho,Douglas Santos,Atlético Mineiro
+2353490,46,Norberto Neto,Rodrigo Ramos,Coritiba FC
+2353490,57,Misael,Alan Santos,Coritiba FC
+2353490,63,Carlinhos,Rafhael Lucas,Coritiba FC
+2353490,61,Cesinha,Felipe Azevedo,Ponte Preta
+2353490,68,Borges,Diego Ivo,Ponte Preta
+2353490,79,Léo Costa,Renato Cajá,Ponte Preta
+2353491,69,Murilo,Carlos Eduardo,Goiás EC
+2353491,84,Juliano,Felipe Menezes,Goiás EC
+2353491,53,Neto Berola,Lucas Otávio,Santos FC
+2353491,64,Marquinhos Gabriel,Gabriel Barbosa,Santos FC
+2353491,65,Caju,Daniel Guedes,Santos FC
+2353492,68,Tiago Luis,Hyoran,Chapecoense
+2353492,69,Maranhão,Camilo,Chapecoense
+2353492,87,Wanderson,Bruno Rangel,Chapecoense
+2353492,74,Yuri Mamute,Luan,Grêmio Porto Alegre
+2353492,79,Fernandinho Silva,Pedro Rocha,Grêmio Porto Alegre
+2353492,82,Braian Rodríguez,Edinho,Grêmio Porto Alegre
+2353484,46,Leandro Almeida,Vitor Hugo,SE Palmeiras
+2353484,61,Kelvin,Zé Roberto,SE Palmeiras
+2353484,77,Jonathan Cristaldo,Leandro Pereira,SE Palmeiras
+2353484,46,Renan Oliveira,Claudinei,Avaí FC
+2353484,63,Roberto,Rômulo,Avaí FC
+2353484,75,Tauã,William Souza,Avaí FC
+2353489,46,Marcos Pedroso,Roberto Cereceda,Figueirense
+2353489,63,Marcão,Ricardinho,Figueirense
+2353489,70,Dudu,Everaldo,Figueirense
+2353489,85,Marcelo Costa,Lucas Crispim,Joinville EC
+2353489,89,Willian Popp,Kempes,Joinville EC
+2353486,28,Rafael Silva,Lucas Siqueira,Vasco da Gama
+2353486,46,Thalles Lima,Gilberto,Vasco da Gama
+2353486,64,Éder Luís,Duvier Riascos,Vasco da Gama
+2353486,52,Matheus Reis,Reinaldo,São Paulo FC
+2353486,58,Boschilia,Ganso,São Paulo FC
+2353486,63,Húdson,Alexandre Pato,São Paulo FC
+2353487,46,Nicolás Freitas,Rodrigo Dourado,Internacional
+2353487,46,Rafael Moura,Alisson Farias,Internacional
+2353487,60,Vitinho,Andrés DAlessandro,Internacional
+2353487,84,Márcio Araújo,Víctor Cáceres,Flamengo RJ
+2353488,65,Carlos,Thiago Ribeiro,Atlético Mineiro
+2353488,76,Guilherme,Giovanni Augusto,Atlético Mineiro
+2353488,76,Sherman Cardenas,Maicosuel,Atlético Mineiro
+2353488,68,Wallace,Samuel Rosa,Sport Club Recife
+2353488,72,Neto,Maikon Leite,Sport Club Recife
+2353488,85,Mike,Wendel,Sport Club Recife
+2353483,62,Danilo,Vágner Love,Corinthians SP
+2353483,72,Ralf,Bruno Henrique,Corinthians SP
+2353483,87,Rildo,Jádson,Corinthians SP
+2353483,67,Bady,Marcos Guilherme,Atlético Paranaense
+2353483,86,Dellatorre,Eduardo Santos,Atlético Paranaense
+2353485,76,Rafinha,Pierre,Fluminense RJ
+2353485,83,Renato,Victor,Fluminense RJ
+2353485,86,Marlon,Jean,Fluminense RJ
+2353485,46,Marinho,Marcos Vinicius,Cruzeiro EC
+2353485,55,Ceará,Mayke,Cruzeiro EC
+2353485,65,Charles,Willian,Cruzeiro EC
+2353494,71,Marquinhos Gabriel,Gabriel Barbosa,Santos FC
+2353494,74,Lucas Otávio,Thiago Maia,Santos FC
+2353494,84,Leonardo,Paulo Ricardo,Santos FC
+2353494,46,Ricardinho,Yago,Figueirense
+2353494,62,Marcos Pedroso,Roberto Cereceda,Figueirense
+2353494,67,Marcão,Everaldo,Figueirense
+2353497,45,Marcelo Hermes,Marcelo Oliveira,Grêmio Porto Alegre
+2353497,74,Lucas Ramon,Rafael Galhardo,Grêmio Porto Alegre
+2353497,78,Edinho,Douglas,Grêmio Porto Alegre
+2353497,56,Germán Herrera,Dagoberto,Vasco da Gama
+2353497,57,Éder Luís,Duvier Riascos,Vasco da Gama
+2353497,71,Gilberto,Christianno,Vasco da Gama
+2353495,63,Cesinha,Renato Cajá,Ponte Preta
+2353495,68,Borges,Diego Oliveira,Ponte Preta
+2353495,77,Keno,Felipe Azevedo,Ponte Preta
+2353495,61,Luan,Thiago Ribeiro,Atlético Mineiro
+2353495,73,Carlos,Maicosuel,Atlético Mineiro
+2353495,90,Josué,Giovanni Augusto,Atlético Mineiro
+2353493,56,Matheus Reis,Ricardo Centurión,São Paulo FC
+2353493,66,João Schmidt,Húdson,São Paulo FC
+2353493,77,Boschilia,Ganso,São Paulo FC
+2353493,46,Esquerdinha,Alan Santos,Coritiba FC
+2353493,46,Negueba,Rodrigo Ramos,Coritiba FC
+2353493,52,Ivan,Fabricio Baiano,Coritiba FC
+2353496,59,Alan Patrick,Gabriel,Flamengo RJ
+2353496,69,Paulinho,Víctor Cáceres,Flamengo RJ
+2353496,46,Walter,Cássio,Corinthians SP
+2353496,74,Rildo,Renato Augusto,Corinthians SP
+2353496,80,Ralf,Jádson,Corinthians SP
+2353498,66,Mayke,Ceará,Cruzeiro EC
+2353498,66,Gabriel Xavier,Giorgian de Arrascaeta,Cruzeiro EC
+2353498,79,Vinícius Araújo,Joel Tagueu,Cruzeiro EC
+2353498,59,Wesley,Liniker,Goiás EC
+2353498,70,Ygor,Valmir Lucas,Goiás EC
+2353498,76,Patrick Bezerra,David,Goiás EC
+2353500,25,Edigar Junio,Marcos Guilherme,Atlético Paranaense
+2353500,61,Sidcley,Edigar Junio,Atlético Paranaense
+2353500,72,Cléo,Wálter,Atlético Paranaense
+2353500,67,Renato,Wellington Silva,Fluminense RJ
+2353500,81,Lucas Gomes,Gerson,Fluminense RJ
+2353500,83,Marlon,Rafinha,Fluminense RJ
+2353502,46,Willian Popp,Marcelo Costa,Joinville EC
+2353502,62,Guti,Rafael Donato,Joinville EC
+2353502,53,Eduardo Sasha,Rafael Moura,Internacional
+2353502,67,Bertotto,Vitinho,Internacional
+2353502,78,Zé Mário,Artur,Internacional
+2353499,64,Tauã,Rômulo,Avaí FC
+2353499,71,Tinga,Roberto,Avaí FC
+2353499,76,Pablo Barros,Renanzinho,Avaí FC
+2353499,46,Wanderson,Bruno Silva,Chapecoense
+2353499,63,Tiago Luis,Hyoran,Chapecoense
+2353499,80,Maranhão,Camilo,Chapecoense
+2353501,46,Samuel Rosa,Neto,Sport Club Recife
+2353501,60,Régis,Wendel,Sport Club Recife
+2353501,76,Danilo Barcelos,Renê,Sport Club Recife
+2353501,56,Kelvin,Dudu,SE Palmeiras
+2353501,72,Andrei,Zé Roberto,SE Palmeiras
+2353501,75,João Pedro,João Paulo,SE Palmeiras
+2353506,46,Arthur Maia,Marcelo Cirino,Flamengo RJ
+2353506,87,Gabriel,Éverton,Flamengo RJ
+2353506,62,Fernandinho Silva,Douglas,Grêmio Porto Alegre
+2353506,75,Victor Rangel,Pedro Rocha,Grêmio Porto Alegre
+2353506,89,Braian Rodríguez,Walace,Grêmio Porto Alegre
+2353507,46,Anderson,Juan,Internacional
+2353507,57,Eduardo Bauermann,Réver,Internacional
+2353507,74,Bertotto,Alex,Internacional
+2353507,63,Carlos Eduardo,Patrick Bezerra,Goiás EC
+2353507,74,Lucas Coelho,Murilo,Goiás EC
+2353507,90,Liniker,David,Goiás EC
+2353503,61,John Mendoza,Rildo,Corinthians SP
+2353503,70,Danilo,Vágner Love,Corinthians SP
+2353503,84,Ralf,Bruno Henrique,Corinthians SP
+2353503,22,Carlos César,Luan,Atlético Mineiro
+2353503,69,Sherman Cardenas,Thiago Ribeiro,Atlético Mineiro
+2353503,77,Guilherme,Leandro Donizete,Atlético Mineiro
+2353510,64,Caique,Crysan,Atlético Paranaense
+2353510,66,Wellington da Silva,Kadu,Atlético Paranaense
+2353510,70,Paulinho Dias,Ytalo,Atlético Paranaense
+2353510,46,João Afonso,Wanderson,Chapecoense
+2353510,56,Ananias,Hyoran,Chapecoense
+2353510,67,Tiago Luis,Elicarlos,Chapecoense
+2353504,62,Amaral,Arouca,SE Palmeiras
+2353504,63,Gabriel Jesus,Dudu,SE Palmeiras
+2353504,73,Lucas Barrios,Geuvânio,SE Palmeiras
+2353504,68,Marquinhos Gabriel,Thiago Maia,Santos FC
+2353504,73,Neto Berola,,Santos FC
+2353504,85,Nilson,Gabriel Barbosa,Santos FC
+2353505,53,Osvaldo,Giovanni,Fluminense RJ
+2353505,79,Magno Alves,Gerson,Fluminense RJ
+2353505,65,Duvier Riascos,Germán Herrera,Vasco da Gama
+2353505,73,Thalles Lima,Dagoberto,Vasco da Gama
+2353505,80,Emanuel Biancucchi,Jhon Cley,Vasco da Gama
+2353509,47,Dudu,Ricardinho,Figueirense
+2353509,67,Everaldo,Thiago Santana,Figueirense
+2353509,69,Yago,João Vitor,Figueirense
+2353509,58,Negueba,Ivan,Coritiba FC
+2353509,65,Rafhael Lucas,Keirrison,Coritiba FC
+2353509,84,Rodrigo Ramos,Norberto Neto,Coritiba FC
+2353511,46,Ferrugem,Élber,Sport Club Recife
+2353511,73,Régis,Diego Souza,Sport Club Recife
+2353511,73,Rodrigo Mancha,Wendel,Sport Club Recife
+2353511,58,Luís Fabiano,Édson Silva,São Paulo FC
+2353511,64,Reinaldo,Ricardo Centurión,São Paulo FC
+2353511,79,Boschilia,Thiago Mendes,São Paulo FC
+2353508,32,Leandro Damião,Joel Tagueu,Cruzeiro EC
+2353508,57,Willian,Giorgian de Arrascaeta,Cruzeiro EC
+2353508,68,Gabriel Xavier,Marcos Vinicius,Cruzeiro EC
+2353508,46,Everton Silva,Rômulo,Avaí FC
+2353508,63,André Lima,William Souza,Avaí FC
+2353508,79,Tinga,Eduardo Neto,Avaí FC
+2353512,46,Willian Popp,Kempes,Joinville EC
+2353512,46,Silvinho,Dankler,Joinville EC
+2353512,77,Marcelinho,Lucas Crispim,Joinville EC
+2353512,59,Cesinha,Felipe Azevedo,Ponte Preta
+2353512,60,Bady,Felipe,Ponte Preta
+2353512,70,Borges,Josimar,Ponte Preta
+2353519,56,Rômulo,Tauã,Avaí FC
+2353519,67,André Lima,William Souza,Avaí FC
+2353519,79,Juninho,Eduardo Neto,Avaí FC
+2353519,22,Natanael Pimienta,Sidcley,Atlético Paranaense
+2353519,63,Ytalo,Crysan,Atlético Paranaense
+2353519,76,Bruno Pereirinha,Eduardo Santos,Atlético Paranaense
+2353517,69,Maxi Rodríguez,Douglas,Grêmio Porto Alegre
+2353517,78,Fernandinho Silva,Giuliano,Grêmio Porto Alegre
+2353517,80,Braian Rodríguez,Pedro Rocha,Grêmio Porto Alegre
+2353517,46,Élber,Rodrigo Mancha,Sport Club Recife
+2353517,70,Régis,André,Sport Club Recife
+2353517,79,Samuel Rosa,Diego Souza,Sport Club Recife
+2353518,60,Guilherme,Jesús Dátolo,Atlético Mineiro
+2353518,67,Carlos,Thiago Ribeiro,Atlético Mineiro
+2353518,81,Sherman Cardenas,Giovanni Augusto,Atlético Mineiro
+2353518,56,Yago,Rafael Bastos,Figueirense
+2353518,66,Thiago Santana,Marcão,Figueirense
+2353518,76,Sueliton,João Vitor,Figueirense
+2353514,44,Marquinhos,Gabriel Barbosa,Santos FC
+2353514,67,Elano,Geuvânio,Santos FC
+2353514,81,Serginho,Nilson,Santos FC
+2353514,38,Marcelo Costa,Naldo,Joinville EC
+2353514,46,Kempes,Willian Popp,Joinville EC
+2353514,66,Luiz Meneses,Fabrício,Joinville EC
+2353522,65,Maranhão,Tiago Luis,Chapecoense
+2353522,65,Wagner,Ananias,Chapecoense
+2353522,77,Hyoran,Cléber Santana,Chapecoense
+2353522,60,Magno Alves,Fred,Fluminense RJ
+2353522,70,Renato,Wellington Silva,Fluminense RJ
+2353522,85,Lucas Gomes,Osvaldo,Fluminense RJ
+2353513,64,Húdson,João Schmidt,São Paulo FC
+2353513,76,Édson Silva,Boschilia,São Paulo FC
+2353513,80,João Paulo,Alexandre Pato,São Paulo FC
+2353513,46,Mayke,Ceará,Cruzeiro EC
+2353513,46,Gabriel Xavier,Marcos Vinicius,Cruzeiro EC
+2353513,60,Leandro Damião,Vinícius Araújo,Cruzeiro EC
+2353515,74,Keno,Felipe Azevedo,Ponte Preta
+2353515,80,Bady,Felipe,Ponte Preta
+2353515,82,Leandro,Borges,Ponte Preta
+2353515,46,Nicolás Freitas,Alex,Internacional
+2353515,63,Valdivia,Anderson,Internacional
+2353515,73,Vitinho,Nilmar,Internacional
+2353520,35,Rodolfo,Thiago Galhardo,Coritiba FC
+2353520,46,Evandro,Leandro Silva,Coritiba FC
+2353520,58,Negueba,Alan Santos,Coritiba FC
+2353520,76,Rildo,Malcom,Corinthians SP
+2353520,87,Danilo,Vágner Love,Corinthians SP
+2353520,88,Ralf,Renato Augusto,Corinthians SP
+2353521,61,Carlos Eduardo,Bruno Henrique,Goiás EC
+2353521,69,Lucas Coelho,Murilo,Goiás EC
+2353521,74,Liniker,Patrick Bezerra,Goiás EC
+2353521,46,Pará,Ayrton,Flamengo RJ
+2353521,46,Alan Patrick,Héctor Canteros,Flamengo RJ
+2353521,88,Gabriel,Marcelo Cirino,Flamengo RJ
+2353516,46,Jordi,Martín Silva,Vasco da Gama
+2353516,46,Serginho,Aislan,Vasco da Gama
+2353516,46,Duvier Riascos,Dagoberto,Vasco da Gama
+2353516,61,Jonathan Cristaldo,Rafael Marques,SE Palmeiras
+2353516,64,Lucas Barrios,Leandro Pereira,SE Palmeiras
+2353516,76,Cleiton Xavier,Robinho,SE Palmeiras
+2353523,46,Luciano,Vágner Love,Corinthians SP
+2353523,46,Edílson,Fágner,Corinthians SP
+2353523,81,Ralf,Bruno Henrique,Corinthians SP
+2353523,62,Thalles Lima,Duvier Riascos,Vasco da Gama
+2353523,69,Andrezinho,Serginho,Vasco da Gama
+2353523,85,Emanuel Biancucchi,Germán Herrera,Vasco da Gama
+2353528,46,Carlos,Sherman Cardenas,Atlético Mineiro
+2353528,67,Danilo Pires,Thiago Ribeiro,Atlético Mineiro
+2353528,86,Josué,Giovanni Augusto,Atlético Mineiro
+2353528,53,Ricardo Centurión,Húdson,São Paulo FC
+2353528,67,Auro,Reinaldo,São Paulo FC
+2353528,77,Boschilia,Luís Fabiano,São Paulo FC
+2353525,39,Gustavo Scarpa,Osvaldo,Fluminense RJ
+2353525,56,Wellington Paulista,Breno Lopes,Fluminense RJ
+2353525,68,Magno Alves,Gerson,Fluminense RJ
+2353525,51,Edinho,Willian Schuster,Grêmio Porto Alegre
+2353525,70,Fernandinho Silva,Douglas,Grêmio Porto Alegre
+2353525,79,Braian Rodríguez,Luan,Grêmio Porto Alegre
+2353524,34,Andrei,Gabriel,SE Palmeiras
+2353524,46,Kelvin,Rafael Marques,SE Palmeiras
+2353524,65,Lucas Barrios,Leandro Pereira,SE Palmeiras
+2353524,60,Wálter,Crysan,Atlético Paranaense
+2353524,81,Deivid,Hernani,Atlético Paranaense
+2353524,84,Daniel Hernández,Nikão,Atlético Paranaense
+2353530,21,Hélder,Henrique Gelain,Coritiba FC
+2353530,60,Negueba,João Paulo,Coritiba FC
+2353530,75,Juan,Ruy,Coritiba FC
+2353530,63,Liniker,Patrick Bezerra,Goiás EC
+2353530,72,Wesley,Erik,Goiás EC
+2353530,83,Rafael Forster,Murilo,Goiás EC
+2353526,66,Gabriel,Alan Patrick,Flamengo RJ
+2353526,48,Marquinhos Gabriel,Paulo Ricardo,Santos FC
+2353526,61,Neto Berola,Gabriel Barbosa,Santos FC
+2353526,80,Thiago Maia,Geuvânio,Santos FC
+2353527,66,Wellington,Anderson,Internacional
+2353527,81,Rafael Moura,Valdivia,Internacional
+2353527,63,Hyoran,Ananias,Chapecoense
+2353527,71,Neném,Wagner,Chapecoense
+2353527,78,Maranhão,Tiago Luis,Chapecoense
+2353529,53,Carlos Alberto,João Vitor,Figueirense
+2353529,61,Thiago Santana,Rafael Bastos,Figueirense
+2353529,73,Dudu,Marcão,Figueirense
+2353529,46,Jefferson,Josimar,Ponte Preta
+2353529,68,Diego Ivo,Cesinha,Ponte Preta
+2353529,75,Keno,Borges,Ponte Preta
+2353532,46,Lucas Crispim,Marion,Joinville EC
+2353532,69,Silvinho,Willian Popp,Joinville EC
+2353532,71,Marcelinho,Marcelo Costa,Joinville EC
+2353532,46,Roberto,Emerson Silva,Avaí FC
+2353532,46,Tinga,Eduardo Neto,Avaí FC
+2353532,55,Rômulo,Tauã,Avaí FC
+2353531,59,Hernane Brocador,Régis,Sport Club Recife
+2353531,78,Samuel Rosa,Wendel,Sport Club Recife
+2353531,79,Neto,Diego Souza,Sport Club Recife
+2353531,64,Giorgian de Arrascaeta,Marinho,Cruzeiro EC
+2353531,68,Marquinhos,Alisson,Cruzeiro EC
+2353531,77,Leandro Damião,Vinícius Araújo,Cruzeiro EC
+2353539,51,Roberto,André Lima,Avaí FC
+2353539,63,Romário,Eltinho,Avaí FC
+2353539,71,Everton Silva,Marquinhos,Avaí FC
+2353539,46,Cícero,Breno Lopes,Fluminense RJ
+2353539,58,Wellington Paulista,Magno Alves,Fluminense RJ
+2353539,76,Lucas Gomes,Pierre,Fluminense RJ
+2353534,59,Paulo Ricardo,Renato,Santos FC
+2353534,70,Neto Berola,Geuvânio,Santos FC
+2353534,77,Elano,Thiago Maia,Santos FC
+2353534,46,Juan,Ivan,Coritiba FC
+2353534,52,Thiago Galhardo,Alan Santos,Coritiba FC
+2353534,61,Fabricio Baiano,Henrique Almeida,Coritiba FC
+2353536,63,Duvier Riascos,Dagoberto,Vasco da Gama
+2353536,64,Thalles Lima,Anderson Salles,Vasco da Gama
+2353536,82,Rafael Silva,Germán Herrera,Vasco da Gama
+2353536,49,Kadu,Lucas Crispim,Joinville EC
+2353536,70,Luiz Meneses,Naldo,Joinville EC
+2353536,74,Marion,Edigar Junio,Joinville EC
+2353540,46,Crysan,Nikão,Atlético Paranaense
+2353540,46,Fernando Barrientos,Bruno Mota,Atlético Paranaense
+2353540,64,Daniel Hernández,Otavio,Atlético Paranaense
+2353540,63,Ferrugem,Élber,Sport Club Recife
+2353540,69,Wendel,Rodrigo Mancha,Sport Club Recife
+2353540,83,Renê,Danilo Barcelos,Sport Club Recife
+2353533,54,Wesley,Carlinhos,São Paulo FC
+2353533,59,Breno,Húdson,São Paulo FC
+2353533,67,Auro,Bruno,São Paulo FC
+2353533,76,Rildo,Malcom,Corinthians SP
+2353533,80,Danilo,Luciano,Corinthians SP
+2353533,84,Edu Dracena,Jádson,Corinthians SP
+2353535,57,Cesinha,Bady,Ponte Preta
+2353535,67,Diego Oliveira,Borges,Ponte Preta
+2353535,79,Elton,Biro Biro,Ponte Preta
+2353535,46,Luiz Antônio,Alan Patrick,Flamengo RJ
+2353535,76,Gabriel,Márcio Araújo,Flamengo RJ
+2353538,55,Marquinhos,Marinho,Cruzeiro EC
+2353538,64,Giorgian de Arrascaeta,Vinícius Araújo,Cruzeiro EC
+2353538,73,Eurico,Eugenio Mena,Cruzeiro EC
+2353538,46,Cleiton Xavier,Amaral,SE Palmeiras
+2353538,46,Alecsandro,Leandro Pereira,SE Palmeiras
+2353538,74,Jonathan Cristaldo,Robinho,SE Palmeiras
+2353541,55,Liniker,Murilo,Goiás EC
+2353541,76,Ruan,Bruno Henrique,Goiás EC
+2353541,80,Carlos Eduardo,Erik,Goiás EC
+2353541,56,Pedro Botelho,Douglas Santos,Atlético Mineiro
+2353541,66,Dodô,Sherman Cardenas,Atlético Mineiro
+2353541,69,Jesús Dátolo,Thiago Ribeiro,Atlético Mineiro
+2353537,74,Fernandinho Silva,Pedro Rocha,Grêmio Porto Alegre
+2353537,80,Bobô,Luan,Grêmio Porto Alegre
+2353537,86,Maxi Rodríguez,Douglas,Grêmio Porto Alegre
+2353537,46,Alex,Anderson,Internacional
+2353537,55,Nílton,Lisandro López,Internacional
+2353537,80,Vitinho,Valdivia,Internacional
+2353542,56,Gil,Neném,Chapecoense
+2353542,71,João Afonso,Ananias,Chapecoense
+2353542,79,Maranhão,Tiago Luis,Chapecoense
+2353542,59,Rafael Bastos,Fabinho,Figueirense
+2353542,66,Thiago Santana,Carlos Alberto,Figueirense
+2353542,82,Sueliton,Leandro Silva,Figueirense
+2353546,55,Kayke Rodrigues,Ederson,Flamengo RJ
+2353546,68,Samir,Wallace Reis,Flamengo RJ
+2353546,83,Jonas,Héctor Canteros,Flamengo RJ
+2353546,31,Fernando Barrientos,Bruno Mota,Atlético Paranaense
+2353546,46,Crysan,Nikão,Atlético Paranaense
+2353546,63,Daniel Hernández,Otavio,Atlético Paranaense
+2353550,32,Negueba,Rafhael Lucas,Coritiba FC
+2353550,70,Evandro,Misael,Coritiba FC
+2353550,74,Esquerdinha,Thiago Galhardo,Coritiba FC
+2353550,63,Lucas Taylor,Nathan Cardoso,SE Palmeiras
+2353550,65,Jonathan Cristaldo,Cleiton Xavier,SE Palmeiras
+2353550,77,Gabriel Jesus,Alecsandro,SE Palmeiras
+2353544,72,Marquinhos Gabriel,Gabriel Barbosa,Santos FC
+2353544,76,Leandro,Geuvânio,Santos FC
+2353544,88,Daniel Guedes,Victor Ferraz,Santos FC
+2353544,50,Rafael Silva,Julio Dos Santos,Vasco da Gama
+2353544,50,Germán Herrera,Júlio César,Vasco da Gama
+2353544,79,Thalles Lima,Duvier Riascos,Vasco da Gama
+2353551,55,Liniker,Murilo,Goiás EC
+2353551,68,Ruan,Felipe Menezes,Goiás EC
+2353551,84,Carlos Eduardo,Erik,Goiás EC
+2353551,46,Cléber Santana,Gil,Chapecoense
+2353551,62,Wagner,Tiago Luis,Chapecoense
+2353551,76,Hyoran,Ananias,Chapecoense
+2353543,46,Guilherme Arana,Uendel,Corinthians SP
+2353543,82,Ralf,Bruno Henrique,Corinthians SP
+2353543,84,Rildo,Malcom,Corinthians SP
+2353543,69,Hernane Brocador,Diego Souza,Sport Club Recife
+2353543,69,Régis,Élber,Sport Club Recife
+2353547,59,Lisandro López,Nicolás Freitas,Internacional
+2353547,68,Vitinho,Valdivia,Internacional
+2353547,77,Rafael Moura,Geferson,Internacional
+2353547,63,Lucas Gomes,Ronaldinho,Fluminense RJ
+2353547,80,Antônio Carlos,Wellington Silva,Fluminense RJ
+2353549,37,Carlos Alberto,Fabinho,Figueirense
+2353549,60,Sueliton,Marcos Pedroso,Figueirense
+2353549,71,Bruno Alves,Marquinhos,Figueirense
+2353549,59,Húdson,Wesley,São Paulo FC
+2353549,65,Carlinhos,Luís Fabiano,São Paulo FC
+2353549,73,Bruno,Breno,São Paulo FC
+2353545,55,Keno,Cesinha,Ponte Preta
+2353545,66,Diego Oliveira,Borges,Ponte Preta
+2353545,69,Juninho,Bady,Ponte Preta
+2353545,56,Iury,Roberto,Avaí FC
+2353545,62,Hugo Cabral,Nestor Camacho,Avaí FC
+2353545,74,Conrado,Adriano,Avaí FC
+2353548,59,Luan,Leandro Donizete,Atlético Mineiro
+2353548,69,Dodô,Guilherme,Atlético Mineiro
+2353548,67,Fernandinho Silva,Pedro Rocha,Grêmio Porto Alegre
+2353548,76,Edinho,Douglas,Grêmio Porto Alegre
+2353548,90,Bobô,Luan,Grêmio Porto Alegre
+2353552,68,Mariano Tripodi,Marcelinho,Joinville EC
+2353552,76,Marion,Willian Popp,Joinville EC
+2353552,79,Luiz Meneses,Naldo,Joinville EC
+2353552,46,Giorgian de Arrascaeta,Charles,Cruzeiro EC
+2353552,46,Willian,Marinho,Cruzeiro EC
+2353552,58,Leandro Damião,Vinícius Araújo,Cruzeiro EC
+2353556,64,Germán Herrera,Dagoberto,Vasco da Gama
+2353556,64,Jhon Cley,Jorge Henrique,Vasco da Gama
+2353556,87,Thalles Lima,Duvier Riascos,Vasco da Gama
+2353556,59,Rafhael Lucas,Thiago Galhardo,Coritiba FC
+2353556,71,Esquerdinha,Misael,Coritiba FC
+2353556,74,Evandro,Henrique Almeida,Coritiba FC
+2353560,46,Wálter,Fernando Barrientos,Atlético Paranaense
+2353560,55,Douglas Coutinho,Crysan,Atlético Paranaense
+2353560,72,Jadson,Deivid,Atlético Paranaense
+2353560,66,Marquinhos Gabriel,Gabriel Barbosa,Santos FC
+2353560,71,Neto Berola,Geuvânio,Santos FC
+2353560,80,Leandro,Lucas Lima,Santos FC
+2353553,8,Rafael Tolói,Breno,São Paulo FC
+2353553,46,Ganso,Édson Silva,São Paulo FC
+2353553,60,Thiago Mendes,Húdson,São Paulo FC
+2353553,54,Bruno Henrique,Murilo,Goiás EC
+2353553,90,Liniker,Erik,Goiás EC
+2353554,46,Lucas Taylor,Lucas,SE Palmeiras
+2353554,58,Cleiton Xavier,Robinho,SE Palmeiras
+2353554,82,Kelvin,Alecsandro,SE Palmeiras
+2353554,46,Ederson,Jonas,Flamengo RJ
+2353554,76,Marcelo,Samir,Flamengo RJ
+2353555,46,Wellington Paulista,Osvaldo,Fluminense RJ
+2353555,78,Lucas Gomes,Fred,Fluminense RJ
+2353555,81,Higor,Ronaldinho,Fluminense RJ
+2353555,56,Dudu,Alemão,Figueirense
+2353555,71,Celsinho,Rafael Bastos,Figueirense
+2353555,81,Marcão,Fabinho,Figueirense
+2353558,46,Marinho,Marquinhos,Cruzeiro EC
+2353558,46,Ariel Cabral,Charles,Cruzeiro EC
+2353558,69,Leandro Damião,Vinícius Araújo,Cruzeiro EC
+2353558,63,Rafael Moura,Valdivia,Internacional
+2353558,64,Taiberson Ruan,Vitinho,Internacional
+2353558,80,Zé Mário,Nicolás Freitas,Internacional
+2353559,24,Hugo Cabral,André Lima,Avaí FC
+2353559,52,Conrado,Rômulo,Avaí FC
+2353559,66,Eduardo Neto,Adriano,Avaí FC
+2353559,59,Danilo,Rodriguinho,Corinthians SP
+2353559,74,Rildo,Malcom,Corinthians SP
+2353559,90,Edílson,Jádson,Corinthians SP
+2353561,59,Régis,Élber,Sport Club Recife
+2353561,72,Hernane Brocador,Diego Souza,Sport Club Recife
+2353561,79,Neto,Marlone,Sport Club Recife
+2353561,60,Keno,Felipe Azevedo,Ponte Preta
+2353561,68,Leandro,Cesinha,Ponte Preta
+2353561,73,Felipe,Bady,Ponte Preta
+2353557,46,Fernandinho Silva,Pedro Rocha,Grêmio Porto Alegre
+2353557,68,Maxi Rodríguez,Douglas,Grêmio Porto Alegre
+2353557,78,Braian Rodríguez,Bobô,Grêmio Porto Alegre
+2353557,53,Marcelo Costa,Marcelinho,Joinville EC
+2353557,63,Marion,Willian Popp,Joinville EC
+2353557,78,Danrlei,Mario Sérgio,Joinville EC
+2353562,66,Camilo,Ananias,Chapecoense
+2353562,66,Wagner,Tiago Luis,Chapecoense
+2353562,76,Maranhão,Gil,Chapecoense
+2353562,42,Edcarlos,Guilherme,Atlético Mineiro
+2353562,62,Dodô,Leandro Donizete,Atlético Mineiro
+2353562,76,Josué,Luan,Atlético Mineiro
+2353564,59,Marquinhos Gabriel,Geuvânio,Santos FC
+2353564,69,Nilson,Ricardo Oliveira,Santos FC
+2353564,79,Leandro,Gabriel Barbosa,Santos FC
+2353564,43,Romário,Marrone,Avaí FC
+2353564,67,Roberto,Tinga,Avaí FC
+2353564,75,Conrado,Rômulo,Avaí FC
+2353571,64,Murilo,Zé Eduardo,Goiás EC
+2353571,85,Ygor,Rodrigo,Goiás EC
+2353571,88,Valmir Lucas,Fred,Goiás EC
+2353571,55,Germán Herrera,Duvier Riascos,Vasco da Gama
+2353571,66,Jhon Cley,Pablo Guiñazú,Vasco da Gama
+2353571,87,Lucas Siqueira,Julio Dos Santos,Vasco da Gama
+2353569,46,Thiago Santana,Celsinho,Figueirense
+2353569,56,Sueliton,Leandro Silva,Figueirense
+2353569,74,Jefferson,Yago,Figueirense
+2353569,63,Élber,Marlone,Sport Club Recife
+2353569,73,Hernane Brocador,Rodrigo Mancha,Sport Club Recife
+2353569,87,Samuel Rosa,Maikon Leite,Sport Club Recife
+2353565,10,Diego Oliveira,Borges,Ponte Preta
+2353565,70,Leandro,Bady,Ponte Preta
+2353565,78,Keno,Biro Biro,Ponte Preta
+2353565,48,Edinho,Maicon,Grêmio Porto Alegre
+2353565,58,Braian Rodríguez,Luan,Grêmio Porto Alegre
+2353565,77,Pedro Rocha,Fernandinho Silva,Grêmio Porto Alegre
+2353570,21,Luccas Claro,Rafael Marques,Coritiba FC
+2353570,56,Marcos Aurélio,Luis Cáceres,Coritiba FC
+2353570,74,Misael,Ruy,Coritiba FC
+2353570,58,Wagner,Ananias,Chapecoense
+2353570,58,Camilo,Tiago Luis,Chapecoense
+2353570,83,Maranhão,Gil,Chapecoense
+2353563,85,Ralf,Bruno Henrique,Corinthians SP
+2353563,86,Danilo,Vágner Love,Corinthians SP
+2353563,88,Matheus Pereira,Jádson,Corinthians SP
+2353563,46,Fabiano,Mayke,Cruzeiro EC
+2353563,46,Giorgian de Arrascaeta,Marquinhos,Cruzeiro EC
+2353563,69,Willian Farias,Charles,Cruzeiro EC
+2353566,68,Paulinho,Ederson,Flamengo RJ
+2353566,83,Luiz Antônio,Alan Patrick,Flamengo RJ
+2353566,45,Auro,Bruno,São Paulo FC
+2353566,60,Wilder Guisao,Ricardo Centurión,São Paulo FC
+2353566,68,Wesley,Lucão Cavalcante,São Paulo FC
+2353567,72,Wellington,Eduardo Sasha,Internacional
+2353567,78,Alex,Vitinho,Internacional
+2353567,84,Rafael Moura,Andrés DAlessandro,Internacional
+2353567,46,Marcos Guilherme,Bruno Mota,Atlético Paranaense
+2353567,54,Wálter,Bruno Pereirinha,Atlético Paranaense
+2353567,72,Ewandro,Douglas Coutinho,Atlético Paranaense
+2353572,53,Ricardo Bueno,Kadu,Joinville EC
+2353572,69,Marion,Marcelinho,Joinville EC
+2353572,76,Silvinho,Willian Popp,Joinville EC
+2353572,8,Lucas Gomes,Fred,Fluminense RJ
+2353572,66,Vinicius,Marcos Júnior,Fluminense RJ
+2353572,82,Rafinha,Renato,Fluminense RJ
+2353568,69,Patric,Thiago Ribeiro,Atlético Mineiro
+2353568,74,Guilherme,Giovanni Augusto,Atlético Mineiro
+2353568,80,Jesús Dátolo,Luan,Atlético Mineiro
+2353568,46,Robinho,Egídio,SE Palmeiras
+2353568,58,Gabriel Jesus,Andrei,SE Palmeiras
+2353568,64,Lucas Barrios,Alecsandro,SE Palmeiras
+2353576,46,Andrezinho,Duvier Riascos,Vasco da Gama
+2353576,60,Thalles Lima,Jean Patrick,Vasco da Gama
+2353576,84,Romarinho,Julio Dos Santos,Vasco da Gama
+2353576,46,Fabinho,Paulo Roberto,Figueirense
+2353576,60,Yago,João Vitor,Figueirense
+2353576,68,Marcão,Alemão,Figueirense
+2353573,65,Auro,Wesley,São Paulo FC
+2353573,66,Matheus Reis,Reinaldo,São Paulo FC
+2353573,79,Lyanco,Húdson,São Paulo FC
+2353573,9,Diego Ivo,Tiago Alves,Ponte Preta
+2353573,58,Keno,Cesinha,Ponte Preta
+2353573,71,Léo Costa,,Ponte Preta
+2353577,67,Pedro Rocha,Fernandinho Silva,Grêmio Porto Alegre
+2353577,71,Lucas Ramon,Rafael Galhardo,Grêmio Porto Alegre
+2353577,83,Bobô,Walace,Grêmio Porto Alegre
+2353577,54,Thiago Galhardo,Luis Cáceres,Coritiba FC
+2353577,64,Evandro,Rafhael Lucas,Coritiba FC
+2353579,63,Anderson Lopes,Marquinhos,Avaí FC
+2353579,67,Pablo Barros,Nino Paraíba,Avaí FC
+2353579,81,Tinga,Rômulo,Avaí FC
+2353579,46,Wellington,Nílton,Internacional
+2353579,72,Rafael Moura,Valdivia,Internacional
+2353579,80,Anderson,William,Internacional
+2353574,46,Alecsandro,Lucas Barrios,SE Palmeiras
+2353574,54,Rafael Marques,Egídio,SE Palmeiras
+2353574,73,Thiago Santos,Gabriel Jesus,SE Palmeiras
+2353574,41,Fabrício,Anselmo,Joinville EC
+2353574,66,Silvinho,Willian Popp,Joinville EC
+2353574,74,Kempes,Kadu,Joinville EC
+2353575,47,Gerson,Victor,Fluminense RJ
+2353575,69,Magno Alves,Ronaldinho,Fluminense RJ
+2353575,82,Vinicius,Renato,Fluminense RJ
+2353575,66,Jesús Dátolo,Thiago Ribeiro,Atlético Mineiro
+2353575,72,Patric,Luan,Atlético Mineiro
+2353581,37,Ferrugem,Marlone,Sport Club Recife
+2353581,46,Élber,Diego Souza,Sport Club Recife
+2353581,46,André,Hernane Brocador,Sport Club Recife
+2353581,58,Marcelo Cirino,Kayke Rodrigues,Flamengo RJ
+2353581,77,Paulinho,Emerson Sheik,Flamengo RJ
+2353581,89,Luiz Antônio,Éverton,Flamengo RJ
+2353582,47,Camilo,Elicarlos,Chapecoense
+2353582,67,Maranhão,Ananias,Chapecoense
+2353582,81,Wagner,Tiago Luis,Chapecoense
+2353582,37,Guilherme Arana,Uendel,Corinthians SP
+2353582,76,Rildo,Malcom,Corinthians SP
+2353582,83,Danilo,Vágner Love,Corinthians SP
+2353578,46,Gabriel Xavier,Marcos Vinicius,Cruzeiro EC
+2353578,46,Allano,Vinícius Araújo,Cruzeiro EC
+2353578,70,Giorgian de Arrascaeta,Henrique,Cruzeiro EC
+2353578,55,Leandro,Neto Berola,Santos FC
+2353578,77,Lucas Otávio,Thiago Maia,Santos FC
+2353578,90,Léo Cittadini,Lucas Lima,Santos FC
+2353580,58,Matheus Ribeiro,Eduardo Santos,Atlético Paranaense
+2353580,75,Ewandro,Nikão,Atlético Paranaense
+2353580,85,Dellatorre,Daniel Hernández,Atlético Paranaense
+2353580,73,Murilo,Patrick Bezerra,Goiás EC
+2353580,84,Ruan,Erik,Goiás EC
+2353580,89,David Duarte,Alex Alves,Goiás EC
+2353585,46,Diego Oliveira,Bady,Ponte Preta
+2353585,60,Adrianinho,Felipe Azevedo,Ponte Preta
+2353585,78,Clayson,Biro Biro,Ponte Preta
+2353585,71,Marcos Vinicius,Ariel Cabral,Cruzeiro EC
+2353585,80,Vinícius Araújo,Leandro Damião,Cruzeiro EC
+2353585,83,Marquinhos,Allano,Cruzeiro EC
+2353587,46,Lisandro López,Vitinho,Internacional
+2353587,68,Rafael Moura,Valdivia,Internacional
+2353587,76,Anderson,Alex,Internacional
+2353587,46,Duvier Riascos,Andrezinho,Vasco da Gama
+2353587,46,Bruno Ferreira,Serginho,Vasco da Gama
+2353587,66,Lucas Siqueira,Rafael Silva,Vasco da Gama
+2353592,34,Kempes,Kadu,Joinville EC
+2353592,65,Danrlei,Fabrício,Joinville EC
+2353592,80,Silvinho,Edigar Junio,Joinville EC
+2353592,61,Ricardo Centurión,Wilder Guisao,São Paulo FC
+2353592,71,Matheus Reis,Reinaldo,São Paulo FC
+2353592,74,Daniel,Michel Bastos,São Paulo FC
+2353586,71,Paulinho,Pablo Armero,Flamengo RJ
+2353586,82,Jonas,Márcio Araújo,Flamengo RJ
+2353586,84,Marcelo Cirino,Emerson Sheik,Flamengo RJ
+2353586,61,Pablo Barros,Eduardo Neto,Avaí FC
+2353586,71,Roberto,Adriano,Avaí FC
+2353586,73,Renan Oliveira,Nestor Camacho,Avaí FC
+2353588,46,Mansur,Thiago Ribeiro,Atlético Mineiro
+2353588,83,Sherman Cardenas,Giovanni Augusto,Atlético Mineiro
+2353588,84,Carlos César,Mansur,Atlético Mineiro
+2353588,19,Gustavo Schiavolin,Kadu,Atlético Paranaense
+2353588,46,Wálter,Dellatorre,Atlético Paranaense
+2353588,67,Nikão,Ewandro,Atlético Paranaense
+2353583,74,Rildo,Jádson,Corinthians SP
+2353583,79,Ángel Romero,Vágner Love,Corinthians SP
+2353583,89,Rodriguinho,Malcom,Corinthians SP
+2353583,57,Michael,Wellington Paulista,Fluminense RJ
+2353583,65,Osvaldo,Gerson,Fluminense RJ
+2353583,75,Vinicius,Cícero,Fluminense RJ
+2353590,57,Evandro,Esquerdinha,Coritiba FC
+2353590,59,Rodrigo Ramos,João Paulo,Coritiba FC
+2353590,70,Misael,Luis Cáceres,Coritiba FC
+2353590,67,Maikon Leite,Samuel Rosa,Sport Club Recife
+2353590,73,Rodrigo Mancha,Wendel,Sport Club Recife
+2353590,73,Hernane Brocador,Diego Souza,Sport Club Recife
+2353591,72,Ygor,Bruno Henrique,Goiás EC
+2353591,80,Murilo,David,Goiás EC
+2353591,88,Wesley,Zé Eduardo,Goiás EC
+2353591,46,João Paulo,Egídio,SE Palmeiras
+2353591,65,Alecsandro,Lucas Barrios,SE Palmeiras
+2353591,65,Rafael Marques,Thiago Santos,SE Palmeiras
+2353584,57,Léo Cittadini,Neto Berola,Santos FC
+2353584,77,Nilson,Ricardo Oliveira,Santos FC
+2353584,80,Rafael Longuine,Marquinhos Gabriel,Santos FC
+2353584,46,Camilo,Ananias,Chapecoense
+2353584,46,Cléber Santana,João Afonso,Chapecoense
+2353584,80,Bruno Silva,Neném,Chapecoense
+2353589,38,Marcão,Dudu,Figueirense
+2353589,46,João Vitor,Paulo Roberto,Figueirense
+2353589,65,Alemão,Rafael Bastos,Figueirense
+2353589,24,Pedro Rocha,Fernandinho Silva,Grêmio Porto Alegre
+2353589,69,Willian Schuster,Maxi Rodríguez,Grêmio Porto Alegre
+2353589,80,Victor Rangel,Bobô,Grêmio Porto Alegre
+2353593,74,João Schmidt,Rogério,São Paulo FC
+2353593,77,Auro,Bruno,São Paulo FC
+2353593,80,Matheus Reis,Wilder Guisao,São Paulo FC
+2353593,53,Anderson,Eduardo Sasha,Internacional
+2353593,69,Artur,Geferson,Internacional
+2353593,82,Taiberson Ruan,Lisandro López,Internacional
+2353596,56,Rafael Silva,Jorge Henrique,Vasco da Gama
+2353596,57,Felipe Seymour,Lucas Siqueira,Vasco da Gama
+2353596,71,Andrezinho,Julio Dos Santos,Vasco da Gama
+2353596,65,Dodô,Giovanni Augusto,Atlético Mineiro
+2353596,66,Sherman Cardenas,Thiago Ribeiro,Atlético Mineiro
+2353600,46,Ewandro,Deivid,Atlético Paranaense
+2353600,83,Dellatorre,Daniel Hernández,Atlético Paranaense
+2353600,90,Crysan,Wellington da Silva,Atlético Paranaense
+2353600,46,Domingues,Kempes,Joinville EC
+2353600,57,Fernando Viana,Marcelinho,Joinville EC
+2353600,65,Juninho,Lucas Crispim,Joinville EC
+2353598,66,Marquinhos,Allano,Cruzeiro EC
+2353598,70,Marinho,Vinícius Araújo,Cruzeiro EC
+2353598,74,Fabrício,Pará,Cruzeiro EC
+2353598,47,Juninho,Clayton,Figueirense
+2353598,47,Elias,Thiago Santana,Figueirense
+2353598,62,Yago,Rafael Bastos,Figueirense
+2353602,46,Maranhão,Bruno Silva,Chapecoense
+2353602,66,Flavinho,Tiago Luis,Chapecoense
+2353602,83,Túlio de Melo,Camilo,Chapecoense
+2353602,76,Clayson,Cesinha,Ponte Preta
+2353602,85,Fábio Ferreira,Diego Oliveira,Ponte Preta
+2353602,90,Bady,Felipe Azevedo,Ponte Preta
+2353594,71,João Paulo,Robinho,SE Palmeiras
+2353594,71,Jonathan Cristaldo,Alecsandro,SE Palmeiras
+2353594,82,Agustin Allione,Dudu,SE Palmeiras
+2353594,46,Cristian Baroni,Marciel,Corinthians SP
+2353594,68,Rildo,Malcom,Corinthians SP
+2353594,77,Danilo,Ralf,Corinthians SP
+2353595,46,Marcos Júnior,Pierre,Fluminense RJ
+2353595,82,Wellington Paulista,Michael,Fluminense RJ
+2353595,46,Paulinho,Pablo Armero,Flamengo RJ
+2353595,77,César,Wallace Reis,Flamengo RJ
+2353595,86,Jonas,Márcio Araújo,Flamengo RJ
+2353597,68,Gabriel Silva,Maicon,Grêmio Porto Alegre
+2353597,70,Yuri Mamute,Lucas Ramon,Grêmio Porto Alegre
+2353597,86,Moisés Gaúcho,Everton,Grêmio Porto Alegre
+2353597,37,Alex Alves,Erik,Goiás EC
+2353597,87,Ygor,David,Goiás EC
+2353597,88,Murilo,Patrick Bezerra,Goiás EC
+2353599,61,Anderson Lopes,Marquinhos,Avaí FC
+2353599,68,Roberto,Rômulo,Avaí FC
+2353599,76,André Lima,Tinga,Avaí FC
+2353599,54,Thiago Galhardo,Thiago Lopes,Coritiba FC
+2353599,57,Marcos Aurélio,Guilherme Parede,Coritiba FC
+2353599,72,Luccas Claro,Juninho,Coritiba FC
+2353601,25,Régis,Wendel,Sport Club Recife
+2353601,46,Samuel Xavier,Maikon Leite,Sport Club Recife
+2353601,84,Hernane Brocador,Diego Souza,Sport Club Recife
+2353601,77,Serginho,Rafael Longuine,Santos FC
+2353601,80,Neto Berola,Marquinhos Gabriel,Santos FC
+2353601,84,Leandro,Gabriel Barbosa,Santos FC
+2353605,60,Keno,Adrianinho,Ponte Preta
+2353605,65,Juninho,Elton,Ponte Preta
+2353605,73,Cesinha,Biro Biro,Ponte Preta
+2353605,48,Rafael Vaz,Diguinho,Vasco da Gama
+2353605,62,Andrezinho,Julio Dos Santos,Vasco da Gama
+2353605,63,Duvier Riascos,Germán Herrera,Vasco da Gama
+2353607,28,Alex,Andrés DAlessandro,Internacional
+2353607,66,Lisandro López,Eduardo Sasha,Internacional
+2353607,73,Taiberson Ruan,Valdivia,Internacional
+2353607,49,Jackson Souza,Alecsandro,SE Palmeiras
+2353607,62,Agustin Allione,Andrei,SE Palmeiras
+2353607,85,Pablo Mouche,João Paulo,SE Palmeiras
+2353608,59,Pedro Botelho,Jesús Dátolo,Atlético Mineiro
+2353608,74,Thiago Ribeiro,Giovanni Augusto,Atlético Mineiro
+2353608,85,Dodô,Patric,Atlético Mineiro
+2353608,45,Rômulo,Jéci,Avaí FC
+2353608,46,Everton Silva,Juninho,Avaí FC
+2353608,65,André Lima,Léo Gamalho,Avaí FC
+2353609,65,Juninho,Yago,Figueirense
+2353609,67,Thiago Santana,Elias,Figueirense
+2353609,84,Ricardinho,Celsinho,Figueirense
+2353609,54,Bruno Mota,Daniel Hernández,Atlético Paranaense
+2353609,65,Ytalo,Ewandro,Atlético Paranaense
+2353609,83,Crysan,Nikão,Atlético Paranaense
+2353603,16,Yago,Guilherme Arana,Corinthians SP
+2353603,62,Rildo,Malcom,Corinthians SP
+2353603,75,Danilo,Marciel,Corinthians SP
+2353603,40,Rafael Thyere,Geromel,Grêmio Porto Alegre
+2353603,82,Yuri Mamute,Pedro Rocha,Grêmio Porto Alegre
+2353603,83,Victor Rangel,Bobô,Grêmio Porto Alegre
+2353604,67,Marquinhos,Gabriel Barbosa,Santos FC
+2353604,74,Serginho,Rafael Longuine,Santos FC
+2353604,80,Nilson,Ricardo Oliveira,Santos FC
+2353604,46,Wesley,Húdson,São Paulo FC
+2353604,46,Michel Bastos,Wilder Guisao,São Paulo FC
+2353604,67,Ricardo Centurión,Alexandre Pato,São Paulo FC
+2353610,46,Alan Santos,Kléber Gladiador,Coritiba FC
+2353610,54,Evandro,Thiago Galhardo,Coritiba FC
+2353610,79,Marcos Aurélio,Luccas Claro,Coritiba FC
+2353610,74,Vinicius,Marcos Júnior,Fluminense RJ
+2353610,76,Osvaldo,Gerson,Fluminense RJ
+2353610,82,Edson,Gustavo Scarpa,Fluminense RJ
+2353611,72,Liniker,Patrick Bezerra,Goiás EC
+2353611,80,Carlos Eduardo,Murilo,Goiás EC
+2353611,90,Lucas Coelho,Zé Eduardo,Goiás EC
+2353611,46,Élber,Marlone,Sport Club Recife
+2353611,62,Rodrigo Mancha,Wendel,Sport Club Recife
+2353611,74,Régis,Diego Souza,Sport Club Recife
+2353606,32,César,Wallace Reis,Flamengo RJ
+2353606,67,Marcelo Cirino,Emerson Sheik,Flamengo RJ
+2353606,90,Jajá,Paulinho,Flamengo RJ
+2353606,46,Marcos Vinicius,Ariel Cabral,Cruzeiro EC
+2353606,56,Marquinhos,Allano,Cruzeiro EC
+2353606,79,Giorgian de Arrascaeta,Vinícius Araújo,Cruzeiro EC
+2353612,30,Fabrício,William Henrique,Joinville EC
+2353612,59,Yuri,Juninho,Joinville EC
+2353612,71,Kempes,Fernando Viana,Joinville EC
+2353612,65,Wagner,Tiago Luis,Chapecoense
+2353612,82,Ananias,Camilo,Chapecoense
+2353612,86,Túlio de Melo,Bruno Rangel,Chapecoense
+2353620,46,Thiago Galhardo,Luis Cáceres,Coritiba FC
+2353620,59,Ivan,Walisson Maia,Coritiba FC
+2353620,79,Guilherme Parede,Lúcio Flávio,Coritiba FC
+2353620,66,Rafael Moura,Vitinho,Internacional
+2353620,71,Anderson,Alex,Internacional
+2353620,80,Réver,William,Internacional
+2353614,46,Kelvin,Egídio,SE Palmeiras
+2353614,70,Jonathan Cristaldo,Alecsandro,SE Palmeiras
+2353614,80,Andrei,Rafael Marques,SE Palmeiras
+2353614,46,Thiago Santana,Marcão,Figueirense
+2353614,65,Alemão,Elias,Figueirense
+2353614,75,Juninho,Celsinho,Figueirense
+2353613,6,Malcom,Rildo,Corinthians SP
+2353613,74,Danilo,Jádson,Corinthians SP
+2353613,86,Cristian Baroni,Elías,Corinthians SP
+2353613,31,Danrlei,Anselmo,Joinville EC
+2353613,46,Domingues,Naldo,Joinville EC
+2353613,55,Alef,Diego Rodrigues,Joinville EC
+2353615,56,Elton,Josimar,Ponte Preta
+2353615,56,Alexandro,Borges,Ponte Preta
+2353615,70,Juninho,Bady,Ponte Preta
+2353615,46,Neto Berola,Daniel Guedes,Santos FC
+2353615,62,Leandro,Gabriel Barbosa,Santos FC
+2353615,70,Rafael Longuine,Marquinhos Gabriel,Santos FC
+2353616,17,Rafael Silva,Jorge Henrique,Vasco da Gama
+2353616,46,Duvier Riascos,Leandrão,Vasco da Gama
+2353616,78,Rafael Vaz,Serginho,Vasco da Gama
+2353616,40,Daniel Hernández,Ewandro,Atlético Paranaense
+2353616,54,Dellatorre,Jadson,Atlético Paranaense
+2353616,74,Ytalo,Eduardo Santos,Atlético Paranaense
+2353617,61,Bobô,Fernandinho Silva,Grêmio Porto Alegre
+2353617,76,Everton,Douglas,Grêmio Porto Alegre
+2353617,85,Pedro Rocha,Walace,Grêmio Porto Alegre
+2353617,62,Rogério,Carlinhos,São Paulo FC
+2353617,66,Wesley,Breno,São Paulo FC
+2353617,81,Reinaldo,Michel Bastos,São Paulo FC
+2353618,59,Fabrício,Marquinhos,Cruzeiro EC
+2353618,61,Fabiano,Ceará,Cruzeiro EC
+2353618,81,Charles,Willians,Cruzeiro EC
+2353618,46,Carlos,Patric,Atlético Mineiro
+2353618,60,Jesús Dátolo,Rafael Carioca,Atlético Mineiro
+2353618,85,Josué,Leandro Donizete,Atlético Mineiro
+2353622,46,Ananias,Camilo,Chapecoense
+2353622,66,Maylson,Elicarlos,Chapecoense
+2353622,85,Túlio de Melo,Bruno Silva,Chapecoense
+2353622,75,Luiz Antônio,Jorge,Flamengo RJ
+2353622,78,Ederson,Paulinho,Flamengo RJ
+2353622,90,Marcelo,Marcelo Cirino,Flamengo RJ
+2353619,53,Rômulo,Renan Oliveira,Avaí FC
+2353619,73,André Lima,Roberto,Avaí FC
+2353619,74,Rudnei,Adriano,Avaí FC
+2353619,66,Juba,Murilo,Goiás EC
+2353619,79,Patrick Bezerra,Ygor,Goiás EC
+2353619,89,Lucas Coelho,Liniker,Goiás EC
+2353621,46,Régis,Maikon Leite,Sport Club Recife
+2353621,70,Wendel,Marlone,Sport Club Recife
+2353621,70,Élber,Diego Souza,Sport Club Recife
+2353621,58,Michael,Gustavo Scarpa,Fluminense RJ
+2353621,59,Osvaldo,Marcos Júnior,Fluminense RJ
+2353621,77,Vinicius,Edson,Fluminense RJ
+2353625,31,Osvaldo,Gerson,Fluminense RJ
+2353625,77,Vinicius,Jean,Fluminense RJ
+2353625,81,Michael,Marcos Júnior,Fluminense RJ
+2353625,46,Rafael Marques,Egídio,SE Palmeiras
+2353625,61,Lucas Barrios,Alecsandro,SE Palmeiras
+2353625,67,Agustin Allione,Arouca,SE Palmeiras
+2353631,65,Liniker,Patrick Bezerra,Goiás EC
+2353631,76,Juliano,David,Goiás EC
+2353631,76,Murilo,Erik,Goiás EC
+2353631,46,Cristian,Bady,Ponte Preta
+2353631,57,Elton,Josimar,Ponte Preta
+2353631,66,Alexandro,Borges,Ponte Preta
+2353632,62,Yuri,Kadu,Joinville EC
+2353632,73,Kempes,Marcelinho,Joinville EC
+2353632,76,Marcelo Costa,Lucas Crispim,Joinville EC
+2353632,46,Élber,Maikon Leite,Sport Club Recife
+2353632,46,Régis,Hernane Brocador,Sport Club Recife
+2353632,76,Samuel Xavier,Ferrugem,Sport Club Recife
+2353629,59,Marcão,Elias,Figueirense
+2353629,67,João Vitor,Yago,Figueirense
+2353629,71,França,Sueliton,Figueirense
+2353629,64,Tinga,Rudnei,Avaí FC
+2353629,70,Claudinei,Adriano,Avaí FC
+2353629,78,Anderson Lopes,Everton Silva,Avaí FC
+2353630,45,Ewandro,Ytalo,Atlético Paranaense
+2353630,50,Daniel Hernández,Deivid,Atlético Paranaense
+2353630,67,Sidcley,Roberto,Atlético Paranaense
+2353630,40,Tiago Machowski,Marcelo Grohe,Grêmio Porto Alegre
+2353630,71,Bobô,Douglas,Grêmio Porto Alegre
+2353630,76,Gabriel Silva,Rafael Galhardo,Grêmio Porto Alegre
+2353624,74,Marquinhos,Gabriel Barbosa,Santos FC
+2353624,85,Vitor Bueno,Ricardo Oliveira,Santos FC
+2353624,88,Leandro,Lucas Lima,Santos FC
+2353624,61,Thiago Ribeiro,Carlos,Atlético Mineiro
+2353624,76,Dodô,Giovanni Augusto,Atlético Mineiro
+2353624,76,Sherman Cardenas,Luan,Atlético Mineiro
+2353627,32,Lisandro López,Wellington,Internacional
+2353627,71,Rafael Moura,Vitinho,Internacional
+2353627,84,Silva,Valdivia,Internacional
+2353627,13,Edílson,Uendel,Corinthians SP
+2353627,72,Ángel Romero,Malcom,Corinthians SP
+2353627,83,Cristian Baroni,Ralf,Corinthians SP
+2353628,38,Paulo André,Bruno Rodrigo,Cruzeiro EC
+2353628,61,Giorgian de Arrascaeta,Marquinhos,Cruzeiro EC
+2353628,84,Vinícius Araújo,Ariel Cabral,Cruzeiro EC
+2353628,60,Andrezinho,Nenê,Vasco da Gama
+2353628,76,Thalles Lima,Germán Herrera,Vasco da Gama
+2353628,76,Renato Kayzer,Serginho,Vasco da Gama
+2353623,56,Ricardo Centurión,Carlinhos,São Paulo FC
+2353623,56,Rogério,Alexandre Pato,São Paulo FC
+2353623,75,Auro,Wesley,São Paulo FC
+2353623,66,Túlio de Melo,Tiago Luis,Chapecoense
+2353623,74,Camilo,William Barbio,Chapecoense
+2353623,77,Hyoran,Ananias,Chapecoense
+2353626,46,Ederson,Paulinho,Flamengo RJ
+2353626,70,Almir,Héctor Canteros,Flamengo RJ
+2353626,75,Marcelo Cirino,Éverton,Flamengo RJ
+2353626,46,Thiago Galhardo,Henrique Almeida,Coritiba FC
+2353626,63,Rafhael Lucas,Negueba,Coritiba FC
+2353626,78,Paulinho Moccelin,Kléber Gladiador,Coritiba FC
+2353634,46,Egídio,Zé Roberto,SE Palmeiras
+2353634,78,Amaral,Arouca,SE Palmeiras
+2353634,83,Agustin Allione,Robinho,SE Palmeiras
+2353634,57,Everton,Fernandinho Silva,Grêmio Porto Alegre
+2353634,58,Yuri Mamute,Pedro Rocha,Grêmio Porto Alegre
+2353634,80,Bobô,Lucas Ramon,Grêmio Porto Alegre
+2353637,63,Valdivia,Vitinho,Internacional
+2353637,70,Anderson,Alex,Internacional
+2353637,84,Taiberson Ruan,Lisandro López,Internacional
+2353637,46,Thiago Santana,Paulo Roberto,Figueirense
+2353637,58,Yago,Rafael Bastos,Figueirense
+2353637,82,Dener,João Vitor,Figueirense
+2353635,58,Alexandro,Diego Oliveira,Ponte Preta
+2353635,67,Clayson,Cristian,Ponte Preta
+2353635,81,Keno,Borges,Ponte Preta
+2353635,46,Marcos Júnior,Osvaldo,Fluminense RJ
+2353635,61,Ronaldinho,Douglas,Fluminense RJ
+2353635,75,Wellington Paulista,Gustavo Scarpa,Fluminense RJ
+2353633,79,Lucca,Malcom,Corinthians SP
+2353633,90,Danilo,Vágner Love,Corinthians SP
+2353633,90,Cristian Baroni,Elías,Corinthians SP
+2353633,71,Neto Berola,Gabriel Barbosa,Santos FC
+2353633,90,Leandro,Marquinhos Gabriel,Santos FC
+2353633,90,Paulo Ricardo,Ricardo Oliveira,Santos FC
+2353641,54,Liniker,Felipe Menezes,Goiás EC
+2353641,69,Ygor,Zé Eduardo,Goiás EC
+2353641,82,Alex Alves,Rafael Forster,Goiás EC
+2353641,46,Marion,Kadu,Joinville EC
+2353641,51,Silvinho,Willian Popp,Joinville EC
+2353641,72,Fernando Viana,Marcelinho,Joinville EC
+2353636,71,Germán Herrera,Rafael Silva,Vasco da Gama
+2353636,72,Jomar,Serginho,Vasco da Gama
+2353636,84,Christianno,Nenê,Vasco da Gama
+2353636,59,Danilo Barcelos,Renê,Sport Club Recife
+2353636,59,Hernane Brocador,Maikon Leite,Sport Club Recife
+2353636,78,Régis,Neto,Sport Club Recife
+2353638,79,Patric,Thiago Ribeiro,Atlético Mineiro
+2353638,83,Josué,Jesús Dátolo,Atlético Mineiro
+2353638,88,Carlos,Lucas Pratto,Atlético Mineiro
+2353638,66,Ederson,Marcelo Cirino,Flamengo RJ
+2353638,79,Almir,Alan Patrick,Flamengo RJ
+2353638,87,Kayke Rodrigues,Paolo Guerrero,Flamengo RJ
+2353639,46,Tinga,Rudnei,Avaí FC
+2353639,59,Anderson Lopes,Renan Oliveira,Avaí FC
+2353639,78,Pablo Barros,Marquinhos,Avaí FC
+2353639,56,Thiago Mendes,João Schmidt,São Paulo FC
+2353639,64,Alexandre Pato,João Paulo,São Paulo FC
+2353639,74,Bruno,Lyanco,São Paulo FC
+2353640,33,Juan,Alan Santos,Coritiba FC
+2353640,57,Rafhael Lucas,Kléber Gladiador,Coritiba FC
+2353640,72,Paulinho Moccelin,Negueba,Coritiba FC
+2353640,42,Dellatorre,Wálter,Atlético Paranaense
+2353640,46,Ewandro,Deivid,Atlético Paranaense
+2353640,74,Crysan,Eduardo Santos,Atlético Paranaense
+2353642,46,Wagner,Gil,Chapecoense
+2353642,46,Camilo,Tiago Luis,Chapecoense
+2353642,71,Cléber Santana,Elicarlos,Chapecoense
+2353642,70,Uillian Correia,Ariel Cabral,Cruzeiro EC
+2353642,77,Marquinhos,Alisson,Cruzeiro EC
+2353642,85,Marcos Vinicius,Allano,Cruzeiro EC
+2353645,46,Marcos Júnior,Ronaldinho,Fluminense RJ
+2353645,66,Osvaldo,Gerson,Fluminense RJ
+2353645,73,Wellington Paulista,Gustavo Scarpa,Fluminense RJ
+2353645,60,Liniker,Rodrigo,Goiás EC
+2353645,78,Everton,Gimenez,Goiás EC
+2353645,79,Carlos Eduardo,Bruno Henrique,Goiás EC
+2353647,59,Maxi Rodríguez,Bobô,Grêmio Porto Alegre
+2353647,74,Everton,Pedro Rocha,Grêmio Porto Alegre
+2353647,90,Moisés Gaúcho,Luan,Grêmio Porto Alegre
+2353647,46,Anderson Lopes,Rudnei,Avaí FC
+2353647,59,André Lima,Léo Gamalho,Avaí FC
+2353647,77,Roberto,Everton Silva,Avaí FC
+2353644,68,Léo Cittadini,Thiago Maia,Santos FC
+2353644,82,Leandro,Nilson,Santos FC
+2353644,90,Serginho,Lucas Lima,Santos FC
+2353644,46,Silva,Léo,Internacional
+2353644,62,Alex Santana,Wellington,Internacional
+2353644,86,Taiberson Ruan,Anderson,Internacional
+2353650,70,Ytalo,Ewandro,Atlético Paranaense
+2353650,75,Giovanni,Marcos Guilherme,Atlético Paranaense
+2353650,81,Roberto,Hernani,Atlético Paranaense
+2353650,61,Diego Oliveira,Felipe Azevedo,Ponte Preta
+2353650,69,Alexandro,Cristian,Ponte Preta
+2353650,74,Clayson,Biro Biro,Ponte Preta
+2353643,57,Wilder Guisao,Michel Bastos,São Paulo FC
+2353643,70,Lyanco,Alexandre Pato,São Paulo FC
+2353643,78,Wesley,Matheus Reis,São Paulo FC
+2353643,46,João Pedro,Andrei,SE Palmeiras
+2353643,65,Alecsandro,Lucas Barrios,SE Palmeiras
+2353643,70,Kelvin,Lucas,SE Palmeiras
+2353646,46,Ayrton,Pará,Flamengo RJ
+2353646,67,Marcelo Cirino,Héctor Canteros,Flamengo RJ
+2353646,67,Ederson,Paulinho,Flamengo RJ
+2353646,82,Lucas Siqueira,Nenê,Vasco da Gama
+2353646,90,Pablo Guiñazú,Julio Dos Santos,Vasco da Gama
+2353646,90,Rafael Vaz,Jorge Henrique,Vasco da Gama
+2353649,46,Thiago Santana,Rafael Bastos,Figueirense
+2353649,60,Marcelo,Marcão,Figueirense
+2353649,85,Sueliton,João Vitor,Figueirense
+2353649,5,Edílson,Fágner,Corinthians SP
+2353649,75,Danilo,Jádson,Corinthians SP
+2353649,83,Lucca,Vágner Love,Corinthians SP
+2353652,65,Mario Sérgio,Kadu,Joinville EC
+2353652,73,Willian Popp,Edigar Junio,Joinville EC
+2353652,84,Fernando Viana,Marcelinho,Joinville EC
+2353652,66,Josué,Rafael Carioca,Atlético Mineiro
+2353652,69,Carlos,Jesús Dátolo,Atlético Mineiro
+2353652,81,Thiago Ribeiro,Lucas Pratto,Atlético Mineiro
+2353648,45,Douglas Grolli,Allano,Cruzeiro EC
+2353648,73,Fabiano,Ceará,Cruzeiro EC
+2353648,87,Júlio Baptista,Willian,Cruzeiro EC
+2353648,45,Marcos Aurélio,Esquerdinha,Coritiba FC
+2353648,46,Thiago Galhardo,Luis Cáceres,Coritiba FC
+2353648,67,Evandro,Leandro Silva,Coritiba FC
+2353651,71,Élber,Maikon Leite,Sport Club Recife
+2353651,79,Régis,Diego Souza,Sport Club Recife
+2353651,84,Neto,Renê,Sport Club Recife
+2353651,46,Camilo,Gil,Chapecoense
+2353651,58,Túlio de Melo,Bruno Rangel,Chapecoense
+2353651,65,Cléber Santana,Bruno Silva,Chapecoense
+2353657,57,Vitinho,Réver,Internacional
+2353657,76,Léo,William,Internacional
+2353657,85,Silva,Anderson,Internacional
+2353657,60,Élber,Maikon Leite,Sport Club Recife
+2353657,72,Hernane Brocador,Diego Souza,Sport Club Recife
+2353657,80,Régis,Wendel,Sport Club Recife
+2353660,46,Thiago Galhardo,Marcos Aurélio,Coritiba FC
+2353660,70,Paulinho Moccelin,Lúcio Flávio,Coritiba FC
+2353660,84,Evandro,Negueba,Coritiba FC
+2353660,62,Carlos,Luan,Atlético Mineiro
+2353660,86,Josué,Lucas Pratto,Atlético Mineiro
+2353660,89,Sherman Cardenas,Thiago Ribeiro,Atlético Mineiro
+2353653,65,Auro,Ricardo Centurión,São Paulo FC
+2353653,79,Wesley,Ganso,São Paulo FC
+2353653,83,Édson Silva,Rogério,São Paulo FC
+2353653,58,Wálter,Crysan,Atlético Paranaense
+2353653,69,Nikão,Daniel Hernández,Atlético Paranaense
+2353653,78,Ewandro,Hernani,Atlético Paranaense
+2353656,75,Kayke Rodrigues,Paolo Guerrero,Flamengo RJ
+2353656,81,Gabriel,Paulinho,Flamengo RJ
+2353656,87,Almir,Héctor Canteros,Flamengo RJ
+2353656,45,Marion,Marcelinho,Joinville EC
+2353656,57,Edigar Junio,Willian Popp,Joinville EC
+2353656,72,Ricardo Bueno,Kempes,Joinville EC
+2353659,46,Tinga,Everton Silva,Avaí FC
+2353659,67,Renan Oliveira,Marquinhos,Avaí FC
+2353659,79,André Lima,Renanzinho,Avaí FC
+2353659,46,Serginho,Bruno Gallo,Vasco da Gama
+2353659,62,Rafael Silva,Jorge Henrique,Vasco da Gama
+2353659,88,Anderson Salles,Leandrão,Vasco da Gama
+2353654,49,Neto Berola,Marquinhos Gabriel,Santos FC
+2353654,67,Werley,Gustavo Henrique,Santos FC
+2353654,83,Leandro,Gabriel Barbosa,Santos FC
+2353654,29,Robert,Victor,Fluminense RJ
+2353654,46,Magno Alves,Osvaldo,Fluminense RJ
+2353654,71,Lucas Gomes,Marcos Júnior,Fluminense RJ
+2353655,58,Diego Oliveira,Cristian,Ponte Preta
+2353655,71,Alexandro,Borges,Ponte Preta
+2353655,77,Fábio Ferreira,Felipe Azevedo,Ponte Preta
+2353655,66,Rodriguinho,Elías,Corinthians SP
+2353655,67,Lucca,Malcom,Corinthians SP
+2353655,78,Danilo,Jádson,Corinthians SP
+2353658,65,Gabriel Xavier,Allano,Cruzeiro EC
+2353658,72,Giorgian de Arrascaeta,Leandro Damião,Cruzeiro EC
+2353658,85,Marcos Vinicius,Willians,Cruzeiro EC
+2353658,60,Bobô,Luan,Grêmio Porto Alegre
+2353658,60,Fernandinho Silva,Pedro Rocha,Grêmio Porto Alegre
+2353658,80,Maxi Rodríguez,Douglas,Grêmio Porto Alegre
+2353661,46,Liniker,Felipe Menezes,Goiás EC
+2353661,46,Carlos Eduardo,Zé Eduardo,Goiás EC
+2353661,78,Lucas Coelho,David,Goiás EC
+2353661,64,Thiago Santana,Clayton,Figueirense
+2353661,69,Dybal,Dudu,Figueirense
+2353661,82,Rafael Bastos,Yago,Figueirense
+2353662,57,Rafael Lima,Neto,Chapecoense
+2353662,75,Ananias,Maranhão,Chapecoense
+2353662,88,Neném,William Barbio,Chapecoense
+2353662,31,Andrei,Arouca,SE Palmeiras
+2353662,46,João Pedro,Amaral,SE Palmeiras
+2353662,75,Agustin Allione,Rafael Marques,SE Palmeiras
+2353668,67,Patric,Thiago Ribeiro,Atlético Mineiro
+2353668,72,Sherman Cardenas,Giovanni Augusto,Atlético Mineiro
+2353668,83,Pedro Botelho,Douglas Santos,Atlético Mineiro
+2353668,63,Vitinho,Anderson,Internacional
+2353668,71,Alisson Farias,Valdivia,Internacional
+2353668,75,Rafael Moura,Alex,Internacional
+2353671,46,Régis,Danilo Barcelos,Sport Club Recife
+2353671,64,Maikon Leite,Marlone,Sport Club Recife
+2353671,86,Samuel Rosa,André,Sport Club Recife
+2353671,58,Pablo Barros,Eduardo Neto,Avaí FC
+2353671,65,Rômulo,Renanzinho,Avaí FC
+2353671,70,Nestor Camacho,Renan Oliveira,Avaí FC
+2353664,35,Gabriel Jesus,Andrei,SE Palmeiras
+2353664,55,Jonathan Cristaldo,Alecsandro,SE Palmeiras
+2353664,65,Agustin Allione,Dudu,SE Palmeiras
+2353664,63,Diego Oliveira,Felipe Azevedo,Ponte Preta
+2353664,76,Juninho,Fernando Bob,Ponte Preta
+2353664,84,Tiago Alves,Fábio Ferreira,Ponte Preta
+2353669,72,Dybal,Yago,Figueirense
+2353669,76,Thiago Santana,Rafael Bastos,Figueirense
+2353669,83,Marcos Pedroso,Juninho,Figueirense
+2353669,70,Gabriel,Emerson Sheik,Flamengo RJ
+2353669,70,Almir,Paulinho,Flamengo RJ
+2353669,86,Matheus Sávio,Kayke Rodrigues,Flamengo RJ
+2353672,52,Arnaldo,Edson Ratinho,Joinville EC
+2353672,79,Rogério,Diego Rodrigues,Joinville EC
+2353672,90,Domingues,Guti,Joinville EC
+2353672,60,Ruy,João Paulo,Coritiba FC
+2353672,61,Thiago Galhardo,Negueba,Coritiba FC
+2353672,75,Juan,Carlinhos,Coritiba FC
+2353665,45,Vinicius,Gerson,Fluminense RJ
+2353665,62,Osvaldo,Marcos Júnior,Fluminense RJ
+2353665,85,Wellington Paulista,Fred,Fluminense RJ
+2353665,45,Wesley,Húdson,São Paulo FC
+2353665,61,Ricardo Centurión,Rogério,São Paulo FC
+2353665,84,Daniel,Thiago Mendes,São Paulo FC
+2353670,46,Douglas Coutinho,Ytalo,Atlético Paranaense
+2353670,64,Daniel Hernández,Ewandro,Atlético Paranaense
+2353670,80,Bruno Pereirinha,Matheus Ribeiro,Atlético Paranaense
+2353670,46,Giorgian de Arrascaeta,Marinho,Cruzeiro EC
+2353670,69,Marcos Vinicius,Leandro Damião,Cruzeiro EC
+2353670,70,Vinícius Araújo,Allano,Cruzeiro EC
+2353663,80,Lucca,Malcom,Corinthians SP
+2353663,81,Danilo,Vágner Love,Corinthians SP
+2353663,87,Cristian Baroni,Renato Augusto,Corinthians SP
+2353663,46,Alex Alves,Felipe Macedo,Goiás EC
+2353663,66,Bruno Henrique,Erik,Goiás EC
+2353663,69,Everton,Gimenez,Goiás EC
+2353666,65,Diguinho,Julio Dos Santos,Vasco da Gama
+2353666,69,Romarinho,Germán Herrera,Vasco da Gama
+2353666,87,Duvier Riascos,Leandrão,Vasco da Gama
+2353666,70,Gil,Ananias,Chapecoense
+2353666,74,Tiago Luis,Maranhão,Chapecoense
+2353666,83,Bruno Rangel,Túlio de Melo,Chapecoense
+2353667,60,Pedro Rocha,Bobô,Grêmio Porto Alegre
+2353667,79,Maxi Rodríguez,Douglas,Grêmio Porto Alegre
+2353667,89,Moisés Gaúcho,Luan,Grêmio Porto Alegre
+2353667,66,Nilson,Leandro,Santos FC
+2353667,74,Neto Berola,Marquinhos Gabriel,Santos FC
+2353667,77,Serginho,Thiago Maia,Santos FC
+2353679,46,Rômulo,Léo Gamalho,Avaí FC
+2353679,63,Roberto,Adriano,Avaí FC
+2353679,79,Nestor Camacho,Marquinhos,Avaí FC
+2353679,46,Amaral,Andrei,SE Palmeiras
+2353679,67,Dudu,Pablo Mouche,SE Palmeiras
+2353679,81,Rafael Marques,Agustin Allione,SE Palmeiras
+2353682,53,Edigar Junio,Marion,Joinville EC
+2353682,72,Willian Popp,Ricardo Bueno,Joinville EC
+2353682,88,Yuri,Lucas Crispim,Joinville EC
+2353682,62,Rafael Bastos,Yago,Figueirense
+2353682,81,Thiago Santana,João Vitor,Figueirense
+2353682,83,Marcão,Dudu,Figueirense
+2353675,46,Alexandro,Borges,Ponte Preta
+2353675,63,Diego Ivo,Felipe Azevedo,Ponte Preta
+2353675,78,Clayson,Cristian,Ponte Preta
+2353675,54,Ruy,Lúcio Flávio,Coritiba FC
+2353675,59,Ivan,Leandro Silva,Coritiba FC
+2353675,79,Rafhael Lucas,Alan Santos,Coritiba FC
+2353678,46,Charles,Henrique,Cruzeiro EC
+2353678,70,Marcos Vinicius,Allano,Cruzeiro EC
+2353678,87,Leandro Damião,Giorgian de Arrascaeta,Cruzeiro EC
+2353678,46,Vinicius,Marcos Júnior,Fluminense RJ
+2353678,62,Osvaldo,Gerson,Fluminense RJ
+2353678,65,Victor,Marlon,Fluminense RJ
+2353673,46,Reinaldo,Rogério,São Paulo FC
+2353673,68,Alan Kardec,Luís Fabiano,São Paulo FC
+2353673,76,Ricardo Centurión,Alexandre Pato,São Paulo FC
+2353673,53,Rafael Silva,Jorge Henrique,Vasco da Gama
+2353673,58,Diguinho,Julio Dos Santos,Vasco da Gama
+2353673,80,Germán Herrera,Leandrão,Vasco da Gama
+2353676,46,Paulinho,Éverton,Flamengo RJ
+2353676,64,Kayke Rodrigues,Héctor Canteros,Flamengo RJ
+2353676,74,Gabriel,Emerson Sheik,Flamengo RJ
+2353676,57,Andrés DAlessandro,Alex,Internacional
+2353676,73,Vitinho,Anderson,Internacional
+2353676,79,Wellington,Nílton,Internacional
+2353680,38,Daniel Hernández,Ewandro,Atlético Paranaense
+2353680,72,Douglas Coutinho,Bruno Mota,Atlético Paranaense
+2353680,82,Bruno Pereirinha,Hernani,Atlético Paranaense
+2353680,77,Rodriguinho,Renato Augusto,Corinthians SP
+2353680,81,Cristian Baroni,Elías,Corinthians SP
+2353680,83,Lincom,Vágner Love,Corinthians SP
+2353674,65,Geuvânio,Leandro,Santos FC
+2353674,76,Cristian Ledesma,Renato,Santos FC
+2353674,87,Vitor Bueno,Lucas Lima,Santos FC
+2353674,46,Lucas Coelho,Erik,Goiás EC
+2353674,63,Arthur,Felipe Menezes,Goiás EC
+2353674,76,Rafael Forster,Juliano,Goiás EC
+2353677,65,Pedro Rocha,Bobô,Grêmio Porto Alegre
+2353677,74,Yuri Mamute,Luan,Grêmio Porto Alegre
+2353677,79,Braian Rodríguez,Maicon,Grêmio Porto Alegre
+2353677,40,Nivaldo,Silvio,Chapecoense
+2353677,45,Gil,Elicarlos,Chapecoense
+2353677,81,Wanderson,Camilo,Chapecoense
+2353681,48,Ewerton Páscoa,Durval,Sport Club Recife
+2353681,51,Maikon Leite,Élber,Sport Club Recife
+2353681,73,Matheus Galdezani,Ronaldo,Sport Club Recife
+2353681,46,Josué,Douglas Santos,Atlético Mineiro
+2353681,63,Sherman Cardenas,Giovanni Augusto,Atlético Mineiro
+2353681,63,Thiago Ribeiro,Lucas Pratto,Atlético Mineiro
+2353685,57,Marcos Júnior,Osvaldo,Fluminense RJ
+2353685,57,Gerson,Vinicius,Fluminense RJ
+2353685,74,Wellington Paulista,Magno Alves,Fluminense RJ
+2353685,45,Hernani,Bruno Mota,Atlético Paranaense
+2353685,83,Daniel Hernández,Nikão,Atlético Paranaense
+2353685,90,Sidcley,Bruno Pereirinha,Atlético Paranaense
+2353687,46,Andrés DAlessandro,Alex,Internacional
+2353687,75,Eduardo Sasha,Anderson,Internacional
+2353687,89,Wellington,Valdivia,Internacional
+2353687,46,Edigar Junio,Ricardo Bueno,Joinville EC
+2353687,66,Willian Popp,Lucas Crispim,Joinville EC
+2353689,63,Thiago Santana,Rafael Bastos,Figueirense
+2353689,83,Dybal,Sueliton,Figueirense
+2353689,84,Marcão,João Vitor,Figueirense
+2353689,71,Ricardo Oliveira,Nilson,Santos FC
+2353689,77,Neto Berola,Geuvânio,Santos FC
+2353689,85,Léo Cittadini,Cristian Ledesma,Santos FC
+2353684,45,Zé Roberto,Agustin Allione,SE Palmeiras
+2353684,63,Gabriel Jesus,Pablo Mouche,SE Palmeiras
+2353684,52,Samuel Rosa,Marlone,Sport Club Recife
+2353683,71,Lucca,Malcom,Corinthians SP
+2353683,81,Danilo,Vágner Love,Corinthians SP
+2353683,85,Yago,Guilherme Arana,Corinthians SP
+2353683,68,Gabriel,Paulinho,Flamengo RJ
+2353683,87,Héctor Canteros,Éverton,Flamengo RJ
+2353683,88,Ayrton,Pará,Flamengo RJ
+2353686,64,Diguinho,Julio Dos Santos,Vasco da Gama
+2353686,71,Rafael Silva,Leandrão,Vasco da Gama
+2353686,87,Renato Kayzer,Jorge Henrique,Vasco da Gama
+2353686,64,Everton,Bobô,Grêmio Porto Alegre
+2353686,72,Moisés Gaúcho,Maicon,Grêmio Porto Alegre
+2353686,79,Fernandinho Silva,Douglas,Grêmio Porto Alegre
+2353690,57,Juan,Lúcio Flávio,Coritiba FC
+2353690,67,Negueba,Carlinhos,Coritiba FC
+2353690,75,Alan Santos,Ruy,Coritiba FC
+2353690,80,Rogério,Alan Kardec,São Paulo FC
+2353690,84,Ricardo Centurión,Michel Bastos,São Paulo FC
+2353690,90,Lyanco,Alexandre Pato,São Paulo FC
+2353692,61,Mateus Caramelo,Apodi,Chapecoense
+2353692,62,Ananias,William Barbio,Chapecoense
+2353692,77,Tiago Luis,Camilo,Chapecoense
+2353692,67,Anderson Lopes,Everton Silva,Avaí FC
+2353692,71,Renan Oliveira,Nestor Camacho,Avaí FC
+2353692,82,Tinga,Rômulo,Avaí FC
+2353691,55,Murilo,Arthur,Goiás EC
+2353691,76,Ruan,Zé Eduardo,Goiás EC
+2353691,86,Wesley,Gimenez,Goiás EC
+2353691,66,Marquinhos,Willians,Cruzeiro EC
+2353691,78,Charles,Ariel Cabral,Cruzeiro EC
+2353691,86,Leandro Damião,Willian,Cruzeiro EC
+2353688,81,Patric,Jesús Dátolo,Atlético Mineiro
+2353688,84,Sherman Cardenas,Giovanni Augusto,Atlético Mineiro
+2353688,89,Dodô,Luan,Atlético Mineiro
+2353688,60,Cesinha,Borges,Ponte Preta
+2353688,79,Clayson,Cristian,Ponte Preta
+2353693,46,Húdson,Bruno,São Paulo FC
+2353693,70,Alan Kardec,Luís Fabiano,São Paulo FC
+2353693,70,Rogério,Michel Bastos,São Paulo FC
+2353693,46,Régis,Maikon Leite,Sport Club Recife
+2353693,65,Neto,Marlone,Sport Club Recife
+2353693,66,Hernane Brocador,Élber,Sport Club Recife
+2353695,20,Diego Oliveira,Felipe Azevedo,Ponte Preta
+2353695,71,Josimar,Fernando Bob,Ponte Preta
+2353695,77,Clayson,Diego Oliveira,Ponte Preta
+2353695,67,Fernando Viana,Kadu,Joinville EC
+2353695,67,Ítalo Melo,Edigar Junio,Joinville EC
+2353695,76,Lucas Crispim,Silvinho,Joinville EC
+2353699,34,Tinga,Everton Silva,Avaí FC
+2353699,71,Marquinhos,Nestor Camacho,Avaí FC
+2353699,79,Anderson Lopes,Renanzinho,Avaí FC
+2353699,46,Fabiano,Ceará,Cruzeiro EC
+2353699,56,Leandro Damião,Charles,Cruzeiro EC
+2353699,67,Júlio Baptista,Giorgian de Arrascaeta,Cruzeiro EC
+2353700,61,Guilherme Parede,Luis Cáceres,Coritiba FC
+2353700,66,Rodrigo Ramos,Leandro Silva,Coritiba FC
+2353700,72,Thiago Lopes,Juan,Coritiba FC
+2353700,63,Paulo Roberto,Dener,Figueirense
+2353700,69,Rafael Bastos,Yago,Figueirense
+2353700,87,Celsinho,Carlos Alberto,Figueirense
+2353694,80,Geuvânio,Gabriel Barbosa,Santos FC
+2353694,85,Serginho,Lucas Lima,Santos FC
+2353694,88,Alison,Marquinhos Gabriel,Santos FC
+2353694,37,João Pedro,Lucas,SE Palmeiras
+2353694,64,Agustin Allione,Matheus Sales,SE Palmeiras
+2353694,78,Jonathan Cristaldo,Lucas Barrios,SE Palmeiras
+2353697,46,Everton,Pedro Rocha,Grêmio Porto Alegre
+2353697,79,Bobô,Douglas,Grêmio Porto Alegre
+2353697,90,Willian Schuster,Luan,Grêmio Porto Alegre
+2353697,66,Thiago Santos,Luiz Antônio,Flamengo RJ
+2353697,74,Kayke Rodrigues,Héctor Canteros,Flamengo RJ
+2353697,87,Ronaldo,Jajá,Flamengo RJ
+2353698,70,Thiago Ribeiro,Giovanni Augusto,Atlético Mineiro
+2353698,72,Sherman Cardenas,Leandro Donizete,Atlético Mineiro
+2353698,77,Cristian Baroni,Rodriguinho,Corinthians SP
+2353698,83,Lucca,Malcom,Corinthians SP
+2353698,88,Ángel Romero,Vágner Love,Corinthians SP
+2353702,64,Gil,Bruno Silva,Chapecoense
+2353702,74,Tiago Luis,Ananias,Chapecoense
+2353702,85,Hyoran,Maranhão,Chapecoense
+2353702,56,Ricardo Silva,Nikão,Atlético Paranaense
+2353702,68,Daniel Hernández,Fernando Barrientos,Atlético Paranaense
+2353702,81,Crysan,Cléo,Atlético Paranaense
+2353696,46,Rafael Silva,Jorge Henrique,Vasco da Gama
+2353696,46,Duvier Riascos,Leandrão,Vasco da Gama
+2353696,66,Éder Luís,Julio Dos Santos,Vasco da Gama
+2353696,65,Wellington Paulista,Gerson,Fluminense RJ
+2353696,71,Higor,Vinicius,Fluminense RJ
+2353696,81,Magno Alves,Osvaldo,Fluminense RJ
+2353701,64,Rodrigo,Zé Eduardo,Goiás EC
+2353701,73,Murilo,Arthur,Goiás EC
+2353701,77,Gimenez,Clayton Sales,Goiás EC
+2353701,59,Artur,Réver,Internacional
+2353701,64,Andrés DAlessandro,Alex,Internacional
+2353701,74,Eduardo Sasha,Nílton,Internacional
+2353707,56,Anderson,Nílton,Internacional
+2353707,72,Artur,Ernando,Internacional
+2353707,78,Alisson Farias,Lisandro López,Internacional
+2353707,75,Leandro,Clayson,Ponte Preta
+2353707,78,Adrianinho,Cristian,Ponte Preta
+2353707,90,Borges,Elton,Ponte Preta
+2353703,65,Lucca,Malcom,Corinthians SP
+2353703,73,Danilo,Vágner Love,Corinthians SP
+2353703,83,Rodriguinho,Renato Augusto,Corinthians SP
+2353703,46,Thiago Lopes,Juan,Coritiba FC
+2353703,80,Luis Cáceres,Alan Santos,Coritiba FC
+2353703,86,Lúcio Flávio,Negueba,Coritiba FC
+2353710,61,Daniel Hernández,Crysan,Atlético Paranaense
+2353710,71,Ricardo Silva,Sidcley,Atlético Paranaense
+2353710,88,Hernani,Fernando Barrientos,Atlético Paranaense
+2353710,46,Pablo Barros,Rômulo,Avaí FC
+2353710,65,Renan Oliveira,Nestor Camacho,Avaí FC
+2353710,77,Léo Gamalho,André Lima,Avaí FC
+2353705,47,Magno Alves,Vinicius,Fluminense RJ
+2353705,70,Osvaldo,Jonathan,Fluminense RJ
+2353705,78,Robert,Marcos Júnior,Fluminense RJ
+2353705,77,Bruno Silva,Ananias,Chapecoense
+2353705,82,Tiago Luis,Camilo,Chapecoense
+2353704,46,Kelvin,Rafael Marques,SE Palmeiras
+2353704,63,Alecsandro,Lucas Barrios,SE Palmeiras
+2353704,70,Fellype Gabriel,Egídio,SE Palmeiras
+2353704,76,Julio Dos Santos,Rafael Silva,Vasco da Gama
+2353704,83,Éder Luís,Duvier Riascos,Vasco da Gama
+2353704,88,Rafael Vaz,Nenê,Vasco da Gama
+2353706,46,Jonas,Jajá,Flamengo RJ
+2353706,60,Éverton,Gabriel,Flamengo RJ
+2353706,74,Héctor Canteros,Alan Patrick,Flamengo RJ
+2353706,58,Arthur,Felipe Menezes,Goiás EC
+2353706,62,Murilo,Erik,Goiás EC
+2353706,76,Ruan,David,Goiás EC
+2353708,73,Leandro Damião,Gabriel Xavier,Cruzeiro EC
+2353708,82,Marquinhos,Giorgian de Arrascaeta,Cruzeiro EC
+2353708,87,Charles,Willian,Cruzeiro EC
+2353708,54,Húdson,Bruno,São Paulo FC
+2353708,67,Alan Kardec,Luís Fabiano,São Paulo FC
+2353708,87,Ricardo Centurión,Wesley,São Paulo FC
+2353709,62,Celsinho,Thiago Santana,Figueirense
+2353709,72,Marcão,Rafael Bastos,Figueirense
+2353709,81,Marcelo,Carlos Alberto,Figueirense
+2353709,62,Thiago Ribeiro,Lucas Pratto,Atlético Mineiro
+2353709,62,Patric,Marcos Rocha,Atlético Mineiro
+2353709,90,Tiago,Luan,Atlético Mineiro
+2353712,54,Edigar Junio,Silvinho,Joinville EC
+2353712,63,Ítalo Melo,Marcelinho,Joinville EC
+2353712,83,Mariano Tripodi,Fernando Viana,Joinville EC
+2353712,46,Alison,Lucas Lima,Santos FC
+2353712,66,Geuvânio,Marquinhos Gabriel,Santos FC
+2353712,75,Nilson,Gabriel Barbosa,Santos FC
+2353711,61,Régis,Marlone,Sport Club Recife
+2353711,77,Neto,Élber,Sport Club Recife
+2353711,83,Oswaldo,Samuel Xavier,Sport Club Recife
+2353711,46,Ramiro,Moisés Gaúcho,Grêmio Porto Alegre
+2353711,71,Pedro Rocha,Everton,Grêmio Porto Alegre
+2353711,75,Fernandinho Silva,Douglas,Grêmio Porto Alegre
+2353718,72,Leandro Damião,Alisson,Cruzeiro EC
+2353718,84,Fabiano,Ceará,Cruzeiro EC
+2353718,84,Marquinhos,Marcos Vinicius,Cruzeiro EC
+2353718,41,Ronaldo,Wendel,Sport Club Recife
+2353718,71,Maikon Leite,Marlone,Sport Club Recife
+2353718,80,Régis,Neto,Sport Club Recife
+2353721,46,Erik,Arthur,Goiás EC
+2353721,62,Willian Kozlowski,Felipe Menezes,Goiás EC
+2353721,72,Carlos Eduardo,Zé Eduardo,Goiás EC
+2353721,43,Ruy,Negueba,Coritiba FC
+2353721,62,Esquerdinha,Juan,Coritiba FC
+2353721,89,Luis Cáceres,Thiago Lopes,Coritiba FC
+2353715,46,Diego Oliveira,Cristian,Ponte Preta
+2353715,67,Borges,Alexandro,Ponte Preta
+2353715,81,Leandro,Elton,Ponte Preta
+2353715,72,Rafael Bastos,Carlos Alberto,Figueirense
+2353715,80,Dener,Yago,Figueirense
+2353715,86,Marcos Pedroso,Juninho,Figueirense
+2353719,50,Pablo Barros,Rudnei,Avaí FC
+2353719,65,Rômulo,André Lima,Avaí FC
+2353719,75,Everton Silva,Claudinei,Avaí FC
+2353719,33,Fernando Viana,Marcelinho,Joinville EC
+2353719,46,Danrlei,Kadu,Joinville EC
+2353719,79,Edigar Junio,Lucas Crispim,Joinville EC
+2353720,21,Daniel Hernández,Roberto,Atlético Paranaense
+2353720,70,Ricardo Silva,Kadu,Atlético Paranaense
+2353720,83,Ewandro,Fernando Barrientos,Atlético Paranaense
+2353720,47,Gabriel Jesus,Rafael Marques,SE Palmeiras
+2353720,61,Arouca,Amaral,SE Palmeiras
+2353720,70,Alecsandro,Jonathan Cristaldo,SE Palmeiras
+2353717,78,Bobô,Everton,Grêmio Porto Alegre
+2353717,83,Edinho,Douglas,Grêmio Porto Alegre
+2353717,90,Maxi Rodríguez,Ramiro,Grêmio Porto Alegre
+2353717,45,Gerson,Osvaldo,Fluminense RJ
+2353717,69,Magno Alves,Fred,Fluminense RJ
+2353717,81,Wellington Paulista,Wellington Silva,Fluminense RJ
+2353722,77,Neném,Ananias,Chapecoense
+2353722,81,William Barbio,Camilo,Chapecoense
+2353722,90,Tiago Luis,Túlio de Melo,Chapecoense
+2353722,64,Alan Costa,Lisandro López,Internacional
+2353722,73,Artur,Ernando,Internacional
+2353722,80,Alisson Farias,Rodrigo Dourado,Internacional
+2353713,64,Rogério,Alexandre Pato,São Paulo FC
+2353713,65,Alan Kardec,Bruno,São Paulo FC
+2353713,86,Reinaldo,Carlinhos,São Paulo FC
+2353713,69,Thiago Ribeiro,Lucas Pratto,Atlético Mineiro
+2353713,78,Carlos,Luan,Atlético Mineiro
+2353714,67,Neto Berola,Geuvânio,Santos FC
+2353714,74,Serginho,Renato,Santos FC
+2353714,86,Leandro,Gabriel Barbosa,Santos FC
+2353714,57,Paolo Guerrero,Kayke Rodrigues,Flamengo RJ
+2353714,67,Ayrton,Pará,Flamengo RJ
+2353714,78,Héctor Canteros,Jonas,Flamengo RJ
+2353716,57,Jorge Henrique,Rafael Silva,Vasco da Gama
+2353716,64,Rafael Vaz,Diguinho,Vasco da Gama
+2353716,69,Éder Luís,Duvier Riascos,Vasco da Gama
+2353716,61,Rodriguinho,Renato Augusto,Corinthians SP
+2353716,71,Lucca,Elías,Corinthians SP
+2353716,76,Bruno Henrique,Ralf,Corinthians SP
+2353724,59,Gabriel Jesus,Agustin Allione,SE Palmeiras
+2353724,59,Lucas Barrios,Jonathan Cristaldo,SE Palmeiras
+2353724,70,Vitor Hugo,Nathan Cardoso,SE Palmeiras
+2353724,73,Alisson,Marcos Vinicius,Cruzeiro EC
+2353724,79,Leandro Damião,Giorgian de Arrascaeta,Cruzeiro EC
+2353724,89,Marquinhos,Willian,Cruzeiro EC
+2353723,71,Lincom,Danilo,Corinthians SP
+2353723,74,Cristian Baroni,Rodriguinho,Corinthians SP
+2353723,84,Yago,Uendel,Corinthians SP
+2353723,46,Reinaldo,Bruno,São Paulo FC
+2353723,46,Luís Fabiano,Rogério,São Paulo FC
+2353723,67,Édson Silva,Wesley,São Paulo FC
+2353727,70,Bertotto,Anderson,Internacional
+2353727,79,Alisson Farias,Vitinho,Internacional
+2353727,83,Silva,Nicolás Freitas,Internacional
+2353727,46,Pedro Rocha,Everton,Grêmio Porto Alegre
+2353727,68,Bobô,Douglas,Grêmio Porto Alegre
+2353727,79,Maxi Rodríguez,Ramiro,Grêmio Porto Alegre
+2353728,62,Thiago Ribeiro,Giovanni Augusto,Atlético Mineiro
+2353728,79,Patric,Marcos Rocha,Atlético Mineiro
+2353728,83,Sherman Cardenas,Jesús Dátolo,Atlético Mineiro
+2353728,37,Willian Kozlowski,Felipe Menezes,Goiás EC
+2353728,77,Juliano,Ygor,Goiás EC
+2353728,83,Arthur,Rafael Forster,Goiás EC
+2353729,65,Thiago Santana,Rafael Bastos,Figueirense
+2353729,73,Marcão,Dudu,Figueirense
+2353729,84,Sueliton,Clayton,Figueirense
+2353729,65,Tiago Luis,William Barbio,Chapecoense
+2353729,78,Neném,Camilo,Chapecoense
+2353729,87,Hyoran,Ananias,Chapecoense
+2353732,17,Lucas Crispim,Kadu,Joinville EC
+2353732,46,Marcelinho,Ítalo Melo,Joinville EC
+2353732,73,Edigar Junio,Fernando Viana,Joinville EC
+2353732,76,Bruno Gallo,Mádson,Vasco da Gama
+2353732,82,Aislan,Diguinho,Vasco da Gama
+2353732,86,Julio Dos Santos,Duvier Riascos,Vasco da Gama
+2353726,46,Ayrton,Éverton,Flamengo RJ
+2353726,46,Héctor Canteros,Jonas,Flamengo RJ
+2353726,67,Ederson,Emerson Sheik,Flamengo RJ
+2353726,64,Keno,Clayson,Ponte Preta
+2353726,64,Diego Oliveira,Cristian,Ponte Preta
+2353726,72,Borges,Alexandro,Ponte Preta
+2353725,71,Osvaldo,Jean,Fluminense RJ
+2353725,81,Ayrton,Wellington Silva,Fluminense RJ
+2353725,84,Wellington Paulista,Marcos Júnior,Fluminense RJ
+2353725,46,Nestor Camacho,Claudinei,Avaí FC
+2353725,63,Léo Gamalho,André Lima,Avaí FC
+2353725,79,Rômulo,Renan Oliveira,Avaí FC
+2353730,46,Guilherme Parede,Luis Cáceres,Coritiba FC
+2353730,80,Lúcio Flávio,Henrique Almeida,Coritiba FC
+2353730,90,Icaro,Kléber Gladiador,Coritiba FC
+2353730,42,Neto Berola,Serginho,Santos FC
+2353730,65,Léo Cittadini,Lucas Lima,Santos FC
+2353730,65,Daniel Guedes,Victor Ferraz,Santos FC
+2353731,64,Régis,Marlone,Sport Club Recife
+2353731,79,Neto,Wendel,Sport Club Recife
+2353731,90,Wallace,Hernane Brocador,Sport Club Recife
+2353731,65,Bruno Pereirinha,Eduardo Santos,Atlético Paranaense
+2353731,74,Hernani,Nikão,Atlético Paranaense
+2353731,82,Ewandro,Roberto,Atlético Paranaense
+2353733,61,Alan Kardec,Bruno,São Paulo FC
+2353733,65,Ricardo Centurión,Alexandre Pato,São Paulo FC
+2353733,77,Auro,Michel Bastos,São Paulo FC
+2353733,59,Paulo Roberto,João Vitor,Figueirense
+2353733,73,Rafael Bastos,Yago,Figueirense
+2353733,79,Thiago Santana,Clayton,Figueirense
+2353735,46,Leo,Ayrton,Fluminense RJ
+2353735,63,Magno Alves,Wellington Paulista,Fluminense RJ
+2353735,80,Lucas Gomes,Marcos Júnior,Fluminense RJ
+2353735,29,Taiberson Ruan,Lisandro López,Internacional
+2353735,65,Bertotto,Nicolás Freitas,Internacional
+2353735,89,Bruno Baio,Anderson,Internacional
+2353739,45,Tinga,Eduardo Neto,Avaí FC
+2353739,61,Roberto,Everton Silva,Avaí FC
+2353739,82,Adriano,Claudinei,Avaí FC
+2353739,61,Juninho,Diego Oliveira,Ponte Preta
+2353739,68,Keno,Cristian,Ponte Preta
+2353739,81,Jeferson,Clayson,Ponte Preta
+2353737,32,Bruno Grassi,Marcelo Grohe,Grêmio Porto Alegre
+2353737,46,Bobô,Pedro Rocha,Grêmio Porto Alegre
+2353737,80,Edinho,Douglas,Grêmio Porto Alegre
+2353737,81,Dodô,Leandro Donizete,Atlético Mineiro
+2353737,90,Carlos,Patric,Atlético Mineiro
+2353738,25,Charles,Henrique,Cruzeiro EC
+2353738,78,Gabriel Xavier,Marcos Vinicius,Cruzeiro EC
+2353738,84,Mayke,Ariel Cabral,Cruzeiro EC
+2353738,46,Fernando Viana,Ítalo Melo,Joinville EC
+2353738,55,Yuri,Kadu,Joinville EC
+2353738,81,Edigar Junio,Marcelinho,Joinville EC
+2353741,51,Ronaldo,Rithely,Sport Club Recife
+2353741,72,Maikon Leite,Élber,Sport Club Recife
+2353741,79,Neto,Wendel,Sport Club Recife
+2353741,65,Danilo,Vágner Love,Corinthians SP
+2353741,71,Malcom,Rodriguinho,Corinthians SP
+2353741,84,Lincom,Cristian Baroni,Corinthians SP
+2353734,46,Juninho,Pablo Mouche,SE Palmeiras
+2353734,62,Jonathan Cristaldo,Andrei,SE Palmeiras
+2353734,72,Jackson Souza,Agustin Allione,SE Palmeiras
+2353734,64,Thiago Lopes,Juan,Coritiba FC
+2353734,73,Luis Cáceres,Alan Santos,Coritiba FC
+2353734,90,Lúcio Flávio,Kléber Gladiador,Coritiba FC
+2353736,69,Rafael Silva,Duvier Riascos,Vasco da Gama
+2353736,85,Bruno Gallo,Andrezinho,Vasco da Gama
+2353736,90,Pablo Guiñazú,Diguinho,Vasco da Gama
+2353736,46,Vitor Bueno,Cristian Ledesma,Santos FC
+2353736,65,Lucas Otávio,Léo Cittadini,Santos FC
+2353736,66,Leandro,Marquinhos,Santos FC
+2353742,65,William Barbio,Maranhão,Chapecoense
+2353742,75,Neném,Gil,Chapecoense
+2353742,67,Juliano,Liniker,Goiás EC
+2353742,81,David Duarte,Willian Kozlowski,Goiás EC
+2353742,86,Gelson,Gimenez,Goiás EC
+2353740,45,Eduardo Santos,Alessandro,Atlético Paranaense
+2353740,55,Daniel Hernández,Marcos Guilherme,Atlético Paranaense
+2353740,68,Marco Damasceno,Nikão,Atlético Paranaense
+2353740,46,Luiz Antônio,Héctor Canteros,Flamengo RJ
+2353740,72,Jajá,Paulinho,Flamengo RJ
+2353743,59,Danilo,Lucca,Corinthians SP
+2353743,64,Bruno Henrique,Ralf,Corinthians SP
+2353743,73,Ángel Romero,Rodriguinho,Corinthians SP
+2353743,66,Rudnei,Renan Oliveira,Avaí FC
+2353743,68,Pablo Barros,Everton Silva,Avaí FC
+2353743,80,Roberto,Renanzinho,Avaí FC
+2353744,61,Fernando Medeiros,Alison,Santos FC
+2353744,71,Vitor Bueno,Serginho,Santos FC
+2353744,23,Fernando Barrientos,Eduardo Santos,Atlético Paranaense
+2353744,37,Hernani,Bruno Pereirinha,Atlético Paranaense
+2353745,72,Keno,Cristian,Ponte Preta
+2353745,80,Adrianinho,Leandro,Ponte Preta
+2353745,89,Felipe,Marcos Serrato,Ponte Preta
+2353745,46,Samuel Rosa,Danilo Barcelos,Sport Club Recife
+2353745,86,Ewerton Páscoa,Neto,Sport Club Recife
+2353745,90,Maikon Leite,Élber,Sport Club Recife
+2353746,41,Kayke Rodrigues,Emerson Sheik,Flamengo RJ
+2353746,46,Luiz Antônio,Jajá,Flamengo RJ
+2353746,73,Marcelo Cirino,Gabriel,Flamengo RJ
+2353746,57,Kelvin,Agustin Allione,SE Palmeiras
+2353746,64,Jonathan Cristaldo,Alecsandro,SE Palmeiras
+2353746,85,Juninho,Zé Roberto,SE Palmeiras
+2353747,65,Silva,Nicolás Freitas,Internacional
+2353747,76,Andrigo,Alex,Internacional
+2353747,82,Bertotto,Anderson,Internacional
+2353747,46,Allano,Willian Farias,Cruzeiro EC
+2353747,69,Fabiano,Mayke,Cruzeiro EC
+2353747,77,Joel Tagueu,Giorgian de Arrascaeta,Cruzeiro EC
+2353748,73,Eduardo,Rafael Carioca,Atlético Mineiro
+2353748,79,Sherman Cardenas,Giovanni Augusto,Atlético Mineiro
+2353748,83,Carlos,Lucas Pratto,Atlético Mineiro
+2353748,46,Maylson,Elicarlos,Chapecoense
+2353748,46,Hyoran,William Barbio,Chapecoense
+2353749,46,Marcão,João Vitor,Figueirense
+2353749,72,Paulo Roberto,Yago,Figueirense
+2353749,80,Dener,Carlos Alberto,Figueirense
+2353749,45,Jonathan,Leo,Fluminense RJ
+2353749,54,Robert,Pierre,Fluminense RJ
+2353749,63,Lucas Gomes,Marcos Júnior,Fluminense RJ
+2353750,63,Icaro,Luis Cáceres,Coritiba FC
+2353750,67,Thiago Lopes,Juan,Coritiba FC
+2353750,83,Rafael Marques,Alan Santos,Coritiba FC
+2353750,29,Mateus Vital,Diguinho,Vasco da Gama
+2353750,67,Leandrão,Bruno Gallo,Vasco da Gama
+2353750,75,Rafael Silva,Duvier Riascos,Vasco da Gama
+2353751,63,Carlos Eduardo,Liniker,Goiás EC
+2353751,87,Arthur,Gimenez,Goiás EC
+2353751,90,Ruan,Willian Kozlowski,Goiás EC
+2353751,78,Wesley,Bruno,São Paulo FC
+2353751,83,Lyanco,Thiago Mendes,São Paulo FC
+2353751,89,Rogério,Michel Bastos,São Paulo FC
+2353752,46,Mario Sérgio,Anselmo,Joinville EC
+2353752,69,Fernando Viana,Ítalo Melo,Joinville EC
+2353752,76,Marcelo Costa,Edson Ratinho,Joinville EC
+2353752,13,Pedro Rocha,Luan,Grêmio Porto Alegre
+2353752,46,Edinho,Everton,Grêmio Porto Alegre
+2353752,76,Victor Rangel,Walace,Grêmio Porto Alegre

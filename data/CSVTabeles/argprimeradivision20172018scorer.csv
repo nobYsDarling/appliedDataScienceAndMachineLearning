@@ -1,0 +1,855 @@
+GameID,Minute,Scorer,Team
+8453221,52,Maximiliano Romero,Vélez Sarsfield
+8453221,68,Federico Andrada,Vélez Sarsfield
+8453221,75,Maximiliano Romero,Vélez Sarsfield
+8453219,13,Gonzalo Bettini,Banfield
+8453219,15,Darío Cvitanich,Banfield
+8453219,88,Christian Lema,Belgrano de Córdoba
+8453226,11,Ciro Rius,Defensa y Justicia
+8453226,24,Fernando Márquez,Defensa y Justicia
+8453226,35,Gonzalo Castellani,Defensa y Justicia
+8453226,52,Fernando Márquez,Defensa y Justicia
+8453226,4,Nicolás Ibáñez,Gimnasia de La Plata
+8453226,18,Nicolás Ibáñez,Gimnasia de La Plata
+8453226,41,Lorenzo Faravelli,Gimnasia de La Plata
+8453226,83,Franco Niell,Gimnasia de La Plata
+8453218,87,Tomás Sandoval,Colón de Santa Fe
+8453218,84,Washington Camacho,Rosario Central
+8453222,52,Junior Arias,Talleres de Córdoba
+8453222,61,Sebastián Palacios,Talleres de Córdoba
+8453222,70,Sebastián Palacios,Talleres de Córdoba
+8453222,80,Jonathan Menéndez,Talleres de Córdoba
+8453222,90,Marcelo Torres,Talleres de Córdoba
+8453222,57,Román Martínez,Lanús
+8453222,83,Germán Denis,Lanús
+8453229,21,Martín Benítez,Independiente
+8453229,60,Leandro Fernández,Independiente
+8453229,78,Martín Benítez,Independiente
+8453229,18,Ramón Ábila,Huracán
+8453227,3,Facundo Barcelo,San Martín de San Juan
+8453227,75,Marcos Gelabert,San Martín de San Juan
+8453223,17,Franco Sbuttoni,Atlético Tucumán
+8453223,23,Luis Rodríguez,Atlético Tucumán
+8453223,58,Sebastián Olivares,Godoy Cruz
+8453228,52,Ezequiel Cerutti,San Lorenzo
+8453228,13,Lisandro López,Racing Club
+8453217,8,Darío Benedetto,Boca Juniors
+8453217,42,Pablo Pérez,Boca Juniors
+8453217,85,Darío Benedetto,Boca Juniors
+8453230,32,Ignacio Scocco,River Plate
+8453225,74,Mauro Guevgeozian,Newells Old Boys
+8453225,52,Diego Zabala,Unión de Santa Fe
+8453231,80,Lucas Melano,Estudiantes
+8453231,86,Christian Alemán,Estudiantes
+8453231,39,Rodrigo Contreras,Arsenal de Sarandí
+8453220,27,Nicolás González,Argentinos Juniors
+8453232,43,Maximiliano Romero,Vélez Sarsfield
+8453232,73,Maximiliano Romero,Vélez Sarsfield
+8453242,68,Tomás Chancalay,Colón de Santa Fe
+8453233,71,Luis Vila,Olimpo de Bahía Blanca
+8453233,34,Leandro Fernández,Independiente
+8453237,66,Epifanio García,Belgrano de Córdoba
+8453244,83,Fernando Márquez,Defensa y Justicia
+8453239,37,Lucas Márquez,Patronato de Paraná
+8453239,74,Sebastián Ribas,Patronato de Paraná
+8453239,12,Braian Romero,Argentinos Juniors
+8453240,45,Enrique Triverio,Racing Club
+8453240,65,Matías Zaracho,Racing Club
+8453240,73,Sergio Vittor,Racing Club
+8453240,86,Andrés Ibargüen,Racing Club
+8453240,81,Ramiro Costa,Temperley
+8453238,89,Leandro Martínez,Chacarita Juniors
+8453238,66,Carlos Rodríguez,Tigre
+8453235,29,Juan Garro,Godoy Cruz
+8453235,90,Santiago García,Godoy Cruz
+8453235,83,Joao Rojas,Talleres de Córdoba
+8453241,18,Javier Pinola,River Plate
+8453241,43,Gonzalo Martínez,River Plate
+8453241,73,Ignacio Scocco,River Plate
+8453241,2,Renato Civelli,Banfield
+8453234,84,Darío Benedetto,Boca Juniors
+8453245,21,Franco Soldano,Unión de Santa Fe
+8453236,45,Ignacio Pussetto,Huracán
+8453247,45,Juan Blengio,Tigre
+8453247,16,Martín Rivero,Patronato de Paraná
+8453247,59,Adrián Balboa,Patronato de Paraná
+8453247,90,Martín Rivero,Patronato de Paraná
+8453251,18,Nicolás González,Argentinos Juniors
+8453251,34,Epifanio García,Belgrano de Córdoba
+8453251,47,Christian Lema,Belgrano de Córdoba
+8462874,28,Ciro Rius,Defensa y Justicia
+8462874,18,Franco Soldano,Unión de Santa Fe
+8462874,23,Lucas Gamba,Unión de Santa Fe
+8462874,58,Franco Soldano,Unión de Santa Fe
+8453258,69,Luís Leal,Newells Old Boys
+8453258,75,Joaquin Torres,Newells Old Boys
+8462875,75,Marcos Senesi,San Lorenzo
+8462876,90,Germán Denis,Lanús
+8453246,60,Luis Rodríguez,Atlético Tucumán
+8453246,24,Javier Mendoza,Chacarita Juniors
+8453250,18,Darío Cvitanich,Banfield
+8453256,20,Pablo Pérez,Boca Juniors
+8453256,39,Pablo Pérez,Boca Juniors
+8453256,68,Cristian Pavón,Boca Juniors
+8453256,85,Nahitan Nández,Boca Juniors
+8453256,12,Leonel Galeano,Godoy Cruz
+8453249,4,Rafael Borré,River Plate
+8453249,25,Carlos Auzqui,River Plate
+8453249,38,Carlos Auzqui,River Plate
+8453249,90,Alan Marcel,River Plate
+8462877,63,Nicolás Colazo,Gimnasia de La Plata
+8462877,30,Ramón Ábila,Huracán
+8462877,58,Ignacio Pussetto,Huracán
+8462877,90,Ignacio Pussetto,Huracán
+8462878,56,Mathías Villasanti,Temperley
+8462878,22,Fernando Zampedri,Rosario Central
+8453260,9,Adrián Balboa,Patronato de Paraná
+8453260,54,Sebastián Ribas,Patronato de Paraná
+8453260,72,Gonzalo Freitas,Atlético Tucumán
+8453270,40,Ramiro Costa,Temperley
+8453265,56,Lucas Olaza,Talleres de Córdoba
+8453264,63,Nicolás Domínguez,Vélez Sarsfield
+8453264,15,Darío Benedetto,Boca Juniors
+8453264,51,Darío Benedetto,Boca Juniors
+8453264,86,Frank Fabra,Boca Juniors
+8453262,60,Santiago García,Godoy Cruz
+8453271,10,Germán Conti,Colón de Santa Fe
+8453271,64,Cristián Bernardi,Colón de Santa Fe
+8453271,90,Cristian Guanca,Colón de Santa Fe
+8453271,81,Gonzalo Castellani,Defensa y Justicia
+8453273,26,Brahian Alemán,Gimnasia de La Plata
+8453261,21,Darío Cvitanich,Banfield
+8453261,31,Darío Cvitanich,Banfield
+8453261,58,Pablo Mouche,Banfield
+8453261,79,Mauricio Sperdutti,Banfield
+8453269,18,Gonzalo Martínez,River Plate
+8453269,37,Nicolás González,Argentinos Juniors
+8453263,61,Alejandro Silva,Lanús
+8453272,50,Mariano Pavone,Estudiantes
+8453272,12,Fernando Belluschi,San Lorenzo
+8453272,80,Nicolás Blandi,San Lorenzo
+8453272,89,Fernando Belluschi,San Lorenzo
+8462880,46,Franco Soldano,Unión de Santa Fe
+8462880,53,Lucas Gamba,Unión de Santa Fe
+8462883,2,Juan Otero,Estudiantes
+8462883,4,Pablo Lugüercio,Estudiantes
+8462883,17,Gastón Fernández,Estudiantes
+8462884,71,Nicolás Mazzola,Gimnasia de La Plata
+8462884,2,José Sand,Lanús
+8462884,45,José Sand,Lanús
+8462884,69,José Sand,Lanús
+8462885,88,Mauro Quiroga,Argentinos Juniors
+8462885,90,Leonardo Pisculichi,Argentinos Juniors
+8462886,76,Junior Arias,Talleres de Córdoba
+8462887,62,Emiliano Agüero,San Martín de San Juan
+8462887,64,Facundo Barcelo,San Martín de San Juan
+8462887,88,Luis Ardente,San Martín de San Juan
+8462887,45,Fernando Zampedri,Rosario Central
+8462888,51,Maximiliano Meza,Independiente
+8462889,3,Cristian Pavón,Boca Juniors
+8462890,35,Lucas Janson,Tigre
+8462890,10,Ignacio Scocco,River Plate
+8462891,12,Juan Álvarez,Banfield
+8462891,65,Federico Milo,Arsenal de Sarandí
+8462891,87,Germán Ferreyra,Arsenal de Sarandí
+8462893,61,José Sand,Lanús
+8462893,66,José Sand,Lanús
+8462893,36,Jonathan Bottinelli,Unión de Santa Fe
+8462894,18,Ezequiel Cerutti,San Lorenzo
+8462894,47,Nicolás Blandi,San Lorenzo
+8462894,66,Ezequiel Cerutti,San Lorenzo
+8462894,90,Nicolás Fernández,Defensa y Justicia
+8462895,30,Nicolás Leguizamón,Colón de Santa Fe
+8462895,90,Marcelo Estigarribia,Colón de Santa Fe
+8462896,90,Fernando Zampedri,Rosario Central
+8462896,30,Braian Romero,Argentinos Juniors
+8462896,82,Braian Romero,Argentinos Juniors
+8462896,89,Nicolás González,Argentinos Juniors
+8462897,81,Pablo Lugüercio,Estudiantes
+8462897,38,Pablo Mouche,Banfield
+8462898,33,Matías Vargas,Vélez Sarsfield
+8462899,80,Andrés Ibargüen,Racing Club
+8462900,1,Juan Martín Imbert,Chacarita Juniors
+8462900,10,Fabricio Bustos,Independiente
+8462900,55,Ezequiel Barco,Independiente
+8462901,40,Facundo Cobos,Godoy Cruz
+8462901,75,Javier Correa,Godoy Cruz
+8462901,6,Lucas Licht,Gimnasia de La Plata
+8462903,50,Milton Casco,River Plate
+8462903,53,Rafael Borré,River Plate
+8462903,65,Luis Rodríguez,Atlético Tucumán
+8462903,74,Ismael Blanco,Atlético Tucumán
+8462904,50,Cristian Pavón,Boca Juniors
+8462904,80,Darío Benedetto,Boca Juniors
+8462905,33,Fernando Coniglio,Huracán
+8462905,79,Mauro Bogado,Huracán
+8462906,55,Gabriel Carabajal,San Martín de San Juan
+8467613,63,Mauricio Sperdutti,Banfield
+8467613,34,Diego Vera,Colón de Santa Fe
+8467614,32,Jonathan Sandoval,Argentinos Juniors
+8467614,37,Damián Batallini,Argentinos Juniors
+8467614,83,Leonardo Pisculichi,Argentinos Juniors
+8467614,6,Facundo Monteseirín,Arsenal de Sarandí
+8467614,17,Mosquito,Arsenal de Sarandí
+8467615,12,Ramón Ábila,Huracán
+8467615,34,Alejandro Gamarra,Huracán
+8467615,49,Ramón Ábila,Huracán
+8467615,81,Mariano González,Huracán
+8467616,52,Lucas Gamba,Unión de Santa Fe
+8467616,77,Diego Zabala,Unión de Santa Fe
+8467617,17,Luis Ardente,San Martín de San Juan
+8467619,4,Fabio Álvarez,Atlético Tucumán
+8467619,17,Guillermo Acosta,Atlético Tucumán
+8467619,21,Miguel Barbieri,Racing Club
+8467619,45,Lautaro Martínez,Racing Club
+8467624,44,Juan Ramírez,Talleres de Córdoba
+8467624,69,Juan Ramírez,Talleres de Córdoba
+8467624,78,Marcelo Torres,Talleres de Córdoba
+8467624,81,Lucas Olaza,Talleres de Córdoba
+8467620,30,Brian Sarmiento,Newells Old Boys
+8467620,40,Bruno Bianchi,Newells Old Boys
+8467620,83,Juan Álvarez,Chacarita Juniors
+8467621,5,Nicolás Dibble,Gimnasia de La Plata
+8467621,46,Nicolás Mazzola,Gimnasia de La Plata
+8467621,53,Lorenzo Faravelli,Gimnasia de La Plata
+8467621,63,Nicolás Colazo,Gimnasia de La Plata
+8467622,13,Gabriel Gudiño,San Lorenzo
+8467622,77,Ezequiel Cerutti,San Lorenzo
+8467623,43,Edwin Cardona,Boca Juniors
+8467623,63,Darío Benedetto,Boca Juniors
+8467623,78,Darío Benedetto,Boca Juniors
+8467623,15,Lucas Acosta,Belgrano de Córdoba
+8467618,89,Maximiliano Meza,Independiente
+8467618,34,Sebastián Ribas,Patronato de Paraná
+8467625,23,Fernando Márquez,Defensa y Justicia
+8467625,86,David Depetris,Olimpo de Bahía Blanca
+8467626,16,Lucas Menossi,Tigre
+8467626,80,Marco Rubén,Rosario Central
+8468169,42,Federico Rosso,Chacarita Juniors
+8468169,47,Mauro Matos,Chacarita Juniors
+8468170,43,Ángel González,Godoy Cruz
+8468170,73,Santiago García,Godoy Cruz
+8468170,49,Ignacio Pussetto,Huracán
+8468171,43,Matías Fritzler,Colón de Santa Fe
+8468171,46,Tomás Chancalay,Colón de Santa Fe
+8468171,51,Diego Vera,Colón de Santa Fe
+8468171,10,Claudio Mosca,San Martín de San Juan
+8468171,63,Matías Escudero,San Martín de San Juan
+8468171,90,Luis Ardente,San Martín de San Juan
+8468172,25,David Depetris,Olimpo de Bahía Blanca
+8468172,69,Franco Troyansky,Olimpo de Bahía Blanca
+8468173,17,Pablo Mouche,Banfield
+8468178,53,Gervasio Núñez,Atlético Tucumán
+8468175,66,Andrés Ibargüen,Racing Club
+8468175,53,Marcelo Torres,Talleres de Córdoba
+8468176,79,Adrián Arregui,Temperley
+8468176,17,Fernando Márquez,Defensa y Justicia
+8468176,22,Nicolás Fernández,Defensa y Justicia
+8468176,26,Nicolás Fernández,Defensa y Justicia
+8468176,53,Lisandro Martínez,Defensa y Justicia
+8468177,47,Jonathan Schunke,Estudiantes
+8468179,69,Leonardo Ponzio,River Plate
+8468179,42,Edwin Cardona,Boca Juniors
+8468179,73,Nahitan Nández,Boca Juniors
+8468182,28,Franco Soldano,Unión de Santa Fe
+8468182,68,Lucas Gamba,Unión de Santa Fe
+8468183,63,Guillermo Ortíz,Colón de Santa Fe
+8468185,89,Joel Amoroso,Belgrano de Córdoba
+8468186,46,Nicolás Fernández,Defensa y Justicia
+8468186,49,Nicolás Fernández,Defensa y Justicia
+8468186,60,Juan Kaprof,Defensa y Justicia
+8468188,73,Álvaro Fernández,San Martín de San Juan
+8468188,39,Nicolás Blandi,San Lorenzo
+8468188,55,Paulo Díaz,San Lorenzo
+8468188,90,Nicolás Blandi,San Lorenzo
+8468193,82,Nicolás Domingo,Independiente
+8468191,27,Matías Pérez García,Tigre
+8468191,65,Iván Gómez,Estudiantes
+8468192,41,Darío Benedetto,Boca Juniors
+8468192,37,Lautaro Martínez,Racing Club
+8468192,54,Augusto Solari,Racing Club
+8468196,62,Fernando Zampedri,Rosario Central
+8468194,36,Nicolás Colazo,Gimnasia de La Plata
+8468194,51,Nicolás Mazzola,Gimnasia de La Plata
+8468195,30,Franco Troyansky,Olimpo de Bahía Blanca
+8468195,62,Santiago García,Godoy Cruz
+8468189,25,Mauro Bogado,Huracán
+8468197,11,Juan Kaprof,Defensa y Justicia
+8468198,14,Norberto Briasco,Huracán
+8468198,60,Mauro Bogado,Huracán
+8468199,52,Pablo Ledesma,Colón de Santa Fe
+8468199,65,Diego Vera,Colón de Santa Fe
+8468199,70,Cristián Bernardi,Colón de Santa Fe
+8468199,36,Maximiliano Caire,Tigre
+8468200,83,Fabricio Brener,Belgrano de Córdoba
+8468200,90,Juan Brunetta,Belgrano de Córdoba
+8468201,7,Sebastián Ribas,Patronato de Paraná
+8468201,60,Sebastián Ribas,Patronato de Paraná
+8468201,13,Diego Zabala,Unión de Santa Fe
+8468201,21,Franco Soldano,Unión de Santa Fe
+8468201,79,Lucas Gamba,Unión de Santa Fe
+8468202,10,Nicolás Blandi,San Lorenzo
+8468203,30,Leandro Fernández,Independiente
+8468204,88,Juan Cejas,Estudiantes
+8468206,67,Gonzalo Martínez,River Plate
+8468206,73,Luís Leal,Newells Old Boys
+8468206,80,Brian Sarmiento,Newells Old Boys
+8468206,85,Héctor Fértoli,Newells Old Boys
+8468207,4,Marco Rubén,Rosario Central
+8468208,4,Nicolás Giménez,Talleres de Córdoba
+8468209,57,Fabián Cubero,Vélez Sarsfield
+8468209,79,Gonzalo Bergessio,Vélez Sarsfield
+8468209,87,Gonzalo Bergessio,Vélez Sarsfield
+8468210,4,Adrián Arregui,Temperley
+8468205,54,Diego Viera,Godoy Cruz
+8468205,61,Santiago García,Godoy Cruz
+8468205,84,Juan Garro,Godoy Cruz
+8468205,90,Santiago García,Godoy Cruz
+8468205,89,Fernando Barrientos,Lanús
+8468211,27,Franco Fragapane,Unión de Santa Fe
+8468211,59,Érik Godoy,Belgrano de Córdoba
+8468212,7,Nicolás Fernández,Defensa y Justicia
+8468212,59,Nicolás Fernández,Defensa y Justicia
+8468212,71,Ángel González,Godoy Cruz
+8468212,73,Javier Correa,Godoy Cruz
+8468212,82,Luciano Abecasis,Godoy Cruz
+8468213,78,Fernando Coniglio,Huracán
+8468213,45,Adrián Balboa,Patronato de Paraná
+8468214,38,David Depetris,Olimpo de Bahía Blanca
+8468214,47,Maximiliano Fornari,Olimpo de Bahía Blanca
+8468215,67,Leonardo Pisculichi,Argentinos Juniors
+8468215,75,Nicolás González,Argentinos Juniors
+8468215,20,Juan Sánchez,Temperley
+8468215,85,Rodrigo De Ciancio,Temperley
+8468217,12,Luís Leal,Newells Old Boys
+8468217,33,Brian Sarmiento,Newells Old Boys
+8468217,21,Lautaro Martínez,Racing Club
+8468217,64,Lisandro López,Racing Club
+8468219,45,Lucas Janson,Tigre
+8468219,39,Paulo Díaz,San Lorenzo
+8468219,55,Ezequiel Cerutti,San Lorenzo
+8468218,16,Lucas Melano,Estudiantes
+8468220,35,Guido Vadala,Boca Juniors
+8468220,90,Edwin Cardona,Boca Juniors
+8468221,52,Nicolás Colazo,Gimnasia de La Plata
+8468221,90,Brahian Alemán,Gimnasia de La Plata
+8468221,78,Ignacio Scocco,River Plate
+8468223,24,Luis Rodríguez,Atlético Tucumán
+8468223,90,Guillermo Acosta,Atlético Tucumán
+8468224,3,Maxi Rodríguez,San Martín de San Juan
+8468224,18,Gabriel Carabajal,San Martín de San Juan
+8468224,50,Gonzalo Bettini,Banfield
+8468216,65,Emmanuel Gigliotti,Independiente
+8468216,35,Fernando Zampedri,Rosario Central
+8468234,67,Rafael Borré,River Plate
+8468234,74,Gonzalo Martínez,River Plate
+8468236,69,Víctorio Ramis,Godoy Cruz
+8468230,7,Nicolás Blandi,San Lorenzo
+8468230,82,Nicolás Reniero,San Lorenzo
+8468225,14,Adrián Arregui,Temperley
+8468225,40,Juan Sánchez,Temperley
+8468225,7,Lucas Menossi,Tigre
+8468226,78,Sebastián Ribas,Patronato de Paraná
+8468227,83,Matías Suárez,Belgrano de Córdoba
+8468228,27,Julián Carranza,Banfield
+8468228,59,Julián Carranza,Banfield
+8468228,6,Braian Romero,Argentinos Juniors
+8468228,32,Javier Cabrera,Argentinos Juniors
+8468228,69,Braian Romero,Argentinos Juniors
+8468231,80,Lucas Wilchez,Arsenal de Sarandí
+8468231,18,Leandro Fernández,Independiente
+8468231,90,Ezequiel Denis,Independiente
+8468229,3,Germán Herrera,Rosario Central
+8468232,17,Junior Arias,Talleres de Córdoba
+8468232,74,Sebastián Palacios,Talleres de Córdoba
+8468233,45,Lisandro López,Racing Club
+8468233,72,Lisandro López,Racing Club
+8468233,90,Lautaro Martínez,Racing Club
+8468233,3,Brahian Alemán,Gimnasia de La Plata
+8468235,76,Wilmar Barrios,Boca Juniors
+8468237,39,Facundo Barcelo,San Martín de San Juan
+8468239,14,Matías Rodríguez,Chacarita Juniors
+8468239,19,Federico Rosso,Chacarita Juniors
+8468239,53,Federico Rosso,Chacarita Juniors
+8468242,30,Mauro Matos,Chacarita Juniors
+8468253,25,Carlos Luna,Tigre
+8468253,28,Darío Cvitanich,Banfield
+8468253,90,Darío Cvitanich,Banfield
+8468251,38,Lucas Olaza,Talleres de Córdoba
+8468251,85,Aldo Araujo,Talleres de Córdoba
+8468241,29,Luis Amarilla,Vélez Sarsfield
+8468248,61,Luís Leal,Newells Old Boys
+8468248,90,Joaquín Varela,Newells Old Boys
+8468248,63,Alejo Antilef,Arsenal de Sarandí
+8468243,26,Gabriel Carrasco,Lanús
+8468243,76,Sebastián Ribas,Patronato de Paraná
+8468250,3,Cristian Pavón,Boca Juniors
+8468250,65,Nahitan Nández,Boca Juniors
+8468244,90,Emiliano Tellechea,Olimpo de Bahía Blanca
+8468244,21,Jonathan Ramis,Belgrano de Córdoba
+8468244,60,Matías Suárez,Belgrano de Córdoba
+8468254,52,Gastón Machín,Argentinos Juniors
+8468254,70,Damián Batallini,Argentinos Juniors
+8468245,29,Ignacio Pussetto,Huracán
+8468246,38,Franco Soldano,Unión de Santa Fe
+8468246,69,Diego Zabala,Unión de Santa Fe
+8468246,15,Diego González,Racing Club
+8468247,1,Ezequiel Bonifacio,Gimnasia de La Plata
+8468247,28,Nicolás Colazo,Gimnasia de La Plata
+8468247,29,Germán Herrera,Rosario Central
+8468252,4,Mauricio Affonso,Atlético Tucumán
+8468252,24,Yonathan Cabral,Atlético Tucumán
+8468252,56,David Barbona,Atlético Tucumán
+8468249,51,Emmanuel Gigliotti,Independiente
+8468249,60,Iván Gómez,Estudiantes
+8468249,71,Juan Otero,Estudiantes
+8468255,49,Lucas Barrios,Argentinos Juniors
+8468255,81,Damián Batallini,Argentinos Juniors
+8468255,88,Fernando Elizari,Defensa y Justicia
+8468263,9,Fernando Tobio,Rosario Central
+8468260,73,Leandro Fernández,Independiente
+8468265,56,Ignacio Scocco,River Plate
+8468265,82,Ignacio Scocco,River Plate
+8468261,23,Juan Otero,Estudiantes
+8468261,64,Juan Otero,Estudiantes
+8468261,77,Fernando Zuqui,Estudiantes
+8468261,82,Mariano Pavone,Estudiantes
+8468261,68,Brian Sarmiento,Newells Old Boys
+8468261,86,Luís Leal,Newells Old Boys
+8468259,4,Rubén Botta,San Lorenzo
+8468259,15,Carlos Tévez,Boca Juniors
+8468264,11,Lautaro Martínez,Racing Club
+8468264,33,Lisandro López,Racing Club
+8468264,45,Lautaro Martínez,Racing Club
+8468264,77,Lautaro Martínez,Racing Club
+8468258,35,Junior Arias,Talleres de Córdoba
+8468268,44,Mauro Matos,Chacarita Juniors
+8468268,78,Hernán Petrik,Chacarita Juniors
+8468279,11,Leonel Miranda,Defensa y Justicia
+8468279,64,Nicolás Fernández,Defensa y Justicia
+8468279,76,Fabian Bordagaray,Defensa y Justicia
+8468279,90,Fernando Márquez,Defensa y Justicia
+8468279,79,Alejandro Gagliardi,Chacarita Juniors
+8468279,81,Facundo Rodríguez,Chacarita Juniors
+8468287,82,Guillermo Ortíz,Colón de Santa Fe
+8468280,11,Adrián Balboa,Patronato de Paraná
+8468280,86,Sebastián Ribas,Patronato de Paraná
+8468283,56,Franco Troyansky,Olimpo de Bahía Blanca
+8468283,58,Leonardo Sigali,Racing Club
+8468283,84,Ricardo Centurión,Racing Club
+8468281,7,Juan Garro,Godoy Cruz
+8468281,76,Santiago García,Godoy Cruz
+8468281,15,Christian Lema,Belgrano de Córdoba
+8468290,24,Lucas Olaza,Talleres de Córdoba
+8468289,60,Frank Fabra,Boca Juniors
+8468282,31,Alejandro Silva,Lanús
+8468291,25,Luis Rodríguez,Atlético Tucumán
+8468291,87,Javier Toledo,Atlético Tucumán
+8468291,64,Claudio Spinelli,San Martín de San Juan
+8468292,48,Lucas Menossi,Tigre
+8468292,70,Diego Morales,Tigre
+8468284,64,Israel Damonte,Huracán
+8468284,90,Israel Damonte,Huracán
+8468284,9,Fernando Zampedri,Rosario Central
+8468284,45,Germán Herrera,Rosario Central
+8468284,87,Joaquin Pereyra,Rosario Central
+8468288,14,Rubén Botta,San Lorenzo
+8468300,56,Lucas Melano,Estudiantes
+8468300,69,Juan Otero,Estudiantes
+8468303,29,Alejandro Donatti,Racing Club
+8468303,64,Ricardo Centurión,Racing Club
+8468303,67,Augusto Solari,Racing Club
+8468303,76,Román Martínez,Lanús
+8468305,3,Matías Suárez,Belgrano de Córdoba
+8468305,73,Matías Suárez,Belgrano de Córdoba
+8468305,7,Mauro Zárate,Vélez Sarsfield
+8468305,90,Agustín Bouzat,Vélez Sarsfield
+8468294,4,Gastón Bojanich,Argentinos Juniors
+8468294,22,Javier Toledo,Atlético Tucumán
+8468294,45,Luis Rodríguez,Atlético Tucumán
+8468294,78,Rafael García,Atlético Tucumán
+8468298,13,Rubén Botta,San Lorenzo
+8468302,8,Maximiliano González,Rosario Central
+8468302,24,Andrés Lioi,Rosario Central
+8468302,54,Andrés Lioi,Rosario Central
+8468302,71,Andrés Lioi,Rosario Central
+8468302,73,Renzo Ramírez,Olimpo de Bahía Blanca
+8468295,13,Claudio Spinelli,San Martín de San Juan
+8468295,6,Santiago Silva,Talleres de Córdoba
+8468301,36,Lucas Wilchez,Arsenal de Sarandí
+8468301,45,Fernando Coniglio,Huracán
+8468304,38,Rodrigo Mora,River Plate
+8468304,51,Lucas Pratto,River Plate
+8468304,13,Juan Garro,Godoy Cruz
+8468304,25,Santiago García,Godoy Cruz
+8468296,3,Carlos Tévez,Boca Juniors
+8468293,69,Diego Morales,Tigre
+8468293,10,Fabian Bordagaray,Defensa y Justicia
+8468306,19,Sebastián Ribas,Patronato de Paraná
+8468306,65,Matías Garrido,Patronato de Paraná
+8468306,87,Abel Peralta,Patronato de Paraná
+8468299,53,Javier Correa,Colón de Santa Fe
+8468312,45,Franco Troyansky,Olimpo de Bahía Blanca
+8468312,46,Luis Vila,Olimpo de Bahía Blanca
+8468312,57,Sebastián Lomónaco,Arsenal de Sarandí
+8468313,51,Ignacio Pussetto,Huracán
+8468310,69,Pol Fernández,Godoy Cruz
+8468310,58,Ricardo Centurión,Racing Club
+8468310,90,Pablo Cuadra,Racing Club
+8468307,76,Nahuel Molina Lucero,Defensa y Justicia
+8468311,60,Lautaro Acosta,Lanús
+8468311,62,Mauricio Martínez,Rosario Central
+8468309,70,Lucas Robertone,Vélez Sarsfield
+8468308,47,Federico Lértora,Belgrano de Córdoba
+8468317,24,Martín Benítez,Independiente
+8468314,41,Javier Correa,Colón de Santa Fe
+8468314,79,Guillermo Ortíz,Colón de Santa Fe
+8468318,4,Carlos Tévez,Boca Juniors
+8468318,9,Cristian Pavón,Boca Juniors
+8468318,68,Nahitan Nández,Boca Juniors
+8468318,89,Ramón Ábila,Boca Juniors
+8468318,13,Álvaro Fernández,San Martín de San Juan
+8468318,87,Claudio Spinelli,San Martín de San Juan
+8468319,27,Juan Ramírez,Talleres de Córdoba
+8468319,53,Santiago Silva,Talleres de Córdoba
+8468315,55,Facundo Pereyra,Gimnasia de La Plata
+8468330,13,Diego Cháves,Arsenal de Sarandí
+8468330,37,Marcos Curado,Arsenal de Sarandí
+8468330,55,Alejandro Silva,Lanús
+8468334,5,Mauro Guevgeozian,Belgrano de Córdoba
+8468334,11,Leonardo Sequeira,Belgrano de Córdoba
+8468334,17,Sebastián Ribas,Patronato de Paraná
+8468334,69,Sebastián Ribas,Patronato de Paraná
+8468331,90,Germán Herrera,Rosario Central
+8468331,15,Juan Garro,Godoy Cruz
+8468331,61,Pol Fernández,Godoy Cruz
+8468326,89,Emiliano Ozuna,Temperley
+8468326,55,Lorenzo Faravelli,Gimnasia de La Plata
+8468321,70,Ciro Rius,Defensa y Justicia
+8468325,45,Darío Cvitanich,Banfield
+8468333,44,Ignacio Scocco,River Plate
+8468333,45,Nahuel Menéndez,Chacarita Juniors
+8468332,5,Lautaro Martínez,Racing Club
+8468332,74,Ricardo Centurión,Racing Club
+8468332,58,Mauro Zárate,Vélez Sarsfield
+8468324,17,Martín Benítez,Independiente
+8468324,52,Fabricio Bustos,Independiente
+8468324,55,Leandro Fernández,Independiente
+8468324,84,Braian Romero,Independiente
+8468329,46,Juan Otero,Estudiantes
+8468323,10,Alexis Mac Allister,Argentinos Juniors
+8468323,65,Damián Batallini,Argentinos Juniors
+8468339,63,Ángel González,Godoy Cruz
+8468344,54,Darío Cvitanich,Banfield
+8468344,82,Mauricio Sperdutti,Banfield
+8468348,75,Junior Arias,Talleres de Córdoba
+8468348,81,Carlos Quintana,Talleres de Córdoba
+8468348,90,Juan Ramírez,Talleres de Córdoba
+8468348,9,Rodrigo Aliendro,Atlético Tucumán
+8468337,4,Juan Martín Imbert,Chacarita Juniors
+8468337,16,Lautaro Martínez,Racing Club
+8468341,67,Javier Correa,Colón de Santa Fe
+8468341,83,Javier Correa,Colón de Santa Fe
+8468341,90,Cristián Bernardi,Colón de Santa Fe
+8468347,74,Edwin Cardona,Boca Juniors
+8468347,90,Leonardo Jara,Boca Juniors
+8468347,89,Matías Pérez Acuña,Tigre
+8468336,90,Adrián Balboa,Patronato de Paraná
+8468342,44,Andrés Chávez,Huracán
+8468342,88,Nicolás Reniero,San Lorenzo
+8468338,12,Matías Vargas,Vélez Sarsfield
+8468338,80,Rodrigo Salinas,Vélez Sarsfield
+8468338,24,Alfonso Parot,Rosario Central
+8468338,57,Joel López,Rosario Central
+8468346,20,Emmanuel Gigliotti,Independiente
+8468346,42,Maximiliano Meza,Independiente
+8468346,86,Lucas Barrios,Argentinos Juniors
+8468335,75,Ciro Rius,Defensa y Justicia
+8468335,90,Epifanio García,Belgrano de Córdoba
+8468343,6,Franco Soldano,Unión de Santa Fe
+8468343,14,Franco Soldano,Unión de Santa Fe
+8468343,59,Lucas Gamba,Unión de Santa Fe
+8468345,3,Joaquin Torres,Newells Old Boys
+8468345,29,Luís Leal,Newells Old Boys
+8468360,13,Alfonso Parot,Rosario Central
+8468360,82,Agustín Maziero,Rosario Central
+8468360,87,Agustín Maziero,Rosario Central
+8468360,16,Elías Alderete,Chacarita Juniors
+8468357,19,Alan Ruíz,Colón de Santa Fe
+8468357,60,Lautaro Acosta,Lanús
+8468357,68,Bruno Vides,Lanús
+8468352,27,Nicolás González,Argentinos Juniors
+8468355,80,Franco Sosa,Temperley
+8468355,17,Andrés Chávez,Huracán
+8468355,57,Ignacio Pussetto,Huracán
+8468353,6,Nicolás Maná,San Martín de San Juan
+8468353,32,Claudio Spinelli,San Martín de San Juan
+8468353,56,Luis Ardente,San Martín de San Juan
+8468356,51,Cristian Barrios,San Lorenzo
+8468356,68,Nicolás Blandi,San Lorenzo
+8468349,29,Juan Ramírez,Talleres de Córdoba
+8468361,26,Leonardo Sigali,Racing Club
+8468361,29,Alejandro Donatti,Racing Club
+8468361,45,Lisandro López,Racing Club
+8468361,74,Alejandro Donatti,Racing Club
+8468361,90,Lautaro Martínez,Racing Club
+8468359,43,Diego Cháves,Arsenal de Sarandí
+8468359,40,Mauro Zárate,Vélez Sarsfield
+8468358,4,Pol Fernández,Godoy Cruz
+8468350,32,Javier Toledo,Atlético Tucumán
+8468350,90,Walter Bou,Boca Juniors
+8468362,3,Gonzalo Martínez,River Plate
+8468362,78,Ignacio Scocco,River Plate
+8468362,87,Ignacio Scocco,River Plate
+8468362,54,Epifanio García,Belgrano de Córdoba
+8468354,29,Bruno Pittón,Unión de Santa Fe
+8468354,43,Franco Fragapane,Unión de Santa Fe
+8468351,73,Federico González,Tigre
+8468351,32,Silvio Romero,Independiente
+8468371,58,Daniel Montenegro,Huracán
+8468371,31,Darío Cvitanich,Banfield
+8468364,62,Marcelo Benítez,Belgrano de Córdoba
+8468364,28,Juan Musso,Racing Club
+8468364,29,Ricardo Centurión,Racing Club
+8468364,50,Leonardo Sigali,Racing Club
+8468367,43,Rodrigo Salinas,Vélez Sarsfield
+8468367,62,Mauro Zárate,Vélez Sarsfield
+8468367,67,Matías Vargas,Vélez Sarsfield
+8468367,13,Mariano Pavone,Estudiantes
+8468367,38,Juan Otero,Estudiantes
+8468367,78,Facundo Sánchez,Estudiantes
+8468374,30,Héctor Fértoli,Newells Old Boys
+8468374,44,Luís Leal,Newells Old Boys
+8468374,58,José San Román,Newells Old Boys
+8468373,76,Omar Alderete,Gimnasia de La Plata
+8468373,55,Nicolás González,Argentinos Juniors
+8468373,71,Kevin Mac Allister,Argentinos Juniors
+8468373,88,Alexis Mac Allister,Argentinos Juniors
+8468372,83,Matías Gallegos,Unión de Santa Fe
+8468372,88,Claudio Spinelli,San Martín de San Juan
+8468375,54,Guillermo Acosta,Atlético Tucumán
+8468375,90,Guillermo Acosta,Atlético Tucumán
+8468363,11,Fernando Márquez,Defensa y Justicia
+8468363,31,Gonzalo Martínez,River Plate
+8468363,45,Javier Pinola,River Plate
+8468363,54,Lucas Pratto,River Plate
+8468366,41,Germán Ré,Chacarita Juniors
+8468366,50,Mauro Matos,Chacarita Juniors
+8468366,61,Claudio Corvalán,Arsenal de Sarandí
+8468366,83,Sebastián Lomónaco,Arsenal de Sarandí
+8468365,7,Matías Garrido,Patronato de Paraná
+8468365,54,Matías Quiroga,Patronato de Paraná
+8468365,72,Adrián Balboa,Patronato de Paraná
+8468376,28,Walter Bou,Boca Juniors
+8468376,90,Pablo Pérez,Boca Juniors
+8468376,45,Carlos Quintana,Talleres de Córdoba
+8468369,81,Nicolás Pasquini,Lanús
+8468369,43,Nicolás Blandi,San Lorenzo
+8468370,6,Emiliano Tellechea,Olimpo de Bahía Blanca
+8468370,43,Fernando Brandán,Temperley
+8468368,28,Tomás Cardona,Godoy Cruz
+8468368,90,Santiago García,Godoy Cruz
+8468368,79,Tomás Chancalay,Colón de Santa Fe
+8468380,32,Jacobo Mansilla,Tigre
+8468380,83,Diego Morales,Tigre
+8468381,38,Jonathan Sandoval,Argentinos Juniors
+8468381,45,Lucas Barrios,Argentinos Juniors
+8468381,90,Lucas Barrios,Argentinos Juniors
+8468381,18,Lucas Gamba,Unión de Santa Fe
+8468384,38,Fernando Brandán,Temperley
+8468384,90,Fernando Brandán,Temperley
+8468384,44,Bruno Vides,Lanús
+8468384,55,Lautaro Acosta,Lanús
+8468389,36,Óscar Cabezas,Rosario Central
+8468389,40,Fernando Zampedri,Rosario Central
+8468389,90,Christian Lema,Belgrano de Córdoba
+8468383,11,Jesús Dátolo,Banfield
+8468383,56,Danilo Ortiz,Banfield
+8468383,84,Julián Carranza,Banfield
+8468377,5,Fernando Márquez,Defensa y Justicia
+8468377,32,Dylan Gissi,Defensa y Justicia
+8468377,76,Fernando Márquez,Defensa y Justicia
+8468385,9,Matías Caruzzo,San Lorenzo
+8468385,15,Tomás Cardona,Godoy Cruz
+8468385,19,Santiago García,Godoy Cruz
+8468385,34,Luciano Abecasis,Godoy Cruz
+8468385,67,Santiago García,Godoy Cruz
+8468382,22,Nicolás Silva,Huracán
+8468379,26,Gervasio Núñez,Atlético Tucumán
+8468379,90,Joaquín Varela,Newells Old Boys
+8468378,23,Gonzalo Verón,Independiente
+8468378,90,Emmanuel Gigliotti,Independiente
+8468390,77,Rafael Borré,River Plate
+8468390,90,Exequiel Palacios,River Plate
+8468388,22,Gabriel Alanis,Arsenal de Sarandí
+8468388,72,Matías Garrido,Patronato de Paraná
+8468387,15,Mauro Matos,Chacarita Juniors
+8468387,50,Nahuel Menéndez,Chacarita Juniors
+8468386,57,Mauro Zárate,Vélez Sarsfield
+8468402,32,Lorenzo Faravelli,Gimnasia de La Plata
+8468402,65,Eduardo Melo,Atlético Tucumán
+8468402,83,Gervasio Núñez,Atlético Tucumán
+8468400,80,Israel Damonte,Huracán
+8468397,35,Agustin Verdugo,Godoy Cruz
+8468397,52,Santiago García,Godoy Cruz
+8468397,59,Santiago García,Godoy Cruz
+8468399,9,Luis Ardente,San Martín de San Juan
+8468399,90,Facundo Barcelo,San Martín de San Juan
+8468393,57,Christian Lema,Belgrano de Córdoba
+8468393,70,Matías Suárez,Belgrano de Córdoba
+8468393,82,Christian Lema,Belgrano de Córdoba
+8468391,2,Fernando Márquez,Defensa y Justicia
+8468391,46,Christian Almeida,Defensa y Justicia
+8468391,78,Juan Kaprof,Defensa y Justicia
+8468391,15,Ricardo Centurión,Racing Club
+8468391,74,Ricardo Centurión,Racing Club
+8468401,26,Franco Fragapane,Unión de Santa Fe
+8468401,75,Franco Soldano,Unión de Santa Fe
+8468401,84,Ignacio Canuto,Tigre
+8468401,85,Federico González,Tigre
+8468401,90,Carlos Luna,Tigre
+8468401,90,Ignacio Canuto,Tigre
+8468394,30,Lucas Rodríguez,Estudiantes
+8468395,19,Marcelo Estigarribia,Colón de Santa Fe
+8468395,31,Javier Correa,Colón de Santa Fe
+8468392,75,Rafael Borré,River Plate
+8468392,77,Lucas Pratto,River Plate
+8468404,57,Martín Benítez,Independiente
+8468403,3,Victor Figueroa,Newells Old Boys
+8468403,84,Jerónimo Cacciabué,Newells Old Boys
+8468403,43,Santiago Silva,Talleres de Córdoba
+8468396,30,Mauro Zárate,Vélez Sarsfield
+8468396,89,Matías Vargas,Vélez Sarsfield
+8468396,70,Cristian Barrios,San Lorenzo
+8468396,80,Nicolás Reniero,San Lorenzo
+8468410,9,Leonardo Pisculichi,Argentinos Juniors
+8468422,63,Mauro Guevgeozian,Belgrano de Córdoba
+8468411,11,Claudio Spinelli,San Martín de San Juan
+8468411,36,Gastón Lodico,Lanús
+8468413,30,Leonardo Di Lorenzo,Temperley
+8468413,53,Emiliano Ozuna,Temperley
+8468413,6,Matías Vargas,Vélez Sarsfield
+8468413,23,Mauro Zárate,Vélez Sarsfield
+8468413,72,Lucas Robertone,Vélez Sarsfield
+8468413,90,Lucas Robertone,Vélez Sarsfield
+8468407,62,Aldo Araujo,Talleres de Córdoba
+8468407,90,Junior Arias,Talleres de Córdoba
+8468412,49,Enzo Kalinski,Banfield
+8468412,71,Víctorio Ramis,Godoy Cruz
+8468415,26,Nicolás Reniero,San Lorenzo
+8468409,22,Nicolás Silva,Huracán
+8468409,45,Carlos Araujo,Huracán
+8468426,64,Braian Mansilla,Racing Club
+8468426,76,Lautaro Martínez,Racing Club
+8468424,35,Claudio Corvalán,Arsenal de Sarandí
+8468424,21,Exequiel Palacios,River Plate
+8468424,38,Juan Quintero,River Plate
+8468406,27,Ramón Ábila,Boca Juniors
+8468406,38,Ramón Ábila,Boca Juniors
+8468406,59,Cristian Pavón,Boca Juniors
+8468406,39,Héctor Fértoli,Newells Old Boys
+8468419,8,Javier Correa,Colón de Santa Fe
+8468419,39,Javier Correa,Colón de Santa Fe
+8468419,79,Alan Ruíz,Colón de Santa Fe
+8468419,90,Gustavo Toledo,Colón de Santa Fe
+8468405,57,Lucas Bareiro,Defensa y Justicia
+8468432,84,Federico Rosso,Chacarita Juniors
+8468432,5,Alexis Delgado,Temperley
+8468432,42,Santiago Giordana,Temperley
+8468434,13,Víctorio Ramis,Godoy Cruz
+8468434,47,Santiago García,Godoy Cruz
+8468427,9,Tomás Pochettino,Defensa y Justicia
+8468427,69,Fabian Bordagaray,Defensa y Justicia
+8468427,85,Ciro Rius,Defensa y Justicia
+8468427,90,Germán Herrera,Rosario Central
+8468433,76,Lucas Robertone,Vélez Sarsfield
+8468440,45,Gastón Silva,Independiente
+8468437,2,Ignacio Pussetto,Huracán
+8468437,56,Pablo Álvarez,Huracán
+8468437,78,Nicolás Silva,Huracán
+8468437,47,Ismael Blanco,Atlético Tucumán
+8468437,87,Hernán Hechalar,Atlético Tucumán
+8468430,45,Christian Lema,Belgrano de Córdoba
+8468438,49,Jonathan Bottinelli,Unión de Santa Fe
+8468438,58,Yeimar Gómez,Unión de Santa Fe
+8468438,90,Diego Zabala,Unión de Santa Fe
+8468436,87,David Depetris,Olimpo de Bahía Blanca
+8468436,7,Javier Iritier,Tigre
+8468436,26,Ignacio Canuto,Tigre
+8468436,33,Diego Sosa,Tigre
+8468436,89,Ramón Mierez,Tigre
+8468436,90,Lucas Janson,Tigre
+8468428,58,Lisandro López,Racing Club
+8468428,88,Lautaro Martínez,Racing Club
+8468439,33,Nicolás Colazo,Gimnasia de La Plata
+8468439,81,Brahian Alemán,Gimnasia de La Plata
+8468439,13,Pablo Pérez,Boca Juniors
+8468439,57,Ramón Ábila,Boca Juniors
+8468429,11,Javier Pinola,River Plate
+8468429,81,Ignacio Scocco,River Plate
+8468448,5,Lucas Robertone,Vélez Sarsfield
+8468448,18,Agustín Bouzat,Vélez Sarsfield
+8468451,26,Nicolás Blandi,San Lorenzo
+8468451,80,Gabriel Gudiño,San Lorenzo
+8468447,10,Leonardo Pisculichi,Argentinos Juniors
+8468447,26,Santiago García,Godoy Cruz
+8468447,64,Santiago García,Godoy Cruz
+8468454,39,Sebastián Lomónaco,Arsenal de Sarandí
+8468454,45,Alejo Antilef,Arsenal de Sarandí
+8468454,74,Emiliano Purita,Arsenal de Sarandí
+8468454,32,Paulo Ferrari,Rosario Central
+8468441,23,Alexis Rodríguez,Newells Old Boys
+8468445,56,Leandro Díaz,Atlético Tucumán
+8468445,88,Lucas Mancinelli,Olimpo de Bahía Blanca
+8468450,69,Ezequiel Montagna,Temperley
+8468450,13,Sebastián Ribas,Patronato de Paraná
+8468450,26,Sebastián Ribas,Patronato de Paraná
+8468442,10,Martín Benítez,Independiente
+8468442,79,Emmanuel Gigliotti,Independiente
+8468442,23,Brahian Alemán,Gimnasia de La Plata
+8468442,90,Ezequiel Bonifacio,Gimnasia de La Plata
+8468443,78,Ramón Ábila,Boca Juniors
+8468443,88,Ramón Ábila,Boca Juniors
+8468453,75,Mariano Pavone,Estudiantes
+8468453,17,Lautaro Martínez,Racing Club
+8468453,56,Alejandro Donatti,Racing Club
+8468449,25,Julián Carranza,Banfield
+8468449,72,Julián Carranza,Banfield
+8468449,39,Elías Alderete,Chacarita Juniors
+8468461,19,Elías Alderete,Chacarita Juniors
+8468461,6,Claudio Spinelli,San Martín de San Juan
+8468461,42,Facundo Barcelo,San Martín de San Juan
+8468461,71,Claudio Mosca,San Martín de San Juan
+8468461,82,Luis Ardente,San Martín de San Juan
+8468466,5,Ignacio Pussetto,Huracán
+8468466,64,Diego Mendoza,Huracán
+8468466,72,Andrés Chávez,Huracán
+8468466,32,Emanuel Mas,Boca Juniors
+8468466,34,Walter Bou,Boca Juniors
+8468466,44,Óscar Benítez,Boca Juniors
+8468455,46,Fabian Bordagaray,Defensa y Justicia
+8468455,73,Lucas Bareiro,Defensa y Justicia
+8468465,73,Lucas Mancinelli,Olimpo de Bahía Blanca
+8468465,88,Pedro Silva,Olimpo de Bahía Blanca
+8468465,38,Santiago Silva,Talleres de Córdoba
+8468465,90,Guido Herrera,Talleres de Córdoba
+8468467,46,Franco Soldano,Unión de Santa Fe
+8468459,46,Jorge Ortiz,Belgrano de Córdoba
+8468459,84,Christian Lema,Belgrano de Córdoba
+8468459,24,Alexis Delgado,Temperley
+8468459,35,Ignacio Boggino,Temperley
+8468459,77,Ezequiel Montagna,Temperley
+8468463,53,Santiago García,Godoy Cruz
+8468463,80,Ángel González,Godoy Cruz
+8468462,22,Mauro Zárate,Vélez Sarsfield
+8468462,63,Jonathan Sandoval,Argentinos Juniors
+8468456,28,Marco Rubén,Rosario Central
+8468456,90,Nicolás Bazzana,Estudiantes
+8468457,39,Marcelo Meli,Racing Club
+8468457,2,Guillermo Ortíz,Colón de Santa Fe
+8468457,8,Marcelo Estigarribia,Colón de Santa Fe
+8468457,83,Javier Correa,Colón de Santa Fe
+8468458,54,Ignacio Fernández,River Plate
+8468458,83,Rafael Borré,River Plate
+8468468,44,Nicolás Ortiz,Gimnasia de La Plata
+8468468,82,Ezequiel Bonifacio,Gimnasia de La Plata

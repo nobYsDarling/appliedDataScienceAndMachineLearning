@@ -1,0 +1,381 @@
+GameID,League,Season,Date,HomeTeam,AwayTeam,Result
+1729985,braseriea,2012-2013,25.05.2013,Vasco da Gama,Portuguesa (SP),1:0
+1729991,braseriea,2012-2013,25.05.2013,EC Vitória BA,Internacional,2:2
+1729989,braseriea,2012-2013,26.05.2013,Corinthians SP,Botafogo RJ,1:1
+1729993,braseriea,2012-2013,26.05.2013,Grêmio Porto Alegre,Clube Náutico,2:0
+1729995,braseriea,2012-2013,26.05.2013,Ponte Preta,São Paulo FC,0:2
+1729997,braseriea,2012-2013,26.05.2013,Criciúma EC,EC Bahia,3:1
+1730003,braseriea,2012-2013,26.05.2013,Santos FC,Flamengo RJ,0:0
+1729987,braseriea,2012-2013,26.05.2013,Fluminense RJ,Atlético Paranaense,2:1
+1729999,braseriea,2012-2013,26.05.2013,Cruzeiro EC,Goiás EC,5:0
+1730001,braseriea,2012-2013,26.05.2013,Coritiba FC,Atlético Mineiro,2:1
+1730021,braseriea,2012-2013,29.05.2013,Atlético Paranaense,Cruzeiro EC,2:2
+1730005,braseriea,2012-2013,30.05.2013,Botafogo RJ,Santos FC,2:1
+1730009,braseriea,2012-2013,30.05.2013,São Paulo FC,Vasco da Gama,5:1
+1730007,braseriea,2012-2013,30.05.2013,Flamengo RJ,Ponte Preta,0:2
+1730011,braseriea,2012-2013,30.05.2013,EC Bahia,Coritiba FC,0:0
+1730017,braseriea,2012-2013,30.05.2013,Clube Náutico,EC Vitória BA,0:3
+1730015,braseriea,2012-2013,30.05.2013,Goiás EC,Corinthians SP,1:1
+1730013,braseriea,2012-2013,31.05.2013,Internacional,Criciúma EC,2:0
+1730019,braseriea,2012-2013,09.06.2013,Atlético Mineiro,Grêmio Porto Alegre,2:0
+1730023,braseriea,2012-2013,13.06.2013,Portuguesa (SP),Fluminense RJ,2:1
+1730025,braseriea,2012-2013,01.06.2013,Botafogo RJ,Cruzeiro EC,2:1
+1730041,braseriea,2012-2013,01.06.2013,Atlético Paranaense,Flamengo RJ,2:2
+1730043,braseriea,2012-2013,01.06.2013,Santos FC,Grêmio Porto Alegre,1:1
+1730031,braseriea,2012-2013,01.06.2013,EC Vitória BA,Vasco da Gama,2:0
+1730035,braseriea,2012-2013,01.06.2013,Goiás EC,Coritiba FC,1:1
+1730029,braseriea,2012-2013,02.06.2013,Corinthians SP,Ponte Preta,1:0
+1730027,braseriea,2012-2013,02.06.2013,Fluminense RJ,Criciúma EC,3:0
+1730033,braseriea,2012-2013,02.06.2013,Internacional,EC Bahia,1:2
+1730037,braseriea,2012-2013,02.06.2013,Clube Náutico,Portuguesa (SP),2:2
+1730039,braseriea,2012-2013,02.06.2013,Atlético Mineiro,São Paulo FC,0:0
+1730049,braseriea,2012-2013,06.06.2013,São Paulo FC,Goiás EC,0:1
+1730057,braseriea,2012-2013,06.06.2013,Criciúma EC,Santos FC,3:1
+1730063,braseriea,2012-2013,06.06.2013,Portuguesa (SP),Internacional,1:1
+1730045,braseriea,2012-2013,06.06.2013,Vasco da Gama,Atlético Mineiro,2:0
+1730053,braseriea,2012-2013,06.06.2013,Grêmio Porto Alegre,EC Vitória BA,1:0
+1730055,braseriea,2012-2013,06.06.2013,Ponte Preta,Atlético Paranaense,3:4
+1730047,braseriea,2012-2013,06.06.2013,Flamengo RJ,Clube Náutico,0:1
+1730051,braseriea,2012-2013,06.06.2013,EC Bahia,Botafogo RJ,2:1
+1730059,braseriea,2012-2013,06.06.2013,Cruzeiro EC,Corinthians SP,1:0
+1730061,braseriea,2012-2013,07.06.2013,Coritiba FC,Fluminense RJ,2:1
+1730077,braseriea,2012-2013,08.06.2013,Criciúma EC,Flamengo RJ,0:3
+1730079,braseriea,2012-2013,08.06.2013,Cruzeiro EC,Internacional,2:2
+1730065,braseriea,2012-2013,08.06.2013,Vasco da Gama,EC Bahia,1:1
+1730069,braseriea,2012-2013,08.06.2013,Corinthians SP,Portuguesa (SP),0:0
+1730075,braseriea,2012-2013,09.06.2013,Ponte Preta,Botafogo RJ,0:2
+1730067,braseriea,2012-2013,09.06.2013,Fluminense RJ,Goiás EC,2:1
+1730071,braseriea,2012-2013,09.06.2013,EC Vitória BA,Atlético Paranaense,3:2
+1730081,braseriea,2012-2013,09.06.2013,Coritiba FC,Clube Náutico,1:0
+1730083,braseriea,2012-2013,13.06.2013,Santos FC,Atlético Mineiro,1:0
+1730073,braseriea,2012-2013,13.06.2013,Grêmio Porto Alegre,São Paulo FC,1:1
+1730087,braseriea,2012-2013,06.07.2013,Flamengo RJ,Coritiba FC,2:2
+1730097,braseriea,2012-2013,06.07.2013,Clube Náutico,Ponte Preta,1:3
+1730101,braseriea,2012-2013,06.07.2013,Atlético Paranaense,Grêmio Porto Alegre,1:1
+1730103,braseriea,2012-2013,07.07.2013,Portuguesa (SP),Cruzeiro EC,1:1
+1730089,braseriea,2012-2013,07.07.2013,São Paulo FC,Santos FC,0:2
+1730091,braseriea,2012-2013,07.07.2013,EC Bahia,Corinthians SP,0:2
+1730093,braseriea,2012-2013,07.07.2013,Internacional,Vasco da Gama,5:3
+1730095,braseriea,2012-2013,07.07.2013,Goiás EC,EC Vitória BA,1:0
+1730085,braseriea,2012-2013,07.07.2013,Botafogo RJ,Fluminense RJ,1:0
+1730099,braseriea,2012-2013,07.07.2013,Atlético Mineiro,Criciúma EC,3:2
+1730107,braseriea,2012-2013,13.07.2013,Fluminense RJ,Internacional,2:3
+1730123,braseriea,2012-2013,13.07.2013,Santos FC,Portuguesa (SP),4:1
+1730115,braseriea,2012-2013,14.07.2013,Ponte Preta,EC Bahia,0:0
+1730109,braseriea,2012-2013,14.07.2013,Corinthians SP,Atlético Mineiro,0:1
+1730111,braseriea,2012-2013,14.07.2013,EC Vitória BA,São Paulo FC,3:2
+1730113,braseriea,2012-2013,14.07.2013,Grêmio Porto Alegre,Botafogo RJ,2:1
+1730121,braseriea,2012-2013,14.07.2013,Coritiba FC,Atlético Paranaense,1:0
+1730105,braseriea,2012-2013,14.07.2013,Vasco da Gama,Flamengo RJ,0:1
+1730117,braseriea,2012-2013,14.07.2013,Criciúma EC,Goiás EC,0:0
+1730119,braseriea,2012-2013,14.07.2013,Cruzeiro EC,Clube Náutico,3:0
+1730125,braseriea,2012-2013,20.07.2013,Botafogo RJ,Clube Náutico,2:0
+1730129,braseriea,2012-2013,20.07.2013,São Paulo FC,Cruzeiro EC,0:3
+1730137,braseriea,2012-2013,20.07.2013,Criciúma EC,Grêmio Porto Alegre,2:1
+1730131,braseriea,2012-2013,21.07.2013,EC Vitória BA,EC Bahia,0:0
+1730133,braseriea,2012-2013,21.07.2013,Internacional,Flamengo RJ,1:0
+1730141,braseriea,2012-2013,21.07.2013,Atlético Paranaense,Corinthians SP,1:1
+1730143,braseriea,2012-2013,21.07.2013,Santos FC,Coritiba FC,2:2
+1730127,braseriea,2012-2013,21.07.2013,Fluminense RJ,Vasco da Gama,1:3
+1730135,braseriea,2012-2013,21.07.2013,Goiás EC,Portuguesa (SP),2:1
+1730139,braseriea,2012-2013,04.10.2013,Atlético Mineiro,Ponte Preta,4:0
+1730145,braseriea,2012-2013,27.07.2013,Vasco da Gama,Criciúma EC,3:2
+1730163,braseriea,2012-2013,27.07.2013,Portuguesa (SP),Atlético Paranaense,2:3
+1730155,braseriea,2012-2013,28.07.2013,Ponte Preta,Santos FC,1:0
+1730149,braseriea,2012-2013,28.07.2013,Corinthians SP,São Paulo FC,0:0
+1730153,braseriea,2012-2013,28.07.2013,Grêmio Porto Alegre,Fluminense RJ,2:0
+1730157,braseriea,2012-2013,28.07.2013,Clube Náutico,Internacional,3:0
+1730159,braseriea,2012-2013,28.07.2013,Cruzeiro EC,Atlético Mineiro,4:1
+1730147,braseriea,2012-2013,28.07.2013,Flamengo RJ,Botafogo RJ,1:1
+1730151,braseriea,2012-2013,28.07.2013,EC Bahia,Goiás EC,2:1
+1730161,braseriea,2012-2013,28.07.2013,Coritiba FC,EC Vitória BA,1:1
+1730167,braseriea,2012-2013,01.08.2013,Fluminense RJ,Cruzeiro EC,1:0
+1730179,braseriea,2012-2013,01.08.2013,Atlético Mineiro,Atlético Paranaense,1:2
+1730183,braseriea,2012-2013,01.08.2013,Portuguesa (SP),Criciúma EC,1:1
+1730181,braseriea,2012-2013,01.08.2013,Coritiba FC,Ponte Preta,5:3
+1730169,braseriea,2012-2013,01.08.2013,Corinthians SP,Grêmio Porto Alegre,2:0
+1730171,braseriea,2012-2013,01.08.2013,EC Bahia,Flamengo RJ,3:0
+1730165,braseriea,2012-2013,02.08.2013,Botafogo RJ,EC Vitória BA,2:0
+1730175,braseriea,2012-2013,02.08.2013,Goiás EC,Vasco da Gama,1:1
+1730177,braseriea,2012-2013,04.09.2013,Clube Náutico,São Paulo FC,0:1
+1730173,braseriea,2012-2013,11.09.2013,Internacional,Santos FC,1:2
+1730189,braseriea,2012-2013,11.07.2013,São Paulo FC,EC Bahia,1:2
+1730199,braseriea,2012-2013,03.08.2013,Cruzeiro EC,Coritiba FC,1:0
+1730187,braseriea,2012-2013,04.08.2013,Flamengo RJ,Atlético Mineiro,3:0
+1730193,braseriea,2012-2013,04.08.2013,Grêmio Porto Alegre,Internacional,1:1
+1730195,braseriea,2012-2013,04.08.2013,Ponte Preta,Fluminense RJ,1:1
+1730197,braseriea,2012-2013,04.08.2013,Criciúma EC,Corinthians SP,0:2
+1730201,braseriea,2012-2013,04.08.2013,Atlético Paranaense,Goiás EC,2:0
+1730185,braseriea,2012-2013,04.08.2013,Vasco da Gama,Botafogo RJ,2:3
+1730191,braseriea,2012-2013,04.08.2013,EC Vitória BA,Portuguesa (SP),2:1
+1730203,braseriea,2012-2013,26.09.2013,Santos FC,Clube Náutico,1:1
+1730209,braseriea,2012-2013,25.07.2013,São Paulo FC,Internacional,0:1
+1730211,braseriea,2012-2013,08.08.2013,EC Vitória BA,Fluminense RJ,1:1
+1730217,braseriea,2012-2013,08.08.2013,Criciúma EC,Cruzeiro EC,1:2
+1730207,braseriea,2012-2013,08.08.2013,Flamengo RJ,Portuguesa (SP),1:1
+1730221,braseriea,2012-2013,08.08.2013,Atlético Paranaense,EC Bahia,1:0
+1730215,braseriea,2012-2013,08.08.2013,Goiás EC,Clube Náutico,2:1
+1730219,braseriea,2012-2013,08.08.2013,Atlético Mineiro,Botafogo RJ,2:2
+1730223,braseriea,2012-2013,08.08.2013,Santos FC,Corinthians SP,1:1
+1730205,braseriea,2012-2013,09.08.2013,Vasco da Gama,Ponte Preta,1:1
+1730213,braseriea,2012-2013,09.08.2013,Grêmio Porto Alegre,Coritiba FC,0:1
+1730225,braseriea,2012-2013,10.08.2013,Botafogo RJ,Goiás EC,1:1
+1730237,braseriea,2012-2013,10.08.2013,Clube Náutico,Atlético Mineiro,0:0
+1730227,braseriea,2012-2013,11.08.2013,Fluminense RJ,Flamengo RJ,2:3
+1730229,braseriea,2012-2013,11.08.2013,Corinthians SP,EC Vitória BA,2:0
+1730239,braseriea,2012-2013,11.08.2013,Cruzeiro EC,Santos FC,0:0
+1730249,braseriea,2012-2013,11.08.2013,Coritiba FC,Vasco da Gama,0:1
+1730231,braseriea,2012-2013,11.08.2013,EC Bahia,Grêmio Porto Alegre,0:3
+1730233,braseriea,2012-2013,11.08.2013,Internacional,Atlético Paranaense,2:2
+1730235,braseriea,2012-2013,11.08.2013,Ponte Preta,Criciúma EC,3:1
+1730251,braseriea,2012-2013,11.08.2013,Portuguesa (SP),São Paulo FC,2:1
+1730265,braseriea,2012-2013,15.08.2013,Criciúma EC,Clube Náutico,3:0
+1730267,braseriea,2012-2013,15.08.2013,Atlético Mineiro,EC Bahia,2:0
+1730271,braseriea,2012-2013,15.08.2013,Santos FC,Vasco da Gama,1:1
+1730259,braseriea,2012-2013,15.08.2013,EC Vitória BA,Ponte Preta,3:1
+1730269,braseriea,2012-2013,15.08.2013,Coritiba FC,Portuguesa (SP),1:1
+1730255,braseriea,2012-2013,15.08.2013,Fluminense RJ,Corinthians SP,0:0
+1730261,braseriea,2012-2013,15.08.2013,Grêmio Porto Alegre,Cruzeiro EC,3:1
+1730263,braseriea,2012-2013,15.08.2013,Goiás EC,Flamengo RJ,1:1
+1730257,braseriea,2012-2013,16.08.2013,São Paulo FC,Atlético Paranaense,1:1
+1730253,braseriea,2012-2013,16.08.2013,Botafogo RJ,Internacional,3:3
+1730285,braseriea,2012-2013,17.08.2013,Clube Náutico,Fluminense RJ,0:1
+1730287,braseriea,2012-2013,17.08.2013,Cruzeiro EC,EC Vitória BA,5:1
+1730273,braseriea,2012-2013,18.08.2013,Vasco da Gama,Grêmio Porto Alegre,2:3
+1730275,braseriea,2012-2013,18.08.2013,Flamengo RJ,São Paulo FC,0:0
+1730277,braseriea,2012-2013,18.08.2013,Corinthians SP,Coritiba FC,1:0
+1730283,braseriea,2012-2013,18.08.2013,Ponte Preta,Goiás EC,0:1
+1730291,braseriea,2012-2013,18.08.2013,Portuguesa (SP),Botafogo RJ,1:3
+1730279,braseriea,2012-2013,18.08.2013,EC Bahia,Santos FC,0:0
+1730281,braseriea,2012-2013,18.08.2013,Internacional,Atlético Mineiro,0:0
+1730289,braseriea,2012-2013,18.08.2013,Atlético Paranaense,Criciúma EC,2:1
+1730295,braseriea,2012-2013,24.08.2013,Flamengo RJ,Grêmio Porto Alegre,0:1
+1730303,braseriea,2012-2013,24.08.2013,Ponte Preta,Cruzeiro EC,0:2
+1730311,braseriea,2012-2013,24.08.2013,Santos FC,EC Vitória BA,2:0
+1730305,braseriea,2012-2013,25.08.2013,Criciúma EC,Coritiba FC,2:1
+1730293,braseriea,2012-2013,25.08.2013,Vasco da Gama,Corinthians SP,1:1
+1730297,braseriea,2012-2013,25.08.2013,São Paulo FC,Fluminense RJ,2:1
+1730299,braseriea,2012-2013,25.08.2013,EC Bahia,Clube Náutico,2:0
+1730307,braseriea,2012-2013,25.08.2013,Atlético Mineiro,Portuguesa (SP),2:1
+1730301,braseriea,2012-2013,25.08.2013,Internacional,Goiás EC,3:3
+1730309,braseriea,2012-2013,25.08.2013,Atlético Paranaense,Botafogo RJ,2:0
+1730321,braseriea,2012-2013,31.08.2013,Grêmio Porto Alegre,Ponte Preta,1:0
+1730323,braseriea,2012-2013,31.08.2013,Goiás EC,Atlético Mineiro,0:0
+1730325,braseriea,2012-2013,31.08.2013,Clube Náutico,Atlético Paranaense,1:4
+1730331,braseriea,2012-2013,31.08.2013,Portuguesa (SP),EC Bahia,4:2
+1730315,braseriea,2012-2013,01.09.2013,Fluminense RJ,Santos FC,0:2
+1730313,braseriea,2012-2013,01.09.2013,Botafogo RJ,São Paulo FC,0:0
+1730317,braseriea,2012-2013,01.09.2013,Corinthians SP,Flamengo RJ,4:0
+1730319,braseriea,2012-2013,01.09.2013,EC Vitória BA,Criciúma EC,0:1
+1730329,braseriea,2012-2013,01.09.2013,Coritiba FC,Internacional,0:0
+1730327,braseriea,2012-2013,01.09.2013,Cruzeiro EC,Vasco da Gama,5:3
+1730343,braseriea,2012-2013,04.09.2013,Goiás EC,Grêmio Porto Alegre,2:0
+1730335,braseriea,2012-2013,05.09.2013,Flamengo RJ,EC Vitória BA,2:1
+1730349,braseriea,2012-2013,05.09.2013,Atlético Paranaense,Santos FC,2:1
+1730351,braseriea,2012-2013,05.09.2013,Portuguesa (SP),Ponte Preta,2:1
+1730339,braseriea,2012-2013,05.09.2013,EC Bahia,Cruzeiro EC,1:3
+1730341,braseriea,2012-2013,05.09.2013,Internacional,Corinthians SP,1:0
+1730347,braseriea,2012-2013,05.09.2013,Atlético Mineiro,Fluminense RJ,2:2
+1730333,braseriea,2012-2013,06.09.2013,Botafogo RJ,Coritiba FC,3:1
+1730337,braseriea,2012-2013,06.09.2013,São Paulo FC,Criciúma EC,1:2
+1730345,braseriea,2012-2013,06.09.2013,Clube Náutico,Vasco da Gama,0:3
+1730355,braseriea,2012-2013,07.09.2013,Fluminense RJ,EC Bahia,1:0
+1730359,braseriea,2012-2013,07.09.2013,EC Vitória BA,Atlético Mineiro,1:1
+1730363,braseriea,2012-2013,07.09.2013,Ponte Preta,Internacional,1:3
+1730371,braseriea,2012-2013,07.09.2013,Santos FC,Goiás EC,1:0
+1730361,braseriea,2012-2013,08.09.2013,Grêmio Porto Alegre,Portuguesa (SP),3:2
+1730357,braseriea,2012-2013,08.09.2013,Corinthians SP,Clube Náutico,0:0
+1730367,braseriea,2012-2013,08.09.2013,Cruzeiro EC,Flamengo RJ,1:0
+1730369,braseriea,2012-2013,08.09.2013,Coritiba FC,São Paulo FC,2:0
+1730353,braseriea,2012-2013,08.09.2013,Vasco da Gama,Atlético Paranaense,0:0
+1730365,braseriea,2012-2013,08.09.2013,Criciúma EC,Botafogo RJ,1:2
+1729988,braseriea,2012-2013,12.09.2013,Atlético Paranaense,Fluminense RJ,1:1
+1729998,braseriea,2012-2013,12.09.2013,EC Bahia,Criciúma EC,2:2
+1730000,braseriea,2012-2013,12.09.2013,Goiás EC,Cruzeiro EC,1:2
+1729986,braseriea,2012-2013,12.09.2013,Portuguesa (SP),Vasco da Gama,2:0
+1729990,braseriea,2012-2013,12.09.2013,Botafogo RJ,Corinthians SP,1:0
+1729994,braseriea,2012-2013,12.09.2013,Clube Náutico,Grêmio Porto Alegre,0:2
+1729992,braseriea,2012-2013,13.09.2013,Internacional,EC Vitória BA,2:2
+1729996,braseriea,2012-2013,13.09.2013,São Paulo FC,Ponte Preta,1:0
+1730002,braseriea,2012-2013,13.09.2013,Atlético Mineiro,Coritiba FC,3:0
+1730004,braseriea,2012-2013,13.09.2013,Flamengo RJ,Santos FC,2:1
+1730022,braseriea,2012-2013,14.09.2013,Cruzeiro EC,Atlético Paranaense,1:0
+1730024,braseriea,2012-2013,15.09.2013,Fluminense RJ,Portuguesa (SP),2:1
+1730008,braseriea,2012-2013,15.09.2013,Ponte Preta,Flamengo RJ,1:1
+1730010,braseriea,2012-2013,15.09.2013,Vasco da Gama,São Paulo FC,0:2
+1730012,braseriea,2012-2013,15.09.2013,Coritiba FC,EC Bahia,2:2
+1730014,braseriea,2012-2013,15.09.2013,Criciúma EC,Internacional,0:1
+1730016,braseriea,2012-2013,15.09.2013,Corinthians SP,Goiás EC,1:2
+1730006,braseriea,2012-2013,15.09.2013,Santos FC,Botafogo RJ,1:2
+1730018,braseriea,2012-2013,15.09.2013,EC Vitória BA,Clube Náutico,2:1
+1730020,braseriea,2012-2013,15.09.2013,Grêmio Porto Alegre,Atlético Mineiro,0:1
+1730032,braseriea,2012-2013,19.09.2013,Vasco da Gama,EC Vitória BA,1:2
+1730044,braseriea,2012-2013,19.09.2013,Grêmio Porto Alegre,Santos FC,1:1
+1730028,braseriea,2012-2013,19.09.2013,Criciúma EC,Fluminense RJ,1:2
+1730036,braseriea,2012-2013,19.09.2013,Coritiba FC,Goiás EC,2:2
+1730026,braseriea,2012-2013,19.09.2013,Cruzeiro EC,Botafogo RJ,3:0
+1730030,braseriea,2012-2013,19.09.2013,Ponte Preta,Corinthians SP,2:0
+1730040,braseriea,2012-2013,19.09.2013,São Paulo FC,Atlético Mineiro,1:0
+1730042,braseriea,2012-2013,20.09.2013,Flamengo RJ,Atlético Paranaense,2:4
+1730034,braseriea,2012-2013,20.09.2013,EC Bahia,Internacional,2:0
+1730038,braseriea,2012-2013,20.09.2013,Portuguesa (SP),Clube Náutico,3:0
+1730062,braseriea,2012-2013,21.09.2013,Fluminense RJ,Coritiba FC,1:1
+1730054,braseriea,2012-2013,22.09.2013,EC Vitória BA,Grêmio Porto Alegre,0:0
+1730048,braseriea,2012-2013,22.09.2013,Clube Náutico,Flamengo RJ,0:0
+1730050,braseriea,2012-2013,22.09.2013,Goiás EC,São Paulo FC,1:0
+1730052,braseriea,2012-2013,22.09.2013,Botafogo RJ,EC Bahia,1:2
+1730060,braseriea,2012-2013,22.09.2013,Corinthians SP,Cruzeiro EC,0:0
+1730064,braseriea,2012-2013,22.09.2013,Internacional,Portuguesa (SP),0:1
+1730046,braseriea,2012-2013,22.09.2013,Atlético Mineiro,Vasco da Gama,2:1
+1730056,braseriea,2012-2013,22.09.2013,Atlético Paranaense,Ponte Preta,1:0
+1730058,braseriea,2012-2013,22.09.2013,Santos FC,Criciúma EC,2:1
+1730068,braseriea,2012-2013,28.09.2013,Goiás EC,Fluminense RJ,1:2
+1730082,braseriea,2012-2013,28.09.2013,Clube Náutico,Coritiba FC,3:0
+1730076,braseriea,2012-2013,29.09.2013,Botafogo RJ,Ponte Preta,0:1
+1730066,braseriea,2012-2013,29.09.2013,EC Bahia,Vasco da Gama,0:0
+1730070,braseriea,2012-2013,29.09.2013,Portuguesa (SP),Corinthians SP,4:0
+1730074,braseriea,2012-2013,29.09.2013,São Paulo FC,Grêmio Porto Alegre,0:1
+1730078,braseriea,2012-2013,29.09.2013,Flamengo RJ,Criciúma EC,4:1
+1730072,braseriea,2012-2013,29.09.2013,Atlético Paranaense,EC Vitória BA,3:5
+1730080,braseriea,2012-2013,29.09.2013,Internacional,Cruzeiro EC,1:2
+1730084,braseriea,2012-2013,29.09.2013,Atlético Mineiro,Santos FC,3:1
+1730100,braseriea,2012-2013,26.09.2013,Criciúma EC,Atlético Mineiro,1:1
+1730098,braseriea,2012-2013,02.10.2013,Ponte Preta,Clube Náutico,1:2
+1730102,braseriea,2012-2013,03.10.2013,Grêmio Porto Alegre,Atlético Paranaense,1:0
+1730104,braseriea,2012-2013,03.10.2013,Cruzeiro EC,Portuguesa (SP),4:0
+1730086,braseriea,2012-2013,03.10.2013,Fluminense RJ,Botafogo RJ,1:1
+1730096,braseriea,2012-2013,03.10.2013,EC Vitória BA,Goiás EC,2:1
+1730088,braseriea,2012-2013,03.10.2013,Coritiba FC,Flamengo RJ,0:2
+1730090,braseriea,2012-2013,03.10.2013,Santos FC,São Paulo FC,3:0
+1730092,braseriea,2012-2013,03.10.2013,Corinthians SP,EC Bahia,2:0
+1730094,braseriea,2012-2013,04.10.2013,Vasco da Gama,Internacional,3:1
+1730114,braseriea,2012-2013,05.10.2013,Botafogo RJ,Grêmio Porto Alegre,0:1
+1730112,braseriea,2012-2013,06.10.2013,São Paulo FC,EC Vitória BA,3:2
+1730106,braseriea,2012-2013,06.10.2013,Flamengo RJ,Vasco da Gama,1:1
+1730108,braseriea,2012-2013,06.10.2013,Internacional,Fluminense RJ,1:0
+1730110,braseriea,2012-2013,06.10.2013,Atlético Mineiro,Corinthians SP,0:0
+1730120,braseriea,2012-2013,06.10.2013,Clube Náutico,Cruzeiro EC,1:4
+1730122,braseriea,2012-2013,06.10.2013,Atlético Paranaense,Coritiba FC,2:1
+1730116,braseriea,2012-2013,06.10.2013,EC Bahia,Ponte Preta,1:1
+1730118,braseriea,2012-2013,06.10.2013,Goiás EC,Criciúma EC,1:1
+1730124,braseriea,2012-2013,06.10.2013,Portuguesa (SP),Santos FC,3:0
+1730138,braseriea,2012-2013,10.10.2013,Grêmio Porto Alegre,Criciúma EC,1:2
+1730144,braseriea,2012-2013,10.10.2013,Coritiba FC,Santos FC,1:0
+1730132,braseriea,2012-2013,10.10.2013,EC Bahia,EC Vitória BA,2:0
+1730140,braseriea,2012-2013,10.10.2013,Ponte Preta,Atlético Mineiro,2:0
+1730126,braseriea,2012-2013,10.10.2013,Clube Náutico,Botafogo RJ,1:3
+1730128,braseriea,2012-2013,10.10.2013,Vasco da Gama,Fluminense RJ,1:0
+1730130,braseriea,2012-2013,10.10.2013,Cruzeiro EC,São Paulo FC,0:2
+1730142,braseriea,2012-2013,10.10.2013,Corinthians SP,Atlético Paranaense,0:0
+1730136,braseriea,2012-2013,11.10.2013,Portuguesa (SP),Goiás EC,1:2
+1730134,braseriea,2012-2013,11.10.2013,Flamengo RJ,Internacional,2:1
+1730154,braseriea,2012-2013,12.10.2013,Fluminense RJ,Grêmio Porto Alegre,1:1
+1730162,braseriea,2012-2013,12.10.2013,EC Vitória BA,Coritiba FC,2:1
+1730156,braseriea,2012-2013,13.10.2013,Santos FC,Ponte Preta,2:1
+1730146,braseriea,2012-2013,13.10.2013,Criciúma EC,Vasco da Gama,3:2
+1730150,braseriea,2012-2013,13.10.2013,São Paulo FC,Corinthians SP,0:0
+1730158,braseriea,2012-2013,13.10.2013,Internacional,Clube Náutico,4:1
+1730160,braseriea,2012-2013,13.10.2013,Atlético Mineiro,Cruzeiro EC,1:0
+1730148,braseriea,2012-2013,13.10.2013,Botafogo RJ,Flamengo RJ,2:1
+1730152,braseriea,2012-2013,13.10.2013,Goiás EC,EC Bahia,3:1
+1730164,braseriea,2012-2013,13.10.2013,Atlético Paranaense,Portuguesa (SP),1:0
+1730168,braseriea,2012-2013,17.10.2013,Cruzeiro EC,Fluminense RJ,1:0
+1730174,braseriea,2012-2013,17.10.2013,Santos FC,Internacional,0:0
+1730178,braseriea,2012-2013,17.10.2013,São Paulo FC,Clube Náutico,3:0
+1730182,braseriea,2012-2013,17.10.2013,Ponte Preta,Coritiba FC,1:0
+1730184,braseriea,2012-2013,17.10.2013,Criciúma EC,Portuguesa (SP),1:3
+1730170,braseriea,2012-2013,17.10.2013,Grêmio Porto Alegre,Corinthians SP,1:0
+1730172,braseriea,2012-2013,17.10.2013,Flamengo RJ,EC Bahia,2:1
+1730180,braseriea,2012-2013,17.10.2013,Atlético Paranaense,Atlético Mineiro,1:0
+1730176,braseriea,2012-2013,18.10.2013,Vasco da Gama,Goiás EC,0:2
+1730166,braseriea,2012-2013,18.10.2013,EC Vitória BA,Botafogo RJ,1:0
+1730196,braseriea,2012-2013,19.10.2013,Fluminense RJ,Ponte Preta,1:1
+1730204,braseriea,2012-2013,19.10.2013,Clube Náutico,Santos FC,1:5
+1730198,braseriea,2012-2013,20.10.2013,Corinthians SP,Criciúma EC,1:0
+1730188,braseriea,2012-2013,20.10.2013,Atlético Mineiro,Flamengo RJ,1:0
+1730190,braseriea,2012-2013,20.10.2013,EC Bahia,São Paulo FC,0:1
+1730194,braseriea,2012-2013,20.10.2013,Internacional,Grêmio Porto Alegre,2:2
+1730202,braseriea,2012-2013,20.10.2013,Goiás EC,Atlético Paranaense,3:0
+1730186,braseriea,2012-2013,20.10.2013,Botafogo RJ,Vasco da Gama,2:2
+1730192,braseriea,2012-2013,20.10.2013,Portuguesa (SP),EC Vitória BA,1:1
+1730200,braseriea,2012-2013,20.10.2013,Coritiba FC,Cruzeiro EC,2:1
+1730218,braseriea,2012-2013,26.10.2013,Cruzeiro EC,Criciúma EC,5:3
+1730220,braseriea,2012-2013,26.10.2013,Botafogo RJ,Atlético Mineiro,1:0
+1730206,braseriea,2012-2013,27.10.2013,Ponte Preta,Vasco da Gama,2:1
+1730208,braseriea,2012-2013,27.10.2013,Portuguesa (SP),Flamengo RJ,0:0
+1730210,braseriea,2012-2013,27.10.2013,Internacional,São Paulo FC,2:3
+1730222,braseriea,2012-2013,27.10.2013,EC Bahia,Atlético Paranaense,1:1
+1730224,braseriea,2012-2013,27.10.2013,Corinthians SP,Santos FC,1:1
+1730212,braseriea,2012-2013,27.10.2013,Fluminense RJ,EC Vitória BA,2:3
+1730214,braseriea,2012-2013,27.10.2013,Coritiba FC,Grêmio Porto Alegre,4:0
+1730216,braseriea,2012-2013,27.10.2013,Clube Náutico,Goiás EC,0:2
+1730250,braseriea,2012-2013,02.11.2013,Vasco da Gama,Coritiba FC,2:1
+1730252,braseriea,2012-2013,02.11.2013,São Paulo FC,Portuguesa (SP),2:1
+1730238,braseriea,2012-2013,03.11.2013,Atlético Mineiro,Clube Náutico,5:0
+1730226,braseriea,2012-2013,03.11.2013,Goiás EC,Botafogo RJ,1:0
+1730230,braseriea,2012-2013,03.11.2013,EC Vitória BA,Corinthians SP,1:1
+1730232,braseriea,2012-2013,03.11.2013,Grêmio Porto Alegre,EC Bahia,0:0
+1730240,braseriea,2012-2013,03.11.2013,Santos FC,Cruzeiro EC,0:1
+1730228,braseriea,2012-2013,03.11.2013,Flamengo RJ,Fluminense RJ,1:0
+1730234,braseriea,2012-2013,03.11.2013,Atlético Paranaense,Internacional,1:0
+1730236,braseriea,2012-2013,03.11.2013,Criciúma EC,Ponte Preta,1:1
+1730268,braseriea,2012-2013,09.11.2013,EC Bahia,Atlético Mineiro,0:0
+1730270,braseriea,2012-2013,09.11.2013,Portuguesa (SP),Coritiba FC,0:0
+1730264,braseriea,2012-2013,10.11.2013,Flamengo RJ,Goiás EC,1:1
+1730254,braseriea,2012-2013,10.11.2013,Internacional,Botafogo RJ,2:1
+1730258,braseriea,2012-2013,10.11.2013,Atlético Paranaense,São Paulo FC,3:0
+1730260,braseriea,2012-2013,10.11.2013,Ponte Preta,EC Vitória BA,0:3
+1730262,braseriea,2012-2013,10.11.2013,Cruzeiro EC,Grêmio Porto Alegre,3:0
+1730256,braseriea,2012-2013,10.11.2013,Corinthians SP,Fluminense RJ,1:0
+1730266,braseriea,2012-2013,10.11.2013,Clube Náutico,Criciúma EC,0:1
+1730272,braseriea,2012-2013,10.11.2013,Vasco da Gama,Santos FC,2:2
+1730274,braseriea,2012-2013,13.11.2013,Grêmio Porto Alegre,Vasco da Gama,1:0
+1730284,braseriea,2012-2013,13.11.2013,Goiás EC,Ponte Preta,2:0
+1730290,braseriea,2012-2013,14.11.2013,Criciúma EC,Atlético Paranaense,2:1
+1730292,braseriea,2012-2013,14.11.2013,Botafogo RJ,Portuguesa (SP),0:0
+1730276,braseriea,2012-2013,14.11.2013,São Paulo FC,Flamengo RJ,2:0
+1730278,braseriea,2012-2013,14.11.2013,Coritiba FC,Corinthians SP,0:1
+1730288,braseriea,2012-2013,14.11.2013,EC Vitória BA,Cruzeiro EC,1:3
+1730280,braseriea,2012-2013,14.11.2013,Santos FC,EC Bahia,3:0
+1730282,braseriea,2012-2013,15.11.2013,Atlético Mineiro,Internacional,2:1
+1730286,braseriea,2012-2013,15.11.2013,Fluminense RJ,Clube Náutico,2:0
+1730310,braseriea,2012-2013,16.11.2013,Botafogo RJ,Atlético Paranaense,4:0
+1730306,braseriea,2012-2013,17.11.2013,Coritiba FC,Criciúma EC,1:2
+1730294,braseriea,2012-2013,17.11.2013,Corinthians SP,Vasco da Gama,0:0
+1730298,braseriea,2012-2013,17.11.2013,Fluminense RJ,São Paulo FC,2:1
+1730304,braseriea,2012-2013,17.11.2013,Cruzeiro EC,Ponte Preta,2:2
+1730312,braseriea,2012-2013,17.11.2013,EC Vitória BA,Santos FC,2:0
+1730296,braseriea,2012-2013,17.11.2013,Grêmio Porto Alegre,Flamengo RJ,2:1
+1730300,braseriea,2012-2013,17.11.2013,Clube Náutico,EC Bahia,0:1
+1730302,braseriea,2012-2013,17.11.2013,Goiás EC,Internacional,3:1
+1730308,braseriea,2012-2013,17.11.2013,Portuguesa (SP),Atlético Mineiro,2:0
+1730320,braseriea,2012-2013,23.11.2013,Criciúma EC,EC Vitória BA,1:1
+1730328,braseriea,2012-2013,23.11.2013,Vasco da Gama,Cruzeiro EC,2:1
+1730324,braseriea,2012-2013,24.11.2013,Atlético Mineiro,Goiás EC,4:1
+1730316,braseriea,2012-2013,24.11.2013,Santos FC,Fluminense RJ,1:0
+1730318,braseriea,2012-2013,24.11.2013,Flamengo RJ,Corinthians SP,1:0
+1730322,braseriea,2012-2013,24.11.2013,Ponte Preta,Grêmio Porto Alegre,1:1
+1730326,braseriea,2012-2013,24.11.2013,Atlético Paranaense,Clube Náutico,6:1
+1730314,braseriea,2012-2013,24.11.2013,São Paulo FC,Botafogo RJ,1:1
+1730330,braseriea,2012-2013,24.11.2013,Internacional,Coritiba FC,0:0
+1730332,braseriea,2012-2013,24.11.2013,EC Bahia,Portuguesa (SP),1:0
+1730348,braseriea,2012-2013,30.11.2013,Fluminense RJ,Atlético Mineiro,2:2
+1730342,braseriea,2012-2013,01.12.2013,Corinthians SP,Internacional,0:0
+1730334,braseriea,2012-2013,01.12.2013,Coritiba FC,Botafogo RJ,2:1
+1730336,braseriea,2012-2013,01.12.2013,EC Vitória BA,Flamengo RJ,4:2
+1730338,braseriea,2012-2013,01.12.2013,Criciúma EC,São Paulo FC,1:0
+1730340,braseriea,2012-2013,01.12.2013,Cruzeiro EC,EC Bahia,1:2
+1730346,braseriea,2012-2013,01.12.2013,Vasco da Gama,Clube Náutico,2:0
+1730352,braseriea,2012-2013,01.12.2013,Ponte Preta,Portuguesa (SP),0:2
+1730344,braseriea,2012-2013,01.12.2013,Grêmio Porto Alegre,Goiás EC,1:0
+1730350,braseriea,2012-2013,01.12.2013,Santos FC,Atlético Paranaense,2:1
+1730368,braseriea,2012-2013,07.12.2013,Flamengo RJ,Cruzeiro EC,1:1
+1730358,braseriea,2012-2013,07.12.2013,Clube Náutico,Corinthians SP,1:0
+1730354,braseriea,2012-2013,08.12.2013,Atlético Paranaense,Vasco da Gama,5:1
+1730356,braseriea,2012-2013,08.12.2013,EC Bahia,Fluminense RJ,1:2
+1730360,braseriea,2012-2013,08.12.2013,Atlético Mineiro,EC Vitória BA,2:2
+1730362,braseriea,2012-2013,08.12.2013,Portuguesa (SP),Grêmio Porto Alegre,0:0
+1730364,braseriea,2012-2013,08.12.2013,Internacional,Ponte Preta,0:0
+1730366,braseriea,2012-2013,08.12.2013,Botafogo RJ,Criciúma EC,3:0
+1730370,braseriea,2012-2013,08.12.2013,São Paulo FC,Coritiba FC,0:1
+1730372,braseriea,2012-2013,08.12.2013,Goiás EC,Santos FC,0:3

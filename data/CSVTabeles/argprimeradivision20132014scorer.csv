@@ -1,0 +1,809 @@
+GameID,Minute,Scorer,Team
+1772556,7,Jorge Curbelo,Godoy Cruz
+1772556,55,Iván Óbolo,Godoy Cruz
+1772556,71,Iván Óbolo,Godoy Cruz
+1772556,64,Rodrigo Gómez,Argentinos Juniors
+1772561,90,Julio Furch,Arsenal de Sarandí
+1772561,31,Duván Zapata,Estudiantes
+1772562,30,Mauro Matos,All Boys
+1772562,87,Diego Vera,Atlético Rafaela
+1772560,61,Gastón Díaz,Tigre
+1772560,54,Lucas Pratto,Vélez Sarsfield
+1772560,90,Lucas Pratto,Vélez Sarsfield
+1772557,25,Jacobo Mansilla,Colón de Santa Fe
+1772557,2,Bruno Zuculini,Racing Club
+1772559,16,Martín Cauteruccio,San Lorenzo
+1772559,89,Martín Cauteruccio,San Lorenzo
+1772559,26,Nahuel Benítez,Olimpo de Bahía Blanca
+1772563,44,Santiago Silva,Lanús
+1772563,60,Santiago Silva,Lanús
+1772563,72,Carlos Izquierdoz,Lanús
+1772558,75,Lucas Licht,Gimnasia de La Plata
+1772555,42,Carlos Luna,Rosario Central
+1772555,80,Carlos Luna,Rosario Central
+1772554,5,Nicolás Blandi,Boca Juniors
+1772554,31,Cata Díaz,Boca Juniors
+1772554,16,Milton Casco,Newells Old Boys
+1772554,46,Víctor Aquino,Newells Old Boys
+1772554,52,Víctor Aquino,Newells Old Boys
+1772572,15,Julio Barraza,Argentinos Juniors
+1772572,51,Hernán Boyero,Argentinos Juniors
+1772566,8,Sebastián Carrera,Belgrano de Córdoba
+1772566,12,Román Riquelme,Boca Juniors
+1772566,86,Cata Díaz,Boca Juniors
+1772568,31,Gastón Gil Romero,Estudiantes
+1772567,56,Diego Vera,Atlético Rafaela
+1772567,66,Rodrigo Depetris,Atlético Rafaela
+1772567,55,Santiago Silva,Lanús
+1772573,74,Miguel Caneo,Quilmes
+1772571,20,Martín Cauteruccio,San Lorenzo
+1772571,63,Mauro Cetto,San Lorenzo
+1772571,70,Héctor Villalba,San Lorenzo
+1772564,79,Federico Andrada,River Plate
+1772565,36,Gabriel Heinze,Newells Old Boys
+1772565,54,Maxi Rodriguez,Newells Old Boys
+1772565,86,Rinaldo Cruzado,Newells Old Boys
+1772581,36,Ramiro Carrera,Arsenal de Sarandí
+1772581,40,Julio Furch,Arsenal de Sarandí
+1772581,80,Iván Marcone,Arsenal de Sarandí
+1772581,90,Damián Pérez,Arsenal de Sarandí
+1772577,79,Rubén Ramírez,Colón de Santa Fe
+1772578,20,Federico Rasic,Gimnasia de La Plata
+1772578,85,Ignacio Fernández,Gimnasia de La Plata
+1772578,1,Paulo Ferrari,Rosario Central
+1772578,39,Franco Niell,Rosario Central
+1772579,10,Julio Barraza,Argentinos Juniors
+1772579,53,Hernán Boyero,Argentinos Juniors
+1772579,64,Rodrigo Gómez,Argentinos Juniors
+1772580,18,Sergio Araujo,Tigre
+1772580,54,Sergio Araujo,Tigre
+1772580,60,José Sand,Tigre
+1772580,71,Rodrigo de Paul,Racing Club
+1772574,29,Román Riquelme,Boca Juniors
+1772574,67,Emanuel Insúa,Boca Juniors
+1772574,41,Lucas Albertengo,Atlético Rafaela
+1772582,20,Javier Cámpora,All Boys
+1772582,58,Fabián Cubero,Vélez Sarsfield
+1772583,10,Lautaro Acosta,Lanús
+1772583,1,Guido Carrillo,Estudiantes
+1772586,7,Jorge Velázquez,Belgrano de Córdoba
+1772586,49,Federico Rasic,Gimnasia de La Plata
+1772586,73,Federico Rasic,Gimnasia de La Plata
+1772587,49,Marcos Cáceres,Newells Old Boys
+1772587,90,David Trezeguet,Newells Old Boys
+1772591,63,Martín Rolle,Arsenal de Sarandí
+1772591,86,Martín Rolle,Arsenal de Sarandí
+1772592,76,Daniel Villalba,Argentinos Juniors
+1772585,85,Sebastián Abreu,Rosario Central
+1772590,34,Agustin Vuletich,Olimpo de Bahía Blanca
+1772590,13,Jonathan Ferrari,All Boys
+1772584,87,Teófilo Gutiérrez,River Plate
+1772584,51,Facundo Curuchet,Colón de Santa Fe
+1772584,77,Rubén Ramírez,Colón de Santa Fe
+1772588,54,Guido Carrillo,Estudiantes
+1772588,90,Guido Carrillo,Estudiantes
+1772593,6,Fernando Telechea,Quilmes
+1772593,56,Luciano Abecasis,Quilmes
+1772593,77,Arnaldo González,Quilmes
+1772593,36,Gonzalo Verón,San Lorenzo
+1772593,69,Martín Cauteruccio,San Lorenzo
+1772595,53,Pablo Pérez,Newells Old Boys
+1772595,90,Leandro Desábato,Estudiantes
+1772600,45,Norberto Paparatto,Tigre
+1772602,16,Roberto Battión,All Boys
+1772597,29,Rubén Ramírez,Colón de Santa Fe
+1772597,80,Rubén Ramírez,Colón de Santa Fe
+1772597,41,Sebastián Abreu,Rosario Central
+1772594,2,Ribair Rodríguez,Boca Juniors
+1772594,38,Nicolás Blandi,Boca Juniors
+1772594,10,Ezequiel Rescaldani,Vélez Sarsfield
+1772599,61,Julio Buffarini,San Lorenzo
+1772596,42,Ezequiel Maggiolo,Belgrano de Córdoba
+1772596,47,Ezequiel Maggiolo,Belgrano de Córdoba
+1772596,68,Luciano Lollo,Belgrano de Córdoba
+1772596,17,Cristian Canuhé,Atlético Rafaela
+1772596,37,Andrés Rodales,Atlético Rafaela
+1772603,44,Lautaro Acosta,Lanús
+1772603,70,Ismael Blanco,Lanús
+1772603,72,Nicolás Pasquini,Lanús
+1772609,33,Lucas Pratto,Vélez Sarsfield
+1772609,70,Ramiro Cáseres,Vélez Sarsfield
+1772609,85,Ramiro Cáseres,Vélez Sarsfield
+1772608,43,Guido Carrillo,Estudiantes
+1772608,74,Ezequiel Maggiolo,Belgrano de Córdoba
+1772606,84,Jonathan Ramis,Godoy Cruz
+1772612,28,Osvaldo Miranda,Argentinos Juniors
+1772607,10,Rodrigo Depetris,Atlético Rafaela
+1772607,89,Andrés Rodales,Atlético Rafaela
+1772607,90,Facundo Pereyra,Gimnasia de La Plata
+1772611,68,Luciano Vietto,Racing Club
+1772611,88,Maximiliano Velázquez,Lanús
+1772605,26,Martín Cauteruccio,San Lorenzo
+1772605,85,Héctor Villalba,San Lorenzo
+1772613,43,Martín Rolle,Arsenal de Sarandí
+1772604,46,Manuel Lanzini,River Plate
+1772604,62,Giovanni Simeone,River Plate
+1772604,64,Manuel Lanzini,River Plate
+1772610,7,Martín Pérez Guedes,Olimpo de Bahía Blanca
+1772610,69,Agustin Vuletich,Olimpo de Bahía Blanca
+1772610,80,Martín Pérez Guedes,Olimpo de Bahía Blanca
+1772623,23,Lautaro Acosta,Lanús
+1772623,55,Santiago Silva,Lanús
+1772623,66,Leandro Somoza,Lanús
+1772623,80,Lucas Melano,Lanús
+1772616,34,Esteban González,Belgrano de Córdoba
+1772616,61,Fernando Márquez,Belgrano de Córdoba
+1772616,64,César Pereyra,Belgrano de Córdoba
+1772615,51,David Trezeguet,Newells Old Boys
+1772615,74,Maxi Rodriguez,Newells Old Boys
+1772615,35,Damián Musto,Olimpo de Bahía Blanca
+1772622,6,Mauro Matos,All Boys
+1772622,46,Mauro Matos,All Boys
+1772622,66,Mauro Matos,All Boys
+1772622,79,Gonzalo Espinoza,All Boys
+1772617,16,Lucas Albertengo,Atlético Rafaela
+1772620,51,Ramiro Leone,Tigre
+1772620,64,Emiliano Ellacopulos,Tigre
+1772614,16,Juan Sánchez Miño,Boca Juniors
+1772614,67,Emmanuel Gigliotti,Boca Juniors
+1772621,65,Julio Furch,Arsenal de Sarandí
+1772621,10,Gabriel Mercado,River Plate
+1772618,74,José Correa,Gimnasia de La Plata
+1772626,26,José Fernandez,Godoy Cruz
+1772626,90,Jonathan Ramis,Godoy Cruz
+1772631,85,Maxi Rodriguez,Newells Old Boys
+1772630,79,Ezequiel Cerutti,Olimpo de Bahía Blanca
+1772630,81,Carlos Bueno,Belgrano de Córdoba
+1772625,90,Sebastián Abreu,Rosario Central
+1772625,6,Jonatan Gómez,Arsenal de Sarandí
+1772627,66,Ignacio Piatti,San Lorenzo
+1772627,73,Juan Cavallaro,San Lorenzo
+1772628,60,Matías Aguirregaray,Estudiantes
+1772628,21,José Correa,Gimnasia de La Plata
+1772624,80,Jonatan Maidana,River Plate
+1772629,21,Lucas Pratto,Vélez Sarsfield
+1772629,29,Fabián Cubero,Vélez Sarsfield
+1772629,60,Mauro Zárate,Vélez Sarsfield
+1772629,90,Leandro Desábato,Vélez Sarsfield
+1772629,63,Federico González,Atlético Rafaela
+1772641,53,Ramiro Carrera,Arsenal de Sarandí
+1772642,48,Mauro Matos,All Boys
+1772642,67,Federico Carrizo,Rosario Central
+1772639,14,Ignacio Piatti,San Lorenzo
+1772639,52,Pablo Alvarado,San Lorenzo
+1772639,58,Ignacio Piatti,San Lorenzo
+1772637,7,Diego Vera,Atlético Rafaela
+1772637,82,Federico González,Atlético Rafaela
+1772635,21,Maxi Rodriguez,Newells Old Boys
+1772635,71,Pablo Pérez,Newells Old Boys
+1772640,52,Ramiro Leone,Tigre
+1772636,30,César Pereyra,Belgrano de Córdoba
+1772636,78,César Pereyra,Belgrano de Córdoba
+1772636,86,Carlos Bueno,Belgrano de Córdoba
+1772634,32,Emmanuel Gigliotti,Boca Juniors
+1772634,87,Emmanuel Gigliotti,Boca Juniors
+1772643,90,Gabriel Mercado,River Plate
+1772652,42,Hernán Boyero,Argentinos Juniors
+1772652,37,César Pereyra,Belgrano de Córdoba
+1772652,47,Luciano Lollo,Belgrano de Córdoba
+1772652,62,Guillermo Farré,Belgrano de Córdoba
+1772650,90,Matias Sarulyte,Olimpo de Bahía Blanca
+1772650,54,Carlos Auzqui,Estudiantes
+1772653,37,Maxi Rodriguez,Newells Old Boys
+1772653,56,Diego Mateo,Newells Old Boys
+1772644,23,Emmanuel Gigliotti,Boca Juniors
+1772651,37,Diego Vera,Atlético Rafaela
+1772647,77,Julio Furch,Arsenal de Sarandí
+1772646,60,Jonathan Ramis,Godoy Cruz
+1772646,87,Juan Garro,Godoy Cruz
+1772648,63,Lucas Licht,Gimnasia de La Plata
+1772648,74,Maximiliano Meza,Gimnasia de La Plata
+1772648,4,Mauro Zárate,Vélez Sarsfield
+1772645,63,Franco Niell,Rosario Central
+1772645,75,Diego Lagos,Rosario Central
+1772645,69,Ismael Blanco,Lanús
+1772657,32,Diego Ferreira,Atlético Rafaela
+1772656,29,Alan Alegre,Quilmes
+1772661,75,Julio Furch,Arsenal de Sarandí
+1772661,90,Julio Furch,Arsenal de Sarandí
+1772661,73,Ignacio Piatti,San Lorenzo
+1772658,46,José Luis Gómez,Racing Club
+1772659,11,Mauro Zárate,Vélez Sarsfield
+1772659,27,Paulo Rosales,Olimpo de Bahía Blanca
+1772659,33,Ezequiel Cerutti,Olimpo de Bahía Blanca
+1772654,13,Emmanuel Gigliotti,Boca Juniors
+1772654,90,Sebastián Abreu,Rosario Central
+1772655,77,Víctor López,Newells Old Boys
+1772660,17,Matías Pérez García,Tigre
+1772660,12,Lucas Licht,Gimnasia de La Plata
+1772663,7,José Fernandez,Godoy Cruz
+1772673,71,Arnaldo González,Quilmes
+1772673,33,Cristian Canuhé,Atlético Rafaela
+1772672,31,Daniel Villalba,Argentinos Juniors
+1772671,20,Mauro Zárate,Vélez Sarsfield
+1772667,45,Diego González,Lanús
+1772667,58,Víctor Ayala,Lanús
+1772667,79,Lucas Melano,Lanús
+1772669,43,Ángel Correa,San Lorenzo
+1772669,74,Ángel Correa,San Lorenzo
+1772669,84,Héctor Villalba,San Lorenzo
+1772665,11,Alejandro Donatti,Rosario Central
+1772665,29,Hernán Encina,Rosario Central
+1772665,15,Maxi Rodriguez,Newells Old Boys
+1772668,24,Ignacio Fernández,Gimnasia de La Plata
+1772668,77,Facundo Pereyra,Gimnasia de La Plata
+1772668,65,Damián Musto,Olimpo de Bahía Blanca
+1772668,75,Agustin Vuletich,Olimpo de Bahía Blanca
+1772670,74,Matías Pérez García,Tigre
+1772670,76,Cristian Bordacahar,Tigre
+1772670,66,Milton Caraglio,Arsenal de Sarandí
+1772666,37,José Fernandez,Godoy Cruz
+1772666,47,Iván Óbolo,Godoy Cruz
+1772666,31,Emmanuel Gigliotti,Boca Juniors
+1772666,90,Claudio Pérez,Boca Juniors
+1772679,31,Agustin Allione,Vélez Sarsfield
+1772679,84,Lucas Pratto,Vélez Sarsfield
+1772683,4,Jorge Pereyra Díaz,Lanús
+1772683,62,Lucas Melano,Lanús
+1772683,71,Jorge Pereyra Díaz,Lanús
+1772683,32,Santiago Gentiletti,San Lorenzo
+1772683,50,Leandro Romagnoli,San Lorenzo
+1772676,45,Carlos Luna,Rosario Central
+1772675,7,Horacio Orzán,Newells Old Boys
+1772675,60,José Fernandez,Godoy Cruz
+1772674,20,Emmanuel Gigliotti,Boca Juniors
+1772674,21,Juan Martínez,Boca Juniors
+1772681,18,Milton Caraglio,Arsenal de Sarandí
+1772681,63,Facundo Pereyra,Gimnasia de La Plata
+1772678,64,Patricio Rodriguez,Estudiantes
+1772680,63,Bruno Zuculini,Racing Club
+1772691,24,Milton Caraglio,Arsenal de Sarandí
+1772691,73,Jonathan Calleri,All Boys
+1772687,40,Gabriel Graciani,Colón de Santa Fe
+1772687,56,Sebastián Prediger,Colón de Santa Fe
+1772687,73,David Trezeguet,Newells Old Boys
+1772687,84,David Trezeguet,Newells Old Boys
+1772692,8,Hernán Boyero,Argentinos Juniors
+1772692,14,Daniel Villalba,Argentinos Juniors
+1772692,65,Juan Ramírez,Argentinos Juniors
+1772692,75,Enrique Triverio,Argentinos Juniors
+1772685,54,Hernán Encina,Rosario Central
+1772685,68,Antonio Medina,Rosario Central
+1772685,87,Hernán Encina,Rosario Central
+1772685,15,Lucas Albertengo,Atlético Rafaela
+1772685,50,Diego Vera,Atlético Rafaela
+1772686,72,Leonardo Sigali,Godoy Cruz
+1772686,23,Fernando Márquez,Belgrano de Córdoba
+1772688,38,Facundo Pereyra,Gimnasia de La Plata
+1772688,27,Luciano Vietto,Racing Club
+1772688,36,Gastón Campi,Racing Club
+1772688,63,Luciano Vietto,Racing Club
+1772690,85,Matías Pérez García,Tigre
+1772690,88,Facundo Sánchez,Tigre
+1772690,36,Nicolás Pasquini,Lanús
+1772690,59,Ismael Blanco,Lanús
+1772690,75,Fernando Barrientos,Lanús
+1772693,22,Facundo Diz,Quilmes
+1772693,83,Facundo Cardozo,Vélez Sarsfield
+1772689,47,Ángel Correa,San Lorenzo
+1772684,9,Juan Menseguez,River Plate
+1772684,17,Román Martínez,Estudiantes
+1772684,38,Carlos Auzqui,Estudiantes
+1772697,9,Diego Ferreira,Atlético Rafaela
+1772697,41,Diego Vera,Atlético Rafaela
+1772697,64,Diego Vera,Atlético Rafaela
+1772697,84,Jorge Curbelo,Godoy Cruz
+1772700,77,Facundo Diz,Quilmes
+1772702,15,Mauro Matos,All Boys
+1772702,90,Agustin Torassa,All Boys
+1772702,72,Lucas Licht,Gimnasia de La Plata
+1772698,51,Paulo Ferrari,Rosario Central
+1772698,58,Alejandro Donatti,Rosario Central
+1772695,25,David Trezeguet,Newells Old Boys
+1772695,30,Ignacio Piatti,San Lorenzo
+1772694,18,Claudio Pérez,Boca Juniors
+1772694,85,Leandro Paredes,Boca Juniors
+1772694,90,Cata Díaz,Boca Juniors
+1772696,8,César Pereyra,Belgrano de Córdoba
+1772696,45,César Pereyra,Belgrano de Córdoba
+1772701,52,Hernán Boyero,Argentinos Juniors
+1772703,83,Nicolás Pasquini,Lanús
+1772703,86,Santiago Silva,Lanús
+1772712,6,Mauro Matos,All Boys
+1772712,24,Mauro Matos,All Boys
+1772712,52,Santiago Silva,Lanús
+1772712,74,Santiago Silva,Lanús
+1772712,78,Lautaro Acosta,Lanús
+1772706,20,Jorge Curbelo,Godoy Cruz
+1772706,84,Leandro Grimi,Godoy Cruz
+1772706,71,Santiago Vergini,Estudiantes
+1772713,41,Miguel Caneo,Quilmes
+1772713,49,Juan Dinenno,Racing Club
+1772709,2,Emanuel Mas,San Lorenzo
+1772709,9,Ángel Correa,San Lorenzo
+1772709,59,Pablo Alvarado,San Lorenzo
+1772709,62,Ignacio Piatti,San Lorenzo
+1772709,71,Mauro Cetto,San Lorenzo
+1772709,27,César Pereyra,Belgrano de Córdoba
+1772705,87,Walter Acuña,Rosario Central
+1772705,90,Gonzalo Castillejos,Rosario Central
+1772705,11,Ramiro Cáseres,Vélez Sarsfield
+1772705,46,Ramiro Cáseres,Vélez Sarsfield
+1772705,54,Ramiro Cáseres,Vélez Sarsfield
+1772704,9,Giovanni Simeone,River Plate
+1772704,44,Martín Pérez Guedes,Olimpo de Bahía Blanca
+1772704,65,Ivan Furios,Olimpo de Bahía Blanca
+1772704,79,David Vega,Olimpo de Bahía Blanca
+1772711,15,Nicolás Aguirre,Arsenal de Sarandí
+1772711,27,Milton Caraglio,Arsenal de Sarandí
+1772711,55,Ramiro Carrera,Arsenal de Sarandí
+1772711,49,Matías Caruzzo,Boca Juniors
+1772711,76,Claudio Riaño,Boca Juniors
+1772710,37,Sebastián Rusculleda,Tigre
+1772710,63,Gastón Díaz,Tigre
+1772710,19,Fabián Muñoz,Newells Old Boys
+1772719,58,Agustin Allione,Vélez Sarsfield
+1772719,87,Lucas Pratto,Vélez Sarsfield
+1772719,4,Iván Óbolo,Godoy Cruz
+1772722,41,Rodrigo Gómez,Argentinos Juniors
+1772722,22,Pablo Garnier,Quilmes
+1772720,77,Dylan Gissi,Olimpo de Bahía Blanca
+1772717,10,Lucas Albertengo,Atlético Rafaela
+1772717,46,Diego Vera,Atlético Rafaela
+1772717,65,Ignacio Piatti,San Lorenzo
+1772717,85,Ignacio Piatti,San Lorenzo
+1772714,47,Roberto Battión,All Boys
+1772714,54,Mauro Matos,All Boys
+1772715,35,Marcos Cáceres,Newells Old Boys
+1772715,50,Mariano Echeverría,Arsenal de Sarandí
+1772721,14,Bruno Zuculini,Racing Club
+1772718,17,Leandro Desábato,Estudiantes
+1772716,2,César Pereyra,Belgrano de Córdoba
+1772716,90,Javier García,Tigre
+1772726,15,Dylan Gissi,Olimpo de Bahía Blanca
+1772725,6,Gonzalo Castillejos,Rosario Central
+1772725,87,Gabriel Hauche,Racing Club
+1772727,24,Mauro Zárate,Vélez Sarsfield
+1772727,80,Lucas Pratto,Vélez Sarsfield
+1772730,8,Guillermo Cosaro,Tigre
+1772730,82,Guillermo Cosaro,Tigre
+1772730,89,Pablo Vitti,Tigre
+1772730,62,Rodrigo Depetris,Atlético Rafaela
+1772731,46,Hugo Nervo,Arsenal de Sarandí
+1772731,90,Damián Pérez,Arsenal de Sarandí
+1772731,11,César Pereyra,Belgrano de Córdoba
+1772731,40,Esteban González,Belgrano de Córdoba
+1772731,79,Guillermo Farré,Belgrano de Córdoba
+1772732,9,Maximiliano Núñez,All Boys
+1772732,11,Gonzalo Espinoza,All Boys
+1772732,36,Hernán Grana,All Boys
+1772732,68,Pablo Pérez,Newells Old Boys
+1772728,4,Facundo Pereyra,Gimnasia de La Plata
+1772728,36,Facundo Pereyra,Gimnasia de La Plata
+1772728,47,José Correa,Gimnasia de La Plata
+1772728,18,Jonathan Zacaría,Quilmes
+1772728,70,Joaquín Boghossian,Quilmes
+1772733,23,Marcos Astina,Lanús
+1772733,62,Óscar Benítez,Lanús
+1772733,51,Nicolás Blandi,Boca Juniors
+1772733,66,Juan Sánchez Miño,Boca Juniors
+1772724,74,Sergio Vittor,Argentinos Juniors
+1772736,38,Carlos Bueno,Belgrano de Córdoba
+1772741,5,Bruno Zuculini,Racing Club
+1772741,26,Diego Villar,Racing Club
+1772742,51,Hernán Boyero,Argentinos Juniors
+1772742,41,Sebastián Abreu,Rosario Central
+1772742,61,Walter Acuña,Rosario Central
+1772737,69,Lucas Albertengo,Atlético Rafaela
+1772737,76,Mariano Echeverría,Arsenal de Sarandí
+1772738,15,Pablo Vitti,Tigre
+1772738,55,Matías Pérez García,Tigre
+1772734,50,Emmanuel Gigliotti,Boca Juniors
+1772734,38,Franco Mussis,Gimnasia de La Plata
+1772743,46,Lucas Pérez Godoy,Quilmes
+1772743,90,Carlos Carbonero,River Plate
+1772740,90,David Vega,Olimpo de Bahía Blanca
+1772735,53,Pablo Pérez,Newells Old Boys
+1772735,55,Paolo Goltz,Lanús
+1772735,68,Carlos Izquierdoz,Lanús
+1772735,75,Jorge Pereyra Díaz,Lanús
+2189227,25,Diego Braghieri,Arsenal de Sarandí
+2189225,68,Ezequiel Miralles,Olimpo de Bahía Blanca
+2189225,72,Ivan Furios,Olimpo de Bahía Blanca
+2189222,25,Leonardo Pisculichi,Argentinos Juniors
+2189222,60,Lucas Cano,Argentinos Juniors
+2189222,78,Iván Óbolo,Godoy Cruz
+2189228,84,Rodrigo Depetris,Atlético Rafaela
+2189228,50,Javier Cámpora,All Boys
+2189223,38,Valentín Viola,Racing Club
+2189223,45,Gabriel Hauche,Racing Club
+2189223,90,Luciano Vietto,Racing Club
+2189221,33,Hernán Encina,Rosario Central
+2189224,45,Leonardo Ponzio,River Plate
+2189229,40,Luciano Lollo,Belgrano de Córdoba
+2189229,10,Jorge Ortiz,Lanús
+2189229,33,Paolo Goltz,Lanús
+2189229,76,Ismael Blanco,Lanús
+2189239,25,Gonzalo Castellani,Godoy Cruz
+2189239,32,Claudio Aquino,Godoy Cruz
+2189234,65,Guido Carrillo,Estudiantes
+2189235,84,Mariano Echeverría,Arsenal de Sarandí
+2189235,48,Mauro Zárate,Vélez Sarsfield
+2189235,59,Mauro Zárate,Vélez Sarsfield
+2189235,65,Jorge Correa,Vélez Sarsfield
+2189237,8,Nicolás Blandi,San Lorenzo
+2189238,55,Gabriel Graciani,Colón de Santa Fe
+2189231,9,Gastón Díaz,Gimnasia de La Plata
+2189231,61,Juan Blengio,Gimnasia de La Plata
+2189231,80,Facundo Pereyra,Gimnasia de La Plata
+2189233,27,Diego Vera,Atlético Rafaela
+2189233,42,Diego Vera,Atlético Rafaela
+2189233,70,Cristian Canuhé,Atlético Rafaela
+2189230,29,Carlos Luna,Rosario Central
+2189230,4,Manuel Lanzini,River Plate
+2189232,7,Juan Forlín,Boca Juniors
+2189232,90,Luciano Acosta,Boca Juniors
+2189232,47,Emiliano Rigoni,Belgrano de Córdoba
+2189232,65,Luciano Lollo,Belgrano de Córdoba
+2189232,90,César Pereyra,Belgrano de Córdoba
+2189247,45,Julio Furch,Arsenal de Sarandí
+2189247,88,Ramiro Carrera,Arsenal de Sarandí
+2189248,29,Mauro Zárate,Vélez Sarsfield
+2189248,49,Jorge Correa,Vélez Sarsfield
+2189248,74,Ramiro Cáseres,Vélez Sarsfield
+2189246,9,Ignacio Canuto,Tigre
+2189243,22,Gabriel Graciani,Colón de Santa Fe
+2189243,25,Lucas Landa,Colón de Santa Fe
+2189245,43,Leandro Romagnoli,San Lorenzo
+2189245,79,Mauro Matos,San Lorenzo
+2189249,11,Guido Carrillo,Estudiantes
+2189249,63,Guido Carrillo,Estudiantes
+2189249,45,Santiago Silva,Lanús
+2189242,10,Fernando Cavenaghi,River Plate
+2189242,15,Leandro Grimi,Godoy Cruz
+2189242,90,Julio César Rodríguez,Godoy Cruz
+2189241,62,Maxi Rodriguez,Newells Old Boys
+2189241,68,Gabriel Heinze,Newells Old Boys
+2189244,26,Alejandro Donatti,Rosario Central
+2189244,65,Federico Carrizo,Rosario Central
+2189244,90,Walter Acuña,Rosario Central
+2189244,7,Ariel García,Gimnasia de La Plata
+2189240,57,Rodrigo Erramuspe,Atlético Rafaela
+2189255,22,Jorge Pereyra Díaz,Lanús
+2189255,37,Óscar Benítez,Lanús
+2189255,56,Óscar Benítez,Lanús
+2189255,24,Mauro Zárate,Vélez Sarsfield
+2189255,74,Emiliano Papa,Vélez Sarsfield
+2189256,5,Juan Careaga,All Boys
+2189257,17,Mariano Echeverría,Arsenal de Sarandí
+2189257,23,Ramiro Carrera,Arsenal de Sarandí
+2189257,38,Julio Furch,Arsenal de Sarandí
+2189257,20,Sebastián Saja,Racing Club
+2189253,3,Milton Casco,Newells Old Boys
+2189253,9,Fabián Muñoz,Newells Old Boys
+2189253,57,Victor Figueroa,Newells Old Boys
+2189253,90,Maxi Rodriguez,Newells Old Boys
+2189253,18,Diego Vera,Atlético Rafaela
+2189259,56,Ignacio Piatti,San Lorenzo
+2189254,42,Emmanuel Gigliotti,Boca Juniors
+2189250,17,Gabriel Graciani,Colón de Santa Fe
+2189250,71,Carlos Luque,Colón de Santa Fe
+2189250,87,Gabriel Graciani,Colón de Santa Fe
+2189250,74,Fernando Cavenaghi,River Plate
+2189251,43,Gonzalo Castellani,Godoy Cruz
+2189251,50,Gonzalo Castellani,Godoy Cruz
+2189251,89,Gonzalo Castellani,Godoy Cruz
+2189252,4,José Correa,Gimnasia de La Plata
+2189252,40,Lucas Licht,Gimnasia de La Plata
+2189252,44,Luciano Lollo,Belgrano de Córdoba
+2189252,70,Jorge Velázquez,Belgrano de Córdoba
+2189264,13,Gastón Díaz,Gimnasia de La Plata
+2189264,16,Facundo Pereyra,Gimnasia de La Plata
+2189268,36,Diego Villar,Racing Club
+2189268,88,Marcelo Bustamante,All Boys
+2189260,28,Mauro Zárate,Vélez Sarsfield
+2189262,2,Juan Eluchans,Atlético Rafaela
+2189262,34,Lucas Aveldaño,Belgrano de Córdoba
+2189262,59,Lucas Pittinari,Belgrano de Córdoba
+2189267,43,Leonardo Pisculichi,Argentinos Juniors
+2189267,45,Leonardo Pisculichi,Argentinos Juniors
+2189263,32,Carlos Luque,Colón de Santa Fe
+2189266,19,Sebastián Romero,Quilmes
+2189269,84,Ivan Furios,Olimpo de Bahía Blanca
+2189269,90,José Valencia,Olimpo de Bahía Blanca
+2189265,21,Teófilo Gutiérrez,River Plate
+2189272,66,Marcelo Meli,Colón de Santa Fe
+2189272,85,Leonardo Sigali,Godoy Cruz
+2189273,25,Omar Pouso,Gimnasia de La Plata
+2189273,45,Lucas Albertengo,Atlético Rafaela
+2189274,88,César Pereyra,Belgrano de Córdoba
+2189274,72,Román Martínez,Estudiantes
+2189277,28,Fernando Barrientos,Lanús
+2189276,53,Juan Sánchez Miño,Boca Juniors
+2189276,85,Román Riquelme,Boca Juniors
+2189275,45,Gabriel Heinze,Newells Old Boys
+2189275,47,Milton Casco,Newells Old Boys
+2189275,55,Cristian Díaz,Newells Old Boys
+2189275,88,Victor Figueroa,Newells Old Boys
+2189275,79,Roberto Nanni,Vélez Sarsfield
+2189279,24,Sebastián Martínez,Quilmes
+2189279,90,Sergio Hipperdinger,Quilmes
+2189271,85,Nicolás Blandi,San Lorenzo
+2189271,89,Nicolás Blandi,San Lorenzo
+2189271,5,Carlos Luna,Rosario Central
+2189289,45,Diego González,Lanús
+2189289,85,Jorge Ortiz,Lanús
+2189282,49,Mauro Zárate,Vélez Sarsfield
+2189282,61,Agustin Allione,Vélez Sarsfield
+2189282,89,Lucas Pratto,Vélez Sarsfield
+2189282,13,Guillermo Farré,Belgrano de Córdoba
+2189285,90,Facundo Castillón,Godoy Cruz
+2189285,83,Nicolás Blandi,San Lorenzo
+2189281,16,Ezequiel Cerutti,Olimpo de Bahía Blanca
+2189287,61,Fernando Cavenaghi,River Plate
+2189280,68,Sebastián Saja,Racing Club
+2189280,25,Juan Sánchez Miño,Boca Juniors
+2189280,76,Cristian Erbes,Boca Juniors
+2189288,90,Miguel Caneo,Quilmes
+2189288,26,Carlos Casteglione,All Boys
+2189288,83,Nicolás Cabrera,All Boys
+2189286,64,Paulo Ferrari,Rosario Central
+2189286,86,Pablo Vitti,Tigre
+2189295,15,Lucas Albertengo,Atlético Rafaela
+2189295,38,Diego Vera,Atlético Rafaela
+2189295,80,Federico González,Atlético Rafaela
+2189295,90,Lucas Pratto,Vélez Sarsfield
+2189296,86,Ezequiel Maggiolo,Belgrano de Córdoba
+2189296,80,David Vega,Olimpo de Bahía Blanca
+2189294,9,Franco Jara,Estudiantes
+2189291,41,Julio Furch,Arsenal de Sarandí
+2189291,84,Federico Carrizo,Rosario Central
+2189297,11,Ezequiel Ponce,Newells Old Boys
+2189297,84,David Trezeguet,Newells Old Boys
+2189298,38,Emmanuel Gigliotti,Boca Juniors
+2189298,90,Leonardo Pisculichi,Argentinos Juniors
+2189290,33,Gonzalo Espinoza,All Boys
+2189290,46,Agustin Torassa,All Boys
+2189290,48,Jonathan Calleri,All Boys
+2189290,15,Carlos Carbonero,River Plate
+2189290,63,Carlos Carbonero,River Plate
+2189299,75,Jorge Pereyra Díaz,Lanús
+2189303,6,Dylan Gissi,Olimpo de Bahía Blanca
+2189303,73,José Valencia,Olimpo de Bahía Blanca
+2189303,54,Federico González,Atlético Rafaela
+2189306,4,Lucas Alario,Colón de Santa Fe
+2189302,35,Sebastián Saja,Racing Club
+2189302,89,Gabriel Hauche,Racing Club
+2189308,37,Sebastián Abreu,Rosario Central
+2189308,58,Walter Acuña,Rosario Central
+2189304,88,Jorge Correa,Vélez Sarsfield
+2189304,46,Guido Carrillo,Estudiantes
+2189307,43,Iván Óbolo,Godoy Cruz
+2189307,83,Iván Óbolo,Godoy Cruz
+2189307,72,Mauricio Sperdutti,Arsenal de Sarandí
+2189305,79,Osvaldo Barsottini,Gimnasia de La Plata
+2189305,88,Luis Peralta,Gimnasia de La Plata
+2189305,48,Ángel Correa,San Lorenzo
+2189309,35,Fernando Cavenaghi,River Plate
+2189309,71,Daniel Villalba,River Plate
+2189314,51,Lucas Pratto,Vélez Sarsfield
+2189314,68,Héctor Canteros,Vélez Sarsfield
+2189314,75,Mauro Zárate,Vélez Sarsfield
+2189314,86,Agustin Allione,Vélez Sarsfield
+2189314,89,Agustin Allione,Vélez Sarsfield
+2189314,21,Rodrigo Contreras,Gimnasia de La Plata
+2189319,78,David Trezeguet,Newells Old Boys
+2189319,89,Gonzalo Ríos,Quilmes
+2189317,53,Lucas Albertengo,Atlético Rafaela
+2189317,60,Adrián Bastía,Atlético Rafaela
+2189317,51,Rodrigo de Paul,Racing Club
+2189317,83,Luciano Vietto,Racing Club
+2189311,65,Víctor Ayala,Lanús
+2189311,83,Carlos Izquierdoz,Lanús
+2189311,67,Federico Carrizo,Rosario Central
+2189313,67,Milton Caraglio,Arsenal de Sarandí
+2189310,68,Román Riquelme,Boca Juniors
+2189310,58,Manuel Lanzini,River Plate
+2189310,87,Ramiro Funes Mori,River Plate
+2189315,64,Matías Pérez García,Tigre
+2189315,87,Ariel Nahuelpán,Tigre
+2189315,5,Ángel Correa,San Lorenzo
+2189315,90,Emanuel Mas,San Lorenzo
+2189322,31,Gastón Turus,Belgrano de Córdoba
+2189325,53,Dylan Gissi,Olimpo de Bahía Blanca
+2189325,78,Ezequiel Miralles,Olimpo de Bahía Blanca
+2189325,23,Leandro Desábato,Vélez Sarsfield
+2189324,1,Esteban Saveljić,Racing Club
+2189324,61,Rodrigo de Paul,Racing Club
+2189324,90,Gastón Campi,Racing Club
+2189324,15,Guido Carrillo,Estudiantes
+2189324,79,Juan Olivera,Estudiantes
+2189324,85,Patricio Rodriguez,Estudiantes
+2189329,16,Iván Óbolo,Godoy Cruz
+2189320,72,Franco Niell,Rosario Central
+2189320,76,Alejandro Donatti,Rosario Central
+2189320,14,Emmanuel Gigliotti,Boca Juniors
+2189328,82,Lucas Landa,Colón de Santa Fe
+2189321,8,Carlos Carbonero,River Plate
+2189326,28,Osvaldo Barsottini,Gimnasia de La Plata
+2189326,39,Franco Mussis,Gimnasia de La Plata
+2189326,61,Lucas Licht,Gimnasia de La Plata
+2189326,22,Sergio Araujo,Tigre
+2189327,30,Julio Buffarini,San Lorenzo
+2189327,80,Héctor Villalba,San Lorenzo
+2189333,2,Víctor Ayala,Lanús
+2189337,90,Luciano Vietto,Racing Club
+2189331,47,Franco Niell,Rosario Central
+2189339,40,Andrés Rodales,Atlético Rafaela
+2189339,46,Alexis Niz,Atlético Rafaela
+2189339,67,Sebastián Martínez,Quilmes
+2189339,71,Christian Lema,Quilmes
+2189335,17,Javier Cámpora,All Boys
+2189335,83,Mauro Matos,San Lorenzo
+2189335,88,Walter Kannemann,San Lorenzo
+2189336,84,Sergio Araujo,Tigre
+2189332,9,Román Riquelme,Boca Juniors
+2189332,49,Emmanuel Gigliotti,Boca Juniors
+2189332,82,Emmanuel Gigliotti,Boca Juniors
+2189330,14,Jorge Velázquez,Belgrano de Córdoba
+2189330,85,Lucas Zelarayán,Belgrano de Córdoba
+2189330,18,Teófilo Gutiérrez,River Plate
+2189338,80,Juan Olivera,Estudiantes
+2189334,46,Álvaro Fernández,Gimnasia de La Plata
+2189334,90,Maximiliano Meza,Gimnasia de La Plata
+2189348,45,Ariel Nahuelpán,Tigre
+2189348,73,Matías Pérez García,Tigre
+2189344,33,Fernando Telechea,Quilmes
+2189344,20,Guido Carrillo,Estudiantes
+2189344,34,Jonathan Silva,Estudiantes
+2189344,56,Guido Carrillo,Estudiantes
+2189345,48,Juan Ramírez,Argentinos Juniors
+2189345,90,Pablo Barzola,Argentinos Juniors
+2189345,67,Roberto Nanni,Vélez Sarsfield
+2189346,26,Gastón Campi,Racing Club
+2189346,18,José Valencia,Olimpo de Bahía Blanca
+2189349,58,Enzo Kalinski,San Lorenzo
+2189349,33,Marcos Astina,Lanús
+2189349,37,Jorge Valdez Chamorro,Lanús
+2189349,72,Diego González,Lanús
+2189349,75,Jorge Valdez Chamorro,Lanús
+2189341,80,Nicolás Castro,Newells Old Boys
+2189347,11,Maximiliano Meza,Gimnasia de La Plata
+2189347,90,Maximiliano Meza,Gimnasia de La Plata
+2189343,55,Carlos Carbonero,River Plate
+2189343,86,Teófilo Gutiérrez,River Plate
+2189358,6,Damián Musto,Olimpo de Bahía Blanca
+2189358,13,José Valencia,Olimpo de Bahía Blanca
+2189358,42,José Valencia,Olimpo de Bahía Blanca
+2189359,29,Lucas Pratto,Vélez Sarsfield
+2189359,6,Gonzalo Ríos,Quilmes
+2189359,9,Joaquín Boghossian,Quilmes
+2189359,90,Christian Lema,Quilmes
+2189351,36,Diego Vera,Atlético Rafaela
+2189351,75,Lucas Albertengo,Atlético Rafaela
+2189351,29,Sebastián Abreu,Rosario Central
+2189351,79,Franco Niell,Rosario Central
+2189351,89,Paulo Ferrari,Rosario Central
+2189353,76,Lucas Alario,Colón de Santa Fe
+2189357,84,Leonel Di Plácido,All Boys
+2189357,64,Mariano Echeverría,Arsenal de Sarandí
+2189352,31,Jorge Velázquez,Belgrano de Córdoba
+2189352,9,Facundo Castillón,Godoy Cruz
+2189352,78,Leandro Grimi,Godoy Cruz
+2189354,67,Álvaro Fernández,Gimnasia de La Plata
+2189366,60,José Valencia,Olimpo de Bahía Blanca
+2189367,90,Rodrigo de Paul,Racing Club
+2189369,58,Milton Caraglio,Arsenal de Sarandí
+2189369,68,Milton Caraglio,Arsenal de Sarandí
+2189369,86,Diego Braghieri,Arsenal de Sarandí
+2189369,90,Santiago Silva,Lanús
+2189365,31,Teófilo Gutiérrez,River Plate
+2189360,90,Román Riquelme,Boca Juniors
+2189363,48,Julio César Rodríguez,Godoy Cruz
+2189363,76,Diego Rodríguez,Godoy Cruz
+2189363,22,Juan Eluchans,Atlético Rafaela
+2189368,9,Lucas Licht,Gimnasia de La Plata
+2189368,69,Gustavo Bou,Gimnasia de La Plata
+2189368,72,Jonathan Calleri,All Boys
+2189376,55,Ezequiel Ponce,Newells Old Boys
+2189376,63,Éver Banega,Newells Old Boys
+2189376,50,Ariel Nahuelpán,Tigre
+2189373,52,Rodrigo Depetris,Atlético Rafaela
+2189373,62,Gabriel Graciani,Colón de Santa Fe
+2189374,2,Maximiliano Meza,Gimnasia de La Plata
+2189374,50,Facundo Pereyra,Gimnasia de La Plata
+2189371,1,Mauro Zárate,Vélez Sarsfield
+2189371,23,Mauro Zárate,Vélez Sarsfield
+2189371,71,Leonardo Rolón,Vélez Sarsfield
+2189371,87,Jairo Vélez,Vélez Sarsfield
+2189371,90,Antonio Medina,Rosario Central
+2189379,79,Gonzalo Ríos,Quilmes
+2189372,80,Facundo Castillón,Godoy Cruz
+2189378,61,Santiago Silva,Lanús
+2189377,1,Cristian Erbes,Boca Juniors
+2189377,45,Román Riquelme,Boca Juniors
+2189377,55,Nicolás Colazo,Boca Juniors
+2189377,86,Emmanuel Gigliotti,Boca Juniors
+2189377,17,Mariano Echeverría,Arsenal de Sarandí
+2189377,90,Julio Furch,Arsenal de Sarandí
+2189370,45,Pablo Lugüercio,Olimpo de Bahía Blanca
+2189370,16,Carlos Carbonero,River Plate
+2189388,3,Gonzalo Ríos,Quilmes
+2189384,42,Franco Jara,Estudiantes
+2189384,53,Guido Carrillo,Estudiantes
+2189385,10,José Fernandez,Godoy Cruz
+2189385,80,Facundo Cardozo,Vélez Sarsfield
+2189383,42,Leandro Navarro,San Lorenzo
+2189383,69,Facundo Quignón,San Lorenzo
+2189381,2,Mariano Echeverría,Arsenal de Sarandí
+2189381,7,Mariano Echeverría,Arsenal de Sarandí
+2189381,88,Emilio Zelaya,Arsenal de Sarandí
+2189381,21,Fabián Muñoz,Newells Old Boys
+2189381,68,Lucas Bernardi,Newells Old Boys
+2189387,25,Fernando Cavenaghi,River Plate
+2189387,43,Carlos Carbonero,River Plate
+2189387,54,Fernando Cavenaghi,River Plate
+2189387,38,Diego Villar,Racing Club
+2189387,73,Gabriel Hauche,Racing Club
+2189380,51,Jonathan Calleri,All Boys
+2189380,48,Juan Martínez,Boca Juniors
+2189380,61,Juan Martínez,Boca Juniors
+2189380,82,Emmanuel Gigliotti,Boca Juniors
+2189382,25,Kevin Itabel,Tigre
+2189382,82,Matías Pérez García,Tigre
+2189382,28,César Pereyra,Belgrano de Córdoba
+2189392,52,Leonardo Gil,Olimpo de Bahía Blanca
+2189392,68,José Valencia,Olimpo de Bahía Blanca
+2189392,73,Jonathan Blanco,Olimpo de Bahía Blanca
+2189392,54,Julio César Rodríguez,Godoy Cruz
+2189395,6,Joaquín Correa,Estudiantes
+2189395,13,Franco Jara,Estudiantes
+2189395,75,Franco Jara,Estudiantes
+2189398,3,Ezequiel Ponce,Newells Old Boys
+2189398,24,Ezequiel Ponce,Newells Old Boys
+2189398,40,Nicolás Castro,Newells Old Boys
+2189398,84,Maxi Rodriguez,Newells Old Boys
+2189398,21,Rodrigo Arciero,All Boys
+2189398,69,Jonathan Calleri,All Boys
+2189396,53,Lucas Albertengo,Atlético Rafaela
+2189396,63,Matías Pérez García,Tigre
+2189393,7,Mauro Zárate,Vélez Sarsfield
+2189393,19,Mauro Zárate,Vélez Sarsfield
+2189394,90,Lucas Pérez Godoy,Quilmes
+2189394,50,Fernando Monetti,Gimnasia de La Plata
+2189399,51,Emmanuel Gigliotti,Boca Juniors
+2189399,56,Nicolás Colazo,Boca Juniors
+2189399,72,Claudio Riaño,Boca Juniors
+2189399,54,Santiago Silva,Lanús
+2189390,69,Gabriel Mercado,River Plate
+2189390,78,Teófilo Gutiérrez,River Plate
+2189408,21,Jesús Méndez,Rosario Central
+2189408,26,Franco Niell,Rosario Central
+2189408,84,Walter Acuña,Rosario Central
+2189408,71,Gaspar Iñíguez,Argentinos Juniors
+2189408,87,Nicolás Freire,Argentinos Juniors
+2189403,15,Nicolás Aguirre,Arsenal de Sarandí
+2189403,51,Juan Eluchans,Atlético Rafaela
+2189403,90,Lucas Albertengo,Atlético Rafaela
+2189406,71,Darío Gandín,Colón de Santa Fe
+2189406,90,Lucas Alario,Colón de Santa Fe
+2189406,64,Matias Sarulyte,Olimpo de Bahía Blanca
+2189407,2,Gonzalo Diaz,Godoy Cruz
+2189407,62,Facundo Castillón,Godoy Cruz
+2189407,41,Roger Martínez,Racing Club
+2189400,14,Luciano Acosta,Boca Juniors
+2189404,43,Kevin Itabel,Tigre
+2189404,48,Érik Godoy,Tigre
+2189404,24,Guido Carrillo,Estudiantes
+2189409,10,Fernando Cavenaghi,River Plate
+2189409,25,Gabriel Mercado,River Plate
+2189409,63,Cristian Ledesma,River Plate
+2189409,71,Fernando Cavenaghi,River Plate
+2189409,90,Teófilo Gutiérrez,River Plate
+2189401,26,Víctor Ayala,Lanús
+2189401,50,Nicolás Castro,Newells Old Boys
+2189405,32,Mauro Matos,San Lorenzo
+2189405,75,Mauro Matos,San Lorenzo
+2189405,31,Mauro Zárate,Vélez Sarsfield
+2189405,54,Mauro Zárate,Vélez Sarsfield
+2189405,70,Lucas Pratto,Vélez Sarsfield

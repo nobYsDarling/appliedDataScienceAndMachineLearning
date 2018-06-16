@@ -1,0 +1,913 @@
+GameID,Minute,Scorer,Team
+8225157,5,Éverton,Flamengo RJ
+8225159,19,Roger Guedes,SE Palmeiras
+8225159,46,Gabriel Jesus,SE Palmeiras
+8225159,52,Thiago Martins,SE Palmeiras
+8225159,87,Gabriel Jesus,SE Palmeiras
+8225160,15,Juan Cazares,Atlético Mineiro
+8225162,71,Kléber Gladiador,Coritiba FC
+8225156,22,Lucas Fernandes,São Paulo FC
+8225165,28,Grafite,Santa Cruz FC
+8225165,44,Grafite,Santa Cruz FC
+8225165,85,Fernando Gabriel,Santa Cruz FC
+8225165,87,Keno,Santa Cruz FC
+8225165,80,Kieza,EC Vitória BA
+8225164,39,Fred,Fluminense RJ
+8225174,24,Felipe Azevedo,Ponte Preta
+8225174,33,Felipe Azevedo,Ponte Preta
+8225174,90,Moisés Mineiro,SE Palmeiras
+8225167,57,Gustavo Scarpa,Fluminense RJ
+8225167,60,Gum,Fluminense RJ
+8225167,53,Grafite,Santa Cruz FC
+8225167,83,Grafite,Santa Cruz FC
+8225170,56,Élber,Cruzeiro EC
+8225170,63,Douglas Coutinho,Cruzeiro EC
+8225170,41,Rafael Moura,Figueirense
+8225170,55,Rafael Moura,Figueirense
+8225169,62,Vitor Bueno,Santos FC
+8225169,90,Renato,Santos FC
+8225169,20,Kléber Gladiador,Coritiba FC
+8225172,10,André Lima,Atlético Paranaense
+8225172,77,Juan Cazares,Atlético Mineiro
+8225166,30,Leandro Domingues,EC Vitória BA
+8225166,57,Marinho,EC Vitória BA
+8225166,65,Kieza,EC Vitória BA
+8225166,26,Uendel,Corinthians SP
+8225166,39,Fágner,Corinthians SP
+8225168,87,Diego Lugano,São Paulo FC
+8225168,37,Eduardo Sasha,Internacional
+8225168,89,Eduardo Sasha,Internacional
+8225171,54,Fred,Grêmio Porto Alegre
+8225173,48,Bruno Rangel,Chapecoense
+8225173,77,Silvinho,Chapecoense
+8225173,78,Bruno Rangel,Chapecoense
+8225173,20,Rafael Bastos,América MG
+8225175,17,Diego Souza,Sport Club Recife
+8225175,29,Fernandes,Botafogo RJ
+8225176,18,Ribamar,Botafogo RJ
+8225176,73,Neilton,Botafogo RJ
+8225176,58,Vinicius,Atlético Paranaense
+8225183,38,Rafael Moura,Figueirense
+8225183,90,Gustavo Ermel,Figueirense
+8225183,43,Vitor Bueno,Santos FC
+8225183,57,Joel Tagueu,Santos FC
+8225177,8,Felipe Vizeu,Flamengo RJ
+8225177,90,Alan Patrick,Flamengo RJ
+8225177,13,Bruno Rangel,Chapecoense
+8225177,80,Hyoran,Chapecoense
+8225184,74,Victor Rangel,América MG
+8225184,85,Kieza,EC Vitória BA
+8225179,57,Vitor Hugo,SE Palmeiras
+8225179,59,Alecsandro,SE Palmeiras
+8225182,63,Alan Santos,Coritiba FC
+8225182,79,Rogério,São Paulo FC
+8225185,20,Grafite,Santa Cruz FC
+8225185,65,Grafite,Santa Cruz FC
+8225185,77,Arthur,Santa Cruz FC
+8225185,90,Keno,Santa Cruz FC
+8225185,53,Giorgian de Arrascaeta,Cruzeiro EC
+8225178,22,Bruno Henrique,Corinthians SP
+8225178,80,Guilherme,Corinthians SP
+8225178,15,Kadu,Ponte Preta
+8225181,58,Renê,Sport Club Recife
+8225180,18,Marcelo Oliveira,Grêmio Porto Alegre
+8225180,26,Luan,Grêmio Porto Alegre
+8225180,45,Luan,Grêmio Porto Alegre
+8225190,82,Giorgian de Arrascaeta,Cruzeiro EC
+8225190,29,Victor Rangel,América MG
+8225192,23,Ewandro,Atlético Paranaense
+8225192,44,Thiago Heleno,Atlético Paranaense
+8225192,74,Bruno Alves,Figueirense
+8225193,84,Lucas Gomes,Chapecoense
+8225193,38,Arthur,Santa Cruz FC
+8225194,12,Wellington Paulista,Ponte Preta
+8225194,21,Felipe Azevedo,Ponte Preta
+8225194,43,Jorge,Flamengo RJ
+8225195,70,Lucca,Corinthians SP
+8225195,79,Marquinhos Gabriel,Corinthians SP
+8225186,79,Kieza,EC Vitória BA
+8225186,37,Patric,Atlético Mineiro
+8225187,51,Fred,Fluminense RJ
+8225188,12,Ganso,São Paulo FC
+8225189,84,Aylon,Internacional
+8225191,40,Everton,Grêmio Porto Alegre
+8225191,68,Luan,Grêmio Porto Alegre
+8225201,39,Vitinho,Internacional
+8225198,82,Giovanni Augusto,Corinthians SP
+8225202,10,Rafael Marques,Coritiba FC
+8225202,67,Jorge Ortega,Coritiba FC
+8225202,90,Juninho,Coritiba FC
+8225202,24,Bruno Rangel,Chapecoense
+8225202,40,Bruno Rangel,Chapecoense
+8225202,82,Bruno Rangel,Chapecoense
+8225202,90,Lucas Gomes,Chapecoense
+8225205,9,Edmilson,Sport Club Recife
+8225196,27,Élber,Cruzeiro EC
+8225200,2,Tiago,Atlético Mineiro
+8225200,31,Gustavo Scarpa,Fluminense RJ
+8225203,16,Rafael Moura,Figueirense
+8225204,24,Danilo Barcelos,América MG
+8225204,6,Felipe Azevedo,Ponte Preta
+8225204,18,Clayson,Ponte Preta
+8225197,64,Felipe Vizeu,Flamengo RJ
+8225199,2,Gabriel Jesus,SE Palmeiras
+8225199,57,Roger Guedes,SE Palmeiras
+8225199,73,Vitor Hugo,SE Palmeiras
+8225199,84,Thiago Santos,SE Palmeiras
+8225199,45,Giuliano,Grêmio Porto Alegre
+8225199,55,Giuliano,Grêmio Porto Alegre
+8225199,90,Edílson,Grêmio Porto Alegre
+8225212,60,Deivid,Atlético Paranaense
+8225208,89,André,Corinthians SP
+8225208,90,Uendel,Corinthians SP
+8225208,45,Negueba,Coritiba FC
+8225209,11,Vitor Bueno,Santos FC
+8225209,35,Paulinho,Santos FC
+8225209,70,Bruno Silva,Botafogo RJ
+8225214,71,Osman Júnior,América MG
+8225206,4,Marinho,EC Vitória BA
+8225207,6,Alan Patrick,Flamengo RJ
+8225207,4,Gabriel Jesus,SE Palmeiras
+8225207,72,Jean,SE Palmeiras
+8225211,90,Luan,Grêmio Porto Alegre
+8225215,26,Rithely,Sport Club Recife
+8225215,45,Gabriel Xavier,Sport Club Recife
+8225215,73,Edmilson,Sport Club Recife
+8225215,76,Diego Souza,Sport Club Recife
+8225215,22,Júnior Urso,Atlético Mineiro
+8225215,30,Robinho,Atlético Mineiro
+8225215,42,Patric,Atlético Mineiro
+8225215,45,Robinho,Atlético Mineiro
+8225210,23,Ytalo,São Paulo FC
+8225221,3,Aylon,Internacional
+8225221,6,Aylon,Internacional
+8225221,73,Ernando,Internacional
+8225221,20,Adalberto,América MG
+8225224,45,Felipe Azevedo,Ponte Preta
+8225224,90,William Pottker,Ponte Preta
+8225224,79,Arthur Maia,Chapecoense
+8225217,75,Marcos Júnior,Fluminense RJ
+8225217,41,Marcelo Hermes,Grêmio Porto Alegre
+8225218,41,Maicon,São Paulo FC
+8225218,66,Otavio,Atlético Paranaense
+8225218,88,Hernani,Atlético Paranaense
+8225216,52,Sassá,Botafogo RJ
+8225216,90,Victor Ramos,EC Vitória BA
+8225222,37,Ruy,Coritiba FC
+8225222,48,Kléber Gladiador,Coritiba FC
+8225222,71,Luccas Claro,Coritiba FC
+8225222,25,Diego Souza,Sport Club Recife
+8225222,52,Diego Souza,Sport Club Recife
+8225219,48,Cleiton Xavier,SE Palmeiras
+8225220,14,Rafael Carioca,Atlético Mineiro
+8225220,56,Fred,Atlético Mineiro
+8225220,19,Alisson,Cruzeiro EC
+8225220,49,Duvier Riascos,Cruzeiro EC
+8225220,63,Bruno Rodrigo,Cruzeiro EC
+8225223,42,Rafael Moura,Figueirense
+8225225,45,Zeca,Santos FC
+8225225,65,Joel Tagueu,Santos FC
+8225228,76,Jonathan Calleri,São Paulo FC
+8225228,86,Diego Lugano,São Paulo FC
+8225233,18,Thiego,Chapecoense
+8225233,26,Bruno Rangel,Chapecoense
+8225233,81,Thiego,Chapecoense
+8225233,3,Geromel,Grêmio Porto Alegre
+8225233,42,Jailson,Grêmio Porto Alegre
+8225233,83,Giuliano,Grêmio Porto Alegre
+8225234,3,Fábio Ferreira,Ponte Preta
+8225234,62,Reinaldo,Ponte Preta
+8225234,69,Jeferson,Ponte Preta
+8225234,11,Paulo André,Atlético Paranaense
+8225234,90,Wálter,Atlético Paranaense
+8225226,24,Sassá,Botafogo RJ
+8225226,32,Sassá,Botafogo RJ
+8225226,39,Sassá,Botafogo RJ
+8225226,48,Bruno Sávio,América MG
+8225229,66,Gabriel Barbosa,Santos FC
+8225229,88,Vitor Bueno,Santos FC
+8225235,26,Lelê,Santa Cruz FC
+8225230,43,Réver,Flamengo RJ
+8225232,20,João Paulo,Coritiba FC
+8225232,90,Leandro,Coritiba FC
+8225232,7,Roger Guedes,SE Palmeiras
+8225232,69,Jonathan Cristaldo,SE Palmeiras
+8225231,35,Eduardo Sasha,Internacional
+8225231,75,Vitinho,Internacional
+8225227,63,Cícero,Fluminense RJ
+8225239,29,Dudu,SE Palmeiras
+8225239,45,Jean,SE Palmeiras
+8225239,65,Dudu,SE Palmeiras
+8225239,51,Grafite,Santa Cruz FC
+8225242,88,Paulo André,Atlético Paranaense
+8225244,55,Adalberto,América MG
+8225244,58,Borges,América MG
+8225244,50,Kléber Gladiador,Coritiba FC
+8225236,73,Marinho,EC Vitória BA
+8225236,72,Sérgio Manoel,Chapecoense
+8225236,76,Thiego,Chapecoense
+8225240,24,Leandro Donizete,Atlético Mineiro
+8225240,28,Juan Cazares,Atlético Mineiro
+8225240,85,Carlos,Atlético Mineiro
+8225237,59,Willian Arão,Flamengo RJ
+8225237,12,Jonathan Calleri,São Paulo FC
+8225237,22,Rodrigo Caio,São Paulo FC
+8225237,51,Jonathan Calleri,São Paulo FC
+8225238,24,Bruno Henrique,Corinthians SP
+8225238,53,Marquinhos Gabriel,Corinthians SP
+8225238,89,Bruno Henrique,Corinthians SP
+8225238,28,Leandrinho,Botafogo RJ
+8225243,41,Bady,Figueirense
+8225243,73,Ferrugem,Figueirense
+8225243,80,Bady,Figueirense
+8225243,65,Vitinho,Internacional
+8225243,83,Vitinho,Internacional
+8225245,40,Gabriel Xavier,Sport Club Recife
+8225245,90,Diego Souza,Sport Club Recife
+8225245,85,Magno Alves,Fluminense RJ
+8225241,44,Luan,Grêmio Porto Alegre
+8225241,52,Douglas,Grêmio Porto Alegre
+8225249,19,Gabriel Jesus,SE Palmeiras
+8225249,27,Gabriel Jesus,SE Palmeiras
+8225254,8,Henrique,Cruzeiro EC
+8225254,21,Giorgian de Arrascaeta,Cruzeiro EC
+8225254,55,Giorgian de Arrascaeta,Cruzeiro EC
+8225254,78,Alisson,Cruzeiro EC
+8225255,15,Willian Arão,Flamengo RJ
+8225247,14,Marcos Júnior,Fluminense RJ
+8225247,66,Marcos Júnior,Fluminense RJ
+8225247,39,Rodrigão,Santos FC
+8225247,45,Gabriel Barbosa,Santos FC
+8225247,51,Gabriel Barbosa,Santos FC
+8225247,73,Luiz Felipe,Santos FC
+8225250,67,Fred,Atlético Mineiro
+8225250,83,Juan Cazares,Atlético Mineiro
+8225250,90,Lucca,Corinthians SP
+8225251,26,Kieza,EC Vitória BA
+8225251,32,Diego Renan,EC Vitória BA
+8225251,56,Victor Ramos,EC Vitória BA
+8225252,70,Nery Bareiro,Coritiba FC
+8225252,34,Anderson,Internacional
+8225260,15,Willian,Cruzeiro EC
+8225260,48,Willian,Cruzeiro EC
+8225260,11,Gabriel Jesus,SE Palmeiras
+8225258,27,Luciano,Corinthians SP
+8225258,37,Ángel Romero,Corinthians SP
+8225258,52,Grafite,Santa Cruz FC
+8225264,4,Robinho,Atlético Mineiro
+8225256,22,Kieza,EC Vitória BA
+8225256,9,William Pottker,Ponte Preta
+8225257,49,Willian Arão,Flamengo RJ
+8225257,58,Paolo Guerrero,Flamengo RJ
+8225257,76,Richarlison,Fluminense RJ
+8225259,1,Vitor Bueno,Santos FC
+8225259,39,Rodrigão,Santos FC
+8225259,90,Lucas Lima,Santos FC
+8225261,70,Eduardo Sasha,Internacional
+8225261,74,Ernando,Internacional
+8225261,9,Fernandes,Botafogo RJ
+8225261,15,Neilton,Botafogo RJ
+8225261,71,Camilo,Botafogo RJ
+8225262,54,Hernani,Atlético Paranaense
+8225262,68,André Lima,Atlético Paranaense
+8225265,10,Rodney Wallace,Sport Club Recife
+8225265,54,Rithely,Sport Club Recife
+8225265,57,Rodney Wallace,Sport Club Recife
+8225265,64,Diego Souza,Sport Club Recife
+8225265,78,Ronaldo,Sport Club Recife
+8225265,46,Ananias,Chapecoense
+8225266,45,Vander,EC Vitória BA
+8225266,62,Euller,EC Vitória BA
+8225266,64,Nickson,EC Vitória BA
+8225266,18,Matheus Ferraz,Sport Club Recife
+8225266,78,Matheus Ferraz,Sport Club Recife
+8225267,19,Ederson,Flamengo RJ
+8225271,3,Giuliano,Grêmio Porto Alegre
+8225271,45,Douglas,Grêmio Porto Alegre
+8225271,90,Marcelo Hermes,Grêmio Porto Alegre
+8225271,65,Jonathan Copete,Santos FC
+8225271,84,Zeca,Santos FC
+8225272,81,Colin Kâzım-Richards,Coritiba FC
+8225273,42,Silvinho,Chapecoense
+8225273,69,Arthur Maia,Chapecoense
+8225273,89,Kempes,Chapecoense
+8225273,7,Matiás Pisano,Cruzeiro EC
+8225273,84,Fabricio Bruno,Cruzeiro EC
+8225268,2,João Schmidt,São Paulo FC
+8225268,40,Alan Kardec,São Paulo FC
+8225268,53,Cícero,Fluminense RJ
+8225274,10,Ángel Romero,Corinthians SP
+8225274,75,Marquinhos Gabriel,Corinthians SP
+8225269,8,Moisés Mineiro,SE Palmeiras
+8225269,43,Dudu,SE Palmeiras
+8225269,56,Gabriel Jesus,SE Palmeiras
+8225269,90,Gabriel Jesus,SE Palmeiras
+8225275,21,William Pottker,Ponte Preta
+8225275,39,William Pottker,Ponte Preta
+8225275,70,Felipe Azevedo,Ponte Preta
+8225270,1,Juan Cazares,Atlético Mineiro
+8225270,45,Robinho,Atlético Mineiro
+8225270,48,Fred,Atlético Mineiro
+8225270,78,Juan Cazares,Atlético Mineiro
+8225270,89,Carlos,Atlético Mineiro
+8225270,73,Sassá,Botafogo RJ
+8225270,89,Gervasio Núñez,Botafogo RJ
+8225270,90,Bruno Silva,Botafogo RJ
+8225282,53,Nikão,Atlético Paranaense
+8225280,24,Alisson,Cruzeiro EC
+8225280,54,Giorgian de Arrascaeta,Cruzeiro EC
+8225280,65,Diego Renan,EC Vitória BA
+8225280,83,Vander,EC Vitória BA
+8225281,20,Douglas,Grêmio Porto Alegre
+8225276,2,Sassá,Botafogo RJ
+8225276,18,Neilton,Botafogo RJ
+8225276,49,João Paulo,Santa Cruz FC
+8225278,59,Ángel Romero,Corinthians SP
+8225278,78,Guilherme,Corinthians SP
+8225278,80,Rildo,Corinthians SP
+8225278,89,Ángel Romero,Corinthians SP
+8225279,61,Rodrigão,Santos FC
+8225279,65,Jonathan Copete,Santos FC
+8225279,87,Yuri Oliveira,Santos FC
+8225284,57,Clayson,Ponte Preta
+8225283,52,Gustavo Ermel,Figueirense
+8225283,8,Fred,Atlético Mineiro
+8225285,59,Gabriel Xavier,Sport Club Recife
+8225285,11,Erik,SE Palmeiras
+8225285,66,Gabriel Jesus,SE Palmeiras
+8225285,72,Cleiton Xavier,SE Palmeiras
+8225293,60,Rodriguinho,Corinthians SP
+8225293,90,Marquinhos Gabriel,Corinthians SP
+8225294,17,William Pottker,Ponte Preta
+8225294,79,Douglas Grolli,Ponte Preta
+8225294,10,Rogério,Sport Club Recife
+8225287,12,Felipe Vizeu,Flamengo RJ
+8225287,57,Felipe Vizeu,Flamengo RJ
+8225291,45,Walace,Grêmio Porto Alegre
+8225291,90,Bobô,Grêmio Porto Alegre
+8225291,76,Ayrton,Figueirense
+8225288,34,Alan Kardec,São Paulo FC
+8225288,43,Lyanco,São Paulo FC
+8225288,60,Alan Kardec,São Paulo FC
+8225295,45,Keno,Santa Cruz FC
+8225290,65,Pablo,Atlético Paranaense
+8225290,68,André Lima,Atlético Paranaense
+8225290,82,André Lima,Atlético Paranaense
+8225289,7,Yerry Mina,SE Palmeiras
+8225289,56,Gabriel Barbosa,Santos FC
+8225296,34,Diogo Barbosa,Botafogo RJ
+8225296,80,Neilton,Botafogo RJ
+8225296,83,Juan Manuel Salgueiro,Botafogo RJ
+8225296,24,Éverton,Flamengo RJ
+8225296,57,Jorge,Flamengo RJ
+8225296,69,Paolo Guerrero,Flamengo RJ
+8225299,22,Victor Ferraz,Santos FC
+8225299,56,Vitor Bueno,Santos FC
+8225299,73,Gabriel Barbosa,Santos FC
+8225299,85,Roger,Ponte Preta
+8225304,9,Tiago Costa,Santa Cruz FC
+8225304,16,Marcilio,Santa Cruz FC
+8225304,56,Arthur,Santa Cruz FC
+8225297,7,Cícero,Fluminense RJ
+8225297,26,Marcos Júnior,Fluminense RJ
+8225298,22,Bruno Henrique,Corinthians SP
+8225298,15,Christian Cueva,São Paulo FC
+8225301,11,Erik,SE Palmeiras
+8225302,45,Pablo,Atlético Paranaense
+8225302,71,Diego Renan,EC Vitória BA
+8225303,45,Rafael Moura,Figueirense
+8225303,71,Dener,Chapecoense
+8225305,22,Serginho,Sport Club Recife
+8225305,39,Diego Souza,Sport Club Recife
+8225305,68,Edmilson,Sport Club Recife
+8225305,75,Diego Souza,Sport Club Recife
+8225305,46,Geromel,Grêmio Porto Alegre
+8225305,63,Geromel,Grêmio Porto Alegre
+8225300,41,Robinho,Atlético Mineiro
+8225300,85,Robinho,Atlético Mineiro
+8225300,77,Carlinhos,Coritiba FC
+8225308,84,Danilo,Corinthians SP
+8225308,59,Dodô,Figueirense
+8225315,33,Kléber Gladiador,Coritiba FC
+8225309,60,Leandro Donizete,Atlético Mineiro
+8225314,43,Roger,Ponte Preta
+8225314,46,Wendel,Ponte Preta
+8225314,26,Valdivia,Internacional
+8225314,82,Ariel Nahuelpán,Internacional
+8225310,90,Willian,Cruzeiro EC
+8225310,38,Rogério,Sport Club Recife
+8225310,51,Rogério,Sport Club Recife
+8225311,53,Douglas,Grêmio Porto Alegre
+8225312,34,Hernani,Atlético Paranaense
+8225313,25,Hyoran,Chapecoense
+8225313,88,Lucas Gomes,Chapecoense
+8225313,87,Camilo,Botafogo RJ
+8225306,30,Kanu,EC Vitória BA
+8225306,71,Vander,EC Vitória BA
+8225306,20,Vitor Bueno,Santos FC
+8225306,32,Jonathan Copete,Santos FC
+8225306,82,Jean Mota,Santos FC
+8225307,56,Paolo Guerrero,Flamengo RJ
+8225307,60,Alan Patrick,Flamengo RJ
+8225307,77,Juninho,América MG
+8225323,15,Dodô,Figueirense
+8225325,17,Diego Souza,Sport Club Recife
+8225325,54,Edmilson,Sport Club Recife
+8225320,22,Robinho,Atlético Mineiro
+8225320,67,Fred,Atlético Mineiro
+8225320,71,Luan,Atlético Mineiro
+8225317,20,Cícero,Fluminense RJ
+8225317,55,Cícero,Fluminense RJ
+8225317,70,Wellington Silva,Fluminense RJ
+8225318,61,Christian Cueva,São Paulo FC
+8225318,86,Christian Cueva,São Paulo FC
+8225318,5,Kempes,Chapecoense
+8225318,12,Thiego,Chapecoense
+8225319,62,Vitor Bueno,Santos FC
+8225319,74,Lucas,Cruzeiro EC
+8225321,42,Elías,Corinthians SP
+8225322,52,Paolo Guerrero,Flamengo RJ
+8225322,89,Marcelo Cirino,Flamengo RJ
+8225316,19,Neilton,Botafogo RJ
+8225316,35,Neilton,Botafogo RJ
+8225316,87,Camilo,Botafogo RJ
+8225316,78,Erik,SE Palmeiras
+8225326,88,Marinho,EC Vitória BA
+8225326,90,Kieza,EC Vitória BA
+8225326,48,Raphael Veiga,Coritiba FC
+8225326,60,Juninho,Coritiba FC
+8225335,90,Mark González,Sport Club Recife
+8225335,40,Danilo Barcelos,América MG
+8225332,76,Wálter,Atlético Paranaense
+8225332,87,Wálter,Atlético Paranaense
+8225334,30,William Pottker,Ponte Preta
+8225334,85,Reinaldo,Ponte Preta
+8225328,3,Andrés Chávez,São Paulo FC
+8225328,11,Maicosuel,Atlético Mineiro
+8225328,20,Lucas Pratto,Atlético Mineiro
+8225330,14,Rafael Sóbis,Cruzeiro EC
+8225330,17,Ramón Ábila,Cruzeiro EC
+8225330,41,Rafael Sóbis,Cruzeiro EC
+8225330,53,Rafael Sóbis,Cruzeiro EC
+8225330,3,Luis Seijas,Internacional
+8225330,73,Alex,Internacional
+8225333,30,Kempes,Chapecoense
+8225333,85,Jean,SE Palmeiras
+8225327,14,Gustavo Scarpa,Fluminense RJ
+8225327,20,Renato Chaves,Fluminense RJ
+8225327,79,Magno Alves,Fluminense RJ
+8225327,49,Carlos Alberto,Figueirense
+8225327,61,Nirley,Figueirense
+8225337,61,Federico Mancuello,Flamengo RJ
+8225344,90,Juninho,América MG
+8225339,38,Lucas Barrios,SE Palmeiras
+8225339,50,Cleiton Xavier,SE Palmeiras
+8225339,75,Thiago Martins,SE Palmeiras
+8225342,40,Kléber Gladiador,Coritiba FC
+8225342,64,Luccas Claro,Coritiba FC
+8225342,80,Juan,Coritiba FC
+8225342,43,Rhayner,Ponte Preta
+8225341,45,Luis Seijas,Internacional
+8225341,78,Fernando Bob,Internacional
+8225341,3,Gustavo Scarpa,Fluminense RJ
+8225341,64,Gustavo Scarpa,Fluminense RJ
+8225345,84,Keno,Santa Cruz FC
+8225345,39,Andrés Chávez,São Paulo FC
+8225345,65,Andrés Chávez,São Paulo FC
+8225343,46,Carlos Alberto,Figueirense
+8225343,82,Túlio de Melo,Sport Club Recife
+8225340,21,Carlos César,Atlético Mineiro
+8225340,43,Robinho,Atlético Mineiro
+8225340,79,Maicosuel,Atlético Mineiro
+8225340,90,Bruno Rangel,Chapecoense
+8225338,2,Giovanni Augusto,Corinthians SP
+8225338,66,Ramón Ábila,Cruzeiro EC
+8225336,21,Camilo,Botafogo RJ
+8225336,29,Sassá,Botafogo RJ
+8225336,80,Matheus Batista,Grêmio Porto Alegre
+8225355,24,Edmilson,Sport Club Recife
+8225354,51,Wendel,Ponte Preta
+8225354,83,Roger,Ponte Preta
+8225347,47,Henrique Dourado,Fluminense RJ
+8225351,17,Pedro Rocha,Grêmio Porto Alegre
+8225351,48,Everton,Grêmio Porto Alegre
+8225351,61,Miller Bolaños,Grêmio Porto Alegre
+8225346,6,Diego Renan,EC Vitória BA
+8225346,48,Willian Farias,EC Vitória BA
+8225346,38,Tiago Costa,Santa Cruz FC
+8225346,83,Matiás Pisano,Santa Cruz FC
+8225349,12,Gustavo Henrique,Santos FC
+8225349,69,Ricardo Oliveira,Santos FC
+8225349,90,Ricardo Oliveira,Santos FC
+8225350,3,Rafinha,Cruzeiro EC
+8225350,50,Ramón Ábila,Cruzeiro EC
+8225350,20,Colin Kâzım-Richards,Coritiba FC
+8225350,28,Juan,Coritiba FC
+8225348,90,Sassá,Botafogo RJ
+8225352,44,Vitor Hugo,SE Palmeiras
+8225353,90,Alejandro Martinuccio,Chapecoense
+8225364,45,Gilson,América MG
+8225364,90,Alison,América MG
+8225364,72,Lucas Gomes,Chapecoense
+8225356,45,Sassá,Botafogo RJ
+8225356,52,Sassá,Botafogo RJ
+8225356,90,Camilo,Botafogo RJ
+8225357,30,Leandro Damião,Flamengo RJ
+8225357,70,Diego,Flamengo RJ
+8225357,72,Henrique Almeida,Grêmio Porto Alegre
+8225360,40,Robinho,Atlético Mineiro
+8225359,16,Rafael Marques,SE Palmeiras
+8225359,70,Thiago Martins,SE Palmeiras
+8225359,52,Wellington Paulista,Ponte Preta
+8225359,73,William Pottker,Ponte Preta
+8225361,36,Christian Cueva,São Paulo FC
+8225361,85,Eugenio Mena,São Paulo FC
+8225365,30,Henrique Dourado,Fluminense RJ
+8225362,73,Kléber Gladiador,Coritiba FC
+8225362,86,Iago Dias,Coritiba FC
+8225362,59,Ricardo Oliveira,Santos FC
+8225363,89,Ferrugem,Figueirense
+8225363,4,Henrique,Cruzeiro EC
+8225363,48,Ramón Ábila,Cruzeiro EC
+8225358,43,Yago,Corinthians SP
+8225358,51,Marlone,Corinthians SP
+8225358,71,Marquinhos Gabriel,Corinthians SP
+8225374,36,Roger,Ponte Preta
+8225374,50,Clayson,Ponte Preta
+8225369,48,Rafael Moura,Figueirense
+8225370,49,Robinho,Cruzeiro EC
+8225370,53,Ramón Ábila,Cruzeiro EC
+8225367,20,Dudu,SE Palmeiras
+8225367,25,Jean,SE Palmeiras
+8225371,53,Luan,Grêmio Porto Alegre
+8225371,87,Robinho,Atlético Mineiro
+8225373,42,Kempes,Chapecoense
+8225373,9,Diego,Flamengo RJ
+8225373,71,Leandro Damião,Flamengo RJ
+8225373,90,Federico Mancuello,Flamengo RJ
+8225366,38,Marcelo,EC Vitória BA
+8225366,64,David,EC Vitória BA
+8225366,86,Danilo Barcelos,América MG
+8225375,89,Vinícius Araújo,Sport Club Recife
+8225375,9,Luis Seijas,Internacional
+8225372,7,Hernani,Atlético Paranaense
+8225376,50,Neilton,Botafogo RJ
+8225383,4,Lins,Figueirense
+8225385,57,Arthur,Santa Cruz FC
+8225385,64,Bruno Moraes,Santa Cruz FC
+8225385,28,Kempes,Chapecoense
+8225385,87,Bruno Rangel,Chapecoense
+8225380,45,Fred,Atlético Mineiro
+8225380,63,Fred,Atlético Mineiro
+8225380,59,Kanu,EC Vitória BA
+8225377,14,Gabriel,Flamengo RJ
+8225377,90,Fernandinho Silva,Flamengo RJ
+8225377,68,William Pottker,Ponte Preta
+8225379,56,Yerry Mina,SE Palmeiras
+8225379,71,Vitor Hugo,SE Palmeiras
+8225379,48,Andrés Chávez,São Paulo FC
+8225382,22,Walisson Maia,Coritiba FC
+8225382,31,Leandro,Coritiba FC
+8225382,35,Raphael Veiga,Coritiba FC
+8225382,39,Neto Berola,Coritiba FC
+8225378,47,Rodriguinho,Corinthians SP
+8225378,54,Léo Príncipe,Corinthians SP
+8225378,62,Vílson,Corinthians SP
+8225381,43,Luis Seijas,Internacional
+8225381,62,Aylon,Internacional
+8225381,28,Ricardo Oliveira,Santos FC
+8225384,21,Giorgian de Arrascaeta,Cruzeiro EC
+8225384,70,Ramón Ábila,Cruzeiro EC
+8225386,22,Zé Eduardo,EC Vitória BA
+8225386,44,Fernandinho Silva,Flamengo RJ
+8225386,60,Gabriel,Flamengo RJ
+8225388,31,Andrés Chávez,São Paulo FC
+8225388,66,Christian Cueva,São Paulo FC
+8225388,73,Kelvin,São Paulo FC
+8225388,87,Carlos Alberto,Figueirense
+8225393,71,Kempes,Chapecoense
+8225389,71,Vitor Bueno,Santos FC
+8225389,85,Renato,Santos FC
+8225389,37,Marlone,Corinthians SP
+8225390,66,Gustavo Canales,Botafogo RJ
+8225390,80,Camilo,Botafogo RJ
+8225392,40,Pablo,Atlético Paranaense
+8225392,46,Pablo,Atlético Paranaense
+8225392,2,Valdivia,Internacional
+8225395,53,Durval,Sport Club Recife
+8225395,70,Rodney Wallace,Sport Club Recife
+8225395,80,Luis Ruiz,Sport Club Recife
+8225395,90,Vinícius Araújo,Sport Club Recife
+8225395,90,Everton Felipe,Sport Club Recife
+8225395,7,Keno,Santa Cruz FC
+8225395,50,João Paulo,Santa Cruz FC
+8225395,72,Bruno Moraes,Santa Cruz FC
+8225394,44,William Pottker,Ponte Preta
+8225394,58,Jonas,América MG
+8225387,49,Douglas,Fluminense RJ
+8225387,73,Marquinho,Fluminense RJ
+8225387,77,Gustavo Scarpa,Fluminense RJ
+8225387,90,Maranhão,Fluminense RJ
+8225387,28,Robinho,Atlético Mineiro
+8225387,89,Rómulo Otero,Atlético Mineiro
+8225396,4,Zeca,Santos FC
+8225403,15,Lins,Figueirense
+8225403,38,Dodô,Figueirense
+8225403,44,Jonas,América MG
+8225403,80,Osman Júnior,América MG
+8225404,53,Fábio Ferreira,Ponte Preta
+8225404,76,Roger,Ponte Preta
+8225404,90,William Pottker,Ponte Preta
+8225405,90,Bruno Moraes,Santa Cruz FC
+8225399,82,Gabriel Jesus,SE Palmeiras
+8225399,62,Alan Patrick,Flamengo RJ
+8225402,28,Leandro,Coritiba FC
+8225402,15,Marlone,Corinthians SP
+8225397,4,Cícero,Fluminense RJ
+8225397,54,Dener,Chapecoense
+8225397,89,Lourency,Chapecoense
+8225400,59,Júnior Urso,Atlético Mineiro
+8225398,43,Wesley,São Paulo FC
+8225401,47,Kanu,EC Vitória BA
+8225408,5,Moisés Mineiro,SE Palmeiras
+8225408,76,Yerry Mina,SE Palmeiras
+8225407,37,Willian Arão,Flamengo RJ
+8225407,71,Diego,Flamengo RJ
+8225410,76,Robinho,Cruzeiro EC
+8225410,31,Clayton,Atlético Mineiro
+8225411,40,Gustavo Scarpa,Fluminense RJ
+8225412,80,Pablo,Atlético Paranaense
+8225413,12,Tiaguinho,Chapecoense
+8225413,44,Tiaguinho,Chapecoense
+8225413,33,Fábio Ferreira,Ponte Preta
+8225413,56,Roger,Ponte Preta
+8225415,31,Amaral,Coritiba FC
+8225406,45,Rodrigo Pimpão,Botafogo RJ
+8225409,5,Jonathan Copete,Santos FC
+8225409,72,Jean Mota,Santos FC
+8225409,87,Vitor Bueno,Santos FC
+8225409,56,Keno,Santa Cruz FC
+8225409,85,Keno,Santa Cruz FC
+8225414,90,Michael,América MG
+8225419,51,Leandro Pereira,SE Palmeiras
+8225419,57,Yerry Mina,SE Palmeiras
+8225419,76,Iago Dias,Coritiba FC
+8225425,11,Rogério,Sport Club Recife
+8225424,65,Jonas,América MG
+8225422,45,Thiago Heleno,Atlético Paranaense
+8225422,68,Léo,Atlético Paranaense
+8225422,78,Thiago Heleno,Atlético Paranaense
+8225423,1,Ayrton,Figueirense
+8225423,38,Lins,Figueirense
+8225423,60,Danny Morais,Santa Cruz FC
+8225423,66,Keno,Santa Cruz FC
+8225416,52,Marinho,EC Vitória BA
+8225416,72,Lyanco,São Paulo FC
+8225417,84,Paolo Guerrero,Flamengo RJ
+8225417,89,Federico Mancuello,Flamengo RJ
+8225417,74,Rafinha,Cruzeiro EC
+8225418,90,Cícero,Fluminense RJ
+8225421,10,Pedro Rocha,Grêmio Porto Alegre
+8225420,15,Fred,Atlético Mineiro
+8225420,29,Clayton,Atlético Mineiro
+8225420,81,Lucas Pratto,Atlético Mineiro
+8225420,32,Gustavo Ferrareis,Internacional
+8225427,11,Gum,Fluminense RJ
+8225427,55,Marcos Júnior,Fluminense RJ
+8225427,67,Richarlison,Fluminense RJ
+8225427,87,Gustavo Scarpa,Fluminense RJ
+8225429,31,Ricardo Oliveira,Santos FC
+8225429,83,Paulinho,Santos FC
+8225433,55,Tiaguinho,Chapecoense
+8225433,9,Zé Eduardo,EC Vitória BA
+8225433,16,Marcelo,EC Vitória BA
+8225433,26,Zé Eduardo,EC Vitória BA
+8225433,40,Kieza,EC Vitória BA
+8225426,24,Neilton,Botafogo RJ
+8225426,39,Diogo Barbosa,Botafogo RJ
+8225434,79,Roger,Ponte Preta
+8225434,16,Júnior Urso,Atlético Mineiro
+8225434,38,Clayton,Atlético Mineiro
+8225430,72,Henrique,Cruzeiro EC
+8225431,5,Vitinho,Internacional
+8225435,56,Arthur,Santa Cruz FC
+8225435,70,Grafite,Santa Cruz FC
+8225435,33,Zé Roberto,SE Palmeiras
+8225435,66,Leandro Pereira,SE Palmeiras
+8225435,80,Roger Guedes,SE Palmeiras
+8225432,13,Colin Kâzım-Richards,Coritiba FC
+8225432,49,Juan,Coritiba FC
+8225432,73,Juan,Coritiba FC
+8225436,53,Jailson,Grêmio Porto Alegre
+8225442,42,Hernani,Atlético Paranaense
+8225442,84,Pablo,Atlético Paranaense
+8225442,88,Matheus Rossetto,Atlético Paranaense
+8225442,18,Filipe Machado,Chapecoense
+8225439,48,Jonathan Copete,Santos FC
+8225439,80,Ricardo Oliveira,Santos FC
+8225439,64,Wellington Silva,Fluminense RJ
+8225445,43,Diego Souza,Sport Club Recife
+8225445,25,Thiago Mendes,São Paulo FC
+8225441,87,Vitinho,Internacional
+8225440,12,Ramón Ábila,Cruzeiro EC
+8225440,81,Robinho,Cruzeiro EC
+8225437,7,Felipe Vizeu,Flamengo RJ
+8225437,57,Willian Arão,Flamengo RJ
+8225437,87,Marcelo Cirino,Flamengo RJ
+8225443,90,Bruno Silva,Botafogo RJ
+8225444,3,Tchê Tchê,SE Palmeiras
+8225444,88,Alecsandro,SE Palmeiras
+8225453,44,Thiego,Chapecoense
+8225453,57,Ananias,Chapecoense
+8225453,90,Kempes,Chapecoense
+8225446,86,Sassá,Botafogo RJ
+8225455,30,Grafite,Santa Cruz FC
+8225455,81,Keno,Santa Cruz FC
+8225455,38,Guilherme,Corinthians SP
+8225455,48,Marlone,Corinthians SP
+8225455,55,Guilherme,Corinthians SP
+8225455,90,Lucca,Corinthians SP
+8225450,36,Fred,Atlético Mineiro
+8225450,65,Carlos César,Atlético Mineiro
+8225450,85,Lucas Pratto,Atlético Mineiro
+8225454,24,Rhayner,Ponte Preta
+8225454,37,Wendel,Ponte Preta
+8225447,12,William Matheus,Fluminense RJ
+8225447,47,Marcos Júnior,Fluminense RJ
+8225447,54,Fernandinho Silva,Flamengo RJ
+8225448,46,Jonathan Copete,Santos FC
+8225451,45,Pedro Rocha,Grêmio Porto Alegre
+8225456,5,Bruno Silva,Botafogo RJ
+8225456,35,Rodrigo Pimpão,Botafogo RJ
+8225456,90,Dudu Cearense,Botafogo RJ
+8225456,51,Fred,Atlético Mineiro
+8225456,70,Leonardo Silva,Atlético Mineiro
+8225461,66,Eduardo Sasha,Internacional
+8225461,81,Vitinho,Internacional
+8225461,57,Réver,Flamengo RJ
+8225462,21,Matheus Rossetto,Atlético Paranaense
+8225462,68,Pablo,Atlético Paranaense
+8225463,86,Rafael Silva,Figueirense
+8225463,57,Jean,SE Palmeiras
+8225463,84,Jean,SE Palmeiras
+8225458,17,Ángel Romero,Corinthians SP
+8225458,39,Rodriguinho,Corinthians SP
+8225464,51,Roger,Ponte Preta
+8225464,70,Maycon,Ponte Preta
+8225464,74,William Pottker,Ponte Preta
+8225459,21,Fabián Noguera,Santos FC
+8225459,10,Everton,Grêmio Porto Alegre
+8225465,6,Diego Souza,Sport Club Recife
+8225457,31,Wellington Silva,Fluminense RJ
+8225457,72,Thiago Mendes,São Paulo FC
+8225457,81,Rodrigo Caio,São Paulo FC
+8225475,87,Rodrigo Pimpão,Botafogo RJ
+8225468,11,Christian Cueva,São Paulo FC
+8225468,82,David Neres,São Paulo FC
+8225466,40,Ariel Cabral,Cruzeiro EC
+8225467,15,Paolo Guerrero,Flamengo RJ
+8225467,59,Paolo Guerrero,Flamengo RJ
+8225467,6,Guilherme,Corinthians SP
+8225467,45,Rodriguinho,Corinthians SP
+8225469,21,Dudu,SE Palmeiras
+8225469,45,Tchê Tchê,SE Palmeiras
+8225469,33,Rogério,Sport Club Recife
+8225472,64,Leandro,Coritiba FC
+8225472,15,Gum,Fluminense RJ
+8225470,16,Rómulo Otero,Atlético Mineiro
+8225470,88,Júnior Urso,Atlético Mineiro
+8225470,90,Fred,Atlético Mineiro
+8225473,4,Lucas Lima,Santos FC
+8225474,85,Éder Lima,América MG
+8225485,54,Rogério,Sport Club Recife
+8225477,37,Richarlison,Fluminense RJ
+8225477,45,Cícero,Fluminense RJ
+8225477,31,Marcelo,EC Vitória BA
+8225477,88,Marinho,EC Vitória BA
+8225478,74,Giovanni Augusto,Corinthians SP
+8225478,84,Bruno Rangel,Chapecoense
+8225480,82,Robinho,Atlético Mineiro
+8225480,87,Lucas Pratto,Atlético Mineiro
+8225480,33,Diego,Flamengo RJ
+8225480,90,Paolo Guerrero,Flamengo RJ
+8225482,14,Manoel,Cruzeiro EC
+8225481,7,Vitinho,Internacional
+8225481,32,Leó Moura,Santa Cruz FC
+8225479,67,Jonathan Copete,Santos FC
+8225484,27,Michael,América MG
+8225488,14,Christian Cueva,São Paulo FC
+8225488,61,David Neres,São Paulo FC
+8225488,67,Andrés Chávez,São Paulo FC
+8225488,90,Luiz Araujo,São Paulo FC
+8225494,22,William Pottker,Ponte Preta
+8225494,67,Ricardo Oliveira,Santos FC
+8225494,89,Jonathan Copete,Santos FC
+8225486,5,Marinho,EC Vitória BA
+8225486,69,David,EC Vitória BA
+8225486,82,Marinho,EC Vitória BA
+8225486,30,Pablo,Atlético Paranaense
+8225486,43,Pablo,Atlético Paranaense
+8225489,18,Cleiton Xavier,SE Palmeiras
+8225490,26,Rafael Sóbis,Cruzeiro EC
+8225490,45,Willian,Cruzeiro EC
+8225490,46,Giorgian de Arrascaeta,Cruzeiro EC
+8225490,51,Alisson,Cruzeiro EC
+8225490,90,Ramón Ábila,Cruzeiro EC
+8225490,9,Richarlison,Fluminense RJ
+8225495,33,Leó Moura,Santa Cruz FC
+8225492,53,Raphael Veiga,Coritiba FC
+8225492,90,Kléber Gladiador,Coritiba FC
+8225493,76,Kempes,Chapecoense
+8225491,45,Diego Souza,Sport Club Recife
+8225491,47,Rogério,Sport Club Recife
+8225491,90,Diego Souza,Sport Club Recife
+8225497,29,Cícero,Fluminense RJ
+8225497,62,Hernani,Atlético Paranaense
+8225496,33,Kempes,Chapecoense
+8225496,65,Sérgio Manoel,Chapecoense
+8225502,75,Leandro,Coritiba FC
+8225503,90,Rafael Moura,Figueirense
+8225503,44,Camacho,Corinthians SP
+8225504,33,Éverton,Flamengo RJ
+8225505,43,Henrique,Cruzeiro EC
+8225498,12,Andrés Chávez,São Paulo FC
+8225498,67,Ramiro,Grêmio Porto Alegre
+8225499,35,Jonathan Copete,Santos FC
+8225499,68,Ricardo Oliveira,Santos FC
+8225499,84,Jonathan Copete,Santos FC
+8225499,62,Marinho,EC Vitória BA
+8225499,90,Serginho,EC Vitória BA
+8225500,59,Lucas Pratto,Atlético Mineiro
+8225500,27,Gabriel Jesus,SE Palmeiras
+8225501,13,Valdivia,Internacional
+8225501,57,Antônio Carlos,Ponte Preta
+8225506,23,Willian Farias,EC Vitória BA
+8225506,46,Zé Eduardo,EC Vitória BA
+8225506,57,Kieza,EC Vitória BA
+8225506,61,Marinho,EC Vitória BA
+8225509,63,Dudu,SE Palmeiras
+8225510,22,Giorgian de Arrascaeta,Cruzeiro EC
+8225510,89,Manoel,Cruzeiro EC
+8225510,48,Ricardo Oliveira,Santos FC
+8225510,62,Ricardo Oliveira,Santos FC
+8225511,11,Fred,Grêmio Porto Alegre
+8225511,25,Negueba,Grêmio Porto Alegre
+8225511,65,Miller Bolaños,Grêmio Porto Alegre
+8225512,22,André Lima,Atlético Paranaense
+8225512,35,Thiago Heleno,Atlético Paranaense
+8225514,42,Wendel,Ponte Preta
+8225507,2,Gabriel,Flamengo RJ
+8225507,29,Diego,Flamengo RJ
+8225507,43,Amaral,Coritiba FC
+8225507,88,Kléber Gladiador,Coritiba FC
+8225513,39,Dener,Chapecoense
+8225513,45,Tiaguinho,Chapecoense
+8225515,14,Grafite,Santa Cruz FC
+8225515,31,Keno,Santa Cruz FC
+8225515,59,Vitor,Santa Cruz FC
+8225515,6,Fred,Atlético Mineiro
+8225515,55,Clayton,Atlético Mineiro
+8225515,80,Hyuri,Atlético Mineiro
+8225508,56,Marlone,Corinthians SP
+8225516,17,Sassá,Botafogo RJ
+8225516,66,William Pottker,Ponte Preta
+8225524,53,Danilo Barcelos,América MG
+8225524,64,Michael,América MG
+8225524,12,Rodney Wallace,Sport Club Recife
+8225524,80,Ronaldo Alves,Sport Club Recife
+8225517,5,Paolo Guerrero,Flamengo RJ
+8225517,87,Diego,Flamengo RJ
+8225519,26,Fabiano,SE Palmeiras
+8225520,23,Hyuri,Atlético Mineiro
+8225520,25,Maicon,São Paulo FC
+8225520,90,Gilberto,São Paulo FC
+8225521,75,Valdivia,Internacional
+8225523,19,Marquinhos,Figueirense
+8225525,49,Grafite,Santa Cruz FC
+8225525,61,Leó Moura,Santa Cruz FC
+8225525,86,Roberto,Santa Cruz FC
+8225525,88,Grafite,Santa Cruz FC
+8225525,90,Arthur,Santa Cruz FC
+8225525,53,Miller Bolaños,Grêmio Porto Alegre
+8225522,11,Marinho,EC Vitória BA
+8225526,13,Marinho,EC Vitória BA
+8225526,16,Gabriel,SE Palmeiras
+8225526,45,Alecsandro,SE Palmeiras
+8225527,73,Douglas,Fluminense RJ
+8225527,88,Gustavo Ferrareis,Internacional
+8225528,2,David Neres,São Paulo FC
+8225528,30,Gilberto,São Paulo FC
+8225528,58,Andrés Chávez,São Paulo FC
+8225528,73,Andrés Chávez,São Paulo FC
+8225528,82,Luiz Araujo,São Paulo FC
+8225529,49,Ricardo Oliveira,Santos FC
+8225530,24,Giorgian de Arrascaeta,Cruzeiro EC
+8225530,57,Ezequiel,Cruzeiro EC
+8225530,59,Robinho,Cruzeiro EC
+8225530,8,Guilherme,Corinthians SP
+8225530,55,Marlone,Corinthians SP
+8225531,17,Bruno Silva,Botafogo RJ
+8225534,60,William Pottker,Ponte Preta
+8225534,65,Ravanelli,Ponte Preta
+8225535,47,Rogério,Sport Club Recife
+8225535,89,Diego Souza,Sport Club Recife

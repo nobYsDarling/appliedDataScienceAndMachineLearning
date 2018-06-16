@@ -1,0 +1,381 @@
+GameID,League,Season,Date,HomeTeam,AwayTeam,Result
+2203991,braseriea,2013-2014,19.04.2014,Fluminense RJ,Figueirense,3:0
+2203997,braseriea,2013-2014,19.04.2014,Internacional,EC Vitória BA,1:0
+2203999,braseriea,2013-2014,20.04.2014,Chapecoense,Coritiba FC,0:0
+2203992,braseriea,2013-2014,20.04.2014,São Paulo FC,Botafogo RJ,3:0
+2203994,braseriea,2013-2014,20.04.2014,Atlético Paranaense,Grêmio Porto Alegre,1:0
+2203995,braseriea,2013-2014,20.04.2014,Atlético Mineiro,Corinthians SP,0:0
+2203996,braseriea,2013-2014,20.04.2014,EC Bahia,Cruzeiro EC,1:2
+2203990,braseriea,2013-2014,20.04.2014,Flamengo RJ,Goiás EC,0:0
+2203993,braseriea,2013-2014,20.04.2014,Santos FC,Sport Club Recife,1:1
+2203998,braseriea,2013-2014,20.04.2014,Criciúma EC,SE Palmeiras,1:2
+2204004,braseriea,2013-2014,26.04.2014,Coritiba FC,Santos FC,0:0
+2204003,braseriea,2013-2014,27.04.2014,SE Palmeiras,Fluminense RJ,0:1
+2204000,braseriea,2013-2014,27.04.2014,Botafogo RJ,Internacional,2:2
+2204002,braseriea,2013-2014,27.04.2014,Corinthians SP,Flamengo RJ,2:0
+2204005,braseriea,2013-2014,27.04.2014,Cruzeiro EC,São Paulo FC,1:1
+2204006,braseriea,2013-2014,27.04.2014,EC Vitória BA,Atlético Paranaense,2:2
+2204001,braseriea,2013-2014,27.04.2014,Sport Club Recife,Chapecoense,2:1
+2204007,braseriea,2013-2014,27.04.2014,Grêmio Porto Alegre,Atlético Mineiro,2:1
+2204008,braseriea,2013-2014,27.04.2014,Figueirense,EC Bahia,0:2
+2204009,braseriea,2013-2014,27.04.2014,Goiás EC,Criciúma EC,1:0
+2204012,braseriea,2013-2014,03.05.2014,São Paulo FC,Coritiba FC,2:2
+2204013,braseriea,2013-2014,03.05.2014,Santos FC,Grêmio Porto Alegre,0:0
+2204014,braseriea,2013-2014,03.05.2014,Atlético Paranaense,Cruzeiro EC,2:3
+2204011,braseriea,2013-2014,04.05.2014,Fluminense RJ,EC Vitória BA,1:2
+2204010,braseriea,2013-2014,04.05.2014,Flamengo RJ,SE Palmeiras,4:2
+2204016,braseriea,2013-2014,04.05.2014,EC Bahia,Botafogo RJ,1:0
+2204017,braseriea,2013-2014,04.05.2014,Internacional,Sport Club Recife,2:1
+2204018,braseriea,2013-2014,04.05.2014,Criciúma EC,Figueirense,1:0
+2204015,braseriea,2013-2014,04.05.2014,Atlético Mineiro,Goiás EC,0:1
+2204019,braseriea,2013-2014,04.05.2014,Chapecoense,Corinthians SP,0:1
+2204023,braseriea,2013-2014,10.05.2014,SE Palmeiras,Goiás EC,2:0
+2204027,braseriea,2013-2014,10.05.2014,Internacional,Atlético Paranaense,2:1
+2204020,braseriea,2013-2014,11.05.2014,Botafogo RJ,Criciúma EC,6:0
+2204021,braseriea,2013-2014,11.05.2014,Fluminense RJ,Flamengo RJ,2:0
+2204022,braseriea,2013-2014,11.05.2014,São Paulo FC,Corinthians SP,1:1
+2204025,braseriea,2013-2014,11.05.2014,Atlético Mineiro,Cruzeiro EC,2:1
+2204029,braseriea,2013-2014,11.05.2014,Chapecoense,Grêmio Porto Alegre,1:2
+2204024,braseriea,2013-2014,11.05.2014,Coritiba FC,Sport Club Recife,0:1
+2204026,braseriea,2013-2014,11.05.2014,EC Bahia,EC Vitória BA,1:1
+2204028,braseriea,2013-2014,11.05.2014,Figueirense,Santos FC,0:2
+2204039,braseriea,2013-2014,15.05.2014,Goiás EC,Botafogo RJ,2:0
+2204035,braseriea,2013-2014,17.05.2014,Cruzeiro EC,Coritiba FC,3:2
+2204030,braseriea,2013-2014,18.05.2014,Flamengo RJ,São Paulo FC,0:2
+2204032,braseriea,2013-2014,18.05.2014,Corinthians SP,Figueirense,0:1
+2204034,braseriea,2013-2014,18.05.2014,Atlético Paranaense,Chapecoense,1:1
+2204037,braseriea,2013-2014,18.05.2014,Grêmio Porto Alegre,Fluminense RJ,1:0
+2204033,braseriea,2013-2014,18.05.2014,Santos FC,Atlético Mineiro,1:2
+2204036,braseriea,2013-2014,18.05.2014,EC Vitória BA,SE Palmeiras,0:1
+2204038,braseriea,2013-2014,18.05.2014,Criciúma EC,Internacional,0:0
+2204031,braseriea,2013-2014,05.06.2014,Sport Club Recife,EC Bahia,1:0
+2204040,braseriea,2013-2014,22.05.2014,Flamengo RJ,EC Bahia,1:1
+2204044,braseriea,2013-2014,22.05.2014,Coritiba FC,Internacional,1:1
+2204045,braseriea,2013-2014,22.05.2014,Cruzeiro EC,Sport Club Recife,2:0
+2204048,braseriea,2013-2014,22.05.2014,Criciúma EC,Chapecoense,1:0
+2204041,braseriea,2013-2014,22.05.2014,Fluminense RJ,São Paulo FC,5:2
+2204042,braseriea,2013-2014,22.05.2014,Corinthians SP,Atlético Paranaense,1:1
+2204047,braseriea,2013-2014,22.05.2014,Grêmio Porto Alegre,Botafogo RJ,2:1
+2204043,braseriea,2013-2014,23.05.2014,SE Palmeiras,Figueirense,1:0
+2204049,braseriea,2013-2014,23.05.2014,Goiás EC,Santos FC,2:2
+2204046,braseriea,2013-2014,23.05.2014,EC Vitória BA,Atlético Mineiro,2:3
+2204056,braseriea,2013-2014,24.05.2014,EC Bahia,Fluminense RJ,0:1
+2204052,braseriea,2013-2014,25.05.2014,São Paulo FC,Grêmio Porto Alegre,1:0
+2204051,braseriea,2013-2014,25.05.2014,Sport Club Recife,Corinthians SP,1:4
+2204053,braseriea,2013-2014,25.05.2014,Santos FC,Flamengo RJ,0:0
+2204054,braseriea,2013-2014,25.05.2014,Atlético Paranaense,Coritiba FC,2:0
+2204058,braseriea,2013-2014,25.05.2014,Figueirense,Goiás EC,0:1
+2204050,braseriea,2013-2014,25.05.2014,Botafogo RJ,EC Vitória BA,1:1
+2204055,braseriea,2013-2014,25.05.2014,Atlético Mineiro,Criciúma EC,0:0
+2204057,braseriea,2013-2014,25.05.2014,Internacional,Cruzeiro EC,1:3
+2204059,braseriea,2013-2014,25.05.2014,Chapecoense,SE Palmeiras,2:0
+2204061,braseriea,2013-2014,29.05.2014,Sport Club Recife,Grêmio Porto Alegre,0:0
+2204063,braseriea,2013-2014,29.05.2014,SE Palmeiras,Botafogo RJ,0:2
+2204068,braseriea,2013-2014,29.05.2014,Criciúma EC,Coritiba FC,1:0
+2204067,braseriea,2013-2014,29.05.2014,Internacional,Chapecoense,2:0
+2204069,braseriea,2013-2014,29.05.2014,Goiás EC,EC Vitória BA,0:0
+2204062,braseriea,2013-2014,29.05.2014,Corinthians SP,Cruzeiro EC,1:0
+2204064,braseriea,2013-2014,29.05.2014,Atlético Paranaense,São Paulo FC,2:2
+2204065,braseriea,2013-2014,29.05.2014,Atlético Mineiro,Fluminense RJ,2:0
+2204060,braseriea,2013-2014,30.05.2014,Flamengo RJ,Figueirense,1:1
+2204066,braseriea,2013-2014,30.05.2014,EC Bahia,Santos FC,0:2
+2204072,braseriea,2013-2014,31.05.2014,São Paulo FC,Atlético Mineiro,2:1
+2204074,braseriea,2013-2014,31.05.2014,Coritiba FC,Goiás EC,3:0
+2204076,braseriea,2013-2014,01.06.2014,EC Vitória BA,Sport Club Recife,0:1
+2204075,braseriea,2013-2014,01.06.2014,Cruzeiro EC,Flamengo RJ,3:0
+2204077,braseriea,2013-2014,01.06.2014,Grêmio Porto Alegre,SE Palmeiras,0:0
+2204079,braseriea,2013-2014,01.06.2014,Chapecoense,EC Bahia,2:1
+2204071,braseriea,2013-2014,01.06.2014,Fluminense RJ,Internacional,1:1
+2204073,braseriea,2013-2014,01.06.2014,Santos FC,Criciúma EC,2:0
+2204078,braseriea,2013-2014,01.06.2014,Figueirense,Atlético Paranaense,1:3
+2204070,braseriea,2013-2014,11.10.2014,Botafogo RJ,Corinthians SP,1:0
+2204081,braseriea,2013-2014,17.07.2014,Sport Club Recife,Botafogo RJ,1:0
+2204084,braseriea,2013-2014,17.07.2014,Coritiba FC,Figueirense,0:2
+2204087,braseriea,2013-2014,17.07.2014,Grêmio Porto Alegre,Goiás EC,0:0
+2204080,braseriea,2013-2014,17.07.2014,Flamengo RJ,Atlético Paranaense,1:2
+2204086,braseriea,2013-2014,17.07.2014,EC Bahia,São Paulo FC,0:2
+2204088,braseriea,2013-2014,17.07.2014,Criciúma EC,Fluminense RJ,3:2
+2204082,braseriea,2013-2014,18.07.2014,Corinthians SP,Internacional,2:1
+2204083,braseriea,2013-2014,18.07.2014,Santos FC,SE Palmeiras,2:0
+2204085,braseriea,2013-2014,18.07.2014,Cruzeiro EC,EC Vitória BA,3:1
+2204089,braseriea,2013-2014,07.08.2014,Chapecoense,Atlético Mineiro,1:1
+2204092,braseriea,2013-2014,19.07.2014,São Paulo FC,Chapecoense,0:1
+2204095,braseriea,2013-2014,19.07.2014,Atlético Mineiro,EC Bahia,1:1
+2204098,braseriea,2013-2014,19.07.2014,Figueirense,Grêmio Porto Alegre,0:1
+2204090,braseriea,2013-2014,20.07.2014,Botafogo RJ,Coritiba FC,1:0
+2204093,braseriea,2013-2014,20.07.2014,SE Palmeiras,Cruzeiro EC,1:2
+2204096,braseriea,2013-2014,20.07.2014,EC Vitória BA,Corinthians SP,0:0
+2204097,braseriea,2013-2014,20.07.2014,Internacional,Flamengo RJ,4:0
+2204091,braseriea,2013-2014,20.07.2014,Fluminense RJ,Santos FC,1:0
+2204094,braseriea,2013-2014,20.07.2014,Atlético Paranaense,Criciúma EC,2:0
+2204099,braseriea,2013-2014,20.07.2014,Goiás EC,Sport Club Recife,0:0
+2204103,braseriea,2013-2014,26.07.2014,Santos FC,Chapecoense,3:0
+2204105,braseriea,2013-2014,26.07.2014,Cruzeiro EC,Figueirense,5:0
+2204108,braseriea,2013-2014,26.07.2014,Criciúma EC,EC Vitória BA,1:3
+2204106,braseriea,2013-2014,27.07.2014,EC Bahia,Internacional,0:1
+2204101,braseriea,2013-2014,27.07.2014,Sport Club Recife,Atlético Mineiro,2:1
+2204102,braseriea,2013-2014,27.07.2014,Corinthians SP,SE Palmeiras,2:0
+2204104,braseriea,2013-2014,27.07.2014,Atlético Paranaense,Fluminense RJ,0:3
+2204109,braseriea,2013-2014,27.07.2014,Goiás EC,São Paulo FC,2:1
+2204100,braseriea,2013-2014,27.07.2014,Flamengo RJ,Botafogo RJ,1:0
+2204107,braseriea,2013-2014,27.07.2014,Grêmio Porto Alegre,Coritiba FC,2:3
+2204110,braseriea,2013-2014,02.08.2014,Botafogo RJ,Cruzeiro EC,1:1
+2204112,braseriea,2013-2014,02.08.2014,São Paulo FC,Criciúma EC,1:1
+2204116,braseriea,2013-2014,03.08.2014,EC Vitória BA,Grêmio Porto Alegre,2:1
+2204113,braseriea,2013-2014,03.08.2014,SE Palmeiras,EC Bahia,1:1
+2204114,braseriea,2013-2014,03.08.2014,Coritiba FC,Corinthians SP,0:0
+2204118,braseriea,2013-2014,03.08.2014,Figueirense,Sport Club Recife,3:0
+2204119,braseriea,2013-2014,03.08.2014,Chapecoense,Flamengo RJ,1:0
+2204111,braseriea,2013-2014,03.08.2014,Fluminense RJ,Goiás EC,2:0
+2204115,braseriea,2013-2014,03.08.2014,Atlético Mineiro,Atlético Paranaense,3:1
+2204117,braseriea,2013-2014,03.08.2014,Internacional,Santos FC,1:0
+2204126,braseriea,2013-2014,09.08.2014,EC Bahia,Goiás EC,1:0
+2204128,braseriea,2013-2014,09.08.2014,Criciúma EC,Cruzeiro EC,0:0
+2204121,braseriea,2013-2014,10.08.2014,Fluminense RJ,Coritiba FC,1:1
+2204120,braseriea,2013-2014,10.08.2014,Flamengo RJ,Sport Club Recife,1:0
+2204123,braseriea,2013-2014,10.08.2014,Santos FC,Corinthians SP,0:1
+2204124,braseriea,2013-2014,10.08.2014,Atlético Paranaense,Botafogo RJ,2:0
+2204127,braseriea,2013-2014,10.08.2014,Internacional,Grêmio Porto Alegre,2:0
+2204122,braseriea,2013-2014,10.08.2014,São Paulo FC,EC Vitória BA,3:1
+2204125,braseriea,2013-2014,10.08.2014,Atlético Mineiro,SE Palmeiras,2:1
+2204129,braseriea,2013-2014,10.08.2014,Chapecoense,Figueirense,0:1
+2204139,braseriea,2013-2014,16.08.2014,Goiás EC,Internacional,0:1
+2204132,braseriea,2013-2014,17.08.2014,Corinthians SP,EC Bahia,1:1
+2204133,braseriea,2013-2014,17.08.2014,SE Palmeiras,São Paulo FC,1:2
+2204134,braseriea,2013-2014,17.08.2014,Coritiba FC,Flamengo RJ,0:1
+2204135,braseriea,2013-2014,17.08.2014,Cruzeiro EC,Santos FC,3:0
+2204136,braseriea,2013-2014,17.08.2014,EC Vitória BA,Chapecoense,0:0
+2204137,braseriea,2013-2014,17.08.2014,Grêmio Porto Alegre,Criciúma EC,2:0
+2204130,braseriea,2013-2014,17.08.2014,Botafogo RJ,Fluminense RJ,2:0
+2204131,braseriea,2013-2014,17.08.2014,Sport Club Recife,Atlético Paranaense,1:1
+2204138,braseriea,2013-2014,17.08.2014,Figueirense,Atlético Mineiro,2:2
+2204141,braseriea,2013-2014,21.08.2014,Sport Club Recife,SE Palmeiras,2:1
+2204143,braseriea,2013-2014,21.08.2014,Santos FC,Atlético Paranaense,2:0
+2204148,braseriea,2013-2014,21.08.2014,Figueirense,Botafogo RJ,1:0
+2204144,braseriea,2013-2014,21.08.2014,Coritiba FC,EC Vitória BA,2:0
+2204146,braseriea,2013-2014,21.08.2014,EC Bahia,Criciúma EC,0:0
+2204140,braseriea,2013-2014,21.08.2014,Flamengo RJ,Atlético Mineiro,2:1
+2204147,braseriea,2013-2014,21.08.2014,Internacional,São Paulo FC,0:1
+2204149,braseriea,2013-2014,21.08.2014,Chapecoense,Fluminense RJ,1:0
+2204142,braseriea,2013-2014,22.08.2014,Corinthians SP,Goiás EC,5:2
+2204145,braseriea,2013-2014,22.08.2014,Cruzeiro EC,Grêmio Porto Alegre,1:0
+2204150,braseriea,2013-2014,23.08.2014,Botafogo RJ,Chapecoense,1:0
+2204155,braseriea,2013-2014,23.08.2014,Atlético Mineiro,Internacional,1:0
+2204153,braseriea,2013-2014,24.08.2014,SE Palmeiras,Coritiba FC,1:0
+2204151,braseriea,2013-2014,24.08.2014,Fluminense RJ,Sport Club Recife,4:0
+2204152,braseriea,2013-2014,24.08.2014,São Paulo FC,Santos FC,2:1
+2204156,braseriea,2013-2014,24.08.2014,EC Vitória BA,Figueirense,0:1
+2204157,braseriea,2013-2014,24.08.2014,Grêmio Porto Alegre,Corinthians SP,2:1
+2204158,braseriea,2013-2014,24.08.2014,Criciúma EC,Flamengo RJ,0:2
+2204154,braseriea,2013-2014,24.08.2014,Atlético Paranaense,EC Bahia,0:0
+2204159,braseriea,2013-2014,24.08.2014,Goiás EC,Cruzeiro EC,0:1
+2204163,braseriea,2013-2014,30.08.2014,SE Palmeiras,Internacional,0:1
+2204165,braseriea,2013-2014,30.08.2014,Cruzeiro EC,Chapecoense,4:2
+2204160,braseriea,2013-2014,31.08.2014,Botafogo RJ,Santos FC,1:0
+2204161,braseriea,2013-2014,31.08.2014,Sport Club Recife,Criciúma EC,2:0
+2204162,braseriea,2013-2014,31.08.2014,Corinthians SP,Fluminense RJ,1:1
+2204164,braseriea,2013-2014,31.08.2014,Coritiba FC,Atlético Mineiro,0:0
+2204168,braseriea,2013-2014,31.08.2014,Figueirense,São Paulo FC,1:1
+2204166,braseriea,2013-2014,31.08.2014,EC Vitória BA,Flamengo RJ,1:2
+2204167,braseriea,2013-2014,31.08.2014,Grêmio Porto Alegre,EC Bahia,1:0
+2204169,braseriea,2013-2014,31.08.2014,Goiás EC,Atlético Paranaense,3:1
+2204170,braseriea,2013-2014,06.09.2014,Flamengo RJ,Grêmio Porto Alegre,0:1
+2204173,braseriea,2013-2014,06.09.2014,Santos FC,EC Vitória BA,3:1
+2204179,braseriea,2013-2014,07.09.2014,Chapecoense,Goiás EC,0:0
+2204171,braseriea,2013-2014,07.09.2014,Fluminense RJ,Cruzeiro EC,3:3
+2204172,braseriea,2013-2014,07.09.2014,São Paulo FC,Sport Club Recife,2:0
+2204175,braseriea,2013-2014,07.09.2014,Atlético Mineiro,Botafogo RJ,1:0
+2204178,braseriea,2013-2014,07.09.2014,Criciúma EC,Corinthians SP,0:0
+2204174,braseriea,2013-2014,07.09.2014,Atlético Paranaense,SE Palmeiras,1:1
+2204176,braseriea,2013-2014,07.09.2014,EC Bahia,Coritiba FC,0:0
+2204177,braseriea,2013-2014,07.09.2014,Internacional,Figueirense,2:3
+2204183,braseriea,2013-2014,11.09.2014,SE Palmeiras,Criciúma EC,1:0
+2204187,braseriea,2013-2014,11.09.2014,Grêmio Porto Alegre,Atlético Paranaense,1:0
+2204188,braseriea,2013-2014,11.09.2014,Figueirense,Fluminense RJ,1:1
+2204181,braseriea,2013-2014,11.09.2014,Sport Club Recife,Santos FC,3:1
+2204184,braseriea,2013-2014,11.09.2014,Coritiba FC,Chapecoense,3:0
+2204180,braseriea,2013-2014,11.09.2014,Botafogo RJ,São Paulo FC,2:4
+2204186,braseriea,2013-2014,11.09.2014,EC Vitória BA,Internacional,2:0
+2204189,braseriea,2013-2014,11.09.2014,Goiás EC,Flamengo RJ,1:0
+2204182,braseriea,2013-2014,12.09.2014,Corinthians SP,Atlético Mineiro,1:0
+2204185,braseriea,2013-2014,12.09.2014,Cruzeiro EC,EC Bahia,2:1
+2204191,braseriea,2013-2014,13.09.2014,Fluminense RJ,SE Palmeiras,3:0
+2204199,braseriea,2013-2014,13.09.2014,Chapecoense,Sport Club Recife,3:1
+2204193,braseriea,2013-2014,14.09.2014,Santos FC,Coritiba FC,2:1
+2204190,braseriea,2013-2014,14.09.2014,Flamengo RJ,Corinthians SP,1:0
+2204192,braseriea,2013-2014,14.09.2014,São Paulo FC,Cruzeiro EC,2:0
+2204196,braseriea,2013-2014,14.09.2014,EC Bahia,Figueirense,3:0
+2204197,braseriea,2013-2014,14.09.2014,Internacional,Botafogo RJ,2:0
+2204194,braseriea,2013-2014,14.09.2014,Atlético Paranaense,EC Vitória BA,2:0
+2204195,braseriea,2013-2014,14.09.2014,Atlético Mineiro,Grêmio Porto Alegre,0:0
+2204198,braseriea,2013-2014,14.09.2014,Criciúma EC,Goiás EC,1:0
+2204205,braseriea,2013-2014,18.09.2014,Cruzeiro EC,Atlético Paranaense,2:0
+2204206,braseriea,2013-2014,18.09.2014,EC Vitória BA,Fluminense RJ,3:1
+2204201,braseriea,2013-2014,18.09.2014,Sport Club Recife,Internacional,0:0
+2204208,braseriea,2013-2014,18.09.2014,Figueirense,Criciúma EC,1:1
+2204200,braseriea,2013-2014,18.09.2014,Botafogo RJ,EC Bahia,2:3
+2204203,braseriea,2013-2014,18.09.2014,SE Palmeiras,Flamengo RJ,2:2
+2204204,braseriea,2013-2014,18.09.2014,Coritiba FC,São Paulo FC,3:1
+2204202,braseriea,2013-2014,19.09.2014,Corinthians SP,Chapecoense,1:1
+2204209,braseriea,2013-2014,19.09.2014,Goiás EC,Atlético Mineiro,2:3
+2204207,braseriea,2013-2014,19.09.2014,Grêmio Porto Alegre,Santos FC,0:0
+2204214,braseriea,2013-2014,20.09.2014,Atlético Paranaense,Internacional,0:1
+2204218,braseriea,2013-2014,21.09.2014,Criciúma EC,Botafogo RJ,1:1
+2204210,braseriea,2013-2014,21.09.2014,Flamengo RJ,Fluminense RJ,1:1
+2204211,braseriea,2013-2014,21.09.2014,Sport Club Recife,Coritiba FC,1:0
+2204212,braseriea,2013-2014,21.09.2014,Corinthians SP,São Paulo FC,3:2
+2204215,braseriea,2013-2014,21.09.2014,Cruzeiro EC,Atlético Mineiro,2:3
+2204216,braseriea,2013-2014,21.09.2014,EC Vitória BA,EC Bahia,2:1
+2204213,braseriea,2013-2014,21.09.2014,Santos FC,Figueirense,3:1
+2204217,braseriea,2013-2014,21.09.2014,Grêmio Porto Alegre,Chapecoense,1:0
+2204219,braseriea,2013-2014,21.09.2014,Goiás EC,SE Palmeiras,6:0
+2204224,braseriea,2013-2014,25.09.2014,Coritiba FC,Cruzeiro EC,1:2
+2204227,braseriea,2013-2014,25.09.2014,Internacional,Criciúma EC,3:0
+2204226,braseriea,2013-2014,25.09.2014,EC Bahia,Sport Club Recife,1:0
+2204229,braseriea,2013-2014,25.09.2014,Chapecoense,Atlético Paranaense,3:0
+2204221,braseriea,2013-2014,25.09.2014,Fluminense RJ,Grêmio Porto Alegre,0:0
+2204222,braseriea,2013-2014,25.09.2014,São Paulo FC,Flamengo RJ,2:2
+2204228,braseriea,2013-2014,25.09.2014,Figueirense,Corinthians SP,1:0
+2204220,braseriea,2013-2014,26.09.2014,Botafogo RJ,Goiás EC,1:0
+2204223,braseriea,2013-2014,26.09.2014,SE Palmeiras,EC Vitória BA,2:0
+2204225,braseriea,2013-2014,26.09.2014,Atlético Mineiro,Santos FC,3:2
+2204231,braseriea,2013-2014,27.09.2014,Sport Club Recife,Cruzeiro EC,0:0
+2204239,braseriea,2013-2014,27.09.2014,Chapecoense,Criciúma EC,1:1
+2204232,braseriea,2013-2014,28.09.2014,São Paulo FC,Fluminense RJ,1:3
+2204230,braseriea,2013-2014,28.09.2014,Botafogo RJ,Grêmio Porto Alegre,0:2
+2204234,braseriea,2013-2014,28.09.2014,Atlético Paranaense,Corinthians SP,1:0
+2204235,braseriea,2013-2014,28.09.2014,Atlético Mineiro,EC Vitória BA,2:0
+2204236,braseriea,2013-2014,28.09.2014,EC Bahia,Flamengo RJ,2:1
+2204233,braseriea,2013-2014,28.09.2014,Santos FC,Goiás EC,2:0
+2204237,braseriea,2013-2014,28.09.2014,Internacional,Coritiba FC,4:2
+2204238,braseriea,2013-2014,28.09.2014,Figueirense,SE Palmeiras,3:1
+2204243,braseriea,2013-2014,03.10.2014,SE Palmeiras,Chapecoense,4:2
+2204240,braseriea,2013-2014,04.10.2014,Flamengo RJ,Santos FC,0:1
+2204241,braseriea,2013-2014,04.10.2014,Fluminense RJ,EC Bahia,1:1
+2204244,braseriea,2013-2014,04.10.2014,Coritiba FC,Atlético Paranaense,1:0
+2204246,braseriea,2013-2014,04.10.2014,EC Vitória BA,Botafogo RJ,2:1
+2204247,braseriea,2013-2014,04.10.2014,Grêmio Porto Alegre,São Paulo FC,0:1
+2204242,braseriea,2013-2014,04.10.2014,Corinthians SP,Sport Club Recife,3:0
+2204245,braseriea,2013-2014,04.10.2014,Cruzeiro EC,Internacional,2:1
+2204248,braseriea,2013-2014,04.10.2014,Criciúma EC,Atlético Mineiro,3:1
+2204249,braseriea,2013-2014,05.10.2014,Goiás EC,Figueirense,1:0
+2204250,braseriea,2013-2014,09.10.2014,Botafogo RJ,SE Palmeiras,0:1
+2204252,braseriea,2013-2014,09.10.2014,São Paulo FC,Atlético Paranaense,1:0
+2204254,braseriea,2013-2014,09.10.2014,Coritiba FC,Criciúma EC,1:0
+2204256,braseriea,2013-2014,09.10.2014,EC Vitória BA,Goiás EC,2:2
+2204255,braseriea,2013-2014,09.10.2014,Cruzeiro EC,Corinthians SP,0:1
+2204257,braseriea,2013-2014,09.10.2014,Grêmio Porto Alegre,Sport Club Recife,2:0
+2204258,braseriea,2013-2014,09.10.2014,Figueirense,Flamengo RJ,1:2
+2204251,braseriea,2013-2014,10.10.2014,Fluminense RJ,Atlético Mineiro,0:0
+2204253,braseriea,2013-2014,10.10.2014,Santos FC,EC Bahia,1:0
+2204259,braseriea,2013-2014,10.10.2014,Chapecoense,Internacional,5:0
+2204262,braseriea,2013-2014,01.06.2014,Corinthians SP,Botafogo RJ,1:1
+2204269,braseriea,2013-2014,11.10.2014,Goiás EC,Coritiba FC,3:0
+2204263,braseriea,2013-2014,12.10.2014,SE Palmeiras,Grêmio Porto Alegre,2:1
+2204260,braseriea,2013-2014,12.10.2014,Flamengo RJ,Cruzeiro EC,3:0
+2204265,braseriea,2013-2014,12.10.2014,Atlético Mineiro,São Paulo FC,1:0
+2204266,braseriea,2013-2014,12.10.2014,EC Bahia,Chapecoense,0:1
+2204267,braseriea,2013-2014,12.10.2014,Internacional,Fluminense RJ,2:1
+2204261,braseriea,2013-2014,12.10.2014,Sport Club Recife,EC Vitória BA,1:2
+2204264,braseriea,2013-2014,12.10.2014,Atlético Paranaense,Figueirense,3:0
+2204268,braseriea,2013-2014,12.10.2014,Criciúma EC,Santos FC,3:0
+2204271,braseriea,2013-2014,18.10.2014,Fluminense RJ,Criciúma EC,4:2
+2204272,braseriea,2013-2014,18.10.2014,São Paulo FC,EC Bahia,2:1
+2204279,braseriea,2013-2014,18.10.2014,Goiás EC,Grêmio Porto Alegre,0:0
+2204275,braseriea,2013-2014,19.10.2014,Atlético Mineiro,Chapecoense,1:0
+2204273,braseriea,2013-2014,19.10.2014,SE Palmeiras,Santos FC,1:3
+2204274,braseriea,2013-2014,19.10.2014,Atlético Paranaense,Flamengo RJ,2:1
+2204277,braseriea,2013-2014,19.10.2014,Internacional,Corinthians SP,1:2
+2204278,braseriea,2013-2014,19.10.2014,Figueirense,Coritiba FC,4:0
+2204270,braseriea,2013-2014,19.10.2014,Botafogo RJ,Sport Club Recife,1:1
+2204276,braseriea,2013-2014,19.10.2014,EC Vitória BA,Cruzeiro EC,0:1
+2204286,braseriea,2013-2014,22.10.2014,EC Bahia,Atlético Mineiro,1:1
+2204280,braseriea,2013-2014,22.10.2014,Flamengo RJ,Internacional,2:0
+2204282,braseriea,2013-2014,22.10.2014,Corinthians SP,EC Vitória BA,2:1
+2204285,braseriea,2013-2014,22.10.2014,Cruzeiro EC,SE Palmeiras,1:1
+2204288,braseriea,2013-2014,22.10.2014,Criciúma EC,Atlético Paranaense,0:1
+2204284,braseriea,2013-2014,23.10.2014,Coritiba FC,Botafogo RJ,2:0
+2204287,braseriea,2013-2014,23.10.2014,Grêmio Porto Alegre,Figueirense,1:0
+2204283,braseriea,2013-2014,23.10.2014,Santos FC,Fluminense RJ,0:1
+2204289,braseriea,2013-2014,23.10.2014,Chapecoense,São Paulo FC,0:0
+2204281,braseriea,2013-2014,23.10.2014,Sport Club Recife,Goiás EC,0:1
+2204291,braseriea,2013-2014,25.10.2014,Fluminense RJ,Atlético Paranaense,2:1
+2204293,braseriea,2013-2014,25.10.2014,SE Palmeiras,Corinthians SP,1:1
+2204298,braseriea,2013-2014,25.10.2014,Figueirense,Cruzeiro EC,1:1
+2204294,braseriea,2013-2014,25.10.2014,Coritiba FC,Grêmio Porto Alegre,1:1
+2204295,braseriea,2013-2014,25.10.2014,Atlético Mineiro,Sport Club Recife,3:2
+2204296,braseriea,2013-2014,25.10.2014,EC Vitória BA,Criciúma EC,3:1
+2204299,braseriea,2013-2014,25.10.2014,Chapecoense,Santos FC,1:1
+2204290,braseriea,2013-2014,26.10.2014,Botafogo RJ,Flamengo RJ,2:1
+2204297,braseriea,2013-2014,26.10.2014,Internacional,EC Bahia,2:0
+2204292,braseriea,2013-2014,27.10.2014,São Paulo FC,Goiás EC,3:0
+2204307,braseriea,2013-2014,01.11.2014,Grêmio Porto Alegre,EC Vitória BA,1:0
+2204309,braseriea,2013-2014,01.11.2014,Goiás EC,Fluminense RJ,0:2
+2204302,braseriea,2013-2014,02.11.2014,Corinthians SP,Coritiba FC,2:2
+2204301,braseriea,2013-2014,02.11.2014,Sport Club Recife,Figueirense,1:0
+2204303,braseriea,2013-2014,02.11.2014,Santos FC,Internacional,1:2
+2204305,braseriea,2013-2014,02.11.2014,Cruzeiro EC,Botafogo RJ,2:1
+2204308,braseriea,2013-2014,02.11.2014,Criciúma EC,São Paulo FC,1:2
+2204300,braseriea,2013-2014,02.11.2014,Flamengo RJ,Chapecoense,3:0
+2204304,braseriea,2013-2014,02.11.2014,Atlético Paranaense,Atlético Mineiro,1:0
+2204306,braseriea,2013-2014,02.11.2014,EC Bahia,SE Palmeiras,0:1
+2204313,braseriea,2013-2014,08.11.2014,SE Palmeiras,Atlético Mineiro,0:2
+2204314,braseriea,2013-2014,08.11.2014,Coritiba FC,Fluminense RJ,1:0
+2204310,braseriea,2013-2014,09.11.2014,Botafogo RJ,Atlético Paranaense,0:2
+2204311,braseriea,2013-2014,09.11.2014,Sport Club Recife,Flamengo RJ,2:2
+2204316,braseriea,2013-2014,09.11.2014,EC Vitória BA,São Paulo FC,1:2
+2204317,braseriea,2013-2014,09.11.2014,Grêmio Porto Alegre,Internacional,4:1
+2204318,braseriea,2013-2014,09.11.2014,Figueirense,Chapecoense,1:0
+2204312,braseriea,2013-2014,09.11.2014,Corinthians SP,Santos FC,1:0
+2204315,braseriea,2013-2014,09.11.2014,Cruzeiro EC,Criciúma EC,3:1
+2204319,braseriea,2013-2014,09.11.2014,Goiás EC,EC Bahia,3:0
+2204321,braseriea,2013-2014,15.11.2014,Fluminense RJ,Botafogo RJ,1:0
+2204328,braseriea,2013-2014,15.11.2014,Criciúma EC,Grêmio Porto Alegre,0:3
+2204320,braseriea,2013-2014,16.11.2014,Flamengo RJ,Coritiba FC,3:2
+2204323,braseriea,2013-2014,16.11.2014,Santos FC,Cruzeiro EC,0:1
+2204324,braseriea,2013-2014,16.11.2014,Atlético Paranaense,Sport Club Recife,0:1
+2204326,braseriea,2013-2014,16.11.2014,EC Bahia,Corinthians SP,1:2
+2204327,braseriea,2013-2014,16.11.2014,Internacional,Goiás EC,1:0
+2204322,braseriea,2013-2014,16.11.2014,São Paulo FC,SE Palmeiras,2:0
+2204325,braseriea,2013-2014,16.11.2014,Atlético Mineiro,Figueirense,1:1
+2204329,braseriea,2013-2014,16.11.2014,Chapecoense,EC Vitória BA,0:1
+2204332,braseriea,2013-2014,13.11.2014,São Paulo FC,Internacional,1:1
+2204330,braseriea,2013-2014,19.11.2014,Botafogo RJ,Figueirense,0:1
+2204334,braseriea,2013-2014,19.11.2014,Atlético Paranaense,Santos FC,1:1
+2204336,braseriea,2013-2014,20.11.2014,EC Vitória BA,Coritiba FC,1:1
+2204338,braseriea,2013-2014,20.11.2014,Criciúma EC,EC Bahia,0:1
+2204339,braseriea,2013-2014,20.11.2014,Goiás EC,Corinthians SP,0:1
+2204333,braseriea,2013-2014,20.11.2014,SE Palmeiras,Sport Club Recife,0:2
+2204335,braseriea,2013-2014,20.11.2014,Atlético Mineiro,Flamengo RJ,4:0
+2204331,braseriea,2013-2014,20.11.2014,Fluminense RJ,Chapecoense,1:4
+2204337,braseriea,2013-2014,21.11.2014,Grêmio Porto Alegre,Cruzeiro EC,1:2
+2204347,braseriea,2013-2014,22.11.2014,Internacional,Atlético Mineiro,2:1
+2204346,braseriea,2013-2014,23.11.2014,EC Bahia,Atlético Paranaense,1:2
+2204340,braseriea,2013-2014,23.11.2014,Flamengo RJ,Criciúma EC,1:1
+2204341,braseriea,2013-2014,23.11.2014,Sport Club Recife,Fluminense RJ,2:2
+2204343,braseriea,2013-2014,23.11.2014,Santos FC,São Paulo FC,0:1
+2204345,braseriea,2013-2014,23.11.2014,Cruzeiro EC,Goiás EC,2:1
+2204348,braseriea,2013-2014,23.11.2014,Figueirense,EC Vitória BA,2:0
+2204342,braseriea,2013-2014,23.11.2014,Corinthians SP,Grêmio Porto Alegre,1:0
+2204344,braseriea,2013-2014,23.11.2014,Coritiba FC,SE Palmeiras,2:0
+2204349,braseriea,2013-2014,23.11.2014,Chapecoense,Botafogo RJ,2:0
+2204356,braseriea,2013-2014,29.11.2014,Internacional,SE Palmeiras,3:1
+2204357,braseriea,2013-2014,29.11.2014,Criciúma EC,Sport Club Recife,2:2
+2204350,braseriea,2013-2014,30.11.2014,Flamengo RJ,EC Vitória BA,4:0
+2204351,braseriea,2013-2014,30.11.2014,Fluminense RJ,Corinthians SP,5:2
+2204352,braseriea,2013-2014,30.11.2014,São Paulo FC,Figueirense,1:1
+2204353,braseriea,2013-2014,30.11.2014,Santos FC,Botafogo RJ,2:0
+2204359,braseriea,2013-2014,30.11.2014,Chapecoense,Cruzeiro EC,1:1
+2204354,braseriea,2013-2014,30.11.2014,Atlético Paranaense,Goiás EC,1:0
+2204355,braseriea,2013-2014,30.11.2014,EC Bahia,Grêmio Porto Alegre,1:0
+2204358,braseriea,2013-2014,30.11.2014,Atlético Mineiro,Coritiba FC,1:2
+2204362,braseriea,2013-2014,06.12.2014,Corinthians SP,Criciúma EC,2:1
+2204368,braseriea,2013-2014,06.12.2014,Figueirense,Internacional,1:2
+2204360,braseriea,2013-2014,07.12.2014,Botafogo RJ,Atlético Mineiro,0:0
+2204361,braseriea,2013-2014,07.12.2014,Sport Club Recife,São Paulo FC,1:0
+2204363,braseriea,2013-2014,07.12.2014,SE Palmeiras,Atlético Paranaense,1:1
+2204364,braseriea,2013-2014,07.12.2014,Coritiba FC,EC Bahia,3:2
+2204365,braseriea,2013-2014,07.12.2014,Cruzeiro EC,Fluminense RJ,2:1
+2204366,braseriea,2013-2014,07.12.2014,EC Vitória BA,Santos FC,0:1
+2204367,braseriea,2013-2014,07.12.2014,Grêmio Porto Alegre,Flamengo RJ,1:1
+2204369,braseriea,2013-2014,07.12.2014,Goiás EC,Chapecoense,4:2

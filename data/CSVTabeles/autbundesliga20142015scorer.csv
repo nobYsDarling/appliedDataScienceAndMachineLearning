@@ -1,0 +1,528 @@
+GameID,Minute,Scorer,Team
+2217251,30,Andreas Ulmer,RB Salzburg
+2217251,40,Alan,RB Salzburg
+2217251,69,Sadio Mané,RB Salzburg
+2217251,77,Jonathan Soriano,RB Salzburg
+2217251,79,Jonathan Soriano,RB Salzburg
+2217251,84,Kevin Kampl,RB Salzburg
+2217251,90,Steffen Hofmann,Rapid Wien
+2217252,4,Clemens Walch,SV Ried
+2217252,69,Patrick Möschl,SV Ried
+2217252,82,Harald Pichler,SV Ried
+2217252,66,Tobias Kainz,SC Wiener Neustadt
+2217253,45,René Schicker,FC Admira Wacker
+2217253,36,Peter Žulj,Wolfsberger AC
+2217253,63,Tadej Trdina,Wolfsberger AC
+2217253,74,Christopher Wernitznig,Wolfsberger AC
+2217253,78,Christopher Wernitznig,Wolfsberger AC
+2217254,68,Felix Roth,SCR Altach
+2217255,90,Ola Kamara,Austria Wien
+2217255,54,Daniel Schütz,SV Grödig
+2217257,15,Christopher Wernitznig,Wolfsberger AC
+2217257,49,Nemanja Rnić,Wolfsberger AC
+2217257,68,Jacobo,Wolfsberger AC
+2217257,90,Silvio,Wolfsberger AC
+2217256,63,Deni Alar,Rapid Wien
+2217258,15,Marcel Sabitzer,RB Salzburg
+2217258,47,Jonathan Soriano,RB Salzburg
+2217258,53,Christian Schwegler,RB Salzburg
+2217258,55,Kevin Kampl,RB Salzburg
+2217258,75,Jonathan Soriano,RB Salzburg
+2217260,80,Tomi,SV Grödig
+2217260,87,Yordy Reyna,SV Grödig
+2217260,39,Daniel Beichler,Sturm Graz
+2217259,37,Stephan Zwierschitz,FC Admira Wacker
+2217259,72,René Schicker,FC Admira Wacker
+2217265,7,Thorsten Schick,FC Admira Wacker
+2217265,63,Florian Kainz,Rapid Wien
+2217263,10,Marco Djuricin,Sturm Graz
+2217263,59,Marco Djuricin,Sturm Graz
+2217263,68,Christian Klem,Sturm Graz
+2217263,74,Daniel Offenbacher,Sturm Graz
+2217263,12,Daniel Schöpf,SC Wiener Neustadt
+2217263,22,Herbert Rauter,SC Wiener Neustadt
+2217264,50,Franz Schiemer,RB Salzburg
+2217264,90,Massimo Bruno,RB Salzburg
+2217261,44,Peter Žulj,Wolfsberger AC
+2217261,68,Boris Hüttenbrenner,Wolfsberger AC
+2217270,24,Daniel Schöpf,SC Wiener Neustadt
+2217270,30,Herbert Rauter,SC Wiener Neustadt
+2217270,9,Omer Damari,Austria Wien
+2217270,45,Alexander Grünwald,Austria Wien
+2217268,49,Robert Berić,Rapid Wien
+2217268,82,Marco Djuricin,Sturm Graz
+2217269,45,Harald Pichler,SV Ried
+2217269,56,Stephan Auer,FC Admira Wacker
+2217271,54,Hannes Aigner,SCR Altach
+2217271,52,Tadej Trdina,Wolfsberger AC
+2217271,84,Jacobo,Wolfsberger AC
+2217267,13,Jonathan Soriano,RB Salzburg
+2217267,20,Sadio Mané,RB Salzburg
+2217267,22,Marcel Sabitzer,RB Salzburg
+2217267,39,Jonathan Soriano,RB Salzburg
+2217267,44,Jonathan Soriano,RB Salzburg
+2217267,54,Jonathan Soriano,RB Salzburg
+2217267,65,Jonathan Soriano,RB Salzburg
+2217267,74,Valentino Lazaro,RB Salzburg
+2217272,70,Louis NGwat-Mahop,SCR Altach
+2217273,26,Stefan Nutz,SV Grödig
+2217273,81,Yordy Reyna,SV Grödig
+2217273,86,Roman Wallner,SV Grödig
+2217275,22,Tadej Trdina,Wolfsberger AC
+2217275,35,Christopher Wernitznig,Wolfsberger AC
+2217275,37,Boris Hüttenbrenner,Wolfsberger AC
+2217275,73,Manuel Kerhe,Wolfsberger AC
+2217275,10,Oliver Kragl,SV Ried
+2217276,24,Massimo Bruno,RB Salzburg
+2217276,50,Christian Schwegler,RB Salzburg
+2217276,74,Marcel Sabitzer,RB Salzburg
+2217274,51,David Schloffer,Sturm Graz
+2217274,8,Daniel Royer,Austria Wien
+2217279,52,Marco Djuricin,Sturm Graz
+2217279,66,Manuel Kerhe,Wolfsberger AC
+2217279,77,Joachim Standfest,Wolfsberger AC
+2217277,12,Jonathan Soriano,RB Salzburg
+2217277,17,Massimo Bruno,RB Salzburg
+2217277,38,Alan,RB Salzburg
+2217277,77,Alan,RB Salzburg
+2217277,90,Valentino Lazaro,RB Salzburg
+2217278,25,Conor OBrien,SC Wiener Neustadt
+2217278,47,Kristijan Dobras,SC Wiener Neustadt
+2217278,75,Herbert Rauter,SC Wiener Neustadt
+2217278,79,Mario Ebenhofer,SC Wiener Neustadt
+2217278,86,Osman Ali,SC Wiener Neustadt
+2217278,37,Eldis Bajrami,FC Admira Wacker
+2217278,56,René Schicker,FC Admira Wacker
+2217278,66,Eldis Bajrami,FC Admira Wacker
+2217278,90,Issiaka Ouédraogo,FC Admira Wacker
+2217280,74,Thomas Fröschl,SV Ried
+2217280,90,Dieter Elsneg,SV Ried
+2217280,26,Yordy Reyna,SV Grödig
+2217280,30,Daniel Schütz,SV Grödig
+2217281,1,Alexander Gorgon,Austria Wien
+2217281,63,Omer Damari,Austria Wien
+2217281,35,Robert Berić,Rapid Wien
+2217281,85,Stefan Schwab,Rapid Wien
+2217282,36,Kevin Kampl,RB Salzburg
+2217282,55,Jonathan Soriano,RB Salzburg
+2217282,4,Marko Stanković,Sturm Graz
+2217282,14,Marko Stanković,Sturm Graz
+2217282,90,Marco Djuricin,Sturm Graz
+2217283,4,Hannes Aigner,SCR Altach
+2217283,90,Louis NGwat-Mahop,SCR Altach
+2217283,65,Denis Streker,SV Ried
+2217283,68,Julius Perstaller,SV Ried
+2217284,85,Christoph Freitag,SC Wiener Neustadt
+2217285,43,Eldis Bajrami,FC Admira Wacker
+2217285,45,Stephan Zwierschitz,FC Admira Wacker
+2217285,51,Alexander Grünwald,Austria Wien
+2217286,15,Thomas Schrammel,Rapid Wien
+2217286,61,Steffen Hofmann,Rapid Wien
+2217288,14,Omer Damari,Austria Wien
+2217288,38,Daniel Royer,Austria Wien
+2217288,56,Omer Damari,Austria Wien
+2217288,36,Denis Thomalla,SV Ried
+2217289,40,Stephan Zwierschitz,FC Admira Wacker
+2217289,60,Lukas Thürauer,FC Admira Wacker
+2217290,26,Tadej Trdina,Wolfsberger AC
+2217287,17,Roman Wallner,SV Grödig
+2217287,35,Yordy Reyna,SV Grödig
+2217287,54,Philipp Huspek,SV Grödig
+2217287,63,Andreas Lienhart,SCR Altach
+2217287,73,Ivan Kovačec,SCR Altach
+2217287,87,Philipp Netzer,SCR Altach
+2217291,23,Herbert Rauter,SC Wiener Neustadt
+2217291,3,Robert Berić,Rapid Wien
+2217291,48,Louis Schaub,Rapid Wien
+2217291,55,Robert Berić,Rapid Wien
+2217291,72,Louis Schaub,Rapid Wien
+2217291,80,Maximilian Hofmann,Rapid Wien
+2217293,37,Robert Berić,Rapid Wien
+2217293,48,Robert Berić,Rapid Wien
+2217293,61,Florian Kainz,Rapid Wien
+2217294,85,Lukas Spendlhofer,Sturm Graz
+2217296,13,Philipp Netzer,SCR Altach
+2217296,55,Hannes Aigner,SCR Altach
+2217292,31,Alan,RB Salzburg
+2217292,68,Alan,RB Salzburg
+2217292,34,Marco Meilinger,Austria Wien
+2217292,38,De Paula,Austria Wien
+2217292,86,Omer Damari,Austria Wien
+2217299,14,Daniel Offenbacher,Sturm Graz
+2217299,20,Daniel Beichler,Sturm Graz
+2217299,5,Hannes Aigner,SCR Altach
+2217299,52,Andreas Lienhart,SCR Altach
+2217300,3,Peter Žulj,Wolfsberger AC
+2217300,89,Joachim Standfest,Wolfsberger AC
+2217300,51,Benjamin Sulimani,FC Admira Wacker
+2217301,69,Denis Thomalla,SV Ried
+2217297,90,Philipp Prosenik,Rapid Wien
+2217297,84,Massimo Bruno,RB Salzburg
+2217297,89,Alan,RB Salzburg
+2217304,27,Peter Žulj,Wolfsberger AC
+2217304,90,Manuel Weber,Wolfsberger AC
+2217305,83,Marco Djuricin,Sturm Graz
+2217307,19,Andreas Lienhart,SCR Altach
+2217307,62,Patrick Seeger,SCR Altach
+2217306,45,Oliver Kragl,SV Ried
+2217306,52,Robert Berić,Rapid Wien
+2217306,59,Mario Sonnleitner,Rapid Wien
+2217303,3,Peter Ankersen,RB Salzburg
+2217303,22,Marcel Sabitzer,RB Salzburg
+2217303,77,Jonathan Soriano,RB Salzburg
+2217303,85,Kevin Kampl,RB Salzburg
+2217303,31,Herbert Rauter,SC Wiener Neustadt
+2217308,13,Jonathan Soriano,RB Salzburg
+2217308,45,Jonathan Soriano,RB Salzburg
+2217308,84,Marcel Sabitzer,RB Salzburg
+2217308,90,Marcel Sabitzer,RB Salzburg
+2217308,43,Denis Thomalla,SV Ried
+2217308,62,Clemens Walch,SV Ried
+2217310,10,Boris Hüttenbrenner,Wolfsberger AC
+2217310,57,Maximilian Karner,SV Grödig
+2217310,78,Marvin Potzmann,SV Grödig
+2217312,3,Emanuel Schreiner,SCR Altach
+2217312,5,Jens Stryger Larsen,Austria Wien
+2217315,47,Thorsten Schick,Sturm Graz
+2217315,36,Stefan Schwab,Rapid Wien
+2217315,44,Robert Berić,Rapid Wien
+2217315,67,Christopher Dibon,Rapid Wien
+2217314,12,Daniel Royer,Austria Wien
+2217314,24,Alexander Grünwald,Austria Wien
+2217313,7,Yordy Reyna,SV Grödig
+2217313,37,Philipp Huspek,SV Grödig
+2217313,22,Kevin Kampl,RB Salzburg
+2217313,81,Marcel Sabitzer,RB Salzburg
+2217319,15,Marko Stanković,Sturm Graz
+2217319,42,Marco Djuricin,Sturm Graz
+2217319,54,Marco Djuricin,Sturm Graz
+2217318,3,Jonathan Soriano,RB Salzburg
+2217318,40,Jonathan Soriano,RB Salzburg
+2217320,68,Thomas Murg,SV Ried
+2217322,25,Felix Roth,SCR Altach
+2217322,88,Ismael Tajouri,SCR Altach
+2217321,31,Kristijan Dobras,SC Wiener Neustadt
+2217321,88,Michael Tieber,SC Wiener Neustadt
+2217321,4,Yordy Reyna,SV Grödig
+2217321,8,Yordy Reyna,SV Grödig
+2217321,40,Yordy Reyna,SV Grödig
+2217321,83,Christoph Martschinko,SV Grödig
+2217325,2,Thorsten Schick,Sturm Graz
+2217325,90,Daniel Offenbacher,Sturm Graz
+2217324,83,Julius Perstaller,SV Ried
+2217326,21,Lukas Thürauer,FC Admira Wacker
+2217326,61,Kristijan Dobras,SC Wiener Neustadt
+2217323,83,Deni Alar,Rapid Wien
+2217323,90,Robert Berić,Rapid Wien
+2217323,23,Omer Damari,Austria Wien
+2217323,40,Omer Damari,Austria Wien
+2217323,78,Daniel Royer,Austria Wien
+2217327,4,Hannes Aigner,SCR Altach
+2217327,61,Ismael Tajouri,SCR Altach
+2217327,81,Ivan Kovačec,SCR Altach
+2217327,84,Louis NGwat-Mahop,SCR Altach
+2217327,53,Massimo Bruno,RB Salzburg
+2217328,6,Yordy Reyna,SV Grödig
+2217328,45,Philipp Huspek,SV Grödig
+2217328,73,Philipp Huspek,SV Grödig
+2217328,14,Deni Alar,Rapid Wien
+2217329,61,Omer Damari,Austria Wien
+2217329,68,Daniel Royer,Austria Wien
+2217329,71,Alexander Gorgon,Austria Wien
+2217329,82,Alexander Gorgon,Austria Wien
+2217331,10,Denis Thomalla,SV Ried
+2217331,90,Thomas Fröschl,SV Ried
+2217331,87,Patrick Seeger,SCR Altach
+2217332,47,Stefan Maierhofer,SC Wiener Neustadt
+2217332,75,Conor OBrien,SC Wiener Neustadt
+2217330,80,Marco Djuricin,Sturm Graz
+2217330,8,Massimo Bruno,RB Salzburg
+2217330,53,Jonathan Soriano,RB Salzburg
+2217335,90,Toni Vastić,SV Ried
+2217335,8,Alexander Gorgon,Austria Wien
+2217334,13,Florian Kainz,Rapid Wien
+2217334,73,Robert Berić,Rapid Wien
+2217334,78,Robert Berić,Rapid Wien
+2217336,25,Marco Djuricin,Sturm Graz
+2217336,37,Simon Piesinger,Sturm Graz
+2217337,20,Louis NGwat-Mahop,SCR Altach
+2217337,35,Louis NGwat-Mahop,SCR Altach
+2217337,82,Patrick Seeger,SCR Altach
+2217337,6,Daniel Schütz,SV Grödig
+2217333,87,Jonathan Soriano,RB Salzburg
+2217333,90,Jonathan Soriano,RB Salzburg
+2217333,28,Christopher Wernitznig,Wolfsberger AC
+2217333,66,Roland Putsche,Wolfsberger AC
+2217339,3,Alexander Gorgon,Austria Wien
+2217339,21,Alexander Grünwald,Austria Wien
+2217339,52,Alan,RB Salzburg
+2217339,58,Alan,RB Salzburg
+2217339,60,Alan,RB Salzburg
+2217339,68,Marcel Sabitzer,RB Salzburg
+2217338,2,Yordy Reyna,SV Grödig
+2217338,23,Daniel Schütz,SV Grödig
+2217338,37,Yordy Reyna,SV Grödig
+2217338,44,Stefan Nutz,SV Grödig
+2217338,68,Stefan Nutz,SV Grödig
+2217340,16,Marco Djuricin,Sturm Graz
+2217340,50,Simon Piesinger,Sturm Graz
+2217340,42,Gernot Trauner,SV Ried
+2217340,55,Oliver Kragl,SV Ried
+2217342,54,Kristijan Dobras,SC Wiener Neustadt
+2217342,89,Conor OBrien,SC Wiener Neustadt
+2217341,65,René Seebacher,Wolfsberger AC
+2217341,70,Stefan Schwab,Rapid Wien
+2217347,45,Ismael Tajouri,SCR Altach
+2217347,90,Ivan Kovačec,SCR Altach
+2217344,77,Marko Kvasina,Austria Wien
+2217345,21,Stefan Lainer,SV Ried
+2217345,40,Thomas Murg,SV Ried
+2217345,48,Clemens Walch,SV Ried
+2217345,77,Julius Perstaller,SV Ried
+2217345,82,Julius Perstaller,SV Ried
+2217345,90,Patrick Möschl,SV Ried
+2217346,42,Richard Windbichler,FC Admira Wacker
+2217346,79,Lukas Thürauer,FC Admira Wacker
+2217346,51,Tadej Trdina,Wolfsberger AC
+2217343,84,Marcel Sabitzer,RB Salzburg
+2217343,80,Robert Berić,Rapid Wien
+2217343,90,Robert Berić,Rapid Wien
+2217348,17,Deni Alar,Rapid Wien
+2217348,39,Deni Alar,Rapid Wien
+2217348,45,Robert Berić,Rapid Wien
+2217351,50,Jonathan Soriano,RB Salzburg
+2217351,67,Jonathan Soriano,RB Salzburg
+2217352,9,Louis NGwat-Mahop,SCR Altach
+2217352,76,Ivan Kovačec,SCR Altach
+2217350,9,Michael Berger,Wolfsberger AC
+2217349,28,Roman Kienast,Sturm Graz
+2217349,68,Lukas Spendlhofer,Sturm Graz
+2217354,13,Fabian Koch,Austria Wien
+2217354,24,Alexander Gorgon,Austria Wien
+2217354,54,Raphael Holzhauser,Austria Wien
+2217354,68,Alexander Gorgon,Austria Wien
+2217354,86,Patrizio Stronati,Austria Wien
+2217354,62,Hannes Aigner,SCR Altach
+2217354,63,Hannes Aigner,SCR Altach
+2217355,50,Roman Kienast,Sturm Graz
+2217355,58,Michael Madl,Sturm Graz
+2217355,83,Martin Ehrenreich,Sturm Graz
+2217355,7,Philip Hellquist,SC Wiener Neustadt
+2217355,36,Philip Hellquist,SC Wiener Neustadt
+2217355,88,Dominik Hofbauer,SC Wiener Neustadt
+2217356,52,Denis Thomalla,SV Ried
+2217356,65,Denis Thomalla,SV Ried
+2217356,33,Felipe Pires,RB Salzburg
+2217356,68,Naby Keïta,RB Salzburg
+2217357,74,Thomas Weber,FC Admira Wacker
+2217357,34,Robert Berić,Rapid Wien
+2217353,56,Maximilian Karner,SV Grödig
+2217353,90,Sunday Emmanuel,SV Grödig
+2217362,21,Hannes Aigner,SCR Altach
+2217359,45,Robert Berić,Rapid Wien
+2217360,80,Denis Thomalla,SV Ried
+2217360,90,Petar Filipović,SV Ried
+2217360,66,Stephan Zwierschitz,FC Admira Wacker
+2217360,84,Benjamin Sulimani,FC Admira Wacker
+2217361,34,Conor OBrien,SC Wiener Neustadt
+2217358,1,Marcel Sabitzer,RB Salzburg
+2217358,59,Naby Keïta,RB Salzburg
+2217358,77,Marcel Sabitzer,RB Salzburg
+2217358,40,Tomi,SV Grödig
+2217365,70,Simon Piesinger,Sturm Graz
+2217365,90,Simon Piesinger,Sturm Graz
+2217365,59,Alexander Grünwald,Austria Wien
+2217363,90,Philipp Prosenik,Rapid Wien
+2217364,81,Thomas Goiginger,SV Grödig
+2217364,40,Kristijan Dobras,SC Wiener Neustadt
+2217364,63,Philip Hellquist,SC Wiener Neustadt
+2217364,73,Mattias Sereinig,SC Wiener Neustadt
+2217366,9,Roland Putsche,Wolfsberger AC
+2217366,29,Patrick Möschl,SV Ried
+2217366,56,Bernhard Janeczek,SV Ried
+2217367,90,René Schicker,FC Admira Wacker
+2217367,12,Marcel Sabitzer,RB Salzburg
+2217367,38,Takumi Minamino,RB Salzburg
+2217367,70,Takumi Minamino,RB Salzburg
+2217367,90,Valon Berisha,RB Salzburg
+2217370,64,Roman Kienast,Sturm Graz
+2217370,80,Thorsten Schick,Sturm Graz
+2217368,50,Ismael Tajouri,SCR Altach
+2217371,78,Gernot Trauner,SV Ried
+2217371,13,Ione Cabrera,SV Grödig
+2217371,45,Sunday Emmanuel,SV Grödig
+2217369,45,Lukas Rotpuller,Austria Wien
+2217369,84,Vanče Šikov,Austria Wien
+2217369,17,Steffen Hofmann,Rapid Wien
+2217376,85,Markus Katzer,FC Admira Wacker
+2217376,82,Markus Suttner,Austria Wien
+2217374,4,Mario Pavelić,Rapid Wien
+2217374,9,Louis Schaub,Rapid Wien
+2217374,47,Florian Kainz,Rapid Wien
+2217374,67,Philipp Schobesberger,Rapid Wien
+2217375,43,Tadej Trdina,Wolfsberger AC
+2217375,57,Manuel Weber,Wolfsberger AC
+2217377,32,Philipp Netzer,SCR Altach
+2217377,47,Stefan Lainer,SV Ried
+2217377,60,Thomas Reifeltshammer,SV Ried
+2217373,12,Marco Djuricin,RB Salzburg
+2217373,76,Naby Keïta,RB Salzburg
+2217373,23,Simon Piesinger,Sturm Graz
+2217380,80,Denis Thomalla,SV Ried
+2217379,56,Emanuel Schreiner,SCR Altach
+2217381,28,Donis Avdijaj,Sturm Graz
+2217381,69,Simon Piesinger,Sturm Graz
+2217381,85,Marko Stanković,Sturm Graz
+2217381,75,René Schicker,FC Admira Wacker
+2217382,8,Jacobo,Wolfsberger AC
+2217382,45,Silvio,Wolfsberger AC
+2217382,90,Manuel Kerhe,Wolfsberger AC
+2217382,27,Jonathan Soriano,RB Salzburg
+2217382,41,Jonathan Soriano,RB Salzburg
+2217383,48,Robert Berić,Rapid Wien
+2217384,1,Marcel Sabitzer,RB Salzburg
+2217384,23,Valentino Lazaro,RB Salzburg
+2217384,74,Valentino Lazaro,RB Salzburg
+2217384,6,De Paula,Austria Wien
+2217385,13,Philipp Schobesberger,Rapid Wien
+2217385,15,Stefan Schwab,Rapid Wien
+2217385,65,Robert Berić,Rapid Wien
+2217385,86,Robert Berić,Rapid Wien
+2217385,67,Jacobo,Wolfsberger AC
+2217387,5,Richard Windbichler,FC Admira Wacker
+2217387,24,Konstantin Kerschbaumer,FC Admira Wacker
+2217387,27,Maximilian Karner,SV Grödig
+2217387,35,Stefan Nutz,SV Grödig
+2217387,75,Florian Hart,SV Grödig
+2217386,77,Thomas Fröschl,SV Ried
+2217386,64,Roman Kienast,Sturm Graz
+2217386,76,Donis Avdijaj,Sturm Graz
+2217388,6,Louis NGwat-Mahop,SCR Altach
+2217388,33,Patrick Seeger,SCR Altach
+2217388,57,Louis NGwat-Mahop,SCR Altach
+2217388,47,Adam Sušac,SC Wiener Neustadt
+2217391,9,Thorsten Schick,Sturm Graz
+2217391,44,Donis Avdijaj,Sturm Graz
+2217391,62,Roman Kienast,Sturm Graz
+2217391,63,Andreas Gruber,Sturm Graz
+2217391,82,Andreas Gruber,Sturm Graz
+2217390,56,Stefan Nutz,SV Grödig
+2217390,15,Marko Kvasina,Austria Wien
+2217392,43,Daniel Drescher,Wolfsberger AC
+2217392,70,Manuel Seidl,Wolfsberger AC
+2217393,8,Clemens Walch,SV Ried
+2217389,51,Robert Berić,Rapid Wien
+2217389,59,Philipp Schobesberger,Rapid Wien
+2217389,90,Philipp Prosenik,Rapid Wien
+2217389,3,Valon Berisha,RB Salzburg
+2217389,18,Jonathan Soriano,RB Salzburg
+2217389,32,Marcel Sabitzer,RB Salzburg
+2217397,36,Philipp Schobesberger,Rapid Wien
+2217394,28,Naby Keïta,RB Salzburg
+2217394,32,Valon Berisha,RB Salzburg
+2217394,61,Jonathan Soriano,RB Salzburg
+2217394,66,Marcel Sabitzer,RB Salzburg
+2217394,67,Jonathan Soriano,RB Salzburg
+2217394,90,Martin Hinteregger,RB Salzburg
+2217396,20,Simon Piesinger,Sturm Graz
+2217396,90,Roman Kienast,Sturm Graz
+2217396,31,Matthias Maak,SV Grödig
+2217398,57,Richard Windbichler,FC Admira Wacker
+2217398,79,Issiaka Ouédraogo,FC Admira Wacker
+2217398,45,Hannes Aigner,SCR Altach
+2217398,62,Hannes Aigner,SCR Altach
+2217395,51,Alexander Grünwald,Austria Wien
+2217395,29,Peter Žulj,Wolfsberger AC
+2217399,15,Naby Keïta,RB Salzburg
+2217399,40,Jonathan Soriano,RB Salzburg
+2217399,72,Julius Perstaller,SV Ried
+2217400,70,Philipp Schobesberger,Rapid Wien
+2217400,80,Benjamin Sulimani,FC Admira Wacker
+2217401,15,Silvio,Wolfsberger AC
+2217401,57,Christopher Wernitznig,Wolfsberger AC
+2217401,90,Tomi,SV Grödig
+2217402,19,Reinhold Ranftl,SC Wiener Neustadt
+2217402,31,Philip Hellquist,SC Wiener Neustadt
+2217402,65,Reinhold Ranftl,SC Wiener Neustadt
+2217402,73,Tobias Kainz,SC Wiener Neustadt
+2217402,51,Donis Avdijaj,Sturm Graz
+2217402,52,Simon Piesinger,Sturm Graz
+2217402,89,Donis Avdijaj,Sturm Graz
+2217402,90,Roman Kienast,Sturm Graz
+2217403,14,Boris Prokopič,SCR Altach
+2217403,16,Felix Roth,SCR Altach
+2217408,72,Silvio,Wolfsberger AC
+2217408,90,Tadej Trdina,Wolfsberger AC
+2217404,24,Jonathan Soriano,RB Salzburg
+2217404,59,Jonathan Soriano,RB Salzburg
+2217404,90,Takumi Minamino,RB Salzburg
+2217405,27,De Paula,Austria Wien
+2217405,37,Alexander Grünwald,Austria Wien
+2217405,73,Dominik Hofbauer,SC Wiener Neustadt
+2217409,28,Benjamin Sulimani,FC Admira Wacker
+2217407,16,Simon Piesinger,Sturm Graz
+2217407,70,Daniel Beichler,Sturm Graz
+2217407,8,Philipp Schobesberger,Rapid Wien
+2217407,54,Thanos Petsos,Rapid Wien
+2217410,12,Jonathan Soriano,RB Salzburg
+2217410,33,Andreas Ulmer,RB Salzburg
+2217410,66,Marcel Sabitzer,RB Salzburg
+2217410,68,Marcel Sabitzer,RB Salzburg
+2217412,20,Clemens Walch,SV Ried
+2217412,40,Petar Filipović,SV Ried
+2217412,58,Denis Thomalla,SV Ried
+2217412,88,Thomas Fröschl,SV Ried
+2217413,39,Reinhold Ranftl,SC Wiener Neustadt
+2217413,79,Reinhold Ranftl,SC Wiener Neustadt
+2217413,28,Tomi,SV Grödig
+2217413,36,Philipp Huspek,SV Grödig
+2217413,76,Stefan Nutz,SV Grödig
+2217413,88,Philipp Huspek,SV Grödig
+2217414,25,Felix Roth,SCR Altach
+2217414,79,Robert Berić,Rapid Wien
+2217414,86,Robert Berić,Rapid Wien
+2217414,89,Philipp Schobesberger,Rapid Wien
+2217419,28,Hannes Aigner,SCR Altach
+2217419,75,Hannes Aigner,SCR Altach
+2217419,1,Valon Berisha,RB Salzburg
+2217419,87,Marcel Sabitzer,RB Salzburg
+2217416,5,Robert Völkl,SV Grödig
+2217416,61,Tomi,SV Grödig
+2217416,66,Christoph Martschinko,SV Grödig
+2217416,8,Stefan Lainer,SV Ried
+2217416,62,Denis Thomalla,SV Ried
+2217417,65,Manuel Kerhe,Wolfsberger AC
+2217415,45,Philipp Schobesberger,Rapid Wien
+2217415,55,Steffen Hofmann,Rapid Wien
+2217415,70,Robert Berić,Rapid Wien
+2217415,89,Mario Sonnleitner,Rapid Wien
+2217415,52,De Paula,Austria Wien
+2217423,19,Thomas Fröschl,SV Ried
+2217423,29,Thomas Fröschl,SV Ried
+2217423,35,Thomas Fröschl,SV Ried
+2217423,70,Thomas Murg,SV Ried
+2217423,68,Boris Prokopič,SCR Altach
+2217421,83,Christoph Schösswendter,FC Admira Wacker
+2217424,45,Dominik Hofbauer,SC Wiener Neustadt
+2217424,70,Reinhold Ranftl,SC Wiener Neustadt
+2217420,83,Robert Berić,Rapid Wien
+2217420,90,Deni Alar,Rapid Wien
+2217425,5,Marcel Sabitzer,RB Salzburg
+2217425,12,André Ramalho,RB Salzburg
+2217425,52,Jonathan Soriano,RB Salzburg
+2217427,76,Marko Kvasina,Austria Wien
+2217427,90,Alexander Gorgon,Austria Wien
+2217428,16,Richard Windbichler,FC Admira Wacker
+2217428,52,Donis Avdijaj,Sturm Graz
+2217428,70,Anel Hadžić,Sturm Graz
+2217429,55,Darko Bodul,SCR Altach
+2217429,59,Benedikt Zech,SCR Altach
+2217430,77,Toni Vastić,FC Admira Wacker
+2217432,69,Philipp Zulechner,Austria Wien
+2217432,76,Marco Djuricin,RB Salzburg
+2217434,50,Louis Schaub,Rapid Wien
+2217434,63,Robert Berić,Rapid Wien
+2217434,83,Robert Berić,Rapid Wien
+2217434,85,Robert Berić,Rapid Wien
+2217434,90,Louis Schaub,Rapid Wien
+2217435,57,Boris Prokopič,SCR Altach

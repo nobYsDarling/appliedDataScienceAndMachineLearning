@@ -1,0 +1,1838 @@
+GameID,Minute,Player,Team,Card
+8453221,35,Gastón Bojanich,Tigre,yellow
+8453221,36,Maximiliano Caire,Tigre,yellow
+8453221,40,Denis Stracqualursi,Tigre,yellow
+8453221,37,Gastón Díaz,Vélez Sarsfield,yellow
+8453221,55,Leandro Desábato,Vélez Sarsfield,yellow
+8453221,66,Fabián Cubero,Vélez Sarsfield,yellow
+8453221,83,Santiago Cáseres,Vélez Sarsfield,yellow
+8453219,71,Nicolás Bertolo,Banfield,yellow
+8453219,66,Santiago Martínez,Belgrano de Córdoba,yellow
+8453219,80,Tomás Guidara,Belgrano de Córdoba,yellow-red
+8453219,90,Marcelo Benítez,Belgrano de Córdoba,yellow
+8453219,90,Fabricio Brener,Belgrano de Córdoba,yellow
+8453226,63,Hugo Silva,Defensa y Justicia,yellow
+8453226,82,Luis Jerez Silva,Defensa y Justicia,yellow
+8453226,89,Rafael Delgado,Defensa y Justicia,yellow-red
+8453226,32,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8453226,87,Manuel Guanini,Gimnasia de La Plata,yellow
+8453218,19,Nicolás Leguizamón,Colón de Santa Fe,yellow
+8453218,56,Germán Conti,Colón de Santa Fe,yellow
+8453218,71,Guillermo Ortíz,Colón de Santa Fe,yellow
+8453218,90,Pablo Ledesma,Colón de Santa Fe,yellow
+8453218,22,Santiago Romero,Rosario Central,yellow
+8453218,69,Fernando Zampedri,Rosario Central,yellow
+8453218,81,Germán Herrera,Rosario Central,yellow
+8453222,21,Leonardo Godoy,Talleres de Córdoba,yellow
+8453222,16,Maximiliano Velázquez,Lanús,yellow
+8453222,61,Diego Braghieri,Lanús,yellow
+8453229,72,Fabricio Bustos,Independiente,yellow
+8453229,29,Lucio Compagnucci,Huracán,yellow
+8453229,82,Lucas Villalba,Huracán,yellow
+8453227,28,Gustavo Villarruel,San Martín de San Juan,yellow
+8453227,67,Arián Pucheta,San Martín de San Juan,yellow
+8453227,35,Walter Andrade,Patronato de Paraná,yellow
+8453227,82,Gonzalo Di Renzo,Patronato de Paraná,yellow
+8453223,30,Rodrigo Aliendro,Atlético Tucumán,yellow
+8453223,59,Luis Rodríguez,Atlético Tucumán,yellow
+8453223,12,Gastón Giménez,Godoy Cruz,yellow
+8453223,43,Javier Correa,Godoy Cruz,yellow
+8453223,87,Fabricio Angileri,Godoy Cruz,yellow-red
+8453228,70,Matías Caruzzo,San Lorenzo,yellow
+8453228,90,Gonzalo Rodríguez,San Lorenzo,yellow
+8453228,37,Augusto Solari,Racing Club,yellow
+8453228,62,Santiago Rosales,Racing Club,yellow
+8453228,90,Lucas Orbán,Racing Club,yellow
+8453217,53,Cristian Nasuti,Olimpo de Bahía Blanca,yellow
+8453217,84,Cristian Villanueva,Olimpo de Bahía Blanca,yellow
+8453230,25,Marcos Figueroa,Temperley,yellow
+8453230,66,Emiliano Ozuna,Temperley,yellow
+8453230,90,Maximiliano Lugo,Temperley,red
+8453230,43,Milton Casco,River Plate,yellow
+8453230,45,Ignacio Fernández,River Plate,yellow
+8453230,60,Leonardo Ponzio,River Plate,yellow
+8453230,90,Jonatan Maidana,River Plate,yellow
+8453225,13,Mauro Guevgeozian,Newells Old Boys,yellow
+8453225,38,Juan Sills,Newells Old Boys,yellow
+8453225,90,José San Román,Newells Old Boys,yellow
+8453225,1,Claudio Aquino,Unión de Santa Fe,yellow
+8453225,73,Yeimar Gómez,Unión de Santa Fe,yellow
+8453231,90,Fernando Zuqui,Estudiantes,yellow
+8453231,11,Ramiro Carrera,Arsenal de Sarandí,yellow
+8453231,34,Marcos Curado,Arsenal de Sarandí,yellow
+8453231,61,Emiliano Papa,Arsenal de Sarandí,yellow
+8453231,74,Iván Bella,Arsenal de Sarandí,yellow
+8453231,79,Maximiliano Calzada,Arsenal de Sarandí,yellow
+8453220,9,Francis Mac Allister,Argentinos Juniors,yellow
+8453220,86,Camilo Saiz,Argentinos Juniors,yellow
+8453220,22,Juan Martín Imbert,Chacarita Juniors,yellow
+8453220,35,Agustín Módula,Chacarita Juniors,yellow
+8453220,62,Federico Rosso,Chacarita Juniors,yellow
+8453232,72,Matías Vargas,Vélez Sarsfield,yellow
+8453232,62,Nahuel Zárate,Atlético Tucumán,yellow-red
+8453232,71,Gonzalo Freitas,Atlético Tucumán,yellow
+8453232,86,Yonathan Cabral,Atlético Tucumán,yellow
+8453242,79,Iván Bella,Arsenal de Sarandí,yellow
+8453242,51,Germán Conti,Colón de Santa Fe,yellow
+8453233,44,Cristian Nasuti,Olimpo de Bahía Blanca,yellow
+8453233,60,Nery Domínguez,Independiente,yellow
+8453237,52,Christian Lema,Belgrano de Córdoba,yellow
+8453237,72,Juan Brunetta,Belgrano de Córdoba,yellow
+8453237,74,Matías Suárez,Belgrano de Córdoba,yellow
+8453237,85,Santiago Martínez,Belgrano de Córdoba,yellow
+8453237,3,Arián Pucheta,San Martín de San Juan,yellow
+8453237,60,Mauricio Casierra,San Martín de San Juan,yellow
+8453244,2,Jonathan Schunke,Estudiantes,yellow
+8453244,90,Lucas Diarte,Estudiantes,yellow
+8453244,90,Fernando Zuqui,Estudiantes,yellow
+8453244,59,Hugo Silva,Defensa y Justicia,yellow
+8453244,69,Fernando Márquez,Defensa y Justicia,yellow
+8453244,90,Gabriel Arias,Defensa y Justicia,yellow
+8453239,5,Damián Lemos,Patronato de Paraná,yellow
+8453239,32,Luca Sosa,Patronato de Paraná,yellow
+8453239,55,Leonel Mosevich,Argentinos Juniors,yellow
+8453239,59,Gonzalo Piovi,Argentinos Juniors,yellow
+8453240,42,Alexis Soto,Racing Club,yellow
+8453240,33,Emiliano Ozuna,Temperley,yellow
+8453240,37,Josué Díaz Ayala,Temperley,yellow
+8453240,54,Gastón Aguirre,Temperley,yellow
+8453240,75,Rodrigo De Ciancio,Temperley,yellow
+8453240,77,Ramiro Costa,Temperley,yellow
+8453238,56,Germán Ré,Chacarita Juniors,yellow
+8453238,69,Ijiel Protti,Chacarita Juniors,yellow
+8453238,24,Martín Galmarini,Tigre,yellow
+8453238,52,Mathías Abero,Tigre,yellow
+8453238,53,Juan Blengio,Tigre,yellow
+8453238,90,Daniel Imperiale,Tigre,yellow
+8453235,43,Fabián Henríquez,Godoy Cruz,yellow-red
+8453235,65,Sebastián Palacios,Talleres de Córdoba,yellow
+8453235,77,Guido Herrera,Talleres de Córdoba,yellow
+8453243,35,José Leguizamón,Rosario Central,yellow
+8453243,41,Leonardo Gil,Rosario Central,yellow
+8453243,85,Leonel Rivas,Rosario Central,yellow
+8453243,43,Victor Salazar,San Lorenzo,red
+8453241,22,Ignacio Scocco,River Plate,yellow
+8453241,41,Iván Rossi,River Plate,yellow
+8453241,84,Gonzalo Martínez,River Plate,yellow
+8453241,16,Nicolás Linares,Banfield,yellow
+8453241,27,Mauricio Sperdutti,Banfield,yellow
+8453234,4,Marcelo Herrera,Lanús,yellow
+8453234,41,Leonel Di Plácido,Lanús,yellow
+8453234,75,Alejandro Silva,Lanús,yellow
+8453234,43,Pablo Pérez,Boca Juniors,yellow
+8453234,59,Wilmar Barrios,Boca Juniors,yellow
+8453234,70,Edwin Cardona,Boca Juniors,yellow
+8453245,90,Damián Martínez,Unión de Santa Fe,yellow
+8453245,20,Nicolás Colazo,Gimnasia de La Plata,yellow
+8453245,24,Ezequiel Bonifacio,Gimnasia de La Plata,yellow
+8453245,64,Nicolás Dibble,Gimnasia de La Plata,yellow
+8453236,4,Cristian Chimino,Huracán,yellow
+8453236,42,Nehuén Paz,Newells Old Boys,yellow
+8453236,45,Bruno Bianchi,Newells Old Boys,yellow
+8453236,82,Mauricio Tévez,Newells Old Boys,yellow
+8453247,18,Denis Stracqualursi,Tigre,yellow
+8453247,52,Lucas Menossi,Tigre,yellow
+8453247,90,Hamilton Pereira,Tigre,yellow
+8453247,55,Marcelo Guzmán,Patronato de Paraná,yellow
+8453247,90,Damián Lemos,Patronato de Paraná,yellow
+8453247,90,Gonzalo Di Renzo,Patronato de Paraná,yellow
+8453259,44,Facundo Sánchez,Estudiantes,yellow
+8453259,50,Israel Damonte,Estudiantes,yellow
+8453251,44,Gastón Machín,Argentinos Juniors,yellow
+8453251,64,Leonel Mosevich,Argentinos Juniors,yellow
+8453251,67,Érik Godoy,Belgrano de Córdoba,yellow
+8453251,71,Juan Brunetta,Belgrano de Córdoba,yellow
+8453251,85,Tomás Attis,Belgrano de Córdoba,yellow
+8453251,86,Jorge Ortiz,Belgrano de Córdoba,yellow
+8462874,30,Gonzalo Castellani,Defensa y Justicia,yellow
+8462874,82,Hugo Silva,Defensa y Justicia,yellow
+8462874,8,Nelson Acevedo,Unión de Santa Fe,yellow
+8462874,21,Yeimar Gómez,Unión de Santa Fe,yellow
+8453258,21,Bruno Bianchi,Newells Old Boys,yellow
+8453258,42,José San Román,Newells Old Boys,yellow
+8453258,55,Joaquin Torres,Newells Old Boys,yellow
+8453258,70,Luís Leal,Newells Old Boys,yellow
+8453258,90,Nery Leyes,Newells Old Boys,yellow
+8453258,34,Franco Troyansky,Olimpo de Bahía Blanca,yellow
+8453258,57,Lucas Villarruel,Olimpo de Bahía Blanca,yellow
+8462875,57,Facundo Quignón,San Lorenzo,yellow
+8462875,64,Marcos Senesi,San Lorenzo,yellow
+8462875,90,Alexis Castro,San Lorenzo,yellow
+8462875,5,Emiliano Papa,Arsenal de Sarandí,yellow
+8462875,89,Sergio Velázquez,Arsenal de Sarandí,yellow
+8462876,24,Ezequiel Barco,Independiente,yellow
+8462876,65,Juan Martínez,Independiente,yellow
+8462876,77,Fabricio Bustos,Independiente,yellow
+8462876,35,Rolando García,Lanús,yellow
+8462876,90,Germán Denis,Lanús,yellow
+8453254,58,Junior Arias,Talleres de Córdoba,yellow
+8453254,66,Juan Komar,Talleres de Córdoba,yellow
+8453254,80,Pablo Guiñazú,Talleres de Córdoba,yellow-red
+8453254,89,Fernando Godoy,Talleres de Córdoba,yellow
+8453254,17,Fausto Grillo,Vélez Sarsfield,yellow
+8453254,69,Fabián Cubero,Vélez Sarsfield,yellow
+8453254,75,Braian Cufré,Vélez Sarsfield,red
+8453246,72,Rafael García,Atlético Tucumán,yellow
+8453246,83,Fabio Álvarez,Atlético Tucumán,yellow
+8453246,44,Juan Martín Imbert,Chacarita Juniors,yellow
+8453246,90,Germán Ré,Chacarita Juniors,yellow
+8453250,89,Renato Civelli,Banfield,yellow
+8453250,90,Mauricio Sperdutti,Banfield,yellow
+8453250,33,Juan Patiño,Racing Club,yellow
+8453250,45,Marco Torsiglieri,Racing Club,yellow
+8453250,52,Diego González,Racing Club,yellow
+8453256,10,Juan Garro,Godoy Cruz,yellow
+8453256,49,Luciano Abecasis,Godoy Cruz,yellow
+8453249,23,Matías Escudero,San Martín de San Juan,yellow
+8453249,70,Emiliano Agüero,San Martín de San Juan,yellow
+8453249,30,Marcelo Saracchi,River Plate,yellow
+8462877,43,Nicolás Colazo,Gimnasia de La Plata,yellow
+8462877,56,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8462877,80,Lucas Licht,Gimnasia de La Plata,yellow
+8462877,45,Ignacio Pussetto,Huracán,yellow
+8462877,49,Ramón Ábila,Huracán,yellow
+8462877,80,Diego Mendoza,Huracán,yellow
+8462878,85,Ezequiel Montagna,Temperley,yellow
+8462878,25,Santiago Romero,Rosario Central,yellow
+8462878,34,Federico Carrizo,Rosario Central,yellow
+8462878,89,Fernando Zampedri,Rosario Central,yellow
+8462878,90,Gustavo Colman,Rosario Central,yellow
+8453267,90,Sebastián Luna,Belgrano de Córdoba,yellow
+8453267,46,Ivo Hong,Tigre,yellow
+8453267,67,Maximiliano Caire,Tigre,yellow
+8453267,86,Mathías Abero,Tigre,yellow
+8453267,90,Ezequiel Rodríguez,Tigre,red
+8453267,90,Renzo Spinacci,Tigre,yellow
+8453260,27,Marcelo Guzmán,Patronato de Paraná,yellow
+8453260,78,Renzo Vera,Patronato de Paraná,yellow
+8453260,16,Nicolás Romat,Atlético Tucumán,yellow
+8453266,76,Adrián Calello,Huracán,yellow
+8453266,38,Jonathan Bottinelli,Unión de Santa Fe,yellow
+8453266,71,Mauro Pittón,Unión de Santa Fe,yellow
+8453266,83,Damián Martínez,Unión de Santa Fe,yellow
+8453266,84,Franco Soldano,Unión de Santa Fe,yellow
+8453270,9,Facundo Monteseirín,Arsenal de Sarandí,yellow
+8453270,86,Leonardo Rolón,Arsenal de Sarandí,red
+8453270,86,Sergio Velázquez,Arsenal de Sarandí,yellow
+8453270,7,Emiliano Ozuna,Temperley,yellow
+8453270,71,Ramiro Costa,Temperley,yellow
+8453270,77,Adrián Scifo,Temperley,yellow
+8453270,89,Gonzalo Escobar,Temperley,yellow
+8453265,64,Mauro González,Chacarita Juniors,yellow
+8453265,72,Juan Martín Imbert,Chacarita Juniors,yellow
+8453265,85,Alejandro Gagliardi,Chacarita Juniors,red
+8453265,89,Joaquín Ibáñez,Chacarita Juniors,red
+8453265,66,Fernando Godoy,Talleres de Córdoba,yellow-red
+8453265,83,Guido Herrera,Talleres de Córdoba,yellow
+8453264,14,Emiliano Amor,Vélez Sarsfield,yellow
+8453264,28,Fabián Cubero,Vélez Sarsfield,yellow
+8453264,38,Lautaro Gianetti,Vélez Sarsfield,yellow
+8453264,42,Leonardo Jara,Boca Juniors,yellow
+8453264,55,Frank Fabra,Boca Juniors,yellow
+8453262,41,Fabricio Angileri,Godoy Cruz,yellow
+8453262,44,Pol Fernández,Godoy Cruz,yellow
+8453262,90,Gastón Giménez,Godoy Cruz,yellow
+8453262,22,Diego Rodríguez,Independiente,yellow
+8453262,58,Juan Sánchez Miño,Independiente,yellow
+8453271,35,Cristian Guanca,Colón de Santa Fe,yellow
+8453271,47,Tomás Chancalay,Colón de Santa Fe,yellow
+8453271,53,Guillermo Ortíz,Colón de Santa Fe,yellow
+8453271,27,Andrés Cubas,Defensa y Justicia,yellow
+8453273,22,Michael Covea,Olimpo de Bahía Blanca,yellow
+8453273,47,Nicolás Herranz,Olimpo de Bahía Blanca,yellow
+8453273,57,Omar Alderete,Gimnasia de La Plata,yellow
+8453273,75,Lorenzo Faravelli,Gimnasia de La Plata,yellow
+8453261,54,Federico Carrizo,Rosario Central,yellow
+8453261,56,Leonardo Gil,Rosario Central,yellow
+8453261,24,Jorge Rodriguez,Banfield,yellow
+8453269,38,Gonzalo Martínez,River Plate,yellow
+8453269,17,Camilo Saiz,Argentinos Juniors,yellow
+8453269,24,Joaquin Laso,Argentinos Juniors,yellow
+8453269,55,Alexis Mac Allister,Argentinos Juniors,yellow
+8453269,62,Fausto Montero,Argentinos Juniors,yellow
+8453268,38,Lisandro López,Racing Club,yellow
+8453268,44,Claudio Mosca,San Martín de San Juan,yellow
+8453268,52,Mauricio Casierra,San Martín de San Juan,yellow
+8453263,57,Alejandro Silva,Lanús,yellow
+8453263,78,Iván Marcone,Lanús,yellow
+8453263,86,Diego Braghieri,Lanús,red
+8453263,90,Germán Denis,Lanús,yellow
+8453263,19,Nehuén Paz,Newells Old Boys,yellow
+8453263,21,Luís Leal,Newells Old Boys,yellow
+8453263,60,José San Román,Newells Old Boys,yellow
+8453263,64,Braian Rivero,Newells Old Boys,yellow
+8453272,32,Rodrigo Braña,Estudiantes,yellow
+8453272,32,Sebastián Dubarbier,Estudiantes,yellow
+8453272,45,Ezequiel Cerutti,San Lorenzo,yellow
+8453272,90,Paulo Díaz,San Lorenzo,yellow
+8462879,90,Ignacio Rivero,Defensa y Justicia,yellow
+8462879,90,Adrián Calello,Huracán,yellow
+8462880,48,Yeimar Gómez,Unión de Santa Fe,yellow
+8462880,42,Jonathan Blanco,Olimpo de Bahía Blanca,yellow
+8462880,68,Nicolás Herranz,Olimpo de Bahía Blanca,yellow-red
+8462881,10,Yonathan Cabral,Atlético Tucumán,yellow
+8462881,10,Jonathan Ramis,Belgrano de Córdoba,yellow
+8462881,19,Juan Brunetta,Belgrano de Córdoba,yellow
+8462881,67,Federico Lértora,Belgrano de Córdoba,yellow
+8462881,90,Christian Lema,Belgrano de Córdoba,yellow
+8462882,89,Facundo Quignón,San Lorenzo,yellow
+8462882,31,Matías Fritzler,Colón de Santa Fe,yellow
+8462882,55,Marcelo Estigarribia,Colón de Santa Fe,yellow
+8462882,58,Guillermo Ortíz,Colón de Santa Fe,yellow
+8462882,86,Germán Conti,Colón de Santa Fe,yellow
+8462883,45,Williams Riveros,Temperley,yellow
+8462883,70,Adrián Arregui,Temperley,yellow
+8462883,53,Israel Damonte,Estudiantes,yellow
+8462884,45,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8462884,54,Lorenzo Faravelli,Gimnasia de La Plata,yellow
+8462884,61,Brahian Alemán,Gimnasia de La Plata,yellow
+8462884,56,Iván Marcone,Lanús,yellow
+8462884,76,Alejandro Silva,Lanús,yellow
+8462884,81,Lautaro Acosta,Lanús,yellow
+8462885,48,Camilo Saiz,Argentinos Juniors,yellow
+8462885,52,Joaquin Laso,Argentinos Juniors,yellow
+8462885,90,Mauro Quiroga,Argentinos Juniors,yellow
+8462885,74,Miguel Barbieri,Racing Club,yellow
+8462885,90,Matías Zaracho,Racing Club,yellow
+8462885,90,Leandro Grimi,Racing Club,yellow
+8462886,14,Pablo Guiñazú,Talleres de Córdoba,yellow
+8462886,81,Junior Arias,Talleres de Córdoba,yellow
+8462886,53,Damián Lemos,Patronato de Paraná,yellow
+8462886,72,Matías Garrido,Patronato de Paraná,yellow
+8462886,83,Rodrigo Arciero,Patronato de Paraná,yellow
+8462886,89,Renzo Vera,Patronato de Paraná,yellow
+8462887,12,Álvaro Fernández,San Martín de San Juan,yellow
+8462887,81,Gonzalo Prósperi,San Martín de San Juan,yellow
+8462887,22,Germán Herrera,Rosario Central,yellow
+8462887,60,Alfonso Parot,Rosario Central,yellow-red
+8462887,71,Fernando Tobio,Rosario Central,red
+8462887,87,Diego Rodríguez,Rosario Central,yellow
+8462888,18,Nicolás Domingo,Independiente,yellow
+8462888,86,Fernando Amorebieta,Independiente,yellow
+8462888,90,Juan Sánchez Miño,Independiente,yellow
+8462888,19,Gastón Díaz,Vélez Sarsfield,yellow
+8462888,49,Leandro Desábato,Vélez Sarsfield,yellow
+8462888,79,Matías Pérez Acuña,Vélez Sarsfield,yellow
+8462888,85,Fausto Grillo,Vélez Sarsfield,yellow-red
+8462888,90,Santiago Cáseres,Vélez Sarsfield,yellow
+8462889,16,Edwin Cardona,Boca Juniors,yellow-red
+8462889,44,Darío Benedetto,Boca Juniors,yellow
+8462889,88,Wilmar Barrios,Boca Juniors,yellow
+8462889,19,Germán Ré,Chacarita Juniors,yellow
+8462889,54,Miguel Mellado,Chacarita Juniors,yellow-red
+8462889,62,Federico Rosso,Chacarita Juniors,yellow
+8462889,90,Lautaro Montoya,Chacarita Juniors,yellow
+8462890,32,Mathías Abero,Tigre,yellow
+8462890,74,Carlos Luna,Tigre,yellow
+8462890,45,Nicolás de la Cruz,River Plate,yellow
+8462891,39,Eric Remedi,Banfield,yellow
+8462891,13,Maximiliano Calzada,Arsenal de Sarandí,yellow
+8462891,31,Facundo Monteseirín,Arsenal de Sarandí,yellow
+8462891,33,Rodrigo Contreras,Arsenal de Sarandí,red
+8462891,38,Marcos Curado,Arsenal de Sarandí,yellow
+8462891,77,Sergio Velázquez,Arsenal de Sarandí,yellow
+8462891,90,Ramiro Carrera,Arsenal de Sarandí,yellow
+8462892,33,Enzo Cabrera,Newells Old Boys,yellow
+8462892,61,Braian Rivero,Newells Old Boys,yellow-red
+8462892,65,Nery Leyes,Newells Old Boys,yellow
+8462892,34,Gastón Giménez,Godoy Cruz,yellow
+8462892,73,Cristian Báez,Godoy Cruz,yellow
+8462893,45,Iván Marcone,Lanús,yellow
+8462893,64,Leandro Maciel,Lanús,yellow
+8462893,40,Damián Martínez,Unión de Santa Fe,yellow
+8462893,73,Yeimar Gómez,Unión de Santa Fe,yellow
+8462894,36,Pablo Alvarado,Defensa y Justicia,yellow
+8462894,68,Ignacio Rivero,Defensa y Justicia,yellow
+8462894,77,Gonzalo Castellani,Defensa y Justicia,yellow
+8462895,49,Pablo Ledesma,Colón de Santa Fe,yellow
+8462895,27,Matías Nani,Temperley,yellow
+8462895,56,Ignacio Boggino,Temperley,yellow
+8462895,90,Mathías Villasanti,Temperley,yellow
+8462896,22,Fernando Zampedri,Rosario Central,yellow
+8462896,87,Maximiliano Lovera,Rosario Central,yellow
+8462897,40,Fernando Zuqui,Estudiantes,yellow
+8462897,56,Facundo Sánchez,Estudiantes,yellow
+8462897,4,Martin Lucero,Banfield,yellow
+8462898,42,Nicolás Domínguez,Vélez Sarsfield,yellow
+8462898,62,Braian Cufré,Vélez Sarsfield,yellow
+8462898,88,Bruno Bianchi,Newells Old Boys,yellow
+8462898,90,Mauricio Tévez,Newells Old Boys,yellow
+8462899,67,Miguel Barbieri,Racing Club,yellow
+8462899,6,Gastón Bojanich,Tigre,yellow
+8462899,55,Lucas Menossi,Tigre,yellow
+8462899,85,Renzo Spinacci,Tigre,yellow
+8462899,90,Alexis Niz,Tigre,red
+8462900,69,Nahuel Menéndez,Chacarita Juniors,yellow
+8462900,90,Miguel Mellado,Chacarita Juniors,yellow
+8462900,90,Ezequiel Barco,Independiente,yellow
+8462901,3,Ezequiel Bonifacio,Gimnasia de La Plata,yellow
+8462901,27,Alexis Martín Arias,Gimnasia de La Plata,yellow
+8462901,71,Erik Ramírez,Gimnasia de La Plata,yellow
+8462902,30,Leonardo Sequeira,Belgrano de Córdoba,yellow
+8462902,63,Federico Lértora,Belgrano de Córdoba,yellow
+8462902,32,Leonardo Godoy,Talleres de Córdoba,yellow
+8462903,78,Milton Casco,River Plate,yellow
+8462903,19,Yonathan Cabral,Atlético Tucumán,yellow
+8462903,27,Guillermo Acosta,Atlético Tucumán,yellow
+8462903,58,Luis Rodríguez,Atlético Tucumán,yellow
+8462903,90,David Barbona,Atlético Tucumán,yellow
+8462904,28,Lucas Márquez,Patronato de Paraná,yellow
+8462904,66,Blas Cáceres,Patronato de Paraná,yellow
+8462904,70,Damián Lemos,Patronato de Paraná,yellow
+8462904,31,Nahitan Nández,Boca Juniors,yellow
+8462904,65,Pablo Pérez,Boca Juniors,yellow
+8462905,41,Cristian Villanueva,Olimpo de Bahía Blanca,yellow
+8462905,13,Ramón Ábila,Huracán,yellow
+8462905,37,Lucas Villalba,Huracán,yellow
+8462905,62,Ignacio Pussetto,Huracán,yellow
+8462905,72,Marcos Díaz,Huracán,yellow
+8462906,65,Álvaro Fernández,San Martín de San Juan,yellow
+8462906,72,Mauricio Casierra,San Martín de San Juan,yellow
+8467613,37,Pablo Mouche,Banfield,yellow
+8467613,16,Cristian Guanca,Colón de Santa Fe,yellow
+8467613,22,Guillermo Ortíz,Colón de Santa Fe,yellow
+8467613,57,Tomás Chancalay,Colón de Santa Fe,yellow
+8467613,61,Clemente Rodríguez,Colón de Santa Fe,yellow
+8467613,61,Germán Conti,Colón de Santa Fe,yellow
+8467614,79,Joaquin Laso,Argentinos Juniors,yellow
+8467614,90,Camilo Saiz,Argentinos Juniors,yellow
+8467614,31,Germán Ferreyra,Arsenal de Sarandí,yellow
+8467614,36,Emiliano Papa,Arsenal de Sarandí,yellow
+8467614,45,Facundo Cardozo,Arsenal de Sarandí,yellow
+8467614,47,Sergio Velázquez,Arsenal de Sarandí,yellow
+8467614,90,Federico Milo,Arsenal de Sarandí,yellow
+8467615,30,Saúl Salcedo,Huracán,yellow
+8467615,40,Nicolás Aguirre,Lanús,yellow
+8467616,53,Damián Martínez,Unión de Santa Fe,yellow
+8467616,45,Santiago García,Godoy Cruz,yellow
+8467617,39,Nicolás Maná,San Martín de San Juan,yellow
+8467617,85,Mauricio Casierra,San Martín de San Juan,yellow
+8467617,90,Félix Banega,San Martín de San Juan,yellow
+8467617,35,Gastón Campi,Estudiantes,yellow
+8467617,55,Marco Borgnino,Estudiantes,yellow
+8467619,75,Rodrigo Aliendro,Atlético Tucumán,yellow
+8467619,87,Pablo Cuadra,Racing Club,yellow
+8467624,13,Denis Rodriguez,River Plate,yellow
+8467624,25,Nahuel Gallardo,River Plate,yellow
+8467624,60,Carlos Auzqui,River Plate,yellow
+8467624,80,Iván Rossi,River Plate,yellow
+8467620,42,Bruno Bianchi,Newells Old Boys,yellow
+8467620,54,Braian Rivero,Newells Old Boys,yellow
+8467620,37,Gabriel Lazarte,Chacarita Juniors,yellow
+8467620,90,Mauro González,Chacarita Juniors,yellow
+8467621,41,Manuel Guanini,Gimnasia de La Plata,yellow
+8467621,52,Nicolás Colazo,Gimnasia de La Plata,yellow
+8467621,41,Leandro Desábato,Vélez Sarsfield,yellow
+8467621,74,Luis Amarilla,Vélez Sarsfield,yellow
+8467622,26,Maximiliano Lugo,Temperley,yellow
+8467622,63,Adrián Arregui,Temperley,yellow
+8467622,75,Marcos Pinto,Temperley,yellow
+8467622,78,Mathías Villasanti,Temperley,yellow
+8467622,31,Facundo Quignón,San Lorenzo,yellow
+8467623,17,Frank Fabra,Boca Juniors,yellow
+8467623,54,Wilmar Barrios,Boca Juniors,yellow
+8467623,8,Tobias Figueroa,Belgrano de Córdoba,yellow
+8467623,8,Federico Lértora,Belgrano de Córdoba,yellow
+8467623,55,Juan Brunetta,Belgrano de Córdoba,yellow
+8467623,74,Érik Godoy,Belgrano de Córdoba,yellow
+8467623,90,Hansell Riojas,Belgrano de Córdoba,red
+8467618,57,Gastón Silva,Independiente,yellow
+8467618,17,Lucas Márquez,Patronato de Paraná,yellow
+8467618,30,Martín Rivero,Patronato de Paraná,yellow
+8467618,40,Rodrigo Arciero,Patronato de Paraná,yellow
+8467618,74,Luca Sosa,Patronato de Paraná,yellow
+8467618,90,Bruno Urribarri,Patronato de Paraná,yellow
+8467625,26,Cristian Villanueva,Olimpo de Bahía Blanca,yellow
+8467625,57,Matías Cahais,Olimpo de Bahía Blanca,yellow
+8467625,78,Nicolás Pantaleone,Olimpo de Bahía Blanca,yellow
+8467625,90,David Depetris,Olimpo de Bahía Blanca,yellow
+8467626,81,Maximiliano Caire,Tigre,yellow
+8467626,33,Germán Herrera,Rosario Central,yellow
+8467626,51,Mauricio Martínez,Rosario Central,yellow
+8467626,55,Fernando Zampedri,Rosario Central,yellow
+8468169,26,Federico Rosso,Chacarita Juniors,yellow
+8468169,58,Omar Alderete,Gimnasia de La Plata,yellow
+8468170,84,Pol Fernández,Godoy Cruz,yellow
+8468170,88,Fabricio Angileri,Godoy Cruz,yellow
+8468170,90,Lucas Villalba,Huracán,red
+8468171,33,Matías Fritzler,Colón de Santa Fe,yellow
+8468171,77,Nicolás Leguizamón,Colón de Santa Fe,yellow
+8468171,39,Emiliano Agüero,San Martín de San Juan,yellow
+8468172,33,Maximiliano Velázquez,Lanús,yellow
+8468172,11,Nicolás Pantaleone,Olimpo de Bahía Blanca,yellow
+8468173,70,Paulo Díaz,San Lorenzo,yellow
+8468178,26,Leonel Rivas,Rosario Central,yellow
+8468178,35,Elias Gómez,Rosario Central,yellow
+8468178,81,José Leguizamón,Rosario Central,red
+8468178,69,Gonzalo Freitas,Atlético Tucumán,yellow
+8468178,90,Nicolás Romat,Atlético Tucumán,yellow-red
+8468175,61,Matías Zaracho,Racing Club,yellow
+8468175,64,Miguel Barbieri,Racing Club,yellow
+8468175,75,Marcelo Meli,Racing Club,yellow
+8468175,83,Nicolás Oroz,Racing Club,red
+8468175,84,Lisandro López,Racing Club,yellow
+8468175,86,Sergio Vittor,Racing Club,yellow
+8468175,41,Javier Gandolfi,Talleres de Córdoba,yellow
+8468175,59,Lucas Olaza,Talleres de Córdoba,yellow
+8468175,70,Emanuel Reynoso,Talleres de Córdoba,red
+8468175,82,Leonardo Godoy,Talleres de Córdoba,yellow
+8468176,16,Maximiliano Lugo,Temperley,yellow
+8468176,43,Ramiro Costa,Temperley,yellow
+8468176,72,Adrián Arregui,Temperley,yellow
+8468176,1,Lisandro Martínez,Defensa y Justicia,yellow
+8468176,66,Dylan Gissi,Defensa y Justicia,yellow
+8468174,0,Jonathan Ramis,Belgrano de Córdoba,red
+8468174,43,Diego Rodríguez,Independiente,yellow
+8468174,62,Juan Sánchez Miño,Independiente,yellow
+8468174,65,Leandro Fernández,Independiente,yellow
+8468177,84,Gastón Fernández,Estudiantes,yellow
+8468177,32,Gonzalo Piovi,Argentinos Juniors,yellow
+8468177,38,Jonathan Sandoval,Argentinos Juniors,yellow
+8468177,82,Joaquin Laso,Argentinos Juniors,yellow
+8468177,86,Camilo Saiz,Argentinos Juniors,red
+8468179,17,Enzo Pérez,River Plate,yellow
+8468179,20,Javier Pinola,River Plate,yellow
+8468179,38,Ignacio Fernández,River Plate,red
+8468179,38,Germán Lux,River Plate,yellow
+8468179,43,Jonatan Maidana,River Plate,yellow
+8468179,55,Milton Casco,River Plate,yellow
+8468179,90,Nicolás de la Cruz,River Plate,yellow
+8468179,30,Nahitan Nández,Boca Juniors,yellow
+8468179,57,Pablo Pérez,Boca Juniors,yellow
+8468179,62,Edwin Cardona,Boca Juniors,red
+8468179,82,Cristian Pavón,Boca Juniors,yellow
+8468179,87,Darío Benedetto,Boca Juniors,yellow
+8468180,75,Mathías Abero,Tigre,yellow
+8468180,88,Renzo Spinacci,Tigre,yellow
+8468181,58,Sebastián Ribas,Patronato de Paraná,yellow
+8468181,25,Nery Leyes,Newells Old Boys,yellow
+8468181,68,Leonel Ferroni,Newells Old Boys,red
+8468182,61,Santiago Cáseres,Vélez Sarsfield,yellow
+8468182,65,Braian Cufré,Vélez Sarsfield,yellow
+8468182,90,Matias Castro,Unión de Santa Fe,yellow
+8468183,74,Joaquin Laso,Argentinos Juniors,yellow
+8468183,11,Guillermo Ortíz,Colón de Santa Fe,yellow
+8468183,70,Pablo Ledesma,Colón de Santa Fe,yellow
+8468184,55,Gonzalo Freitas,Atlético Tucumán,yellow
+8468184,34,Lucas Wilchez,Arsenal de Sarandí,yellow
+8468184,44,David Drocco,Arsenal de Sarandí,yellow
+8468184,85,Maximiliano Calzada,Arsenal de Sarandí,yellow
+8468185,14,Nehuén Paz,Newells Old Boys,yellow
+8468185,87,Bruno Bianchi,Newells Old Boys,yellow
+8468185,45,Federico Lértora,Belgrano de Córdoba,yellow
+8468185,85,Epifanio García,Belgrano de Córdoba,yellow
+8468186,36,Andrés Cubas,Defensa y Justicia,yellow
+8468186,80,Nicolás Aguirre,Lanús,yellow-red
+8468186,84,Leandro Maciel,Lanús,yellow
+8468186,84,Marcelo Herrera,Lanús,yellow
+8468187,82,Pablo Mouche,Banfield,yellow
+8468187,33,Ramiro Costa,Temperley,yellow
+8468187,45,Adrián Arregui,Temperley,yellow
+8468187,57,Emiliano Ozuna,Temperley,yellow
+8468187,72,Adrián Scifo,Temperley,yellow
+8468188,28,Nicolás Maná,San Martín de San Juan,yellow
+8468188,45,Matías Escudero,San Martín de San Juan,yellow
+8468188,78,Álvaro Fernández,San Martín de San Juan,yellow
+8468188,36,Paulo Díaz,San Lorenzo,yellow
+8468188,61,Facundo Quignón,San Lorenzo,yellow
+8468188,68,Nicolás Navarro,San Lorenzo,yellow
+8468188,77,Marcos Angeleri,San Lorenzo,yellow
+8468193,16,Fernando Amorebieta,Independiente,yellow
+8468193,56,Lucas Albertengo,Independiente,yellow
+8468193,61,Jonás Gutiérrez,Independiente,yellow
+8468193,15,Jonatan Maidana,River Plate,yellow
+8468193,20,Germán Lux,River Plate,red
+8468193,73,Enzo Pérez,River Plate,yellow
+8468190,35,Mauro Pittón,Unión de Santa Fe,yellow
+8468190,61,Emanuel Brítez,Unión de Santa Fe,yellow
+8468190,82,Alan Robledo,Chacarita Juniors,yellow
+8468191,56,Gastón Bojanich,Tigre,yellow
+8468191,29,Iván Gómez,Estudiantes,yellow
+8468191,30,Israel Damonte,Estudiantes,yellow
+8468191,81,Marco Borgnino,Estudiantes,yellow
+8468192,45,Pablo Pérez,Boca Juniors,yellow
+8468192,56,Gino Peruzzi,Boca Juniors,yellow
+8468192,62,Frank Fabra,Boca Juniors,yellow
+8468192,78,Darío Benedetto,Boca Juniors,yellow
+8468192,4,Diego González,Racing Club,yellow
+8468192,47,Renzo Saravia,Racing Club,yellow
+8468192,51,Egidio Arévalo,Racing Club,yellow
+8468192,72,Andrés Ibargüen,Racing Club,yellow
+8468196,67,Javier Gandolfi,Talleres de Córdoba,yellow
+8468196,41,Alfonso Parot,Rosario Central,yellow
+8468196,68,Federico Carrizo,Rosario Central,yellow
+8468196,74,Fernando Tobio,Rosario Central,yellow
+8468196,79,Jeremías Ledesma,Rosario Central,yellow
+8468196,81,Maximiliano González,Rosario Central,yellow
+8468196,82,Agustín Coscia,Rosario Central,red
+8468196,87,Joaquin Pereyra,Rosario Central,yellow
+8468194,45,Facundo Oreja,Gimnasia de La Plata,yellow
+8468194,32,Damián Lemos,Patronato de Paraná,yellow
+8468194,57,Renzo Vera,Patronato de Paraná,red
+8468194,59,Lautaro Geminiani,Patronato de Paraná,red
+8468195,35,Franco Bellocq,Olimpo de Bahía Blanca,yellow
+8468195,90,Tomás Costa,Olimpo de Bahía Blanca,yellow
+8468195,19,Cristian Báez,Godoy Cruz,yellow
+8468195,21,Fabricio Angileri,Godoy Cruz,yellow
+8468189,26,Mauro Bogado,Huracán,yellow
+8468189,90,Alejandro Gamarra,Huracán,yellow
+8468189,25,Emiliano Amor,Vélez Sarsfield,yellow
+8468189,45,Santiago Cáseres,Vélez Sarsfield,yellow
+8468189,69,Nicolás Domínguez,Vélez Sarsfield,yellow
+8468197,51,Eric Remedi,Banfield,yellow
+8468197,86,Pablo Mouche,Banfield,yellow
+8468197,21,Rafael Delgado,Defensa y Justicia,yellow
+8468197,28,Gabriel Arias,Defensa y Justicia,yellow
+8468197,82,Ignacio Rivero,Defensa y Justicia,yellow
+8468198,58,Federico Rosso,Chacarita Juniors,yellow
+8468198,16,Saúl Salcedo,Huracán,yellow
+8468199,51,Matías Fritzler,Colón de Santa Fe,yellow
+8468199,54,Daniel Imperiale,Tigre,yellow
+8468200,45,Christian Lema,Belgrano de Córdoba,yellow
+8468200,38,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468200,59,Omar Alderete,Gimnasia de La Plata,yellow
+8468201,9,Sebastián Ribas,Patronato de Paraná,yellow
+8468201,45,Walter Andrade,Patronato de Paraná,yellow
+8468201,79,Luca Sosa,Patronato de Paraná,yellow
+8468201,89,Rodrigo Arciero,Patronato de Paraná,yellow
+8468201,67,Emanuel Brítez,Unión de Santa Fe,red
+8468202,62,Juan Mercier,San Lorenzo,yellow
+8468202,65,Gonzalo Rodríguez,San Lorenzo,yellow
+8468202,90,Paulo Díaz,San Lorenzo,yellow
+8468202,90,Leandro Romagnoli,San Lorenzo,yellow
+8468202,31,Gonzalo Piovi,Argentinos Juniors,yellow
+8468202,73,Kevin Mac Allister,Argentinos Juniors,yellow
+8468202,75,Javier Cabrera,Argentinos Juniors,yellow
+8468203,21,Diego González,Racing Club,yellow
+8468203,25,Egidio Arévalo,Racing Club,yellow
+8468203,45,Renzo Saravia,Racing Club,yellow
+8468203,90,Lautaro Martínez,Racing Club,yellow
+8468203,34,Rodrigo Moreira,Independiente,yellow-red
+8468203,82,Gonzalo Rehak,Independiente,yellow
+8468203,90,Damián Albil,Independiente,yellow
+8468204,39,Fernando Zuqui,Estudiantes,yellow
+8468204,69,Israel Damonte,Estudiantes,yellow
+8468204,84,Juan Cejas,Estudiantes,yellow
+8468204,90,Daniel Sappa,Estudiantes,yellow
+8468204,44,Rodrigo Aliendro,Atlético Tucumán,yellow
+8468204,67,Guillermo Acosta,Atlético Tucumán,yellow
+8468206,34,Alexander Barboza,River Plate,yellow
+8468206,73,Jonatan Maidana,River Plate,yellow
+8468206,79,Gonzalo Montiel,River Plate,yellow
+8468206,22,José San Román,Newells Old Boys,yellow
+8468206,50,Braian Rivero,Newells Old Boys,yellow
+8468206,55,Juan Sills,Newells Old Boys,yellow
+8468206,90,Alexis Rodríguez,Newells Old Boys,yellow
+8468207,2,Leonardo Gil,Rosario Central,yellow
+8468207,32,Washington Camacho,Rosario Central,yellow
+8468207,77,Maximiliano Lovera,Rosario Central,yellow
+8468207,87,Fernando Tobio,Rosario Central,yellow
+8468207,90,Fernando Zampedri,Rosario Central,yellow
+8468207,38,Paolo Goltz,Boca Juniors,yellow-red
+8468207,47,Pablo Pérez,Boca Juniors,yellow
+8468207,52,Gino Peruzzi,Boca Juniors,yellow
+8468207,71,Óscar Benítez,Boca Juniors,yellow
+8468207,80,Nahitan Nández,Boca Juniors,yellow
+8468208,17,Leonardo Rolón,Arsenal de Sarandí,yellow
+8468208,46,David Drocco,Arsenal de Sarandí,yellow
+8468209,28,Franco Bellocq,Olimpo de Bahía Blanca,yellow
+8468210,33,Emiliano Ozuna,Temperley,yellow
+8468210,63,Ramiro Costa,Temperley,yellow-red
+8468210,1,Emiliano Agüero,San Martín de San Juan,yellow
+8468210,68,Facundo Barcelo,San Martín de San Juan,yellow
+8468210,78,Matías Escudero,San Martín de San Juan,yellow
+8468205,65,Juan Andrada,Godoy Cruz,yellow
+8468205,67,Ángel González,Godoy Cruz,yellow
+8468205,43,Tomás Belmonte,Lanús,yellow
+8468205,85,Nicolás Thaller,Lanús,yellow
+8468211,67,Mauro Pittón,Unión de Santa Fe,yellow
+8468211,72,Yeimar Gómez,Unión de Santa Fe,yellow
+8468211,90,Jonathan Bottinelli,Unión de Santa Fe,yellow
+8468211,90,Érik Godoy,Belgrano de Córdoba,yellow
+8468213,32,Adrián Calello,Huracán,yellow
+8468213,21,Abel Peralta,Patronato de Paraná,yellow
+8468213,49,Walter Andrade,Patronato de Paraná,red
+8468213,52,Damián Lemos,Patronato de Paraná,yellow
+8468213,54,Adrián Balboa,Patronato de Paraná,yellow
+8468213,55,Sebastián Bertoli,Patronato de Paraná,yellow
+8468213,56,Renzo Vera,Patronato de Paraná,yellow
+8468213,72,Blas Cáceres,Patronato de Paraná,yellow
+8468213,76,Marcelo Guzmán,Patronato de Paraná,yellow
+8468213,82,Rodrigo Arciero,Patronato de Paraná,yellow
+8468214,76,Luis Vila,Olimpo de Bahía Blanca,yellow
+8468214,77,Maximiliano Fornari,Olimpo de Bahía Blanca,yellow
+8468214,80,Nicolás Pantaleone,Olimpo de Bahía Blanca,yellow
+8468214,90,Lucas Villarruel,Olimpo de Bahía Blanca,yellow
+8468214,74,Nahuel Menéndez,Chacarita Juniors,yellow
+8468214,81,Gabriel Lazarte,Chacarita Juniors,yellow
+8468215,43,Miguel Torrén,Argentinos Juniors,yellow
+8468215,75,Nicolás González,Argentinos Juniors,yellow
+8468215,90,Jonathan Sandoval,Argentinos Juniors,yellow-red
+8468215,73,Gonzalo Escobar,Temperley,yellow-red
+8468217,29,Braian Rivero,Newells Old Boys,yellow
+8468217,55,Luís Leal,Newells Old Boys,yellow
+8468217,57,Héctor Fértoli,Newells Old Boys,yellow
+8468217,76,Juan Sills,Newells Old Boys,yellow
+8468217,84,Nehuén Paz,Newells Old Boys,yellow-red
+8468217,36,Alexis Soto,Racing Club,yellow
+8468217,55,Miguel Barbieri,Racing Club,yellow
+8468217,90,Lautaro Martínez,Racing Club,yellow
+8468219,31,Gastón Bojanich,Tigre,yellow
+8468219,59,Mathías Abero,Tigre,yellow
+8468219,64,Carlos Luna,Tigre,yellow
+8468219,42,Juan Mercier,San Lorenzo,yellow
+8468219,86,Robert Piris,San Lorenzo,yellow
+8468218,37,Pablo Guiñazú,Talleres de Córdoba,yellow
+8468218,81,Sebastián Palacios,Talleres de Córdoba,yellow
+8468218,26,Rodrigo Braña,Estudiantes,yellow
+8468218,27,Iván Gómez,Estudiantes,yellow
+8468220,56,Edwin Cardona,Boca Juniors,yellow
+8468220,11,Emiliano Papa,Arsenal de Sarandí,yellow
+8468220,51,Facundo Monteseirín,Arsenal de Sarandí,yellow
+8468220,57,Claudio Corvalán,Arsenal de Sarandí,yellow
+8468220,83,Germán Ferreyra,Arsenal de Sarandí,red
+8468220,88,Sergio Velázquez,Arsenal de Sarandí,yellow
+8468221,40,Nicolás Dibble,Gimnasia de La Plata,yellow
+8468221,77,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468221,32,Jonatan Maidana,River Plate,yellow
+8468221,54,Iván Rossi,River Plate,yellow
+8468222,37,Iván Marcone,Lanús,yellow
+8468222,90,Ignacio Canuto,Lanús,yellow
+8468222,42,Emiliano Amor,Vélez Sarsfield,yellow
+8468222,70,Lucas Robertone,Vélez Sarsfield,yellow
+8468222,85,Fausto Grillo,Vélez Sarsfield,yellow-red
+8468223,30,Francisco Grahl,Atlético Tucumán,yellow
+8468223,70,Rodrigo Aliendro,Atlético Tucumán,yellow
+8468223,72,Luis Rodríguez,Atlético Tucumán,yellow
+8468223,26,Tomás Chancalay,Colón de Santa Fe,red
+8468223,62,Matías Fritzler,Colón de Santa Fe,yellow
+8468224,13,Luis Olivera,San Martín de San Juan,yellow
+8468224,69,Gonzalo Prósperi,San Martín de San Juan,yellow
+8468224,80,Claudio Mosca,San Martín de San Juan,yellow
+8468224,90,Nicolás Pelaitay,San Martín de San Juan,yellow
+8468224,72,Renato Civelli,Banfield,yellow
+8468224,72,Eric Remedi,Banfield,yellow
+8468216,4,Fernando Amorebieta,Independiente,yellow
+8468216,54,Juan Sánchez Miño,Independiente,yellow
+8468216,71,Nicolás Domingo,Independiente,yellow
+8468216,37,Alfonso Parot,Rosario Central,yellow
+8468216,63,Jeremías Ledesma,Rosario Central,yellow
+8468216,83,Maximiliano González,Rosario Central,yellow
+8468234,23,Enzo Pérez,River Plate,yellow
+8468234,37,Marcelo Saracchi,River Plate,yellow
+8468234,41,Damián Martínez,Unión de Santa Fe,yellow
+8468234,58,Jonathan Bottinelli,Unión de Santa Fe,yellow
+8468234,59,Lucas Gamba,Unión de Santa Fe,yellow
+8468234,73,Yeimar Gómez,Unión de Santa Fe,yellow
+8468236,70,Federico Andrada,Vélez Sarsfield,yellow
+8468236,76,Braian Cufré,Vélez Sarsfield,yellow
+8468236,17,Luciano Abecasis,Godoy Cruz,yellow
+8468236,66,Tomás Cardona,Godoy Cruz,yellow
+8468236,70,Gastón Giménez,Godoy Cruz,yellow
+8468230,28,Gabriel Rojas,San Lorenzo,yellow
+8468230,53,Gonzalo Rodríguez,San Lorenzo,yellow
+8468230,40,Francisco Grahl,Atlético Tucumán,yellow
+8468225,60,Ramiro Costa,Temperley,yellow
+8468225,72,Adrián Scifo,Temperley,yellow
+8468225,85,Sebastián Martelli,Temperley,yellow
+8468225,90,Rodrigo De Ciancio,Temperley,yellow
+8468225,18,Lucas Menossi,Tigre,yellow
+8468225,42,Matías Pérez García,Tigre,yellow
+8468225,64,Matías Orihuela,Tigre,yellow
+8468225,90,Rodrigo Depetris,Tigre,yellow
+8468226,10,Damián Lemos,Patronato de Paraná,yellow
+8468226,90,Sebastián Ribas,Patronato de Paraná,yellow
+8468226,16,Jonathan Blanco,Olimpo de Bahía Blanca,yellow
+8468226,32,Lucas Villarruel,Olimpo de Bahía Blanca,yellow
+8468226,88,Franco Bellocq,Olimpo de Bahía Blanca,yellow
+8468227,52,Juan Brunetta,Belgrano de Córdoba,yellow
+8468227,42,Lucas Villalba,Huracán,yellow
+8468227,71,Fernando Coniglio,Huracán,red
+8468227,90,Nazareno Solís,Huracán,yellow
+8468228,20,Julián Carranza,Banfield,yellow
+8468228,9,Camilo Saiz,Argentinos Juniors,yellow
+8468228,44,Miguel Torrén,Argentinos Juniors,yellow
+8468228,63,Gonzalo Piovi,Argentinos Juniors,yellow
+8468231,82,Facundo Monteseirín,Arsenal de Sarandí,yellow
+8468229,19,Maximiliano González,Rosario Central,yellow
+8468229,40,Germán Herrera,Rosario Central,yellow
+8468229,63,Leonardo Gil,Rosario Central,yellow
+8468229,87,Paulo Ferrari,Rosario Central,yellow
+8468229,21,Juan Sills,Newells Old Boys,yellow
+8468229,40,Bruno Bianchi,Newells Old Boys,yellow
+8468229,70,Luís Leal,Newells Old Boys,yellow
+8468229,90,Joaquín Varela,Newells Old Boys,yellow
+8468232,22,Guillermo Ortíz,Colón de Santa Fe,yellow
+8468232,42,Nicolás Leguizamón,Colón de Santa Fe,yellow
+8468232,63,Clemente Rodríguez,Colón de Santa Fe,yellow
+8468232,41,Junior Arias,Talleres de Córdoba,yellow
+8468232,57,Fernando Godoy,Talleres de Córdoba,yellow
+8468232,72,Lucas Olaza,Talleres de Córdoba,yellow
+8468232,89,Joao Rojas,Talleres de Córdoba,yellow-red
+8468233,63,Agustín Bolívar,Gimnasia de La Plata,yellow
+8468233,83,Manuel Guanini,Gimnasia de La Plata,yellow
+8468235,15,Rodrigo Braña,Estudiantes,yellow
+8468235,36,Carlo Lattanzio,Estudiantes,yellow
+8468235,88,Leandro Desábato,Estudiantes,yellow
+8468235,64,Pablo Pérez,Boca Juniors,yellow
+8468235,87,Guido Vadala,Boca Juniors,yellow
+8468235,88,Santiago Vergini,Boca Juniors,yellow
+8468235,90,Cristian Espinoza,Boca Juniors,yellow
+8468235,90,Lisandro Magallán,Boca Juniors,yellow
+8468237,28,Marcos Gelabert,San Martín de San Juan,yellow
+8468237,42,Matías Escudero,San Martín de San Juan,yellow
+8468237,65,Andrés Cubas,Defensa y Justicia,yellow
+8468237,83,Lisandro Martínez,Defensa y Justicia,yellow
+8468239,58,Germán Ré,Chacarita Juniors,yellow
+8468239,90,Agustín Módula,Chacarita Juniors,yellow
+8468239,42,Nicolás Pasquini,Lanús,yellow
+8468239,52,Maximiliano Velázquez,Lanús,yellow
+8468239,58,Lautaro Acosta,Lanús,yellow
+8468239,69,Fernando Barrientos,Lanús,red
+8468242,11,Felipe Rodríguez,Godoy Cruz,yellow
+8468242,56,Juan Garro,Godoy Cruz,yellow
+8468242,57,Santiago García,Godoy Cruz,yellow
+8468242,63,Fabricio Angileri,Godoy Cruz,yellow
+8468253,77,Javier Iritier,Tigre,yellow
+8468253,78,Matías Pérez García,Tigre,yellow
+8468253,90,Carlos Luna,Tigre,yellow
+8468253,90,Diego Sosa,Tigre,yellow
+8468253,24,Darío Cvitanich,Banfield,yellow
+8468253,32,Eric Remedi,Banfield,yellow
+8468253,45,Renato Civelli,Banfield,yellow
+8468253,63,Gonzalo Bettini,Banfield,yellow
+8468251,32,Junior Arias,Talleres de Córdoba,yellow
+8468251,49,Lucas Olaza,Talleres de Córdoba,yellow
+8468251,69,Carlos Quintana,Talleres de Córdoba,yellow
+8468251,30,Juan Mercier,San Lorenzo,yellow
+8468251,53,Alexis Castro,San Lorenzo,red
+8468251,59,Gonzalo Rodríguez,San Lorenzo,yellow-red
+8468241,15,Rafael Delgado,Defensa y Justicia,yellow
+8468241,41,Santiago Zurbriggen,Defensa y Justicia,yellow
+8468241,87,Juan Kaprof,Defensa y Justicia,red
+8468241,90,Dylan Gissi,Defensa y Justicia,yellow
+8468241,90,Fernando Márquez,Defensa y Justicia,yellow
+8468241,44,Hernán De La Fuente,Vélez Sarsfield,yellow
+8468241,52,Agustín Bouzat,Vélez Sarsfield,yellow
+8468248,65,Joaquín Varela,Newells Old Boys,yellow
+8468248,23,Sergio Velázquez,Arsenal de Sarandí,yellow
+8468248,29,Claudio Corvalán,Arsenal de Sarandí,yellow
+8468248,49,Lucas Wilchez,Arsenal de Sarandí,yellow
+8468243,31,Martín Rivero,Patronato de Paraná,yellow
+8468243,60,Blas Cáceres,Patronato de Paraná,yellow
+8468243,80,Luca Sosa,Patronato de Paraná,yellow
+8468250,24,Matías Fritzler,Colón de Santa Fe,yellow
+8468250,38,Pablo Ledesma,Colón de Santa Fe,yellow
+8468250,59,Jonathan Galván,Colón de Santa Fe,yellow
+8468250,71,Gustavo Toledo,Colón de Santa Fe,red
+8468250,75,Cristian Guanca,Colón de Santa Fe,yellow
+8468244,9,Luis Vila,Olimpo de Bahía Blanca,yellow
+8468244,42,Pablo Rosales,Olimpo de Bahía Blanca,yellow
+8468244,47,Gonzalo Porras,Olimpo de Bahía Blanca,yellow
+8468244,77,Franco Bellocq,Olimpo de Bahía Blanca,yellow
+8468244,38,Christian Lema,Belgrano de Córdoba,yellow
+8468244,51,Marcelo Benítez,Belgrano de Córdoba,yellow
+8468244,87,Mariano Barbieri,Belgrano de Córdoba,yellow
+8468254,23,Javier Cabrera,Argentinos Juniors,yellow
+8468254,43,Miguel Torrén,Argentinos Juniors,yellow
+8468254,90,Fausto Montero,Argentinos Juniors,yellow
+8468254,6,Marcos Gelabert,San Martín de San Juan,red
+8468254,7,Luis Ardente,San Martín de San Juan,yellow
+8468254,65,Leandro Vega,San Martín de San Juan,yellow-red
+8468245,59,Patricio Toranzo,Huracán,yellow
+8468245,82,Adrián Calello,Huracán,yellow
+8468245,70,Ignacio Scocco,River Plate,yellow
+8468245,71,Marcelo Saracchi,River Plate,yellow
+8468245,79,Enzo Pérez,River Plate,yellow
+8468246,65,Nelson Acevedo,Unión de Santa Fe,yellow
+8468246,78,Jonathan Bottinelli,Unión de Santa Fe,yellow
+8468246,90,Damián Martínez,Unión de Santa Fe,yellow
+8468246,16,Leonardo Sigali,Racing Club,yellow
+8468246,21,Ricardo Centurión,Racing Club,yellow
+8468246,27,Juan Musso,Racing Club,yellow
+8468247,20,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468247,24,Federico Carrizo,Rosario Central,yellow
+8468247,50,Paulo Ferrari,Rosario Central,yellow
+8468247,64,Fernando Zampedri,Rosario Central,yellow
+8468252,73,Adrián Arregui,Temperley,yellow
+8468249,69,Nicolás Domingo,Independiente,yellow
+8468249,27,Gastón Giménez,Estudiantes,yellow
+8468249,29,Facundo Sánchez,Estudiantes,yellow
+8468249,45,Gastón Campi,Estudiantes,yellow
+8468249,84,Gastón Campi,Estudiantes,yellow-red
+8468255,90,Lucas Chávez,Argentinos Juniors,yellow
+8468255,37,Lisandro Martínez,Defensa y Justicia,yellow
+8468255,41,Nahuel Molina Lucero,Defensa y Justicia,yellow
+8468267,37,Adrián Balboa,Patronato de Paraná,yellow
+8468267,45,Luca Sosa,Patronato de Paraná,yellow
+8468267,62,Gastón Gil Romero,Patronato de Paraná,yellow
+8468267,88,Bruno Urribarri,Patronato de Paraná,yellow
+8468267,50,Diego Viera,Godoy Cruz,yellow
+8468267,77,Víctorio Ramis,Godoy Cruz,yellow
+8468266,35,Lautaro Acosta,Lanús,yellow
+8468266,52,Iván Marcone,Lanús,yellow
+8468266,79,Tomás Belmonte,Lanús,yellow
+8468257,54,Nery Leyes,Atlético Tucumán,yellow
+8468257,59,Fabio Álvarez,Atlético Tucumán,yellow
+8468257,62,Rafael García,Atlético Tucumán,yellow
+8468263,31,Óscar Cabezas,Rosario Central,yellow
+8468263,45,Maximiliano González,Rosario Central,yellow-red
+8468263,49,Andrés Lioi,Rosario Central,yellow
+8468263,55,Joaquin Pereyra,Rosario Central,yellow
+8468263,75,Fernando Tobio,Rosario Central,yellow
+8468263,37,Yeimar Gómez,Unión de Santa Fe,yellow
+8468263,89,Jonathan Bottinelli,Unión de Santa Fe,yellow
+8468260,33,Tomás Chancalay,Colón de Santa Fe,yellow
+8468260,72,Lucas Ceballos,Colón de Santa Fe,yellow
+8468260,82,Nicolás Figal,Independiente,yellow
+8468265,38,Matías Cahais,Olimpo de Bahía Blanca,yellow
+8468265,55,Sergio Ojeda,Olimpo de Bahía Blanca,yellow
+8468265,69,Gonzalo Porras,Olimpo de Bahía Blanca,yellow
+8468261,33,Lucas Melano,Estudiantes,yellow
+8468261,39,Fernando Evangelista,Newells Old Boys,yellow
+8468261,90,Hernán Bernardello,Newells Old Boys,yellow
+8468262,77,Gonzalo González,Arsenal de Sarandí,yellow
+8468262,34,Omar Alderete,Gimnasia de La Plata,yellow
+8468262,60,Lorenzo Faravelli,Gimnasia de La Plata,yellow
+8468259,42,Facundo Quignón,San Lorenzo,yellow-red
+8468259,82,Gabriel Rojas,San Lorenzo,yellow-red
+8468259,35,Frank Fabra,Boca Juniors,yellow
+8468259,67,Wilmar Barrios,Boca Juniors,yellow
+8468264,23,Diego González,Racing Club,yellow
+8468264,52,Alexis Soto,Racing Club,yellow
+8468264,68,Renzo Saravia,Racing Club,yellow
+8468264,13,Marcos Díaz,Huracán,yellow
+8468264,38,Ricardo Noir,Huracán,yellow
+8468264,71,Hugo Nervo,Huracán,yellow
+8468258,42,Leonardo Di Lorenzo,Temperley,yellow
+8468258,67,Ramiro Costa,Temperley,yellow
+8468258,83,Marcos Pinto,Temperley,yellow
+8468258,14,Leonardo Godoy,Talleres de Córdoba,yellow
+8468258,36,Junior Arias,Talleres de Córdoba,yellow
+8468258,66,Lucas Olaza,Talleres de Córdoba,yellow
+8468268,39,Federico Rosso,Chacarita Juniors,yellow
+8468268,79,Miguel Mellado,Chacarita Juniors,yellow
+8468268,66,Santiago Cáseres,Vélez Sarsfield,yellow-red
+8468268,75,Marco Torsiglieri,Vélez Sarsfield,yellow
+8468268,84,Mauro Zárate,Vélez Sarsfield,yellow
+8468256,82,Nicolás Pelaitay,San Martín de San Juan,yellow
+8468256,90,Jonatan Goitía,San Martín de San Juan,yellow
+8468256,26,Maximiliano Caire,Tigre,yellow
+8468256,66,Carlos Luna,Tigre,yellow
+8468279,50,Alexander Barboza,Defensa y Justicia,yellow
+8468279,77,Fabian Bordagaray,Defensa y Justicia,yellow
+8468279,28,Germán Ré,Chacarita Juniors,yellow
+8468279,36,Miguel Mellado,Chacarita Juniors,yellow
+8468285,62,Franco Fragapane,Unión de Santa Fe,yellow
+8468285,2,Gonzalo González,Arsenal de Sarandí,yellow
+8468285,12,Marcos Curado,Arsenal de Sarandí,yellow
+8468285,19,Lucas Wilchez,Arsenal de Sarandí,yellow
+8468285,35,David Drocco,Arsenal de Sarandí,yellow
+8468285,59,Gabriel Alanis,Arsenal de Sarandí,yellow
+8468287,34,Hernán Bernardello,Newells Old Boys,yellow
+8468287,51,José San Román,Newells Old Boys,yellow
+8468280,31,Jesús Méndez,Vélez Sarsfield,yellow
+8468280,55,Joaquin Laso,Vélez Sarsfield,yellow
+8468280,58,Agustín Bouzat,Vélez Sarsfield,yellow
+8468280,28,Agustín Sandona,Patronato de Paraná,yellow
+8468280,30,Martín Rivero,Patronato de Paraná,yellow
+8468280,61,Blas Cáceres,Patronato de Paraná,yellow
+8468280,79,Abel Peralta,Patronato de Paraná,yellow
+8468280,89,Bruno Urribarri,Patronato de Paraná,yellow
+8468280,90,Matías Quiroga,Patronato de Paraná,yellow
+8468286,8,Ezequiel Bonifacio,Gimnasia de La Plata,yellow
+8468286,62,Nicolás Colazo,Gimnasia de La Plata,yellow
+8468286,88,Omar Alderete,Gimnasia de La Plata,yellow-red
+8468286,89,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468286,90,Agustín Bolívar,Gimnasia de La Plata,yellow
+8468286,7,Lucas Melano,Estudiantes,yellow
+8468286,23,Iván Gómez,Estudiantes,yellow
+8468286,72,Gastón Campi,Estudiantes,yellow
+8468283,23,Sergio Ojeda,Olimpo de Bahía Blanca,yellow
+8468283,24,Franco Bellocq,Olimpo de Bahía Blanca,yellow
+8468283,27,Franco Troyansky,Olimpo de Bahía Blanca,yellow
+8468283,48,Nicolás Pantaleone,Olimpo de Bahía Blanca,yellow
+8468283,61,Gonzalo Porras,Olimpo de Bahía Blanca,yellow
+8468283,82,Lautaro Belleggia,Olimpo de Bahía Blanca,yellow
+8468283,21,Leonardo Sigali,Racing Club,yellow
+8468283,24,Lautaro Martínez,Racing Club,yellow
+8468283,62,Ricardo Centurión,Racing Club,yellow
+8468283,74,Renzo Saravia,Racing Club,yellow
+8468281,34,Tomás Cardona,Godoy Cruz,yellow
+8468281,36,Santiago García,Godoy Cruz,yellow
+8468281,60,Juan Andrada,Godoy Cruz,yellow
+8468281,71,Diego Viera,Godoy Cruz,yellow
+8468281,66,Santiago Martínez,Belgrano de Córdoba,yellow
+8468290,70,Leonardo Godoy,Talleres de Córdoba,yellow
+8468290,84,Martín Payero,Banfield,yellow
+8468289,83,Ramón Ábila,Boca Juniors,yellow
+8468289,30,Matías Nani,Temperley,yellow
+8468289,69,Ignacio Boggino,Temperley,yellow
+8468289,73,Adrián Scifo,Temperley,yellow
+8468282,40,Iván Marcone,Lanús,yellow
+8468282,90,Esteban Andrada,Lanús,yellow
+8468282,40,Enzo Pérez,River Plate,yellow
+8468282,51,Rodrigo Mora,River Plate,yellow
+8468282,72,Lucas Martínez,River Plate,yellow
+8468291,24,Cristian Villagra,Atlético Tucumán,yellow
+8468291,48,Javier Toledo,Atlético Tucumán,yellow
+8468291,62,David Barbona,Atlético Tucumán,yellow
+8468291,66,Francisco Grahl,Atlético Tucumán,yellow
+8468291,14,Carlos Luque,San Martín de San Juan,yellow
+8468291,53,Marcos Gelabert,San Martín de San Juan,yellow
+8468291,65,Álvaro Fernández,San Martín de San Juan,yellow
+8468292,40,Denis Stracqualursi,Tigre,yellow
+8468292,44,Diego Sosa,Tigre,yellow
+8468292,21,Fausto Montero,Argentinos Juniors,yellow
+8468292,33,Guillermo Benítez,Argentinos Juniors,yellow
+8468292,85,Miguel Torrén,Argentinos Juniors,yellow
+8468284,36,Israel Damonte,Huracán,yellow
+8468284,43,Lucas Villalba,Huracán,yellow
+8468284,65,Ignacio Pussetto,Huracán,yellow
+8468284,88,Marcos Díaz,Huracán,yellow
+8468284,27,Fernando Zampedri,Rosario Central,yellow
+8468284,65,Paulo Ferrari,Rosario Central,yellow
+8468284,72,Mauricio Martínez,Rosario Central,red
+8468284,81,Federico Carrizo,Rosario Central,yellow
+8468284,90,Alfonso Parot,Rosario Central,yellow
+8468288,75,Fabricio Bustos,Independiente,yellow-red
+8468288,85,Fernando Amorebieta,Independiente,yellow
+8468288,86,Alan Franco,Independiente,yellow
+8468288,39,Paulo Díaz,San Lorenzo,yellow
+8468288,41,Matías Caruzzo,San Lorenzo,yellow
+8468288,66,Rubén Botta,San Lorenzo,yellow
+8468288,72,Gabriel Rojas,San Lorenzo,yellow
+8468288,82,Robert Piris,San Lorenzo,yellow
+8468288,85,Marcos Senesi,San Lorenzo,yellow
+8468288,87,Nicolás Blandi,San Lorenzo,yellow
+8468300,90,Rodrigo Braña,Estudiantes,yellow
+8468300,90,Nereo Fernández,Unión de Santa Fe,yellow
+8468303,25,Ricardo Centurión,Racing Club,yellow
+8468303,34,Nicolás Thaller,Lanús,yellow
+8468303,71,Román Martínez,Lanús,yellow
+8468303,82,Enzo Ortiz,Lanús,yellow
+8468305,17,Matías Suárez,Belgrano de Córdoba,yellow
+8468305,50,Leonardo Sequeira,Belgrano de Córdoba,yellow
+8468305,65,Maximiliano Lugo,Belgrano de Córdoba,yellow
+8468305,2,Marco Torsiglieri,Vélez Sarsfield,yellow
+8468305,10,Hernán De La Fuente,Vélez Sarsfield,yellow
+8468305,60,Guido Mainero,Vélez Sarsfield,yellow
+8468305,68,Joaquin Laso,Vélez Sarsfield,yellow
+8468294,0,Javier Cabrera,Argentinos Juniors,yellow
+8468294,43,Damián Batallini,Argentinos Juniors,yellow
+8468294,48,Gastón Machín,Argentinos Juniors,yellow
+8468294,48,Yonathan Cabral,Atlético Tucumán,yellow
+8468294,59,Rodrigo Aliendro,Atlético Tucumán,yellow
+8468298,73,José San Román,Newells Old Boys,yellow
+8468297,14,Adrián Scifo,Temperley,yellow
+8468297,51,Ignacio Boggino,Temperley,yellow
+8468297,71,Matías Nani,Temperley,red
+8468297,39,Nicolás Figal,Independiente,yellow
+8468302,58,Matías Cahais,Olimpo de Bahía Blanca,yellow
+8468295,80,Gonzalo Prósperi,San Martín de San Juan,yellow
+8468295,82,Nicolás Maná,San Martín de San Juan,yellow
+8468295,66,Javier Gandolfi,Talleres de Córdoba,yellow
+8468295,90,Juan Ramírez,Talleres de Córdoba,yellow
+8468301,45,David Drocco,Arsenal de Sarandí,yellow
+8468301,75,Lucas Wilchez,Arsenal de Sarandí,yellow
+8468301,77,Mauro Bogado,Huracán,yellow
+8468304,17,Leonardo Ponzio,River Plate,yellow
+8468304,48,Jonatan Maidana,River Plate,yellow
+8468304,5,Fabricio Angileri,Godoy Cruz,yellow
+8468304,47,Tomás Cardona,Godoy Cruz,yellow
+8468304,88,Jalil Elías,Godoy Cruz,yellow
+8468304,90,Leonardo Burian,Godoy Cruz,yellow
+8468304,90,Diego Viera,Godoy Cruz,yellow
+8468296,51,Gonzalo Bettini,Banfield,yellow
+8468296,76,Franco Colela,Banfield,yellow
+8468296,79,Claudio Villagra,Banfield,yellow
+8468296,73,Leonardo Jara,Boca Juniors,yellow
+8468296,82,Julio Buffarini,Boca Juniors,yellow
+8468293,62,Sebastián Prediger,Tigre,yellow
+8468293,49,Luis Jerez Silva,Defensa y Justicia,yellow
+8468293,80,Dylan Gissi,Defensa y Justicia,yellow
+8468306,25,Gastón Gil Romero,Patronato de Paraná,yellow
+8468306,79,Agustín Sandona,Patronato de Paraná,yellow
+8468306,28,Gabriel Lazarte,Chacarita Juniors,yellow
+8468306,32,Matías Rodríguez,Chacarita Juniors,yellow
+8468306,77,Pedro Fernández,Chacarita Juniors,yellow
+8468306,82,Mauro González,Chacarita Juniors,yellow
+8468299,35,Javier Correa,Colón de Santa Fe,yellow
+8468299,42,Matías Fritzler,Colón de Santa Fe,yellow
+8468299,71,Alexander Domínguez,Colón de Santa Fe,yellow
+8468299,30,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468299,33,Ezequiel Bonifacio,Gimnasia de La Plata,yellow
+8468299,56,Facundo Oreja,Gimnasia de La Plata,yellow
+8468299,77,Jerónimo Barrales,Gimnasia de La Plata,yellow
+8468299,89,Maximiliano Coronel,Gimnasia de La Plata,yellow-red
+8468299,90,Erik Ramírez,Gimnasia de La Plata,yellow
+8468312,33,Renzo Ramírez,Olimpo de Bahía Blanca,yellow
+8468312,40,Nicolás Pantaleone,Olimpo de Bahía Blanca,yellow
+8468312,83,Ezequiel Vidal,Olimpo de Bahía Blanca,yellow
+8468312,90,Cristian Villanueva,Olimpo de Bahía Blanca,red
+8468312,13,Emiliano Purita,Arsenal de Sarandí,yellow
+8468312,48,Facundo Cardozo,Arsenal de Sarandí,yellow
+8468312,72,Claudio Corvalán,Arsenal de Sarandí,yellow
+8468312,90,Bryan Schmidt,Arsenal de Sarandí,yellow
+8468313,84,Israel Damonte,Huracán,yellow
+8468313,90,Adrián Calello,Huracán,yellow
+8468313,5,Nicolás Talpone,Estudiantes,yellow
+8468313,42,Fernando Zuqui,Estudiantes,yellow
+8468313,45,Juan Cascini,Estudiantes,yellow
+8468313,79,Mariano Andújar,Estudiantes,yellow
+8468310,16,Tomás Cardona,Godoy Cruz,yellow
+8468310,65,Santiago García,Godoy Cruz,yellow
+8468310,88,Víctorio Ramis,Godoy Cruz,yellow
+8468310,90,Facundo Cobos,Godoy Cruz,yellow
+8468310,18,Leonardo Sigali,Racing Club,yellow
+8468310,90,Pablo Cuadra,Racing Club,yellow
+8468307,57,Dylan Gissi,Defensa y Justicia,yellow
+8468307,68,Fernando Márquez,Defensa y Justicia,yellow
+8468307,57,Adrián Balboa,Patronato de Paraná,yellow
+8468311,64,Marcelo Herrera,Lanús,yellow
+8468311,7,Paulo Ferrari,Rosario Central,yellow
+8468311,20,Maximiliano González,Rosario Central,yellow
+8468311,25,Leonardo Gil,Rosario Central,yellow
+8468311,71,Washington Camacho,Rosario Central,yellow
+8468309,13,Lucas Robertone,Vélez Sarsfield,yellow
+8468309,64,Fabián Cubero,Vélez Sarsfield,yellow
+8468309,90,Jesús Méndez,Vélez Sarsfield,yellow
+8468309,14,Bruno Zuculini,River Plate,yellow
+8468309,25,Ignacio Scocco,River Plate,yellow
+8468309,58,Nicolás de la Cruz,River Plate,yellow
+8468309,66,Enzo Pérez,River Plate,yellow-red
+8468309,86,Rodrigo Mora,River Plate,yellow
+8468320,40,Rafael García,Atlético Tucumán,yellow
+8468320,60,Francisco Grahl,Atlético Tucumán,yellow
+8468320,71,Javier Toledo,Atlético Tucumán,yellow
+8468320,81,Nery Leyes,Atlético Tucumán,yellow
+8468320,29,Sebastián Prediger,Tigre,yellow
+8468320,66,Federico González,Tigre,yellow
+8468320,85,Diego Sosa,Tigre,yellow
+8468308,38,Germán Ré,Chacarita Juniors,yellow
+8468308,87,Pedro Fernández,Chacarita Juniors,yellow
+8468308,43,Joel Amoroso,Belgrano de Córdoba,yellow
+8468308,55,Jorge Ortiz,Belgrano de Córdoba,yellow
+8468308,82,Maximiliano Lugo,Belgrano de Córdoba,yellow
+8468317,63,Leandro Fernández,Independiente,yellow
+8468317,81,Juan Sánchez Miño,Independiente,yellow
+8468317,85,Eric Remedi,Banfield,yellow-red
+8468317,87,Danilo Ortiz,Banfield,yellow
+8468317,90,Nicolás Bertolo,Banfield,yellow
+8468314,10,Diego Zabala,Unión de Santa Fe,yellow
+8468314,22,Damián Martínez,Unión de Santa Fe,yellow
+8468314,78,Rodrigo Gómez,Unión de Santa Fe,yellow
+8468314,83,Franco Fragapane,Unión de Santa Fe,yellow
+8468314,11,Alan Ruíz,Colón de Santa Fe,yellow
+8468314,31,Guillermo Ortíz,Colón de Santa Fe,yellow
+8468314,52,Germán Conti,Colón de Santa Fe,yellow
+8468314,55,Matías Fritzler,Colón de Santa Fe,yellow
+8468318,33,Emanuel Reynoso,Boca Juniors,yellow
+8468318,46,Edwin Cardona,Boca Juniors,yellow
+8468318,80,Wilmar Barrios,Boca Juniors,yellow
+8468318,26,Matías Escudero,San Martín de San Juan,yellow
+8468318,39,Leandro Vega,San Martín de San Juan,yellow
+8468318,59,Jonatan Goitía,San Martín de San Juan,yellow
+8468318,83,Gabriel Carabajal,San Martín de San Juan,yellow
+8468316,37,Fabricio Fontanini,Newells Old Boys,yellow
+8468316,90,Braian Rivero,Newells Old Boys,yellow
+8468316,34,Ignacio Boggino,Temperley,yellow
+8468316,59,Agustín Sosa,Temperley,yellow
+8468316,61,Josué Díaz Ayala,Temperley,yellow
+8468316,74,Emiliano Ozuna,Temperley,yellow
+8468316,90,Adrián Arregui,Temperley,yellow
+8468316,90,Leonardo Di Lorenzo,Temperley,yellow
+8468319,17,Matiás Pisano,Talleres de Córdoba,yellow
+8468319,83,Javier Gandolfi,Talleres de Córdoba,yellow
+8468319,13,Damián Batallini,Argentinos Juniors,yellow
+8468319,79,Nicolás González,Argentinos Juniors,yellow
+8468315,49,Lorenzo Faravelli,Gimnasia de La Plata,yellow
+8468315,52,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468315,71,Ezequiel Bonifacio,Gimnasia de La Plata,yellow
+8468315,85,Agustín Bolívar,Gimnasia de La Plata,yellow
+8468315,43,Gabriel Gudiño,San Lorenzo,yellow
+8468315,69,Fernando Belluschi,San Lorenzo,yellow
+8468315,83,Paulo Díaz,San Lorenzo,yellow-red
+8468330,21,Emiliano Purita,Arsenal de Sarandí,yellow
+8468330,45,Lucas Wilchez,Arsenal de Sarandí,yellow
+8468330,85,Claudio Corvalán,Arsenal de Sarandí,yellow
+8468330,39,Gabriel Carrasco,Lanús,yellow
+8468330,80,Leandro Maciel,Lanús,yellow
+8468334,52,Jorge Ortiz,Belgrano de Córdoba,yellow
+8468334,72,Mauro Guevgeozian,Belgrano de Córdoba,yellow
+8468334,77,Christian Lema,Belgrano de Córdoba,yellow
+8468334,89,Tomás Guidara,Belgrano de Córdoba,yellow
+8468334,43,Bruno Urribarri,Patronato de Paraná,yellow
+8468334,57,Renzo Vera,Patronato de Paraná,yellow
+8468334,85,Marcelo Guzmán,Patronato de Paraná,yellow
+8468328,36,Alan Ruíz,Colón de Santa Fe,yellow
+8468328,54,Gonzalo Escobar,Colón de Santa Fe,yellow
+8468328,64,Tomás Chancalay,Colón de Santa Fe,yellow
+8468328,90,Javier Correa,Colón de Santa Fe,yellow
+8468328,36,Carlos Matheu,Huracán,yellow
+8468328,71,Carlos Araujo,Huracán,yellow
+8468328,88,Diego Mendoza,Huracán,yellow
+8468322,45,Sebastián Prediger,Tigre,yellow-red
+8468322,14,Javier Gandolfi,Talleres de Córdoba,yellow
+8468322,55,Juan Ramírez,Talleres de Córdoba,yellow
+8468322,73,Leonardo Godoy,Talleres de Córdoba,yellow
+8468327,52,Alexis Castro,San Lorenzo,yellow
+8468327,64,Franco Soldano,Unión de Santa Fe,yellow
+8468331,34,Fernando Tobio,Rosario Central,red
+8468331,55,Fernando Zampedri,Rosario Central,yellow
+8468331,85,Germán Herrera,Rosario Central,yellow
+8468331,89,Federico Carrizo,Rosario Central,yellow
+8468331,2,Tomás Cardona,Godoy Cruz,yellow
+8468331,43,Jalil Elías,Godoy Cruz,yellow
+8468331,60,Diego Viera,Godoy Cruz,yellow
+8468331,69,Luciano Abecasis,Godoy Cruz,yellow
+8468331,80,Víctorio Ramis,Godoy Cruz,yellow
+8468331,82,Santiago García,Godoy Cruz,yellow
+8468326,11,Matías Nani,Temperley,yellow
+8468326,25,Adrián Scifo,Temperley,yellow
+8468326,78,Marcos Pinto,Temperley,yellow
+8468326,86,Fernando Brandán,Temperley,yellow
+8468326,33,Manuel Guanini,Gimnasia de La Plata,yellow
+8468326,59,Brahian Alemán,Gimnasia de La Plata,yellow
+8468326,77,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468321,29,Javier Toledo,Atlético Tucumán,yellow
+8468321,87,Gervasio Núñez,Atlético Tucumán,yellow
+8468321,77,Alexander Barboza,Defensa y Justicia,yellow
+8468325,40,Nicolás Linares,Banfield,yellow
+8468325,57,Enzo Kalinski,Banfield,yellow-red
+8468325,70,Danilo Ortiz,Banfield,yellow
+8468325,89,Gonzalo Bettini,Banfield,yellow
+8468325,60,Bruno Bianchi,Newells Old Boys,yellow
+8468333,31,Milton Casco,River Plate,yellow
+8468333,42,Hernán Petrik,Chacarita Juniors,yellow
+8468333,78,Miguel Mellado,Chacarita Juniors,yellow
+8468332,64,Lisandro López,Racing Club,red
+8468332,77,Augusto Solari,Racing Club,yellow
+8468332,80,Alexis Soto,Racing Club,yellow
+8468332,90,Leonardo Sigali,Racing Club,red
+8468332,90,Pablo Cuadra,Racing Club,yellow
+8468332,48,Fabián Cubero,Vélez Sarsfield,yellow
+8468332,65,Hernán De La Fuente,Vélez Sarsfield,red
+8468332,76,Luis Abram,Vélez Sarsfield,yellow
+8468332,77,Nicolás Domínguez,Vélez Sarsfield,yellow
+8468332,86,Braian Cufré,Vélez Sarsfield,red
+8468324,17,Maxi Rodríguez,San Martín de San Juan,yellow
+8468324,50,Nicolás Maná,San Martín de San Juan,yellow
+8468324,73,Álvaro Fernández,San Martín de San Juan,yellow
+8468324,76,Jonatan Goitía,San Martín de San Juan,yellow-red
+8468324,35,Jonás Gutiérrez,Independiente,yellow
+8468324,40,Leandro Fernández,Independiente,yellow
+8468324,63,Emmanuel Gigliotti,Independiente,yellow
+8468329,87,Juan Otero,Estudiantes,yellow
+8468329,33,Franco Troyansky,Olimpo de Bahía Blanca,yellow
+8468329,58,Renzo Ramírez,Olimpo de Bahía Blanca,yellow
+8468329,90,David Depetris,Olimpo de Bahía Blanca,yellow
+8468323,33,Javier Cabrera,Argentinos Juniors,yellow
+8468323,38,Edwin Cardona,Boca Juniors,yellow
+8468323,59,Santiago Vergini,Boca Juniors,yellow
+8468323,62,Pablo Pérez,Boca Juniors,yellow
+8468323,74,Julio Buffarini,Boca Juniors,yellow
+8468323,75,Agustín Heredia,Boca Juniors,yellow
+8468339,51,Fabricio Angileri,Godoy Cruz,yellow
+8468339,43,Claudio Corvalán,Arsenal de Sarandí,yellow
+8468339,45,Facundo Monteseirín,Arsenal de Sarandí,yellow
+8468339,73,Marcos Curado,Arsenal de Sarandí,yellow-red
+8468344,23,Facundo Oreja,Gimnasia de La Plata,yellow
+8468344,88,Nicolás Colazo,Gimnasia de La Plata,yellow
+8468344,72,Claudio Bravo,Banfield,yellow
+8468348,28,Fernando Godoy,Talleres de Córdoba,yellow
+8468348,14,Nery Leyes,Atlético Tucumán,yellow
+8468348,25,Gabriel Risso,Atlético Tucumán,yellow
+8468348,87,Francisco Grahl,Atlético Tucumán,yellow-red
+8468337,35,Federico Vismara,Chacarita Juniors,yellow
+8468337,44,Juan Martín Imbert,Chacarita Juniors,yellow
+8468337,64,Miguel Mellado,Chacarita Juniors,yellow
+8468337,90,Federico Rosso,Chacarita Juniors,yellow
+8468337,28,Gonzalo Piovi,Racing Club,yellow
+8468341,6,Renzo Ramírez,Olimpo de Bahía Blanca,yellow
+8468341,68,Franco Bellocq,Olimpo de Bahía Blanca,yellow
+8468341,71,Emiliano Tellechea,Olimpo de Bahía Blanca,yellow
+8468341,28,Guillermo Ortíz,Colón de Santa Fe,yellow
+8468347,53,Frank Fabra,Boca Juniors,yellow
+8468347,64,Pablo Pérez,Boca Juniors,yellow
+8468347,79,Edwin Cardona,Boca Juniors,yellow
+8468347,90,Cristian Pavón,Boca Juniors,yellow
+8468347,34,Agustín Cardozo,Tigre,yellow
+8468347,69,Diego Morales,Tigre,yellow
+8468347,71,Federico González,Tigre,yellow
+8468347,74,Matías Pérez Acuña,Tigre,yellow
+8468336,37,Enzo Pérez,River Plate,yellow
+8468336,42,Milton Casco,River Plate,yellow
+8468336,64,Bruno Zuculini,River Plate,yellow
+8468340,45,Iván Gómez,Estudiantes,yellow
+8468340,55,Nicolás Talpone,Estudiantes,yellow
+8468342,26,Israel Damonte,Huracán,yellow
+8468342,46,Mauro Bogado,Huracán,yellow
+8468342,90,Robert Piris,San Lorenzo,yellow-red
+8468338,26,Agustín Bouzat,Vélez Sarsfield,yellow
+8468338,67,Luis Abram,Vélez Sarsfield,yellow
+8468338,83,Santiago Cáseres,Vélez Sarsfield,yellow
+8468338,22,Federico Carrizo,Rosario Central,yellow
+8468338,59,Joel López,Rosario Central,yellow
+8468346,17,Kevin Mac Allister,Argentinos Juniors,yellow
+8468346,52,Fausto Montero,Argentinos Juniors,yellow
+8468335,80,Cristian Romero,Belgrano de Córdoba,yellow
+8468335,89,Juan Quiroga,Belgrano de Córdoba,red
+8468335,90,Santiago Martínez,Belgrano de Córdoba,yellow
+8468343,42,Marcos Pinto,Temperley,yellow
+8468343,58,Adrián Arregui,Temperley,yellow
+8468343,61,Santiago Giordana,Temperley,yellow
+8468345,66,Fernando Evangelista,Newells Old Boys,yellow
+8468360,36,Germán Herrera,Rosario Central,yellow
+8468360,37,Germán Ré,Chacarita Juniors,yellow
+8468360,60,Juan Martín Imbert,Chacarita Juniors,yellow
+8468357,37,Germán Conti,Colón de Santa Fe,yellow
+8468357,45,Matías Fritzler,Colón de Santa Fe,yellow-red
+8468357,56,Adrián Bastía,Colón de Santa Fe,yellow
+8468357,68,Cristián Bernardi,Colón de Santa Fe,yellow
+8468357,16,Iván Marcone,Lanús,yellow
+8468357,20,Gabriel Carrasco,Lanús,yellow
+8468357,73,Rolando García,Lanús,red
+8468357,79,Gonzalo Di Renzo,Lanús,yellow
+8468352,18,Lucas Barrios,Argentinos Juniors,yellow
+8468352,41,Alexis Mac Allister,Argentinos Juniors,yellow
+8468352,69,Damián Batallini,Argentinos Juniors,yellow
+8468352,21,Hernán Bernardello,Newells Old Boys,yellow
+8468352,90,Denis Rodriguez,Newells Old Boys,yellow
+8468355,22,Adrián Scifo,Temperley,yellow
+8468355,72,Adrián Arregui,Temperley,yellow
+8468355,84,Franco Sosa,Temperley,yellow
+8468355,90,Williams Riveros,Temperley,yellow
+8468355,40,Carlos Araujo,Huracán,yellow
+8468355,47,Carlos Matheu,Huracán,yellow
+8468355,60,Andrés Chávez,Huracán,yellow
+8468353,36,Agustín Bolívar,Gimnasia de La Plata,yellow
+8468353,84,Ezequiel Bonifacio,Gimnasia de La Plata,yellow
+8468356,88,Germán Berterame,San Lorenzo,yellow
+8468356,44,Franco Bellocq,Olimpo de Bahía Blanca,yellow
+8468356,82,Leandro Lacunza,Olimpo de Bahía Blanca,yellow
+8468356,90,Facundo García,Olimpo de Bahía Blanca,yellow
+8468349,83,Santiago Silva,Talleres de Córdoba,yellow-red
+8468349,90,Carlos Quintana,Talleres de Córdoba,yellow
+8468349,34,Nicolás Fernández,Defensa y Justicia,yellow
+8468349,55,Alexander Barboza,Defensa y Justicia,yellow
+8468349,88,Lisandro Martínez,Defensa y Justicia,yellow-red
+8468349,90,Alexander Barboza,Defensa y Justicia,red
+8468361,86,Diego González,Racing Club,yellow
+8468361,28,Gastón Gil Romero,Patronato de Paraná,yellow
+8468361,42,Bruno Urribarri,Patronato de Paraná,yellow
+8468359,67,Gonzalo González,Arsenal de Sarandí,yellow
+8468359,76,Emiliano Purita,Arsenal de Sarandí,yellow
+8468359,25,Francisco Ortega,Vélez Sarsfield,yellow
+8468359,60,Fabián Cubero,Vélez Sarsfield,yellow
+8468358,29,Ángel González,Godoy Cruz,yellow
+8468358,55,Pol Fernández,Godoy Cruz,yellow
+8468358,74,Tomás Cardona,Godoy Cruz,yellow
+8468358,79,Fabricio Angileri,Godoy Cruz,yellow
+8468358,85,Brian Alferez,Godoy Cruz,yellow
+8468350,49,Yonathan Cabral,Atlético Tucumán,yellow
+8468350,63,Gabriel Risso,Atlético Tucumán,yellow
+8468350,76,Rodrigo Aliendro,Atlético Tucumán,yellow
+8468350,87,Guillermo Acosta,Atlético Tucumán,yellow
+8468350,53,Wilmar Barrios,Boca Juniors,yellow
+8468350,63,Pablo Pérez,Boca Juniors,yellow
+8468350,90,Julio Buffarini,Boca Juniors,yellow
+8468362,88,Jonatan Maidana,River Plate,yellow
+8468362,40,Tomás Guidara,Belgrano de Córdoba,yellow
+8468362,45,Federico Lértora,Belgrano de Córdoba,yellow
+8468362,76,Matías Suárez,Belgrano de Córdoba,yellow
+8468362,88,Lucas Acosta,Belgrano de Córdoba,yellow
+8468354,48,Pablo Mouche,Banfield,yellow
+8468354,51,Jesús Dátolo,Banfield,yellow
+8468354,76,Renato Civelli,Banfield,yellow
+8468351,39,Matías Pérez García,Tigre,yellow
+8468351,42,Lucas Menossi,Tigre,yellow
+8468351,24,Jonathan Menéndez,Independiente,yellow
+8468351,39,Nicolás Figal,Independiente,yellow
+8468351,59,Jonás Gutiérrez,Independiente,yellow
+8468351,62,Alan Franco,Independiente,yellow
+8468371,78,Marcos Díaz,Huracán,yellow
+8468371,80,Mauro Bogado,Huracán,yellow
+8468371,13,Danilo Ortiz,Banfield,yellow
+8468371,28,Enzo Kalinski,Banfield,yellow
+8468371,88,Eric Remedi,Banfield,yellow
+8468371,90,Renato Civelli,Banfield,yellow
+8468364,54,Christian Lema,Belgrano de Córdoba,yellow
+8468364,90,Leonardo Sequeira,Belgrano de Córdoba,yellow
+8468364,57,Lautaro Martínez,Racing Club,yellow
+8468364,82,Leonardo Sigali,Racing Club,yellow
+8468364,88,Ricardo Centurión,Racing Club,yellow-red
+8468364,90,Braian Mansilla,Racing Club,yellow
+8468367,37,Luis Abram,Vélez Sarsfield,red
+8468367,77,Matías Vargas,Vélez Sarsfield,yellow
+8468367,82,Fabián Cubero,Vélez Sarsfield,yellow
+8468367,16,Fernando Zuqui,Estudiantes,yellow
+8468367,43,Jonathan Schunke,Estudiantes,yellow
+8468367,57,Lucas Diarte,Estudiantes,yellow
+8468374,20,Stefano Callegari,Newells Old Boys,yellow
+8468374,27,Fernando Evangelista,Newells Old Boys,yellow
+8468374,33,Héctor Fértoli,Newells Old Boys,yellow
+8468374,13,Diego Sosa,Tigre,yellow
+8468373,15,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468373,86,Lucas Chávez,Argentinos Juniors,yellow
+8468372,59,Nelson Acevedo,Unión de Santa Fe,yellow
+8468372,90,Rodrigo Gómez,Unión de Santa Fe,yellow
+8468372,41,Leandro Vega,San Martín de San Juan,yellow
+8468372,69,Emiliano Agüero,San Martín de San Juan,yellow
+8468372,86,Luis Olivera,San Martín de San Juan,yellow
+8468375,88,Leandro Fernández,Independiente,yellow
+8468375,89,Nicolás Figal,Independiente,yellow
+8468375,29,Rafael García,Atlético Tucumán,yellow
+8468375,81,Rodrigo Aliendro,Atlético Tucumán,yellow-red
+8468375,83,Javier Toledo,Atlético Tucumán,yellow
+8468363,29,Christian Almeida,Defensa y Justicia,yellow
+8468363,31,Lucas Bareiro,Defensa y Justicia,yellow
+8468363,13,Enzo Pérez,River Plate,yellow
+8468363,35,Javier Pinola,River Plate,yellow
+8468363,60,Gonzalo Montiel,River Plate,yellow
+8468366,31,Federico Vismara,Chacarita Juniors,yellow
+8468366,87,Agustín Módula,Chacarita Juniors,yellow
+8468366,90,Juan Álvarez,Chacarita Juniors,yellow
+8468366,74,Marcos Curado,Arsenal de Sarandí,yellow
+8468366,90,Sebastián Lomónaco,Arsenal de Sarandí,yellow
+8468366,90,Federico Milo,Arsenal de Sarandí,yellow
+8468365,24,Lucas Márquez,Patronato de Paraná,yellow
+8468365,38,Gastón Gil Romero,Patronato de Paraná,yellow
+8468365,51,Damián Lemos,Patronato de Paraná,yellow
+8468365,73,Adrián Balboa,Patronato de Paraná,yellow
+8468365,31,Joel López,Rosario Central,yellow
+8468365,51,Agustín Maziero,Rosario Central,yellow
+8468365,83,Maximiliano González,Rosario Central,yellow
+8468365,85,Federico Carrizo,Rosario Central,yellow
+8468376,0,Pablo Pérez,Boca Juniors,yellow
+8468376,23,Frank Fabra,Boca Juniors,yellow
+8468376,47,Cristian Pavón,Boca Juniors,yellow
+8468376,38,Leonardo Godoy,Talleres de Córdoba,yellow
+8468376,86,Lucas Olaza,Talleres de Córdoba,yellow
+8468376,90,Pablo Guiñazú,Talleres de Córdoba,yellow
+8468369,32,Tomás Belmonte,Lanús,yellow
+8468369,87,Marcelo Herrera,Lanús,yellow
+8468369,19,Gabriel Rojas,San Lorenzo,yellow
+8468369,33,Marcos Angeleri,San Lorenzo,yellow
+8468369,50,Nicolás Reniero,San Lorenzo,yellow
+8468370,45,Lucas Villarruel,Olimpo de Bahía Blanca,yellow
+8468370,58,Nicolás Pantaleone,Olimpo de Bahía Blanca,yellow
+8468370,5,Josué Díaz Ayala,Temperley,yellow
+8468370,33,Adrián Arregui,Temperley,yellow
+8468370,55,Williams Riveros,Temperley,yellow
+8468370,80,Mathías Villasanti,Temperley,yellow
+8468370,83,Adrián Scifo,Temperley,yellow
+8468368,56,Diego Viera,Godoy Cruz,yellow
+8468368,90,Jalil Elías,Godoy Cruz,yellow
+8468368,32,Adrián Bastía,Colón de Santa Fe,yellow
+8468368,45,Germán Conti,Colón de Santa Fe,yellow
+8468368,90,Guillermo Ortíz,Colón de Santa Fe,yellow
+8468380,84,Diego Morales,Tigre,yellow
+8468380,13,Agustín Bolívar,Gimnasia de La Plata,yellow
+8468380,50,Erik Ramírez,Gimnasia de La Plata,yellow-red
+8468381,44,Fausto Montero,Argentinos Juniors,yellow
+8468381,75,Gastón Machín,Argentinos Juniors,yellow
+8468381,89,Jonathan Sandoval,Argentinos Juniors,yellow-red
+8468381,56,Jonathan Bottinelli,Unión de Santa Fe,yellow
+8468381,75,Rodrigo Gómez,Unión de Santa Fe,yellow
+8468381,76,Yeimar Gómez,Unión de Santa Fe,red
+8468381,86,Luciano Balbi,Unión de Santa Fe,yellow
+8468384,17,Marcos Pinto,Temperley,yellow
+8468384,20,Ignacio Boggino,Temperley,yellow
+8468384,23,Emiliano Ozuna,Temperley,yellow
+8468384,33,Mathías Villasanti,Temperley,yellow
+8468384,45,Santiago Giordana,Temperley,yellow
+8468384,88,Franco Sosa,Temperley,yellow
+8468384,36,Enzo Ortiz,Lanús,yellow-red
+8468384,39,Lautaro Acosta,Lanús,yellow
+8468384,77,Nehuén Paz,Lanús,yellow
+8468384,90,Germán Denis,Lanús,yellow
+8468389,90,Alfonso Parot,Rosario Central,yellow
+8468389,68,Leonardo Sequeira,Belgrano de Córdoba,yellow
+8468389,76,Christian Lema,Belgrano de Córdoba,yellow
+8468389,90,Tomás Guidara,Belgrano de Córdoba,yellow
+8468383,37,Enzo Kalinski,Banfield,yellow
+8468383,17,Nicolás Herranz,Olimpo de Bahía Blanca,yellow
+8468383,42,Franco Bellocq,Olimpo de Bahía Blanca,yellow
+8468383,76,Ezequiel Vidal,Olimpo de Bahía Blanca,yellow
+8468383,82,Franco Troyansky,Olimpo de Bahía Blanca,yellow
+8468377,73,Tomás Pochettino,Defensa y Justicia,yellow
+8468377,77,Fernando Márquez,Defensa y Justicia,yellow
+8468385,75,Alexis Castro,San Lorenzo,yellow
+8468385,84,Rubén Botta,San Lorenzo,yellow
+8468385,72,Agustin Verdugo,Godoy Cruz,yellow
+8468382,47,Pablo Álvarez,Huracán,yellow
+8468382,72,Hugo Nervo,Huracán,yellow-red
+8468382,87,Carlos Matheu,Huracán,yellow
+8468379,38,Leandro Díaz,Atlético Tucumán,yellow
+8468379,42,Guillermo Acosta,Atlético Tucumán,yellow
+8468379,66,Braian Rivero,Newells Old Boys,yellow
+8468379,69,Victor Figueroa,Newells Old Boys,yellow
+8468378,37,Carlos Quintana,Talleres de Córdoba,yellow
+8468378,61,Santiago Silva,Talleres de Córdoba,yellow
+8468378,62,Juan Ramírez,Talleres de Córdoba,yellow
+8468378,77,Juan Komar,Talleres de Córdoba,yellow
+8468378,58,Fernando Amorebieta,Independiente,yellow
+8468378,63,Juan Sánchez Miño,Independiente,yellow
+8468378,80,Emanuel Brítez,Independiente,yellow
+8468390,24,Matías Zaracho,Racing Club,yellow
+8468390,32,Renzo Saravia,Racing Club,yellow
+8468390,72,Nery Domínguez,Racing Club,yellow
+8468390,81,Leonardo Sigali,Racing Club,yellow
+8468390,88,Neri Cardozo,Racing Club,yellow
+8468390,4,Javier Pinola,River Plate,yellow
+8468390,51,Ignacio Fernández,River Plate,yellow
+8468390,60,Juan Quintero,River Plate,yellow
+8468390,68,Gonzalo Montiel,River Plate,yellow
+8468390,86,Rafael Borré,River Plate,yellow
+8468388,32,Gonzalo González,Arsenal de Sarandí,yellow
+8468388,85,Gonzalo Gómez,Arsenal de Sarandí,yellow
+8468388,90,Marcos Curado,Arsenal de Sarandí,yellow
+8468388,29,Matías Garrido,Patronato de Paraná,yellow
+8468387,17,Leandro Desábato,Estudiantes,yellow
+8468387,52,Rodrigo Braña,Estudiantes,yellow
+8468386,56,Matías Fritzler,Colón de Santa Fe,yellow
+8468386,67,Mariano González,Colón de Santa Fe,yellow
+8468386,79,Tomás Chancalay,Colón de Santa Fe,yellow
+8468402,43,Omar Alderete,Gimnasia de La Plata,yellow
+8468400,37,Miguel Torrén,Argentinos Juniors,yellow
+8468400,40,Kevin Mac Allister,Argentinos Juniors,yellow
+8468400,44,Damián Batallini,Argentinos Juniors,yellow
+8468397,31,Alexis Delgado,Temperley,yellow
+8468397,47,Matías Nani,Temperley,yellow
+8468399,8,Guido Villar,Olimpo de Bahía Blanca,yellow
+8468399,90,Renzo Ramírez,Olimpo de Bahía Blanca,yellow
+8468399,38,Leandro Vega,San Martín de San Juan,yellow
+8468399,40,Gonzalo Prósperi,San Martín de San Juan,yellow
+8468398,40,Marcelo Herrera,Lanús,yellow
+8468398,30,Enzo Kalinski,Banfield,yellow
+8468398,72,Eric Remedi,Banfield,yellow
+8468393,53,Matías Suárez,Belgrano de Córdoba,yellow
+8468393,56,Facundo Monteseirín,Arsenal de Sarandí,yellow
+8468391,13,Lisandro Martínez,Defensa y Justicia,yellow
+8468391,35,Miguel Barbieri,Racing Club,yellow
+8468391,38,Alexis Soto,Racing Club,yellow
+8468391,79,Rodrigo Schlegel,Racing Club,yellow
+8468391,81,Braian Mansilla,Racing Club,yellow
+8468401,37,Damián Martínez,Unión de Santa Fe,yellow
+8468401,45,Nereo Fernández,Unión de Santa Fe,yellow
+8468401,88,Manuel De Iriondo,Unión de Santa Fe,red
+8468401,48,Matías Pérez Acuña,Tigre,yellow
+8468401,75,Daniel Imperiale,Tigre,yellow
+8468401,88,Sebastián Prediger,Tigre,red
+8468401,90,Jacobo Mansilla,Tigre,yellow
+8468394,54,Martín Rivero,Patronato de Paraná,yellow
+8468394,56,Walter Andrade,Patronato de Paraná,yellow-red
+8468394,71,Damián Lemos,Patronato de Paraná,red
+8468394,82,Lautaro Comas,Patronato de Paraná,yellow
+8468394,50,Facundo Sánchez,Estudiantes,yellow
+8468394,83,Leandro Desábato,Estudiantes,yellow
+8468394,88,Iván Gómez,Estudiantes,yellow
+8468395,45,Federico Vismara,Chacarita Juniors,yellow
+8468395,80,Germán Ré,Chacarita Juniors,yellow
+8468395,81,Facundo Silva,Colón de Santa Fe,yellow
+8468392,43,Ignacio Scocco,River Plate,yellow
+8468392,45,Bruno Zuculini,River Plate,yellow
+8468392,36,Joaquin Pereyra,Rosario Central,yellow
+8468392,41,Óscar Cabezas,Rosario Central,yellow
+8468392,43,Fernando Zampedri,Rosario Central,yellow
+8468392,56,Andrés Lioi,Rosario Central,yellow
+8468392,81,Joel López,Rosario Central,yellow
+8468404,38,Gastón Silva,Independiente,yellow
+8468404,51,Leandro Fernández,Independiente,yellow
+8468404,9,Santiago Vergini,Boca Juniors,yellow
+8468404,81,Emanuel Mas,Boca Juniors,yellow
+8468404,90,Pablo Pérez,Boca Juniors,yellow-red
+8468404,90,Nahitan Nández,Boca Juniors,yellow
+8468403,47,Leonel Ferroni,Newells Old Boys,yellow
+8468403,90,Victor Figueroa,Newells Old Boys,yellow
+8468396,15,Nicolás Domínguez,Vélez Sarsfield,yellow
+8468396,16,Mauro Zárate,Vélez Sarsfield,yellow
+8468396,81,Joaquin Laso,Vélez Sarsfield,yellow
+8468396,90,Rodrigo Salinas,Vélez Sarsfield,yellow
+8468396,8,Marcos Senesi,San Lorenzo,yellow
+8468396,17,Paulo Díaz,San Lorenzo,yellow
+8468396,56,Cristian Barrios,San Lorenzo,yellow
+8468410,17,Camilo Saiz,Argentinos Juniors,yellow
+8468410,23,Kevin Mac Allister,Argentinos Juniors,yellow
+8468410,32,Facundo García,Olimpo de Bahía Blanca,yellow
+8468410,36,Daniel Ibáñez,Olimpo de Bahía Blanca,yellow
+8468410,80,Pablo Rosales,Olimpo de Bahía Blanca,yellow
+8468422,30,Pablo Lugüercio,Estudiantes,yellow
+8468422,16,Federico Lértora,Belgrano de Córdoba,yellow
+8468422,39,Juan Quiroga,Belgrano de Córdoba,yellow
+8468422,60,Jorge Ortiz,Belgrano de Córdoba,yellow
+8468411,43,Marcos Gelabert,San Martín de San Juan,yellow
+8468411,50,Claudio Mosca,San Martín de San Juan,yellow
+8468411,59,Álvaro Fernández,San Martín de San Juan,yellow
+8468411,42,Enzo Ortiz,Lanús,yellow
+8468411,83,Iván Marcone,Lanús,yellow
+8468411,90,Gabriel Carrasco,Lanús,yellow
+8468413,36,Darío Salina,Temperley,yellow
+8468413,58,Marcos Pinto,Temperley,yellow
+8468413,69,Josué Díaz Ayala,Temperley,red
+8468413,74,Matías Nani,Temperley,yellow-red
+8468413,85,Emiliano Ozuna,Temperley,yellow
+8468413,90,Federico Fattori,Temperley,yellow-red
+8468413,90,Gastón Aguirre,Temperley,yellow
+8468413,73,Mauro Zárate,Vélez Sarsfield,yellow
+8468407,77,Matías Melluso,Gimnasia de La Plata,yellow
+8468412,75,Renato Civelli,Banfield,yellow
+8468412,48,Diego Viera,Godoy Cruz,yellow
+8468415,86,Paulo Díaz,San Lorenzo,yellow
+8468415,37,Germán Ré,Chacarita Juniors,yellow
+8468415,43,Miguel Mellado,Chacarita Juniors,yellow
+8468415,88,Federico Vismara,Chacarita Juniors,yellow
+8468415,90,Federico Rosso,Chacarita Juniors,yellow
+8468409,28,Matías Pérez García,Tigre,yellow
+8468409,41,Carlos Luna,Tigre,yellow
+8468409,44,Agustín Cardozo,Tigre,yellow
+8468409,45,Juan Blengio,Tigre,yellow
+8468409,80,Lucas Menossi,Tigre,yellow
+8468409,88,Matías Pérez Acuña,Tigre,yellow
+8468409,90,Ramón Mierez,Tigre,yellow
+8468409,36,Adrián Calello,Huracán,yellow
+8468409,52,Diego Mendoza,Huracán,yellow
+8468426,19,Paulo Ferrari,Rosario Central,yellow
+8468426,44,Washington Camacho,Rosario Central,yellow
+8468426,87,Germán Herrera,Rosario Central,yellow
+8468426,4,Matías Zaracho,Racing Club,yellow
+8468426,8,Braian Mansilla,Racing Club,yellow
+8468426,30,Rodrigo Schlegel,Racing Club,yellow
+8468426,78,Iván Pillud,Racing Club,yellow
+8468426,88,Leonardo Sigali,Racing Club,yellow
+8468408,40,Nery Leyes,Atlético Tucumán,yellow
+8468408,67,Nelson Acevedo,Unión de Santa Fe,yellow
+8468408,69,Yeimar Gómez,Unión de Santa Fe,yellow
+8468424,24,Gonzalo González,Arsenal de Sarandí,yellow
+8468424,8,Lucas Martínez,River Plate,yellow
+8468424,29,Exequiel Palacios,River Plate,yellow
+8468424,58,Juan Quintero,River Plate,yellow
+8468424,66,Cristian Ferreira,River Plate,yellow
+8468406,3,Sebastián Pérez,Boca Juniors,yellow
+8468406,85,Nahitan Nández,Boca Juniors,yellow
+8468406,90,Julio Buffarini,Boca Juniors,yellow
+8468406,21,Juan Sills,Newells Old Boys,yellow
+8468406,63,Joaquín Varela,Newells Old Boys,yellow
+8468406,66,Daniel Opazo,Newells Old Boys,yellow
+8468406,78,Fabricio Fontanini,Newells Old Boys,yellow
+8468406,89,Hernán Bernardello,Newells Old Boys,yellow
+8468419,5,Marcelo Estigarribia,Colón de Santa Fe,yellow
+8468419,73,Gonzalo Escobar,Colón de Santa Fe,yellow
+8468419,25,Abel Peralta,Patronato de Paraná,yellow
+8468419,63,Luca Sosa,Patronato de Paraná,yellow
+8468419,86,Matías Quiroga,Patronato de Paraná,yellow
+8468419,87,Martín Rivero,Patronato de Paraná,yellow
+8468405,28,Fabricio Bustos,Independiente,yellow
+8468405,30,Fernando Amorebieta,Independiente,yellow
+8468405,33,Nahuel Molina Lucero,Defensa y Justicia,yellow
+8468405,51,Lucas Bareiro,Defensa y Justicia,yellow
+8468405,72,Christian Almeida,Defensa y Justicia,yellow
+8468405,74,Andrés Cubas,Defensa y Justicia,yellow
+8468432,70,Lucas Lezcano,Chacarita Juniors,yellow
+8468432,49,Matías Orihuela,Temperley,yellow
+8468432,71,Alexis Delgado,Temperley,red
+8468432,86,Ezequiel Montagna,Temperley,yellow
+8468432,88,Marcos Pinto,Temperley,yellow
+8468434,58,Pol Fernández,Godoy Cruz,yellow
+8468434,90,Fabián Henríquez,Godoy Cruz,yellow
+8468434,70,Marcos Gelabert,San Martín de San Juan,yellow
+8468434,82,Claudio Mosca,San Martín de San Juan,yellow-red
+8468434,89,Matías Escudero,San Martín de San Juan,yellow-red
+8468427,87,Ciro Rius,Defensa y Justicia,yellow
+8468427,6,Fernando Tobio,Rosario Central,yellow
+8468427,10,Joaquin Pereyra,Rosario Central,yellow
+8468427,64,Germán Herrera,Rosario Central,yellow
+8468433,63,Rodrigo Salinas,Vélez Sarsfield,yellow
+8468433,74,Santiago Cáseres,Vélez Sarsfield,yellow
+8468433,31,Danilo Ortiz,Banfield,yellow
+8468433,49,Jorge Rodriguez,Banfield,yellow
+8468433,69,Adrián Sporle,Banfield,yellow
+8468440,31,Hernán Bernardello,Newells Old Boys,yellow
+8468440,49,José San Román,Newells Old Boys,yellow
+8468440,87,Enzo Cabrera,Newells Old Boys,yellow
+8468440,39,Alan Franco,Independiente,yellow
+8468440,41,Nicolás Figal,Independiente,yellow
+8468435,68,Bruno Vides,Lanús,yellow
+8468435,89,Marcelo Herrera,Lanús,yellow
+8468435,43,Leonardo Pisculichi,Argentinos Juniors,yellow
+8468435,68,Fausto Montero,Argentinos Juniors,yellow
+8468435,89,Lucas Barrios,Argentinos Juniors,yellow
+8468435,90,Nicolás González,Argentinos Juniors,yellow
+8468437,26,Diego Mendoza,Huracán,yellow
+8468437,60,Nicolás Silva,Huracán,yellow
+8468437,55,Andrés Lamas,Atlético Tucumán,yellow
+8468437,90,Yonathan Cabral,Atlético Tucumán,yellow-red
+8468437,90,Gonzalo Freitas,Atlético Tucumán,yellow
+8468431,45,Adrián Balboa,Patronato de Paraná,yellow
+8468431,82,Rodrigo Arciero,Patronato de Paraná,yellow-red
+8468431,55,Juan Mercier,San Lorenzo,yellow
+8468431,80,Paulo Díaz,San Lorenzo,yellow-red
+8468431,89,Marcos Senesi,San Lorenzo,yellow
+8468430,21,Christian Lema,Belgrano de Córdoba,yellow
+8468430,21,Gustavo Toledo,Colón de Santa Fe,yellow
+8468430,25,Germán Conti,Colón de Santa Fe,yellow
+8468430,81,Gonzalo Escobar,Colón de Santa Fe,yellow
+8468430,90,Tomás Chancalay,Colón de Santa Fe,yellow
+8468438,24,Luciano Balbi,Unión de Santa Fe,yellow
+8468438,90,Nereo Fernández,Unión de Santa Fe,yellow
+8468438,90,Damián Martínez,Unión de Santa Fe,yellow
+8468436,32,Facundo García,Olimpo de Bahía Blanca,yellow
+8468436,45,Leandro Lacunza,Olimpo de Bahía Blanca,yellow
+8468436,45,Sebastián Prediger,Tigre,yellow
+8468428,75,Gonzalo Piovi,Racing Club,yellow
+8468428,90,Marcelo Meli,Racing Club,yellow
+8468428,6,Federico Milo,Arsenal de Sarandí,yellow
+8468428,39,Matías García,Arsenal de Sarandí,yellow
+8468428,40,Gabriel Alanis,Arsenal de Sarandí,yellow
+8468428,62,Marcos Curado,Arsenal de Sarandí,yellow
+8468428,85,Germán Ferreyra,Arsenal de Sarandí,yellow
+8468439,35,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468439,70,Ezequiel Bonifacio,Gimnasia de La Plata,yellow
+8468439,72,Manuel Guanini,Gimnasia de La Plata,yellow
+8468439,31,Sebastián Pérez,Boca Juniors,yellow
+8468439,65,Pablo Pérez,Boca Juniors,yellow
+8468439,90,Óscar Benítez,Boca Juniors,yellow
+8468429,44,Enzo Pérez,River Plate,yellow
+8468429,86,Leonardo Ponzio,River Plate,yellow
+8468429,21,Juan Cascini,Estudiantes,yellow
+8468429,69,Gastón Campi,Estudiantes,yellow
+8468448,43,Leandro Vega,San Martín de San Juan,yellow
+8468448,50,Pablo Aguilar,San Martín de San Juan,yellow
+8468448,30,Joaquin Laso,Vélez Sarsfield,yellow
+8468448,34,Lucas Robertone,Vélez Sarsfield,yellow
+8468451,10,Gabriel Rojas,San Lorenzo,yellow
+8468451,15,Franco Moyano,San Lorenzo,yellow
+8468451,72,Alexis Castro,San Lorenzo,yellow
+8468451,25,Érik Godoy,Belgrano de Córdoba,yellow
+8468451,28,Federico Lértora,Belgrano de Córdoba,yellow
+8468451,28,Tomás Guidara,Belgrano de Córdoba,yellow
+8468451,35,Christian Lema,Belgrano de Córdoba,yellow
+8468447,36,Fausto Montero,Argentinos Juniors,yellow
+8468447,30,Tomás Cardona,Godoy Cruz,yellow
+8468454,25,Alejo Antilef,Arsenal de Sarandí,yellow
+8468454,31,Alfonso Parot,Rosario Central,yellow
+8468454,34,Mauricio Martínez,Rosario Central,red
+8468454,44,Paulo Ferrari,Rosario Central,yellow
+8468441,43,Bruno Bianchi,Newells Old Boys,yellow
+8468441,72,Leonel Ferroni,Newells Old Boys,yellow
+8468441,75,Braian Rivero,Newells Old Boys,yellow
+8468441,89,Juan Sills,Newells Old Boys,yellow
+8468441,59,Tomás Pochettino,Defensa y Justicia,yellow
+8468444,45,Joao Rojas,Talleres de Córdoba,yellow
+8468444,90,Leonardo Godoy,Talleres de Córdoba,yellow
+8468444,3,Saúl Salcedo,Huracán,yellow
+8468444,15,Ignacio Pussetto,Huracán,yellow
+8468444,67,Carlos Araujo,Huracán,yellow
+8468444,72,Adrián Calello,Huracán,yellow
+8468444,81,Mauro Bogado,Huracán,yellow
+8468445,10,Said Llambay,Olimpo de Bahía Blanca,yellow
+8468445,43,Pedro Silva,Olimpo de Bahía Blanca,yellow
+8468445,59,Facundo García,Olimpo de Bahía Blanca,yellow
+8468450,8,Agustín Sosa,Temperley,yellow
+8468450,28,Fernando Brandán,Temperley,yellow
+8468450,35,Ignacio Boggino,Temperley,yellow
+8468450,54,Martín Rivero,Patronato de Paraná,yellow
+8468450,73,Bruno Urribarri,Patronato de Paraná,yellow
+8468450,81,Renzo Vera,Patronato de Paraná,yellow
+8468450,90,Abel Peralta,Patronato de Paraná,red
+8468442,23,Nicolás Figal,Independiente,red
+8468442,31,Diego Rodríguez,Independiente,yellow
+8468442,60,Fabricio Bustos,Independiente,yellow
+8468442,18,Nicolás Dibble,Gimnasia de La Plata,yellow
+8468442,24,Fabián Rinaudo,Gimnasia de La Plata,yellow
+8468442,82,Leandro Contin,Gimnasia de La Plata,yellow
+8468446,45,Ignacio Canuto,Tigre,yellow
+8468446,67,Gonzalo Di Renzo,Lanús,yellow
+8468446,70,Marcelo Herrera,Lanús,yellow
+8468453,18,Lucas Rodríguez,Estudiantes,yellow
+8468453,54,Gastón Campi,Estudiantes,yellow
+8468453,90,Rodrigo Braña,Estudiantes,yellow
+8468453,39,Augusto Solari,Racing Club,red
+8468453,45,Alejandro Donatti,Racing Club,yellow
+8468449,56,Enzo Kalinski,Banfield,yellow
+8468449,60,Danilo Ortiz,Banfield,yellow
+8468449,90,Juan Martín Imbert,Chacarita Juniors,yellow
+8468452,40,Matías Fritzler,Colón de Santa Fe,yellow
+8468452,40,Camilo Mayada,River Plate,yellow
+8468452,90,Rafael Borré,River Plate,yellow
+8468461,44,Federico Rosso,Chacarita Juniors,yellow
+8468461,80,Leandro Martínez,Chacarita Juniors,yellow
+8468461,82,Agustín Módula,Chacarita Juniors,yellow
+8468461,45,Arián Pucheta,San Martín de San Juan,yellow
+8468461,45,Claudio Spinelli,San Martín de San Juan,yellow
+8468461,45,Álvaro Fernández,San Martín de San Juan,yellow
+8468464,11,Bruno Vides,Lanús,yellow
+8468464,25,Gonzalo Freitas,Atlético Tucumán,yellow
+8468464,88,Andrés Lamas,Atlético Tucumán,yellow
+8468464,89,Alejandro Sánchez,Atlético Tucumán,yellow
+8468466,27,Israel Damonte,Huracán,yellow
+8468466,38,Adrián Calello,Huracán,yellow
+8468466,90,Pablo Álvarez,Huracán,yellow
+8468466,23,Edwin Cardona,Boca Juniors,yellow
+8468466,33,Emanuel Mas,Boca Juniors,yellow
+8468466,52,Julián Chicco,Boca Juniors,yellow
+8468466,73,Agustín Almendra,Boca Juniors,yellow
+8468460,32,Luca Sosa,Patronato de Paraná,yellow
+8468460,71,Walter Andrade,Patronato de Paraná,yellow
+8468460,90,Lautaro Comas,Patronato de Paraná,yellow
+8468460,24,Julián Carranza,Banfield,yellow
+8468460,79,Eric Remedi,Banfield,yellow
+8468455,79,Lucas Bareiro,Defensa y Justicia,yellow
+8468455,88,Luis Jerez Silva,Defensa y Justicia,yellow
+8468455,90,Gonzalo Diaz,Defensa y Justicia,yellow
+8468455,12,Marcos Curado,Arsenal de Sarandí,yellow
+8468455,18,Gonzalo González,Arsenal de Sarandí,yellow
+8468455,59,Mateo Carabajal,Arsenal de Sarandí,yellow
+8468465,35,Lucas Orozco,Olimpo de Bahía Blanca,yellow
+8468465,52,Nicolás Herranz,Olimpo de Bahía Blanca,yellow
+8468465,80,Martín Ferreyra,Olimpo de Bahía Blanca,yellow
+8468465,90,Jorge Carranza,Olimpo de Bahía Blanca,yellow
+8468465,57,Fernando Godoy,Talleres de Córdoba,yellow
+8468467,57,Mauro Pittón,Unión de Santa Fe,yellow
+8468467,55,Alan Franco,Independiente,yellow
+8468467,73,Leandro Fernández,Independiente,yellow
+8468467,83,Fernando Gaibor,Independiente,yellow
+8468467,89,Martín Campaña,Independiente,yellow
+8468467,90,Maximiliano Meza,Independiente,yellow
+8468467,90,Fernando Amorebieta,Independiente,yellow
+8468459,35,Lucas Acosta,Belgrano de Córdoba,yellow
+8468459,45,Federico Lértora,Belgrano de Córdoba,yellow
+8468459,54,Maximiliano Lugo,Belgrano de Córdoba,yellow
+8468459,59,Christian Lema,Belgrano de Córdoba,yellow
+8468459,20,Gastón Aguirre,Temperley,yellow
+8468459,27,Ignacio Boggino,Temperley,yellow
+8468459,45,Santiago Giordana,Temperley,yellow
+8468459,60,Matías Orihuela,Temperley,yellow
+8468459,75,Alexis Delgado,Temperley,yellow
+8468459,83,Matías Nani,Temperley,yellow
+8468463,27,Víctorio Ramis,Godoy Cruz,yellow-red
+8468463,36,Jacobo Mansilla,Tigre,yellow
+8468463,77,Maximiliano Caire,Tigre,yellow
+8468462,35,Santiago Cáseres,Vélez Sarsfield,yellow
+8468462,43,Mauro Zárate,Vélez Sarsfield,yellow
+8468462,33,Jonathan Sandoval,Argentinos Juniors,yellow
+8468462,39,Nicolás González,Argentinos Juniors,yellow
+8468462,54,Gastón Machín,Argentinos Juniors,yellow
+8468462,88,Luiz da Silva,Argentinos Juniors,yellow
+8468456,30,Washington Camacho,Rosario Central,yellow
+8468456,64,Hernán Da Campo,Rosario Central,yellow
+8468456,23,Iván Erquiaga,Estudiantes,yellow
+8468456,83,Gastón Giménez,Estudiantes,yellow
+8468456,89,Mariano Pavone,Estudiantes,yellow
+8468456,90,Juan Apaolaza,Estudiantes,yellow
+8468457,79,Ricardo Centurión,Racing Club,yellow
+8468457,53,Gonzalo Escobar,Colón de Santa Fe,yellow
+8468457,57,Alan Ruíz,Colón de Santa Fe,yellow
+8468457,78,Guillermo Ortíz,Colón de Santa Fe,yellow
+8468457,90,Emanuel Olivera,Colón de Santa Fe,yellow
+8468457,90,Mariano González,Colón de Santa Fe,yellow
+8468458,45,Lucas Pratto,River Plate,yellow
+8468458,61,Enzo Pérez,River Plate,yellow
+8468458,1,José Devecchi,San Lorenzo,yellow
+8468458,42,Gabriel Gudiño,San Lorenzo,yellow
+8468458,77,Paulo Díaz,San Lorenzo,yellow
+8468468,41,Facundo Oreja,Gimnasia de La Plata,yellow
+8468468,50,Maximiliano Coronel,Gimnasia de La Plata,yellow
+8468468,56,Hernán Bernardello,Newells Old Boys,yellow
+8468468,72,Joaquin Torres,Newells Old Boys,yellow

@@ -1,0 +1,721 @@
+GameID,Minute,Player,Team,Card
+8407657,24,Joelinton,Rapid Wien,red
+8407657,87,Mario Sonnleitner,Rapid Wien,yellow
+8407657,39,Lukas Rath,SV Mattersburg,yellow
+8407657,81,Alois Höller,SV Mattersburg,yellow
+8407659,62,Nemanja Rnić,Wolfsberger AC,yellow
+8407659,81,Christopher Wernitznig,Wolfsberger AC,yellow
+8407659,81,Stefan Lainer,RB Salzburg,yellow
+8407659,88,Diadie Samassekou,RB Salzburg,yellow
+8407661,5,Doğan Erdoğan,LASK,yellow
+8407661,63,Daniel Toth,FC Admira Wacker,yellow
+8407665,55,Emanuel Schreiner,SCR Altach,yellow
+8407665,15,Heiko Westermann,Austria Wien,yellow
+8407665,72,Kevin Friesenbichler,Austria Wien,yellow
+8407665,81,Petar Filipović,Austria Wien,yellow
+8407665,90,Christoph Martschinko,Austria Wien,yellow
+8407669,38,Stefan Hierländer,Sturm Graz,yellow
+8407669,34,David Steć,SKN St. Pölten,yellow
+8407669,71,Babacar Diallo,SKN St. Pölten,yellow
+8407677,89,Marin Pongračić,RB Salzburg,yellow
+8407677,90,Duje Ćaleta-Car,RB Salzburg,yellow
+8407681,15,Devante Parker,SKN St. Pölten,yellow
+8407681,56,Thomas Murg,Rapid Wien,yellow
+8407687,39,Michael Novak,SV Mattersburg,yellow
+8407687,46,Jano,SV Mattersburg,yellow
+8407687,76,César Ortiz,SV Mattersburg,yellow
+8407687,18,Thomas Zündel,Wolfsberger AC,yellow
+8407687,79,Florian Flecker,Wolfsberger AC,yellow
+8407687,84,Stephan Palla,Wolfsberger AC,yellow
+8407687,88,Issiaka Ouédraogo,Wolfsberger AC,yellow-red
+8407693,45,Petar Filipović,Austria Wien,yellow
+8407693,71,Thomas Salamon,Austria Wien,yellow
+8407693,83,Heiko Westermann,Austria Wien,yellow
+8407693,84,Alexander Grünwald,Austria Wien,yellow
+8407693,42,Fabian Koch,Sturm Graz,yellow
+8407693,66,Deni Alar,Sturm Graz,yellow
+8407693,81,Peter Žulj,Sturm Graz,yellow
+8407693,90,Stefan Hierländer,Sturm Graz,yellow
+8407683,71,Markus Wostry,FC Admira Wacker,yellow
+8407683,79,Fabio Strauss,FC Admira Wacker,yellow
+8407683,45,Philipp Netzer,SCR Altach,yellow
+8407683,61,Patrick Salomon,SCR Altach,yellow
+8407697,57,Maximilian Ullmann,LASK,yellow
+8407697,87,Emanuel Pogatetz,LASK,yellow
+8407697,45,Babacar Diallo,SKN St. Pölten,yellow
+8407697,54,David Steć,SKN St. Pölten,yellow
+8407697,68,Daniel Schütz,SKN St. Pölten,yellow
+8407697,83,Daniel Petrovic,SKN St. Pölten,yellow
+8407699,52,Hannes Wolf,RB Salzburg,yellow
+8407699,59,Thomas Ebner,FC Admira Wacker,yellow
+8407699,59,Markus Lackner,FC Admira Wacker,yellow
+8407699,63,Daniel Toth,FC Admira Wacker,yellow
+8407699,70,Stephan Zwierschitz,FC Admira Wacker,yellow
+8407699,80,Fabio Strauss,FC Admira Wacker,yellow
+8407703,1,Mihret Topčagić,Wolfsberger AC,yellow
+8407703,29,Florian Flecker,Wolfsberger AC,yellow
+8407703,59,Mario Leitgeb,Wolfsberger AC,yellow
+8407703,63,Thomas Zündel,Wolfsberger AC,red
+8407703,29,Galvão,SCR Altach,yellow
+8407703,83,Nicolas Ngamaleu,SCR Altach,yellow
+8407711,25,Stephan Auer,Rapid Wien,yellow
+8407711,30,Mario Sonnleitner,Rapid Wien,yellow
+8407711,84,Thomas Schrammel,Rapid Wien,red
+8407711,90,Andreas Kuen,Rapid Wien,yellow
+8407711,29,Raphael Holzhauser,Austria Wien,yellow
+8407711,30,Petar Filipović,Austria Wien,yellow
+8407711,62,Jens Stryger Larsen,Austria Wien,yellow
+8407701,13,Philipp Erhardt,SV Mattersburg,yellow
+8407701,21,Stefan Maierhofer,SV Mattersburg,yellow
+8407701,23,Jano,SV Mattersburg,yellow
+8407701,90,Smail Prevljak,SV Mattersburg,yellow
+8407701,35,Stefan Hierländer,Sturm Graz,yellow
+8407701,58,Sandi Lovrič,Sturm Graz,yellow
+8407701,59,Thorsten Röcher,Sturm Graz,yellow
+8407721,60,Galvão,SCR Altach,yellow
+8407721,65,Duje Ćaleta-Car,RB Salzburg,yellow
+8407717,56,Jens Stryger Larsen,Austria Wien,yellow
+8407717,56,Peter Michorl,LASK,yellow
+8407717,64,Christian Ramsebner,LASK,yellow
+8407717,80,Alexander Riemann,LASK,yellow
+8407719,5,Stephan Palla,Wolfsberger AC,yellow
+8407719,90,Dever Orgill,Wolfsberger AC,yellow
+8407727,34,Martin Rasner,SKN St. Pölten,yellow
+8407727,40,Devante Parker,SKN St. Pölten,yellow
+8407727,45,Damir Mehmedovic,SKN St. Pölten,yellow
+8407727,80,Babacar Diallo,SKN St. Pölten,yellow
+8407727,78,Florian Sittsam,SV Mattersburg,yellow
+8407727,87,Stefan Maierhofer,SV Mattersburg,yellow
+8407725,52,Daniel Toth,FC Admira Wacker,yellow
+8407725,90,Lukas Grozurek,FC Admira Wacker,yellow
+8407725,56,Stephan Auer,Rapid Wien,yellow
+8407725,71,Mario Sonnleitner,Rapid Wien,yellow
+8407725,78,Joelinton,Rapid Wien,yellow
+8407725,78,Giorgi Kvilitaia,Rapid Wien,yellow
+8407725,90,Thomas Murg,Rapid Wien,red
+8407725,90,Eren Keles,Rapid Wien,yellow
+8407739,31,Louis Schaub,Rapid Wien,yellow
+8407739,90,Maximilian Hofmann,Rapid Wien,yellow
+8407739,59,Marvin Potzmann,Sturm Graz,yellow
+8407739,66,Charalampos Lykogiannis,Sturm Graz,yellow
+8407739,86,Stefan Hierländer,Sturm Graz,yellow
+8407743,37,Florian Flecker,Wolfsberger AC,yellow
+8407743,29,Maximilian Sax,FC Admira Wacker,yellow-red
+8407743,31,Stephan Zwierschitz,FC Admira Wacker,yellow
+8407743,39,Daniel Toth,FC Admira Wacker,yellow-red
+8407735,87,Fredrik Gulbrandsen,RB Salzburg,yellow
+8407735,33,Daniel Petrovic,SKN St. Pölten,yellow
+8407735,70,Martin Rasner,SKN St. Pölten,yellow
+8407749,42,Thomas Goiginger,LASK,yellow
+8407749,53,Doğan Erdoğan,LASK,yellow
+8407749,62,Felix Luckeneder,LASK,yellow
+8407749,55,Patrick Salomon,SCR Altach,yellow
+8407749,82,Philipp Netzer,SCR Altach,yellow
+8407741,44,Florian Hart,SV Mattersburg,yellow
+8407741,59,Alois Höller,SV Mattersburg,red
+8407741,27,Ismael Tajouri,Austria Wien,yellow
+8407741,39,Thomas Salamon,Austria Wien,yellow
+8407741,66,Kevin Friesenbichler,Austria Wien,yellow
+8407765,74,Mario Leitgeb,Wolfsberger AC,yellow
+8407765,2,Damir Mehmedovic,SKN St. Pölten,yellow
+8407765,8,Daniel Petrovic,SKN St. Pölten,yellow
+8407765,41,Manuel Martic,SKN St. Pölten,yellow
+8407765,89,David Steć,SKN St. Pölten,yellow
+8407763,45,Stefan Schwab,Rapid Wien,yellow
+8407763,54,Maximilian Hofmann,Rapid Wien,yellow
+8407763,69,Dejan Ljubicic,Rapid Wien,yellow
+8407763,74,Mario Pavelić,Rapid Wien,yellow
+8407763,26,Gernot Trauner,LASK,yellow
+8407763,78,Peter Michorl,LASK,yellow
+8407757,14,Charalampos Lykogiannis,Sturm Graz,yellow
+8407757,33,Peter Žulj,Sturm Graz,yellow
+8407757,86,Stefan Hierländer,Sturm Graz,yellow
+8407757,40,Hannes Wolf,RB Salzburg,yellow
+8407757,77,Marin Pongračić,RB Salzburg,yellow
+8407757,89,Amadou Haïdara,RB Salzburg,yellow
+8407757,90,Duje Ćaleta-Car,RB Salzburg,yellow
+8407759,48,Patrick Salomon,SCR Altach,yellow
+8407759,72,Hannes Aigner,SCR Altach,yellow
+8407759,54,Florian Sittsam,SV Mattersburg,yellow
+8407759,71,Florian Hart,SV Mattersburg,yellow
+8407785,37,Sandi Lovrič,Sturm Graz,yellow
+8407771,57,Stephan Palla,Wolfsberger AC,yellow
+8407771,67,Thomas Zündel,Wolfsberger AC,yellow
+8407771,69,Daniel Offenbacher,Wolfsberger AC,yellow
+8407771,82,Mario Leitgeb,Wolfsberger AC,yellow
+8407771,85,Florian Flecker,Wolfsberger AC,yellow
+8407775,60,Stefan Maierhofer,SV Mattersburg,yellow-red
+8407775,20,Maximilian Sax,FC Admira Wacker,yellow
+8407775,39,Markus Wostry,FC Admira Wacker,yellow
+8407775,51,Daniel Toth,FC Admira Wacker,yellow
+8407781,27,Michael Ambichl,SKN St. Pölten,yellow
+8407781,53,Philipp Netzer,SCR Altach,yellow
+8407781,75,Mathias Honsak,SCR Altach,yellow
+8407781,90,Martin Kobras,SCR Altach,yellow
+8407768,26,Amadou Haïdara,RB Salzburg,yellow
+8407768,87,Hee-chan Hwang,RB Salzburg,yellow
+8407768,89,Xaver Schlager,RB Salzburg,yellow
+8407768,14,Maximilian Hofmann,Rapid Wien,yellow
+8407768,16,Mario Pavelić,Rapid Wien,red
+8407768,16,Stefan Schwab,Rapid Wien,yellow
+8407768,64,Tobias Knoflach,Rapid Wien,yellow
+8407768,74,Thomas Murg,Rapid Wien,yellow
+8407791,34,Hannes Aigner,SCR Altach,yellow
+8407791,63,Benedikt Zech,SCR Altach,yellow
+8407791,63,Philipp Schobesberger,Rapid Wien,yellow
+8407791,71,Dejan Ljubicic,Rapid Wien,yellow
+8407797,75,Christoph Knasmüllner,FC Admira Wacker,yellow
+8407797,35,Stefan Hierländer,Sturm Graz,yellow
+8407797,87,James Jeggo,Sturm Graz,yellow
+8407803,45,Dever Orgill,Wolfsberger AC,yellow
+8407803,82,Thomas Zündel,Wolfsberger AC,yellow
+8407803,29,Peter Michorl,LASK,yellow
+8407803,32,Christian Ramsebner,LASK,yellow
+8407801,21,Jano,SV Mattersburg,yellow
+8407801,25,Alois Höller,SV Mattersburg,yellow
+8407801,69,Patrick Bürger,SV Mattersburg,yellow
+8407801,23,Duje Ćaleta-Car,RB Salzburg,yellow
+8407801,25,Fredrik Gulbrandsen,RB Salzburg,yellow
+8407801,43,Diadie Samassekou,RB Salzburg,yellow
+8407787,49,De Paula,Austria Wien,yellow
+8407787,30,Lukas Thürauer,SKN St. Pölten,yellow
+8407787,33,Roope Riski,SKN St. Pölten,yellow
+8407787,42,Damir Mehmedovic,SKN St. Pölten,yellow
+8407787,57,Michael Ambichl,SKN St. Pölten,red
+8407787,78,Michael Huber,SKN St. Pölten,yellow-red
+8407813,60,Christoph Rabitsch,Wolfsberger AC,yellow
+8407813,67,Michael Sollbauer,Wolfsberger AC,yellow
+8407811,15,Fabian Koch,Sturm Graz,yellow
+8407811,24,Thorsten Röcher,Sturm Graz,yellow
+8407811,43,Sandi Lovrič,Sturm Graz,yellow-red
+8407811,89,Philipp Zulechner,Sturm Graz,yellow
+8407811,41,Andreas Lienhart,SCR Altach,yellow
+8407811,62,Patrick Salomon,SCR Altach,yellow
+8407811,84,Kristijan Dobras,SCR Altach,yellow
+8407815,58,Manuel Martic,SKN St. Pölten,yellow
+8407815,72,Marin Jakoliš,FC Admira Wacker,yellow-red
+8407815,90,Daniel Toth,FC Admira Wacker,yellow
+8407819,45,Gernot Trauner,LASK,yellow
+8407819,61,Christian Ramsebner,LASK,yellow
+8407819,74,Doğan Erdoğan,LASK,yellow
+8407819,80,Peter Michorl,LASK,yellow
+8407819,38,Smail Prevljak,SV Mattersburg,yellow
+8407819,40,Patrick Bürger,SV Mattersburg,yellow
+8407819,64,Nedeljko Malić,SV Mattersburg,yellow
+8407819,79,Stefan Maierhofer,SV Mattersburg,yellow
+8407819,90,Jano,SV Mattersburg,yellow
+8407809,11,Amadou Haïdara,RB Salzburg,yellow
+8407809,75,Paulo Miranda,RB Salzburg,yellow
+8407809,27,Jin-hyun Lee,Austria Wien,yellow
+8407809,72,Raphael Holzhauser,Austria Wien,yellow
+8407809,80,Kevin Friesenbichler,Austria Wien,yellow
+8407670,54,Damir Mehmedovic,SKN St. Pölten,yellow
+8407670,77,Michael Ambichl,SKN St. Pölten,yellow
+8407670,57,Charalampos Lykogiannis,Sturm Graz,yellow
+8407658,31,Florian Sittsam,SV Mattersburg,yellow
+8407658,40,Philipp Erhardt,SV Mattersburg,yellow
+8407658,84,Nedeljko Malić,SV Mattersburg,yellow
+8407662,45,Gernot Trauner,LASK,yellow
+8407666,27,Abdul Kadiri Mohammed,Austria Wien,yellow
+8407666,38,Tarkan Serbest,Austria Wien,yellow
+8407666,82,Christoph Monschein,Austria Wien,yellow
+8407666,39,Simon Piesinger,SCR Altach,yellow
+8407666,82,Philipp Netzer,SCR Altach,red
+8407660,77,Valon Berisha,RB Salzburg,yellow
+8407660,87,Diadie Samassekou,RB Salzburg,yellow
+8407660,72,Michael Sollbauer,Wolfsberger AC,yellow
+8407660,79,Dever Orgill,Wolfsberger AC,yellow
+8407660,90,Nemanja Rnić,Wolfsberger AC,yellow
+8407678,64,Philipp Wiesinger,LASK,yellow
+8407678,89,Reinhold Ranftl,LASK,yellow
+8407678,23,Paulo Miranda,RB Salzburg,yellow
+8407678,58,Fredrik Gulbrandsen,RB Salzburg,yellow
+8407678,62,Duje Ćaleta-Car,RB Salzburg,yellow
+8407678,90,Munas Dabbur,RB Salzburg,yellow
+8407682,90,Dejan Ljubicic,Rapid Wien,yellow
+8407682,63,Manuel Martic,SKN St. Pölten,yellow
+8407682,73,David Steć,SKN St. Pölten,yellow
+8407684,20,Benedikt Zech,SCR Altach,yellow
+8407684,90,Emanuel Schreiner,SCR Altach,yellow
+8407684,13,Lukas Grozurek,FC Admira Wacker,yellow
+8407688,24,Bernd Gschweidl,Wolfsberger AC,yellow
+8407688,37,Daniel Offenbacher,Wolfsberger AC,yellow
+8407688,19,Florian Sittsam,SV Mattersburg,yellow
+8407688,85,Smail Prevljak,SV Mattersburg,yellow
+8407694,77,Peter Žulj,Sturm Graz,yellow
+8407694,87,Stefan Hierländer,Sturm Graz,yellow
+8407694,88,Marvin Potzmann,Sturm Graz,yellow
+8407694,34,Dominik Prokop,Austria Wien,yellow
+8407694,48,Raphael Holzhauser,Austria Wien,yellow
+8407694,90,Felipe Pires,Austria Wien,red
+8407694,90,Christoph Monschein,Austria Wien,yellow
+8407702,89,Peter Žulj,Sturm Graz,yellow
+8407702,63,Nedeljko Malić,SV Mattersburg,yellow
+8407702,64,Andreas Gruber,SV Mattersburg,yellow
+8407698,18,Manuel Martic,SKN St. Pölten,yellow
+8407698,22,Dominik Hofbauer,SKN St. Pölten,yellow
+8407698,33,Martin Rasner,SKN St. Pölten,yellow
+8407698,35,Philipp Wiesinger,LASK,yellow
+8407698,59,Christian Ramsebner,LASK,yellow
+8407704,49,Michael Sollbauer,Wolfsberger AC,yellow
+8407700,90,Andreas Ulmer,RB Salzburg,yellow
+8407712,10,Ibrahim Alhassan Abdullahi,Austria Wien,yellow
+8407712,22,Dominik Prokop,Austria Wien,yellow
+8407712,59,Raphael Holzhauser,Austria Wien,yellow
+8407712,85,Abdul Kadiri Mohammed,Austria Wien,yellow
+8407712,90,Kevin Friesenbichler,Austria Wien,yellow
+8407712,57,Mario Sonnleitner,Rapid Wien,yellow
+8407712,65,Stephan Auer,Rapid Wien,yellow
+8407712,73,Thomas Murg,Rapid Wien,yellow
+8407712,80,Galvão,Rapid Wien,red
+8407726,67,Stefan Schwab,Rapid Wien,yellow
+8407726,69,Marcus Maier,FC Admira Wacker,yellow
+8407726,74,Stephan Zwierschitz,FC Admira Wacker,yellow
+8407718,14,Peter Michorl,LASK,yellow
+8407718,38,Emanuel Pogatetz,LASK,yellow
+8407718,90,Maximilian Ullmann,LASK,yellow
+8407718,60,Thomas Salamon,Austria Wien,yellow
+8407718,78,Patrick Pentz,Austria Wien,yellow
+8407718,81,Ibrahim Alhassan Abdullahi,Austria Wien,yellow
+8407722,51,Cican Stanković,RB Salzburg,yellow
+8407722,40,Patrick Salomon,SCR Altach,yellow
+8407722,77,Kristijan Dobras,SCR Altach,yellow
+8407722,85,Jan Zwischenbrugger,SCR Altach,yellow
+8407728,16,René Renner,SV Mattersburg,yellow
+8407728,43,Nedeljko Malić,SV Mattersburg,yellow
+8407728,59,Stefan Maierhofer,SV Mattersburg,yellow
+8407728,84,Markus Pink,SV Mattersburg,yellow
+8407728,28,Martin Rasner,SKN St. Pölten,yellow
+8407728,46,Dominik Hofbauer,SKN St. Pölten,yellow
+8407728,49,David Steć,SKN St. Pölten,yellow
+8407728,58,Roope Riski,SKN St. Pölten,yellow
+8407728,82,Michael Ambichl,SKN St. Pölten,yellow
+8407720,21,Michael Sollbauer,Wolfsberger AC,yellow
+8407720,25,Florian Flecker,Wolfsberger AC,yellow
+8407720,68,Nemanja Rnić,Wolfsberger AC,yellow
+8407720,62,Christian Schulz,Sturm Graz,yellow
+8407720,88,James Jeggo,Sturm Graz,yellow
+8407740,55,James Jeggo,Sturm Graz,yellow
+8407740,36,Maximilian Hofmann,Rapid Wien,yellow
+8407744,17,Christoph Knasmüllner,FC Admira Wacker,yellow
+8407744,27,Daniel Offenbacher,Wolfsberger AC,yellow
+8407744,86,Dominik Frieser,Wolfsberger AC,yellow
+8407750,2,Philipp Netzer,SCR Altach,yellow
+8407750,37,Emanuel Schreiner,SCR Altach,yellow
+8407750,70,Simon Piesinger,SCR Altach,yellow
+8407750,53,René Gartler,LASK,yellow
+8407750,90,Alexander Riemann,LASK,yellow
+8407742,76,Ibrahim Alhassan Abdullahi,Austria Wien,yellow
+8407742,78,Ismael Tajouri,Austria Wien,yellow
+8407742,82,Felipe Pires,Austria Wien,yellow
+8407742,84,Petar Gluhakovic,Austria Wien,yellow
+8407742,60,Smail Prevljak,SV Mattersburg,yellow
+8407736,51,Ahmet Muhamedbegovic,SKN St. Pölten,yellow
+8407736,55,Martin Rasner,SKN St. Pölten,yellow
+8407736,67,Dominik Hofbauer,SKN St. Pölten,yellow
+8407736,45,Jérôme Onguéné,RB Salzburg,yellow
+8407736,89,Patrick Farkas,RB Salzburg,yellow
+8407764,55,Philipp Wiesinger,LASK,yellow
+8407764,61,René Gartler,LASK,yellow
+8407764,19,Giorgi Kvilitaia,Rapid Wien,yellow
+8407764,86,Stephan Auer,Rapid Wien,yellow
+8407764,90,Philipp Schobesberger,Rapid Wien,yellow
+8407760,56,Manuel Seidl,SV Mattersburg,yellow
+8407760,77,Lukas Rath,SV Mattersburg,yellow
+8407760,90,Michael Perlak,SV Mattersburg,yellow
+8407760,84,Mathias Honsak,SCR Altach,yellow
+8407760,90,Hannes Aigner,SCR Altach,yellow
+8407762,58,Maximilian Sax,FC Admira Wacker,yellow
+8407762,86,Stephan Zwierschitz,FC Admira Wacker,yellow
+8407762,90,Fabio Strauss,FC Admira Wacker,yellow
+8407766,34,David Steć,SKN St. Pölten,yellow
+8407766,34,Christoph Riegler,SKN St. Pölten,yellow
+8407766,90,Lonsana Doumbouya,SKN St. Pölten,yellow
+8407766,27,Daniel Drescher,Wolfsberger AC,yellow
+8407758,18,Fredrik Gulbrandsen,RB Salzburg,yellow
+8407758,24,Hannes Wolf,RB Salzburg,yellow
+8407758,38,Reinhold Yabo,RB Salzburg,yellow
+8407758,8,Jörg Siebenhandl,Sturm Graz,yellow
+8407758,35,Christian Schulz,Sturm Graz,red
+8407758,60,Marvin Potzmann,Sturm Graz,yellow
+8407758,90,Thorsten Röcher,Sturm Graz,yellow
+8407786,41,Charalampos Lykogiannis,Sturm Graz,yellow
+8407786,45,Christian Schoissengeyr,Sturm Graz,yellow
+8407786,69,Maximilian Ullmann,LASK,yellow
+8407776,76,Lukas Grozurek,FC Admira Wacker,yellow
+8407776,70,Alois Höller,SV Mattersburg,yellow
+8407776,83,Thorsten Mahrer,SV Mattersburg,yellow
+8407776,89,Nedeljko Malić,SV Mattersburg,yellow
+8407782,48,Sandro Ingolitsch,SKN St. Pölten,yellow-red
+8407772,12,Nemanja Rnić,Wolfsberger AC,yellow
+8407772,86,Daniel Offenbacher,Wolfsberger AC,yellow
+8407772,17,Raphael Holzhauser,Austria Wien,yellow
+8407772,45,Petar Gluhakovic,Austria Wien,yellow
+8407772,65,Abdul Kadiri Mohammed,Austria Wien,red
+8407772,90,Osman Hadžikić,Austria Wien,yellow
+8407770,13,Maximilian Hofmann,Rapid Wien,yellow
+8407770,35,Galvão,Rapid Wien,yellow
+8407770,62,Joelinton,Rapid Wien,yellow
+8407770,82,Giorgi Kvilitaia,Rapid Wien,yellow
+8407770,83,Stephan Auer,Rapid Wien,yellow
+8407770,7,Paulo Miranda,RB Salzburg,yellow
+8407770,32,Marin Pongračić,RB Salzburg,yellow
+8407770,87,Hee-chan Hwang,RB Salzburg,yellow
+8407770,90,Andreas Ulmer,RB Salzburg,yellow
+8407798,10,Christian Schoissengeyr,Sturm Graz,yellow
+8407798,68,James Jeggo,Sturm Graz,yellow
+8407798,16,Fabio Strauss,FC Admira Wacker,yellow
+8407798,66,Markus Lackner,FC Admira Wacker,yellow
+8407798,81,Marcel Holzmann,FC Admira Wacker,yellow
+8407788,12,Martin Rasner,SKN St. Pölten,yellow
+8407788,45,Dominik Hofbauer,SKN St. Pölten,yellow
+8407788,73,Michael Ambichl,SKN St. Pölten,yellow
+8407802,69,Duje Ćaleta-Car,RB Salzburg,yellow
+8407802,71,Amadou Haïdara,RB Salzburg,yellow
+8407802,2,Lukas Rath,SV Mattersburg,yellow
+8407804,56,Reinhold Ranftl,LASK,yellow
+8407804,63,João Victor Santos Sá,LASK,yellow
+8407804,64,Mihret Topčagić,Wolfsberger AC,yellow
+8407804,79,Florian Flecker,Wolfsberger AC,yellow
+8407792,77,Thanos Petsos,Rapid Wien,red
+8407792,83,Giorgi Kvilitaia,Rapid Wien,yellow
+8407792,90,Boli Bolingoli-Mbombo,Rapid Wien,red
+8407792,43,Patrick Salomon,SCR Altach,yellow
+8407792,69,Philipp Netzer,SCR Altach,yellow
+8407814,76,Stephan Auer,Rapid Wien,yellow
+8407817,48,Thomas Ebner,FC Admira Wacker,yellow
+8407817,67,Marin Jakoliš,FC Admira Wacker,yellow
+8407817,71,Marcus Maier,FC Admira Wacker,yellow
+8407817,90,Markus Wostry,FC Admira Wacker,yellow
+8407817,51,Sandro Ingolitsch,SKN St. Pölten,yellow
+8407817,69,Michael Ambichl,SKN St. Pölten,yellow
+8407817,77,Ahmet Muhamedbegovic,SKN St. Pölten,yellow-red
+8407820,43,César Ortiz,SV Mattersburg,yellow
+8407820,81,Stefan Maierhofer,SV Mattersburg,yellow
+8407820,86,Markus Kuster,SV Mattersburg,yellow
+8407820,81,Christian Ramsebner,LASK,yellow-red
+8407810,7,Tarkan Serbest,Austria Wien,yellow
+8407810,78,Raphael Holzhauser,Austria Wien,yellow
+8407810,84,Kevin Friesenbichler,Austria Wien,yellow
+8407810,12,Hee-chan Hwang,RB Salzburg,yellow
+8407810,71,Duje Ćaleta-Car,RB Salzburg,yellow
+8407671,27,Philipp Schobesberger,Rapid Wien,yellow
+8407663,35,Stefan Hierländer,Sturm Graz,yellow
+8407663,35,Deni Alar,Sturm Graz,yellow
+8407663,45,Babacar Diallo,SKN St. Pölten,yellow
+8407663,75,Manuel Martic,SKN St. Pölten,yellow
+8407675,89,Alexander Riemann,LASK,yellow
+8407675,21,Markus Lackner,FC Admira Wacker,yellow
+8407675,60,Marcus Maier,FC Admira Wacker,yellow
+8407675,67,Stephan Zwierschitz,FC Admira Wacker,yellow
+8407675,73,Marcel Holzmann,FC Admira Wacker,red
+8407675,90,Sasa Kalajdzic,FC Admira Wacker,yellow
+8407667,86,Jan Zwischenbrugger,SCR Altach,yellow
+8407667,25,Petar Gluhakovic,Austria Wien,yellow
+8407667,90,Christoph Monschein,Austria Wien,yellow
+8407673,33,Michael Sollbauer,Wolfsberger AC,yellow
+8407673,86,Florian Flecker,Wolfsberger AC,yellow
+8407673,87,Diadie Samassekou,RB Salzburg,yellow-red
+8407679,66,Hee-chan Hwang,RB Salzburg,yellow
+8407679,90,Duje Ćaleta-Car,RB Salzburg,yellow
+8407679,51,Peter Michorl,LASK,yellow
+8407689,65,Maximilian Sax,FC Admira Wacker,yellow
+8407689,67,Thomas Ebner,FC Admira Wacker,yellow
+8407689,64,Kristijan Dobras,SCR Altach,yellow
+8407689,90,Valentino Müller,SCR Altach,yellow-red
+8407691,4,Michael Lercher,SV Mattersburg,yellow
+8407691,27,Christoph Rabitsch,Wolfsberger AC,yellow
+8407691,34,Issiaka Ouédraogo,Wolfsberger AC,yellow
+8407691,85,Alexander Kofler,Wolfsberger AC,yellow
+8407691,87,Florian Flecker,Wolfsberger AC,yellow
+8407695,78,David Steć,SKN St. Pölten,yellow
+8407695,81,Martin Rasner,SKN St. Pölten,yellow-red
+8407695,62,Richard Strebinger,Rapid Wien,yellow
+8407685,44,Tarkan Serbest,Austria Wien,yellow
+8407685,90,Raphael Holzhauser,Austria Wien,yellow
+8407685,45,Marvin Potzmann,Sturm Graz,yellow
+8407685,45,James Jeggo,Sturm Graz,yellow
+8407685,85,Stefan Hierländer,Sturm Graz,yellow
+8407685,90,Lukas Spendlhofer,Sturm Graz,yellow
+8407709,57,Nedeljko Malić,SV Mattersburg,yellow
+8407709,55,Peter Žulj,Sturm Graz,yellow
+8407709,62,Fabian Koch,Sturm Graz,yellow
+8407709,71,Dario Maresić,Sturm Graz,yellow
+8407709,90,Sandi Lovrič,Sturm Graz,yellow
+8407705,61,Munas Dabbur,RB Salzburg,yellow
+8407705,72,Marin Jakoliš,FC Admira Wacker,yellow
+8407713,16,Florian Flecker,Wolfsberger AC,yellow
+8407713,47,Mathias Honsak,SCR Altach,yellow
+8407713,81,Marco Meilinger,SCR Altach,yellow
+8407713,90,Hannes Aigner,SCR Altach,yellow
+8407715,90,João Victor Santos Sá,LASK,yellow
+8407715,10,Daniel Schütz,SKN St. Pölten,yellow
+8407715,11,Michael Huber,SKN St. Pölten,yellow
+8407715,26,Luan Leite,SKN St. Pölten,yellow
+8407715,90,Kwang-Ryong Pak,SKN St. Pölten,yellow
+8407707,45,Galvão,Rapid Wien,yellow
+8407707,51,Dejan Ljubicic,Rapid Wien,yellow
+8407707,58,Joelinton,Rapid Wien,yellow
+8407707,20,Tarkan Serbest,Austria Wien,yellow
+8407731,77,Philipp Netzer,SCR Altach,yellow
+8407731,82,Emanuel Schreiner,SCR Altach,yellow
+8407731,70,Stefan Lainer,RB Salzburg,yellow
+8407731,86,Marin Pongračić,RB Salzburg,yellow
+8407723,65,Kevin Friesenbichler,Austria Wien,yellow
+8407723,71,Lucas Venuto,Austria Wien,yellow
+8407723,78,Toni Vastić,Austria Wien,yellow
+8407723,2,Peter Michorl,LASK,yellow
+8407723,61,Christian Ramsebner,LASK,yellow
+8407723,84,Gernot Trauner,LASK,yellow
+8407729,34,Christian Schoissengeyr,Sturm Graz,yellow
+8407729,76,Emeka Eze,Sturm Graz,yellow
+8407729,85,Stefan Hierländer,Sturm Graz,yellow
+8407729,86,Dominik Frieser,Wolfsberger AC,yellow
+8407737,77,Dominik Hofbauer,SKN St. Pölten,yellow
+8407737,17,Masaya Okugawa,SV Mattersburg,yellow
+8407733,90,Lukas Grozurek,FC Admira Wacker,yellow
+8407733,44,Mario Pavelić,Rapid Wien,yellow
+8407747,41,Galvão,Rapid Wien,yellow
+8407747,45,Thanos Petsos,Rapid Wien,yellow
+8407747,45,Joelinton,Rapid Wien,yellow
+8407747,58,Thomas Schrammel,Sturm Graz,yellow
+8407747,67,Lukas Spendlhofer,Sturm Graz,yellow
+8407747,90,Fabian Koch,Sturm Graz,yellow
+8407751,49,Markus Pink,SV Mattersburg,yellow
+8407751,72,Alois Höller,SV Mattersburg,yellow
+8407751,79,César Ortiz,SV Mattersburg,yellow
+8407751,87,Smail Prevljak,SV Mattersburg,yellow
+8407751,90,Julius Ertlthaler,SV Mattersburg,yellow
+8407751,25,Ruan,Austria Wien,yellow
+8407751,85,Ibrahim Alhassan Abdullahi,Austria Wien,yellow
+8407753,43,Daniel Offenbacher,Wolfsberger AC,yellow
+8407753,56,Thomas Ebner,FC Admira Wacker,yellow
+8407753,90,Stephan Zwierschitz,FC Admira Wacker,yellow
+8407777,44,Fabio Strauss,FC Admira Wacker,yellow
+8407777,89,Ruan,Austria Wien,yellow
+8407773,23,Patrick Salomon,SCR Altach,yellow
+8407773,30,Adrian Grbic,SCR Altach,yellow
+8407773,90,Samuel Gouet,SCR Altach,yellow
+8407773,33,Michael Lercher,SV Mattersburg,yellow
+8407773,42,Thorsten Mahrer,SV Mattersburg,yellow
+8407773,77,Markus Pink,SV Mattersburg,yellow
+8407779,19,Thanos Petsos,Rapid Wien,yellow
+8407779,85,Armin Mujakic,Rapid Wien,yellow
+8407779,25,Philipp Wiesinger,LASK,yellow
+8407779,35,Gernot Trauner,LASK,yellow
+8407779,43,Felix Luckeneder,LASK,yellow
+8407779,58,Christian Ramsebner,LASK,yellow
+8407779,81,James Holland,LASK,yellow
+8407779,90,Samuel Tetteh,LASK,yellow
+8407783,28,Thomas Zündel,Wolfsberger AC,yellow
+8407783,13,Eren Keles,SKN St. Pölten,yellow
+8407783,57,Michael Huber,SKN St. Pölten,yellow
+8407783,72,Dominik Hofbauer,SKN St. Pölten,yellow
+8407767,78,Lukas Spendlhofer,Sturm Graz,yellow
+8407767,82,Christian Schulz,Sturm Graz,yellow-red
+8407767,84,Jörg Siebenhandl,Sturm Graz,yellow
+8407767,90,Thomas Schrammel,Sturm Graz,yellow-red
+8407767,39,Duje Ćaleta-Car,RB Salzburg,yellow
+8407767,61,Fredrik Gulbrandsen,RB Salzburg,yellow
+8407807,55,João Victor Santos Sá,LASK,yellow
+8407807,84,Reinhold Ranftl,LASK,yellow
+8407807,25,Bright Edomwonyi,Sturm Graz,yellow
+8407793,82,Tarkan Serbest,Austria Wien,yellow-red
+8407799,57,Alois Höller,SV Mattersburg,yellow
+8407799,63,Michael Perlak,SV Mattersburg,yellow
+8407799,87,Smail Prevljak,SV Mattersburg,yellow
+8407799,31,Thomas Ebner,FC Admira Wacker,yellow
+8407799,58,Markus Lackner,FC Admira Wacker,yellow
+8407799,61,Alexander Merkel,FC Admira Wacker,yellow
+8407805,58,Daniel Schütz,SKN St. Pölten,yellow
+8407805,90,Husein Balic,SKN St. Pölten,yellow
+8407805,57,Adrian Grbic,SCR Altach,yellow
+8407805,67,Yusuf Otubanjo,SCR Altach,yellow
+8407805,81,Benedikt Zech,SCR Altach,yellow
+8407789,12,Veton Berisha,Rapid Wien,yellow
+8407789,90,Thanos Petsos,Rapid Wien,yellow
+8407821,17,Jan Zwischenbrugger,SCR Altach,yellow
+8407821,90,Benedikt Zech,SCR Altach,yellow
+8407821,90,Emanuel Schreiner,SCR Altach,yellow
+8407821,48,Maximilian Hofmann,Rapid Wien,yellow
+8407821,87,Joelinton,Rapid Wien,yellow
+8407816,40,Michael Huber,SKN St. Pölten,yellow
+8407827,45,Christoph Rabitsch,Wolfsberger AC,yellow
+8407827,75,Nemanja Rnić,Wolfsberger AC,yellow
+8407825,23,Nedeljko Malić,SV Mattersburg,yellow
+8407825,31,Masaya Okugawa,SV Mattersburg,yellow
+8407825,77,Michael Novak,SV Mattersburg,yellow
+8407825,12,Patrick Farkas,RB Salzburg,red
+8407825,68,Andreas Ulmer,RB Salzburg,yellow
+8407833,39,Maximilian Hofmann,Rapid Wien,yellow
+8407833,43,Boli Bolingoli-Mbombo,Rapid Wien,yellow
+8407833,7,Michael Sollbauer,Wolfsberger AC,yellow
+8407833,44,Stephan Palla,Wolfsberger AC,yellow
+8407833,52,Daniel Offenbacher,Wolfsberger AC,yellow
+8407833,55,Majeed Ashimeru,Wolfsberger AC,yellow
+8407833,81,Saša Jovanović,Wolfsberger AC,yellow
+8407831,69,Louis NGwat-Mahop,SCR Altach,yellow-red
+8407831,78,Philipp Netzer,SCR Altach,yellow
+8407835,45,Luan Leite,SKN St. Pölten,yellow
+8407835,55,David Steć,SKN St. Pölten,yellow
+8407835,49,Jonathan Scherzer,FC Admira Wacker,yellow-red
+8407835,69,Fabio Strauss,FC Admira Wacker,yellow
+8407835,90,Andreas Leitner,FC Admira Wacker,yellow
+8407837,68,Christian Ramsebner,LASK,yellow
+8407837,24,Michael Novak,SV Mattersburg,yellow
+8407829,54,Reinhold Yabo,RB Salzburg,yellow
+8407829,31,Ruan,Austria Wien,yellow
+8407829,41,Raphael Holzhauser,Austria Wien,yellow
+8407676,74,Marcel Holzmann,FC Admira Wacker,yellow
+8407676,85,Maximilian Sax,FC Admira Wacker,yellow
+8407664,57,Michael Huber,SKN St. Pölten,yellow
+8407664,50,Thorsten Röcher,Sturm Graz,yellow
+8407668,87,Felipe Pires,Austria Wien,yellow
+8407668,81,Patrick Salomon,SCR Altach,yellow
+8407674,47,Majeed Ashimeru,Wolfsberger AC,yellow
+8407674,51,Issiaka Ouédraogo,Wolfsberger AC,yellow
+8407674,56,Stephan Palla,Wolfsberger AC,yellow
+8407674,81,Florian Flecker,Wolfsberger AC,yellow
+8407672,30,Manuel Seidl,SV Mattersburg,yellow
+8407672,50,Smail Prevljak,SV Mattersburg,yellow
+8407672,51,Alois Höller,SV Mattersburg,yellow
+8407672,81,Nedeljko Malić,SV Mattersburg,yellow
+8407672,18,Dejan Ljubicic,Rapid Wien,yellow
+8407672,67,Galvão,Rapid Wien,yellow
+8407686,45,Peter Žulj,Sturm Graz,yellow
+8407686,83,Lukas Spendlhofer,Sturm Graz,yellow
+8407686,18,Tarkan Serbest,Austria Wien,yellow
+8407686,69,Raphael Holzhauser,Austria Wien,yellow
+8407686,75,Thomas Salamon,Austria Wien,yellow
+8407690,44,Stefan Nutz,SCR Altach,yellow
+8407690,60,Benedikt Zech,SCR Altach,yellow-red
+8407690,61,Andreas Lienhart,SCR Altach,yellow
+8407690,85,Louis NGwat-Mahop,SCR Altach,yellow
+8407690,61,Maximilian Sax,FC Admira Wacker,yellow
+8407690,90,Lukas Grozurek,FC Admira Wacker,yellow
+8407692,51,Issiaka Ouédraogo,Wolfsberger AC,yellow
+8407692,37,Andreas Gruber,SV Mattersburg,yellow
+8407692,90,Thorsten Mahrer,SV Mattersburg,yellow
+8407680,81,Christian Ramsebner,LASK,yellow
+8407680,81,Munas Dabbur,RB Salzburg,yellow
+8407710,32,Nedeljko Malić,SV Mattersburg,yellow
+8407710,37,Andreas Gruber,SV Mattersburg,yellow
+8407714,27,Patrick Salomon,SCR Altach,yellow
+8407714,71,Daniel Offenbacher,Wolfsberger AC,yellow
+8407714,75,Igor,Wolfsberger AC,yellow
+8407716,33,Daniel Schütz,SKN St. Pölten,yellow
+8407716,47,Damir Mehmedovic,SKN St. Pölten,yellow
+8407716,52,Aleksandar Vucenovic,SKN St. Pölten,yellow
+8407716,64,Luan Leite,SKN St. Pölten,yellow
+8407716,21,Peter Michorl,LASK,yellow
+8407708,28,Maximilian Hofmann,Rapid Wien,yellow
+8407708,39,Thomas Murg,Rapid Wien,yellow
+8407708,75,Stefan Schwab,Rapid Wien,yellow
+8407730,29,Nemanja Rnić,Wolfsberger AC,yellow
+8407730,59,Christoph Rabitsch,Wolfsberger AC,yellow
+8407730,12,Christian Schulz,Sturm Graz,yellow
+8407724,38,Reinhold Ranftl,LASK,yellow
+8407724,51,Gernot Trauner,LASK,yellow
+8407724,13,Alexander Grünwald,Austria Wien,yellow
+8407724,68,Abdul Kadiri Mohammed,Austria Wien,yellow
+8407724,86,Patrick Pentz,Austria Wien,yellow
+8407738,68,Thorsten Mahrer,SV Mattersburg,yellow
+8407738,39,David Steć,SKN St. Pölten,red
+8407738,81,Daniel Schütz,SKN St. Pölten,yellow
+8407732,90,Andreas Ulmer,RB Salzburg,yellow
+8407732,48,Valentino Müller,SCR Altach,yellow
+8407734,11,Manuel Thurnwald,Rapid Wien,yellow
+8407734,78,Andreas Leitner,FC Admira Wacker,yellow
+8407752,90,Felipe Pires,Austria Wien,yellow
+8407752,90,Tarkan Serbest,Austria Wien,yellow
+8407752,6,Michael Novak,SV Mattersburg,yellow
+8407752,43,Thorsten Mahrer,SV Mattersburg,yellow
+8407752,48,Masaya Okugawa,SV Mattersburg,yellow
+8407752,90,Andreas Gruber,SV Mattersburg,yellow
+8407752,90,René Renner,SV Mattersburg,yellow
+8407754,32,Fabio Strauss,FC Admira Wacker,yellow
+8407754,44,Alexander Merkel,FC Admira Wacker,yellow
+8407754,76,Wilhelm Vorsager,FC Admira Wacker,yellow
+8407756,60,Emanuel Schreiner,SCR Altach,yellow
+8407756,66,Yusuf Otubanjo,SCR Altach,yellow
+8407756,41,James Holland,LASK,yellow
+8407756,45,Samuel Tetteh,LASK,yellow
+8407756,90,Dominik Reiter,LASK,yellow
+8407748,77,Maximilian Hofmann,Rapid Wien,yellow
+8407746,63,Martin Rasner,SKN St. Pölten,yellow
+8407746,74,Luan Leite,SKN St. Pölten,yellow
+8407780,74,Emanuel Pogatetz,LASK,yellow
+8407780,90,Christian Ramsebner,LASK,yellow-red
+8407780,43,Dejan Ljubicic,Rapid Wien,yellow
+8407780,55,Giorgi Kvilitaia,Rapid Wien,yellow
+8407780,78,Stephan Auer,Rapid Wien,yellow
+8407774,57,Michael Perlak,SV Mattersburg,yellow
+8407774,55,Stefan Nutz,SCR Altach,yellow
+8407774,90,Andreas Lukse,SCR Altach,yellow
+8407778,66,Tarkan Serbest,Austria Wien,yellow
+8407778,90,Christoph Monschein,Austria Wien,yellow
+8407778,52,Marin Jakoliš,FC Admira Wacker,yellow
+8407784,55,Dominik Hofbauer,SKN St. Pölten,yellow
+8407784,90,Manuel Martic,SKN St. Pölten,yellow
+8407784,38,Christopher Wernitznig,Wolfsberger AC,yellow
+8407784,56,Dever Orgill,Wolfsberger AC,yellow
+8407784,71,Daniel Offenbacher,Wolfsberger AC,yellow
+8407769,25,Marin Pongračić,RB Salzburg,yellow
+8407769,27,Deni Alar,Sturm Graz,yellow
+8407769,47,Lukas Spendlhofer,Sturm Graz,yellow
+8407769,58,Sandi Lovrič,Sturm Graz,yellow
+8407769,62,James Jeggo,Sturm Graz,yellow
+8407808,18,James Jeggo,Sturm Graz,yellow
+8407808,74,Dario Maresić,Sturm Graz,yellow
+8407808,77,Christian Schoissengeyr,Sturm Graz,yellow
+8407808,13,Pavao Pervan,LASK,yellow
+8407808,18,Peter Michorl,LASK,yellow
+8407808,80,Emanuel Pogatetz,LASK,yellow-red
+8407800,15,Markus Kuster,SV Mattersburg,yellow
+8407800,65,Nedeljko Malić,SV Mattersburg,yellow
+8407800,67,Jano,SV Mattersburg,yellow
+8407806,76,Benedikt Zech,SCR Altach,yellow
+8407806,35,Daniel Luxbacher,SKN St. Pölten,yellow
+8407806,59,Manuel Martic,SKN St. Pölten,yellow
+8407790,90,Veton Berisha,Rapid Wien,yellow
+8407790,90,Joelinton,Rapid Wien,yellow
+8407790,48,Fredrik Gulbrandsen,RB Salzburg,yellow
+8407794,90,Bernd Gschweidl,Wolfsberger AC,yellow
+8407794,53,Vesel Demaku,Austria Wien,yellow
+8407794,63,Florian Klein,Austria Wien,yellow
+8407818,13,Daniel Luxbacher,SKN St. Pölten,yellow
+8407818,55,David Steć,SKN St. Pölten,yellow
+8407818,75,Manuel Martic,SKN St. Pölten,yellow
+8407818,76,Sandro Ingolitsch,SKN St. Pölten,yellow
+8407818,42,Dominik Prokop,Austria Wien,yellow
+8407818,60,Alexander Grünwald,Austria Wien,yellow
+8407818,83,Thomas Salamon,Austria Wien,yellow
+8407822,33,Louis Schaub,Rapid Wien,yellow
+8407822,35,Dejan Ljubicic,Rapid Wien,yellow
+8407822,33,Andreas Lukse,SCR Altach,yellow
+8407826,56,Hannes Wolf,RB Salzburg,red
+8407826,76,Duje Ćaleta-Car,RB Salzburg,yellow
+8407826,87,Munas Dabbur,RB Salzburg,yellow
+8407826,33,Manuel Seidl,SV Mattersburg,yellow
+8407826,68,Philipp Erhardt,SV Mattersburg,yellow
+8407826,82,Julius Ertlthaler,SV Mattersburg,yellow
+8407826,87,Nedeljko Malić,SV Mattersburg,yellow
+8407826,90,Stefan Maierhofer,SV Mattersburg,yellow
+8407828,55,James Holland,LASK,yellow
+8407828,65,Reinhold Ranftl,LASK,yellow
+8407828,43,Christopher Wernitznig,Wolfsberger AC,yellow
+8407828,57,Mario Leitgeb,Wolfsberger AC,yellow-red
+8407828,85,Igor,Wolfsberger AC,yellow
+8407828,90,Majeed Ashimeru,Wolfsberger AC,yellow
+8407830,65,Ruan,Austria Wien,yellow
+8407832,55,Patrick Salomon,SCR Altach,yellow
+8407832,90,Andreas Lukse,SCR Altach,yellow
+8407832,17,Sandi Lovrič,Sturm Graz,yellow
+8407834,24,Daniel Offenbacher,Wolfsberger AC,yellow
+8407836,78,Michael Huber,SKN St. Pölten,yellow
+8407838,51,Julius Ertlthaler,SV Mattersburg,yellow
+8407838,62,Markus Pink,SV Mattersburg,yellow
+8407838,87,Stefan Schimandl,SV Mattersburg,yellow
+8407838,89,Markus Kuster,SV Mattersburg,yellow
+8407838,32,Christian Ramsebner,LASK,yellow
+8407838,36,James Holland,LASK,yellow

@@ -1,0 +1,2160 @@
+GameID,Minute,PlayerIn,PlayerOut,Team
+1441046,78,Juan Caffa,Nicolás Aguirre,Arsenal de Sarandí
+1441046,79,Darío Benedetto,Pablo Lugüercio,Arsenal de Sarandí
+1441046,88,Gonzalo Espinoza,Jorge Ortiz,Arsenal de Sarandí
+1441046,54,Diego Barisone,Juan Avendaño,Unión de Santa Fe
+1441046,61,Juan Cavallaro,Fausto Montero,Unión de Santa Fe
+1441046,78,Pablo Magnín,Brahian Alemán,Unión de Santa Fe
+1441044,68,Iván Bella,Brian Ferreira,Vélez Sarsfield
+1441044,73,Leandro Desábato,Francisco Cerro,Vélez Sarsfield
+1441044,79,Ramiro Cáseres,Federico Insúa,Vélez Sarsfield
+1441044,25,Ariel Garcé,Aníbal Matellán,Argentinos Juniors
+1441044,54,Juan Ramírez,Gustavo Oberman,Argentinos Juniors
+1441044,63,Marcos Figueroa,Pablo Hernández,Argentinos Juniors
+1441045,68,Luciano Vietto,Gabriel Hauche,Racing Club
+1441045,78,Luis Fariña,Esteban Saveljić,Racing Club
+1441045,81,Javier Cámpora,Agustín Pelletieri,Racing Club
+1441045,28,Alexis Niz,Lucas Bovaglio,Atlético Rafaela
+1441045,78,Walter Serrano,Iván Juárez,Atlético Rafaela
+1441045,83,Darío Gandín,César Carignano,Atlético Rafaela
+1441052,79,Facundo Curuchet,Rubén Ramírez,Colón de Santa Fe
+1441052,87,Gabriel Graciani,Iván Moreno y Fabianesi,Colón de Santa Fe
+1441052,90,Lucas Alario,Emmanuel Gigliotti,Colón de Santa Fe
+1441052,61,Silvio Romero,Diego González,Lanús
+1441052,83,Bruno Vides,Rodrigo Erramuspe,Lanús
+1441049,71,Jorge Serrano,Ismael Quílez,Quilmes
+1441049,79,Leandro Díaz,Pablo Garnier,Quilmes
+1441049,81,Jacobo Mansilla,Facundo Diz,Quilmes
+1441049,59,Orlando Gaona,Pablo Ledesma,Boca Juniors
+1441049,76,Cristian Álvarez,Cristian Chávez,Boca Juniors
+1441049,88,Juan Sánchez Miño,Walter Erviti,Boca Juniors
+1441053,78,Martín Tonso,Pablo Pérez,Newells Old Boys
+1441053,78,Maximiliano Urruti,Mauricio Sperdutti,Newells Old Boys
+1441053,82,Gabriel Hachen,Victor Figueroa,Newells Old Boys
+1441053,46,Fabián Monserrat,Hernán Fredes,Independiente
+1441053,70,Martín Benítez,Luciano Leguizamón,Independiente
+1441053,82,Federico Mancuello,Paulo Rosales,Independiente
+1441047,61,Jorge Curbelo,Emanuel Insúa,Godoy Cruz
+1441047,72,Eduardo Ledesma,Gonzalo Castellani,Godoy Cruz
+1441047,83,Juan Garro,David Ramírez,Godoy Cruz
+1441047,69,Fernando Sánchez,Martín Morel,All Boys
+1441047,73,Ángel Vildozo,Iván Borghello,All Boys
+1441047,87,Elvio Fredrich,Juan Pablo Rodríguez,All Boys
+1441051,75,Augusto Álvarez,Leandro Romagnoli,San Lorenzo
+1441051,79,Julio Furch,Denis Stracqualursi,San Lorenzo
+1441051,88,Fernando Meza,Franco Jara,San Lorenzo
+1441051,59,Sebastian Penco,Leandro Velàzquez,San Martín de San Juan
+1441051,72,Matías Rudler,Cristian Álvarez,San Martín de San Juan
+1441051,76,Damian Canuto,Mauro Bogado,San Martín de San Juan
+1441050,50,Martín Aguirre,Ezequiel Cirigliano,River Plate
+1441050,50,Ariel Rojas,Luciano Vella,River Plate
+1441050,15,César Carranza,Víctor Aquino,Belgrano de Córdoba
+1441050,78,Lucas Pittinari,Martín Zapata,Belgrano de Córdoba
+1441050,80,Juan Martín,Lucas Melano,Belgrano de Córdoba
+1441048,16,Gastón Díaz,Ramiro Leone,Tigre
+1441048,71,Javier Carrasco,Agustin Torassa,Tigre
+1441048,83,Matías Escobar,Emmanuel Pío,Tigre
+1441048,46,Jonathan Schunke,Agustín Alayes,Estudiantes
+1441048,66,Leonardo Jara,Michael Hoyos,Estudiantes
+1441048,79,Carlos Auzqui,Maximiliano Núñez,Estudiantes
+1441057,10,Lucas Landa,Cristian Grabinski,San Martín de San Juan
+1441057,56,Lucas Salas,Damian Canuto,San Martín de San Juan
+1441057,67,Sebastian Penco,Leandro Velàzquez,San Martín de San Juan
+1441057,84,Gabriel Graciani,Lucas Mugni,Colón de Santa Fe
+1441057,88,Ricardo Gómez,Sebastián Prediger,Colón de Santa Fe
+1441057,89,Marcelo Argüello,Facundo Curuchet,Colón de Santa Fe
+1441056,46,Óscar Benítez,Guido Pizarro,Lanús
+1441056,60,Leandro Díaz,Gonzalo Castillejos,Lanús
+1441056,88,Mauricio Pereyra,Diego Valeri,Lanús
+1441056,56,Diego Mateo,Raúl Villalba,Newells Old Boys
+1441056,57,Martín Tonso,Maxi Rodriguez,Newells Old Boys
+1441056,82,Maximiliano Urruti,Mauricio Sperdutti,Newells Old Boys
+1441059,73,Carlos Auzqui,Leonardo Jara,Estudiantes
+1441059,59,Martín Aguirre,Ezequiel Cirigliano,River Plate
+1441059,63,Ariel Rojas,Manuel Lanzini,River Plate
+1441059,87,Cristian Ledesma,Carlos Sánchez,River Plate
+1441058,63,César Mansanelli,César Carranza,Belgrano de Córdoba
+1441058,69,Juan Martín,Guillermo Farré,Belgrano de Córdoba
+1441058,83,Tobias Figueroa,Lucas Melano,Belgrano de Córdoba
+1441058,69,Walter Kannemann,Luís Aguiar,San Lorenzo
+1441058,73,Leandro Romagnoli,Franco Jara,San Lorenzo
+1441058,83,Julio Furch,Denis Stracqualursi,San Lorenzo
+1441061,73,Elvio Fredrich,Hernán Grana,All Boys
+1441061,73,Ángel Vildozo,Martín Morel,All Boys
+1441061,90,Darío Stefanatto,Iván Borghello,All Boys
+1441061,69,Leandro Díaz,Facundo Diz,Quilmes
+1441061,90,Martín Giménez,Martín Cauteruccio,Quilmes
+1441054,46,Marcos Figueroa,José Carlos Fernández,Argentinos Juniors
+1441054,58,Juan Ramírez,Gustavo Oberman,Argentinos Juniors
+1441054,74,Pablo Hernández,Diego Placente,Argentinos Juniors
+1441054,75,Bruno Zuculini,Mauro Camoranesi,Racing Club
+1441054,87,Martín Pérez Guedes,Gabriel Hauche,Racing Club
+1441054,90,Javier Cámpora,Diego Villar,Racing Club
+1441062,58,Alexis Fernández,Pablo Magnín,Unión de Santa Fe
+1441062,72,Diego Galván,Mauro Maidana,Unión de Santa Fe
+1441062,87,Federico Chiapello,Matías Donnet,Unión de Santa Fe
+1441062,55,Federico Lértora,Emanuel Insúa,Godoy Cruz
+1441062,66,Juan Garro,Gonzalo Castellani,Godoy Cruz
+1441062,82,Jorge Curbelo,Facundo Castillón,Godoy Cruz
+1441060,56,Juan Sánchez Miño,Walter Erviti,Boca Juniors
+1441060,87,Cristian Álvarez,Cristian Chávez,Boca Juniors
+1441060,71,Diego Ferreira,Emmanuel Pío,Tigre
+1441060,75,Lucas Janson,Agustin Torassa,Tigre
+1441060,80,Javier Carrasco,Matías Pérez García,Tigre
+1441063,20,Martín Zbrun,Cristian Machin,Atlético Rafaela
+1441063,87,Nicolas Capellino,Sebastián Carrera,Atlético Rafaela
+1441063,90,Jonathan López,Federico González,Atlético Rafaela
+1441063,69,Juan Caffa,Nicolás Aguirre,Arsenal de Sarandí
+1441063,69,Brian Sarmiento,Pablo Lugüercio,Arsenal de Sarandí
+1441055,66,Fabián Vargas,Roberto Battión,Independiente
+1441055,69,Fabián Monserrat,Jonathan Santana,Independiente
+1441055,80,Lucas Villafáñez,Gabriel Vallés,Independiente
+1441055,65,Gino Peruzzi,Agustin Allione,Vélez Sarsfield
+1441055,65,Jonathan Copete,Brian Ferreira,Vélez Sarsfield
+1441055,77,Leandro Desábato,Federico Insúa,Vélez Sarsfield
+1441070,46,Sebastián DAngelo,Óscar Ustari,Boca Juniors
+1441070,77,Nicolás Colazo,Clemente Rodríguez,Boca Juniors
+1441070,79,Christian Cellay,Franco Sosa,Boca Juniors
+1441070,60,Darío Stefanatto,Oscar Ahumada,All Boys
+1441070,72,Elvio Fredrich,Hernán Grana,All Boys
+1441070,72,Ángel Vildozo,Juan Pablo Rodríguez,All Boys
+1441072,64,Ricardo Gómez,Adrián Bastía,Colón de Santa Fe
+1441072,75,Marcelo Argüello,Bruno Urribarri,Colón de Santa Fe
+1441072,67,Lucas Aveldaño,César Carranza,Belgrano de Córdoba
+1441072,78,César Pereyra,Martín Zapata,Belgrano de Córdoba
+1441072,82,Lucas Pittinari,Lucas Melano,Belgrano de Córdoba
+1441071,63,Fabian Bordagaray,Martín Rolle,San Lorenzo
+1441071,82,Julio Furch,Luís Aguiar,San Lorenzo
+1441071,82,Héctor Villalba,Pablo Alvarado,San Lorenzo
+1441071,46,Duván Zapata,Gastón Fernández,Estudiantes
+1441071,66,Marcos Gelabert,Rodrigo Braña,Estudiantes
+1441071,83,Leandro Benítez,Duván Zapata,Estudiantes
+1441065,81,Jorge De Olivera,Sebastián Saja,Racing Club
+1441065,84,Bruno Zuculini,Mauro Camoranesi,Racing Club
+1441065,88,Martín Pérez Guedes,Ricardo Centurión,Racing Club
+1441065,67,Martín Benítez,Luciano Leguizamón,Independiente
+1441065,78,Osmar Ferreyra,Federico Mancuello,Independiente
+1441067,69,Federico Lértora,Nicolás Olmedo,Godoy Cruz
+1441067,81,Jorge Córdoba,Iván Óbolo,Godoy Cruz
+1441067,87,Washington Camacho,Facundo Castillón,Godoy Cruz
+1441067,46,Germán Rodríguez Rojas,Iván Juárez,Atlético Rafaela
+1441067,63,Raúl Ferro,Martín Zbrun,Atlético Rafaela
+1441067,75,Rodrigo Depetris,Matías Fissore,Atlético Rafaela
+1441064,55,Jonathan Copete,Brian Ferreira,Vélez Sarsfield
+1441064,69,Ezequiel Rescaldani,Agustin Allione,Vélez Sarsfield
+1441064,42,Mauricio Pereyra,Mario Regueiro,Lanús
+1441068,51,Diego Ferreira,Emmanuel Pío,Tigre
+1441068,51,Diego Ftacla,Agustin Torassa,Tigre
+1441068,79,Lucas Janson,Diego Castaño,Tigre
+1441068,46,Ariel Rojas,Ezequiel Cirigliano,River Plate
+1441068,68,Carlos Luna,Daniel Villalba,River Plate
+1441068,77,Martín Aguirre,Manuel Lanzini,River Plate
+1441069,65,Martín Giménez,Facundo Diz,Quilmes
+1441069,83,Jorge Serrano,Ismael Quílez,Quilmes
+1441069,88,Jacobo Mansilla,Leandro Díaz,Quilmes
+1441069,63,Marcelo Sarmiento,Diego Galván,Unión de Santa Fe
+1441069,73,Alexis Fernández,Mauro Maidana,Unión de Santa Fe
+1441069,73,Pablo Magnín,Fausto Montero,Unión de Santa Fe
+1441066,42,Juan Caffa,Damián Pérez,Arsenal de Sarandí
+1441066,66,Darío Benedetto,Pablo Lugüercio,Arsenal de Sarandí
+1441066,87,Brian Sarmiento,Jorge Ortiz,Arsenal de Sarandí
+1441066,46,Leandro Barrera,Franco Canever,Argentinos Juniors
+1441066,46,Leonel Núñez,Leandro Caruso,Argentinos Juniors
+1441066,88,Gustavo Oberman,Marcos Figueroa,Argentinos Juniors
+1441073,25,Gabriel Heinze,Victor Figueroa,Newells Old Boys
+1441073,68,Ignacio Scocco,Martín Tonso,Newells Old Boys
+1441073,78,Milton Casco,Mauricio Sperdutti,Newells Old Boys
+1441073,46,Sebastian Penco,Reinaldo Alderete,San Martín de San Juan
+1441073,46,Lucas Salas,Damian Canuto,San Martín de San Juan
+1441073,75,Jorge Luna,Matías Rudler,San Martín de San Juan
+1441081,76,Patricio Toranzo,Iván Borghello,All Boys
+1441081,76,Ángel Vildozo,Martín Morel,All Boys
+1441081,70,Rubén Botta,Ezequiel Maggiolo,Tigre
+1441081,70,Agustin Torassa,Matías Pérez García,Tigre
+1441081,82,Matías Escobar,Diego Ferreira,Tigre
+1441082,46,Pablo Miguez,Diego Galván,Unión de Santa Fe
+1441082,64,Andrés Franzoia,Diego Jara,Unión de Santa Fe
+1441082,68,Maximiliano Lugo,Brahian Alemán,Unión de Santa Fe
+1441082,72,Cristian Álvarez,Fernando Evangelista,Boca Juniors
+1441082,82,Orlando Gaona,Cristian Erbes,Boca Juniors
+1441082,90,Pol Fernández,Lautaro Acosta,Boca Juniors
+1441074,66,Leandro Caruso,Leonel Núñez,Argentinos Juniors
+1441074,77,Gustavo Oberman,Leandro Barrera,Argentinos Juniors
+1441074,81,Sebastián Navarro,Santiago Nagüel,Argentinos Juniors
+1441074,62,Washington Camacho,Gonzalo Castellani,Godoy Cruz
+1441074,70,Diego Sevillano,Emanuel Insúa,Godoy Cruz
+1441074,76,Federico Lértora,Facundo Castillón,Godoy Cruz
+1441075,46,Fabián Monserrat,Roberto Battión,Independiente
+1441075,67,Luciano Leguizamón,Osmar Ferreyra,Independiente
+1441075,74,Francisco Pizzini,Paulo Rosales,Independiente
+1441075,67,Darío Benedetto,Pablo Lugüercio,Arsenal de Sarandí
+1441075,74,Diego Torres,Nicolás Aguirre,Arsenal de Sarandí
+1441075,87,Gonzalo Espinoza,Carlos Carbonero,Arsenal de Sarandí
+1441083,48,Matías Fissore,Iván Juárez,Atlético Rafaela
+1441083,69,Germán Rodríguez Rojas,Sébastien Grazzini,Atlético Rafaela
+1441083,87,Martín Zbrun,Sebastián Carrera,Atlético Rafaela
+1441083,59,Jacobo Mansilla,Ismael Quílez,Quilmes
+1441083,68,Sebastián Romero,Juan Cobo,Quilmes
+1441083,75,Cristian Insaurralde,Leandro Díaz,Quilmes
+1441078,22,Lucas Pittinari,Esteban González,Belgrano de Córdoba
+1441078,79,Fernando Márquez,Lucas Melano,Belgrano de Córdoba
+1441078,81,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441078,38,Milton Casco,Marcos Cáceres,Newells Old Boys
+1441078,62,Ignacio Scocco,Mauricio Sperdutti,Newells Old Boys
+1441078,74,Martín Tonso,Victor Figueroa,Newells Old Boys
+1441076,83,Diego Valeri,Mauricio Pereyra,Lanús
+1441076,90,Carlos Izquierdoz,Óscar Benítez,Lanús
+1441076,90,Bruno Vides,Paolo Goltz,Lanús
+1441076,51,Luis Fariña,Martín Pérez Guedes,Racing Club
+1441076,78,Bruno Zuculini,Ricardo Centurión,Racing Club
+1441077,46,Claudio Riaño,Reinaldo Alderete,San Martín de San Juan
+1441077,58,Maximiliano Bustos,Jorge Luna,San Martín de San Juan
+1441077,58,Federico Poggi,Leandro Velàzquez,San Martín de San Juan
+1441077,69,Agustin Allione,Emiliano Papa,Vélez Sarsfield
+1441077,69,Iván Bella,Gino Peruzzi,Vélez Sarsfield
+1441077,77,Facundo Ferreyra,Federico Insúa,Vélez Sarsfield
+1441080,56,Juan Cazares,Manuel Lanzini,River Plate
+1441080,64,Daniel Villalba,Carlos Sánchez,River Plate
+1441080,74,Héctor Villalba,Emiliano Tellechea,San Lorenzo
+1441080,84,Juan Mercier,Luís Aguiar,San Lorenzo
+1441080,86,Augusto Álvarez,Franco Jara,San Lorenzo
+1441079,60,Marcos Gelabert,Leandro Benítez,Estudiantes
+1441079,72,Carlos Auzqui,Leonardo Jara,Estudiantes
+1441079,72,Gabriel Graciani,Lucas Mugni,Colón de Santa Fe
+1441079,75,Jorge Achucarro,Facundo Curuchet,Colón de Santa Fe
+1441079,88,Ricardo Gómez,Lucas Alario,Colón de Santa Fe
+1441091,68,Ángel Vildozo,Mauro Matos,All Boys
+1441091,75,Patricio Toranzo,Martín Morel,All Boys
+1441091,90,Jonathan Ferrari,Carlos Soto,All Boys
+1441091,53,Alexis Fernández,Marcelo Sarmiento,Unión de Santa Fe
+1441091,54,Juan Cavallaro,Brahian Alemán,Unión de Santa Fe
+1441091,81,Pablo Magnín,Andrés Franzoia,Unión de Santa Fe
+1441093,63,Ignacio Scocco,Victor Figueroa,Newells Old Boys
+1441093,63,Maximiliano Urruti,Mauricio Sperdutti,Newells Old Boys
+1441093,82,Martín Tonso,Marcos Pérez,Newells Old Boys
+1441093,59,Marcos Gelabert,Maximiliano Núñez,Estudiantes
+1441093,73,Jonathan Silva,Raúl Iberbia,Estudiantes
+1441093,82,Matías Sánchez,Gastón Fernández,Estudiantes
+1441086,64,Darío Benedetto,Juan Caffa,Arsenal de Sarandí
+1441086,64,Gonzalo Espinoza,Pablo Lugüercio,Arsenal de Sarandí
+1441086,80,Víctor Cuesta,Lucas Kruspzky,Arsenal de Sarandí
+1441086,67,Bruno Vides,Guido Pizarro,Lanús
+1441084,19,Juan Sills,Francisco Cerro,Vélez Sarsfield
+1441084,60,Facundo Ferreyra,Jonathan Copete,Vélez Sarsfield
+1441084,82,Iván Bella,Federico Insúa,Vélez Sarsfield
+1441084,57,César Mansanelli,César Carranza,Belgrano de Córdoba
+1441084,69,Víctor Aquino,Lucas Melano,Belgrano de Córdoba
+1441084,75,César Pereyra,Lucas Pittinari,Belgrano de Córdoba
+1441088,51,Matías Escobar,Matías Pérez García,Tigre
+1441088,77,Federico Santander,Ezequiel Maggiolo,Tigre
+1441088,60,Martín Rolle,Matias Mirabaje,San Lorenzo
+1441088,77,Julio Furch,Denis Stracqualursi,San Lorenzo
+1441088,86,Juan Mercier,Luís Aguiar,San Lorenzo
+1441090,60,Leandro Paredes,Cristian Chávez,Boca Juniors
+1441090,72,Christian Cellay,Walter Erviti,Boca Juniors
+1441090,84,Nicolás Blandi,Santiago Silva,Boca Juniors
+1441090,55,Jonathan López,Sébastien Grazzini,Atlético Rafaela
+1441090,68,Walter Serrano,César Carignano,Atlético Rafaela
+1441087,50,Sebastián Torrico,Nelson Ibáñez,Godoy Cruz
+1441087,67,Federico Lértora,Emanuel Insúa,Godoy Cruz
+1441087,76,Diego Sevillano,Facundo Castillón,Godoy Cruz
+1441087,45,Lucas Villalba,Cristian Tula,Independiente
+1441087,57,Fabián Monserrat,Hernán Fredes,Independiente
+1441087,79,Luciano Leguizamón,Ernesto Farías,Independiente
+1441092,67,Rubén Ramírez,Facundo Curuchet,Colón de Santa Fe
+1441092,73,Ricardo Gómez,Lucas Mugni,Colón de Santa Fe
+1441092,84,Hernán Bernardello,Adrián Bastía,Colón de Santa Fe
+1441092,55,Ariel Rojas,Juan Cazares,River Plate
+1441092,62,Martín Aguirre,Cristian Ledesma,River Plate
+1441092,70,Rodrigo Mora,Carlos Sánchez,River Plate
+1441089,66,Fernando Telechea,Facundo Diz,Quilmes
+1441089,75,Jacobo Mansilla,Pablo Lima,Quilmes
+1441089,80,Cristian Insaurralde,Sebastián Romero,Quilmes
+1441089,63,Gustavo Oberman,Fabio Vázquez,Argentinos Juniors
+1441089,75,Pablo Hernández,Leandro Barrera,Argentinos Juniors
+1441089,90,Leandro Caruso,Leonel Núñez,Argentinos Juniors
+1441085,71,Martín Pérez Guedes,Diego Villar,Racing Club
+1441085,81,Luis Fariña,Ricardo Centurión,Racing Club
+1441085,85,Javier Cámpora,Luciano Vietto,Racing Club
+1441085,70,Leandro Velàzquez,Reinaldo Alderete,San Martín de San Juan
+1441085,80,Damian Canuto,Mauro Bogado,San Martín de San Juan
+1441085,89,Sebastian Penco,Diego Sosa,San Martín de San Juan
+1441097,59,Luis Ardente,Luciano Pocrnjic,San Martín de San Juan
+1441097,77,Diego Sosa,Cristian Grabinski,San Martín de San Juan
+1441097,85,Federico Poggi,Mauro Bogado,San Martín de San Juan
+1441097,34,Víctor Cuesta,Juan Caffa,Arsenal de Sarandí
+1441097,46,Brian Sarmiento,Lucas Kruspzky,Arsenal de Sarandí
+1441097,69,Juan Ignacio González,Emilio Zelaya,Arsenal de Sarandí
+1441103,53,Walter Serrano,Raúl Ferro,Atlético Rafaela
+1441103,67,Jonathan López,César Carignano,Atlético Rafaela
+1441103,77,Matías Fissore,Sébastien Grazzini,Atlético Rafaela
+1441103,59,Patricio Toranzo,Fernando Sánchez,All Boys
+1441103,68,Elvio Fredrich,Martín Morel,All Boys
+1441103,72,Ángel Vildozo,Oscar Ahumada,All Boys
+1441099,61,Carlos Auzqui,Maximiliano Núñez,Estudiantes
+1441099,71,Leonardo Jara,Marcos Gelabert,Estudiantes
+1441099,83,Mauro Fernández,Gastón Fernández,Estudiantes
+1441099,71,Ezequiel Rescaldani,Iván Bella,Vélez Sarsfield
+1441099,82,Brian Ferreira,Ariel Cabral,Vélez Sarsfield
+1441099,82,Lucas Romero,Federico Insúa,Vélez Sarsfield
+1441101,79,Gonzalo Verón,Juan Mercier,San Lorenzo
+1441101,88,Emiliano Tellechea,Julio Buffarini,San Lorenzo
+1441101,90,Santiago Gentiletti,Ignacio Piatti,San Lorenzo
+1441101,70,Gabriel Graciani,Adrián Bastía,Colón de Santa Fe
+1441101,76,Hernán Bernardello,Bruno Urribarri,Colón de Santa Fe
+1441101,81,Carlos Luque,Emmanuel Gigliotti,Colón de Santa Fe
+1441094,36,Franco Flores,Juan Sabiá,Argentinos Juniors
+1441094,67,Nicolás Batista,Leandro Barrera,Argentinos Juniors
+1441094,75,Juan Luis Anangonó,Leonel Núñez,Argentinos Juniors
+1441094,71,Orlando Gaona,Cristian Chávez,Boca Juniors
+1441094,81,Nicolás Colazo,Leandro Somoza,Boca Juniors
+1441098,62,César Mansanelli,César Carranza,Belgrano de Córdoba
+1441098,72,Víctor Aquino,Lucas Melano,Belgrano de Córdoba
+1441098,90,Sergio Rodríguez,Jorge Velázquez,Belgrano de Córdoba
+1441098,62,Luciano Vietto,Agustín Pelletieri,Racing Club
+1441098,74,Luciano Aued,Matías Cahais,Racing Club
+1441098,75,Javier Cámpora,Mauro Camoranesi,Racing Club
+1441095,58,Hernán Fredes,Paulo Rosales,Independiente
+1441095,68,Martín Benítez,Víctor Zapata,Independiente
+1441095,77,Fernando Godoy,Luciano Leguizamón,Independiente
+1441095,78,Fernando Telechea,Pablo Lima,Quilmes
+1441095,85,Gervasio Núñez,Sebastián Romero,Quilmes
+1441095,89,Facundo Diz,Miguel Caneo,Quilmes
+1441100,37,Martín Aguirre,Gabriel Mercado,River Plate
+1441100,79,Daniel Villalba,Rodrigo Mora,River Plate
+1441100,83,Manuel Lanzini,Ariel Rojas,River Plate
+1441100,46,Cristian Díaz,Milton Casco,Newells Old Boys
+1441100,58,Lucas Bernardi,Víctor López,Newells Old Boys
+1441100,59,Martín Tonso,Victor Figueroa,Newells Old Boys
+1441102,15,Diego Galván,Fausto Montero,Unión de Santa Fe
+1441102,46,Cristian Núñez,Juan Cavallaro,Unión de Santa Fe
+1441102,61,Andrés Franzoia,Mauro Maidana,Unión de Santa Fe
+1441102,57,Gastón Díaz,Matías Pérez García,Tigre
+1441102,67,Diego Ferreira,Diego Ftacla,Tigre
+1441102,75,Javier Malagueño,Matías Escobar,Tigre
+1441096,67,Diego González,Óscar Benítez,Lanús
+1441096,75,Diego Valeri,Mauricio Pereyra,Lanús
+1441096,87,Andrés Sena,Mario Regueiro,Lanús
+1441096,65,Federico Lértora,Washington Camacho,Godoy Cruz
+1441096,65,Diego Sevillano,Lucas Ceballos,Godoy Cruz
+1441096,71,Jorge Córdoba,Iván Óbolo,Godoy Cruz
+1441108,32,Federico Santander,Ezequiel Maggiolo,Tigre
+1441108,36,Rubén Botta,Ramiro Leone,Tigre
+1441108,65,Matías Pérez García,Gastón Díaz,Tigre
+1441108,73,Jorge Achucarro,Emmanuel Gigliotti,Colón de Santa Fe
+1441108,76,Ricardo Gómez,Gabriel Graciani,Colón de Santa Fe
+1441108,87,Carlos Luque,Lucas Mugni,Colón de Santa Fe
+1441111,76,Juan Careaga,Martín Morel,All Boys
+1441111,80,Ángel Vildozo,Iván Borghello,All Boys
+1441111,84,Elvio Fredrich,Patricio Toranzo,All Boys
+1441111,66,Juan Luis Anangonó,Leonel Núñez,Argentinos Juniors
+1441111,74,Gustavo Oberman,Leandro Barrera,Argentinos Juniors
+1441111,83,Pablo Hernández,Santiago Nagüel,Argentinos Juniors
+1441107,38,Eduardo Ledesma,Nicolás Castro,Godoy Cruz
+1441107,71,Federico Lértora,Facundo Castillón,Godoy Cruz
+1441107,86,Jorge Curbelo,David Ramírez,Godoy Cruz
+1441107,46,Jorge Luna,Maximiliano Bustos,San Martín de San Juan
+1441107,64,Guillermo Suárez,Cristian Grabinski,San Martín de San Juan
+1441107,73,Sebastian Penco,Gastón Caprari,San Martín de San Juan
+1441105,61,Luciano Vietto,Gabriel Hauche,Racing Club
+1441105,62,Luciano Aued,Claudio Corvalán,Racing Club
+1441105,65,Javier Cámpora,José Sand,Racing Club
+1441105,81,Mariano González,Gastón Fernández,Estudiantes
+1441105,84,Leonardo Jara,Rodrigo Braña,Estudiantes
+1441105,84,Matías Sánchez,Marcos Gelabert,Estudiantes
+1441110,79,Nicolás Colazo,Clemente Rodríguez,Boca Juniors
+1441110,88,Lautaro Acosta,Santiago Silva,Boca Juniors
+1441110,53,Samuel Cáceres,Cristian Tula,Independiente
+1441110,57,Fabián Vargas,Paulo Rosales,Independiente
+1441110,69,Patricio Vidal,Hernán Fredes,Independiente
+1441113,76,Martín Tonso,Mauricio Sperdutti,Newells Old Boys
+1441113,90,Diego Mateo,Ignacio Scocco,Newells Old Boys
+1441113,90,Maximiliano Urruti,Raúl Villalba,Newells Old Boys
+1441113,53,Juan Mercier,Emiliano Tellechea,San Lorenzo
+1441113,63,Matias Mirabaje,Luís Aguiar,San Lorenzo
+1441113,84,Julio Furch,Santiago Gentiletti,San Lorenzo
+1441106,12,Darío Benedetto,Emilio Zelaya,Arsenal de Sarandí
+1441106,61,Diego Torres,Lucas Kruspzky,Arsenal de Sarandí
+1441106,75,Brian Sarmiento,Hugo Nervo,Arsenal de Sarandí
+1441106,46,Esteban González,Lucas Pittinari,Belgrano de Córdoba
+1441106,76,César Pereyra,César Carranza,Belgrano de Córdoba
+1441106,85,Fernando Márquez,Lucas Melano,Belgrano de Córdoba
+1441104,71,Mariano Bíttolo,Federico Insúa,Vélez Sarsfield
+1441104,90,Ezequiel Rescaldani,Facundo Ferreyra,Vélez Sarsfield
+1441104,90,Brian Ferreira,Lucas Pratto,Vélez Sarsfield
+1441104,46,Facundo Affranchino,Luciano Abecasis,River Plate
+1441104,58,Daniel Villalba,Rogelio Funes Mori,River Plate
+1441104,65,Germán Pezzella,Carlos Sánchez,River Plate
+1441112,46,Andrés Franzoia,Cristian Núñez,Unión de Santa Fe
+1441112,53,Juan Cavallaro,Diego Galván,Unión de Santa Fe
+1441112,48,Walter Serrano,Iván Juárez,Atlético Rafaela
+1441112,75,Pablo Pavetti,Sébastien Grazzini,Atlético Rafaela
+1441112,87,Jonathan López,Federico González,Atlético Rafaela
+1441109,58,Fernando Telechea,Sebastián Romero,Quilmes
+1441109,64,Leandro Díaz,Pablo Garnier,Quilmes
+1441109,70,Diego Valeri,Mauricio Pereyra,Lanús
+1441109,90,Óscar Benítez,Mario Regueiro,Lanús
+1441118,10,César Pereyra,César Carranza,Belgrano de Córdoba
+1441118,60,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441118,80,Víctor Aquino,César Pereyra,Belgrano de Córdoba
+1441118,46,Federico Lértora,Nicolás Olmedo,Godoy Cruz
+1441118,65,Facundo Castillón,Eduardo Ledesma,Godoy Cruz
+1441118,80,Sergio Sánchez,Emanuel Insúa,Godoy Cruz
+1441123,69,Rodrigo Depetris,Federico González,Atlético Rafaela
+1441123,76,Cristian Machin,Sébastien Grazzini,Atlético Rafaela
+1441123,85,Matías Fissore,Sebastián Carrera,Atlético Rafaela
+1441123,63,Lucas Janson,Alejandro Donatti,Tigre
+1441123,68,Matías Pérez García,Rubén Botta,Tigre
+1441123,78,Javier Carrasco,Diego Ftacla,Tigre
+1441114,59,Matías Laba,Santiago Nagüel,Argentinos Juniors
+1441114,66,Pablo Hernández,Leandro Barrera,Argentinos Juniors
+1441114,71,Juan Luis Anangonó,Marcos Figueroa,Argentinos Juniors
+1441114,46,Juan Cavallaro,Matías Donnet,Unión de Santa Fe
+1441114,46,Maximiliano Lugo,Mauro Maidana,Unión de Santa Fe
+1441114,60,Pablo Magnín,Andrés Franzoia,Unión de Santa Fe
+1441121,63,Luís Aguiar,Matias Mirabaje,San Lorenzo
+1441121,64,Martín Rolle,Alan Ruíz,San Lorenzo
+1441121,76,Julio Furch,José Palomino,San Lorenzo
+1441121,77,Juan Sills,Lucas Romero,Vélez Sarsfield
+1441121,84,Ezequiel Rescaldani,Lucas Pratto,Vélez Sarsfield
+1441121,88,Agustin Allione,Federico Insúa,Vélez Sarsfield
+1441115,61,Patricio Vidal,Fabián Vargas,Independiente
+1441115,61,Paulo Rosales,Lucas Villafáñez,Independiente
+1441115,75,Martín Benítez,Juan Martínez Trejo,Independiente
+1441115,74,Martín Morel,Iván Borghello,All Boys
+1441115,77,Fernando Sánchez,Patricio Toranzo,All Boys
+1441115,90,Juan Careaga,Elvio Fredrich,All Boys
+1441120,9,Facundo Affranchino,Jonatan Maidana,River Plate
+1441120,54,Rodrigo Mora,Carlos Sánchez,River Plate
+1441120,57,Manuel Lanzini,Martín Aguirre,River Plate
+1441120,59,Mauro Camoranesi,José Sand,Racing Club
+1441120,72,Claudio Corvalán,Diego Villar,Racing Club
+1441120,85,Luciano Aued,Ricardo Centurión,Racing Club
+1441117,73,Diego Sosa,Cristian Grabinski,San Martín de San Juan
+1441117,75,Sebastian Penco,Gastón Caprari,San Martín de San Juan
+1441117,79,Cristian Álvarez,Maximiliano Bustos,San Martín de San Juan
+1441117,64,Facundo Diz,Fernando Telechea,Quilmes
+1441117,71,Sebastián Romero,Ismael Quílez,Quilmes
+1441122,59,Emmanuel Gigliotti,Facundo Curuchet,Colón de Santa Fe
+1441122,63,Gabriel Graciani,Sebastián Prediger,Colón de Santa Fe
+1441122,79,Ricardo Gómez,Maximiliano Pellegrino,Colón de Santa Fe
+1441122,79,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441122,81,Diego Mateo,Pablo Pérez,Newells Old Boys
+1441122,83,Victor Figueroa,Martín Tonso,Newells Old Boys
+1441116,28,Diego Valeri,Mauricio Pereyra,Lanús
+1441116,77,Óscar Benítez,Gonzalo Castillejos,Lanús
+1441116,65,Nicolás Colazo,Clemente Rodríguez,Boca Juniors
+1441116,73,Orlando Gaona,Walter Erviti,Boca Juniors
+1441116,84,Juan Martín Imbert,Leandro Somoza,Boca Juniors
+1441119,67,Duván Zapata,Maximiliano Núñez,Estudiantes
+1441119,76,Leonardo Jara,Gastón Fernández,Estudiantes
+1441119,87,Matías Sánchez,Rodrigo Braña,Estudiantes
+1441119,37,Eduardo Casais,Lucas Kruspzky,Arsenal de Sarandí
+1441119,66,Pablo Lugüercio,Gonzalo Espinoza,Arsenal de Sarandí
+1441119,87,Brian Sarmiento,Diego Torres,Arsenal de Sarandí
+1441129,78,Cristian Insaurralde,Martín Cauteruccio,Quilmes
+1441129,83,Miguel Lopez,Pablo Garnier,Quilmes
+1441129,84,Facundo Diz,Fernando Telechea,Quilmes
+1441129,65,Víctor Aquino,César Mansanelli,Belgrano de Córdoba
+1441129,69,Lucas Pittinari,César Pereyra,Belgrano de Córdoba
+1441129,75,Fernando Márquez,Lucas Melano,Belgrano de Córdoba
+1441131,83,Hernán Grana,Emanuel Perea,All Boys
+1441131,84,Elvio Fredrich,Ángel Vildozo,All Boys
+1441131,87,Fernando Sánchez,Oscar Ahumada,All Boys
+1441131,68,Silvio Romero,Mauricio Pereyra,Lanús
+1441131,76,Bruno Vides,Gonzalo Castillejos,Lanús
+1441131,84,Óscar Benítez,Carlos Araujo,Lanús
+1441127,55,Washington Camacho,David Ramírez,Godoy Cruz
+1441127,68,Federico Lértora,Nicolás Olmedo,Godoy Cruz
+1441127,82,Sebastián Olivares,Nicolás Castro,Godoy Cruz
+1441127,11,Leonardo Jara,Raúl Iberbia,Estudiantes
+1441127,47,Mariano González,Marcos Gelabert,Estudiantes
+1441127,78,Leandro Benítez,Román Martínez,Estudiantes
+1441133,60,Óscar Carniello,Cristian Vella,Atlético Rafaela
+1441133,68,Rodrigo Depetris,Federico González,Atlético Rafaela
+1441133,73,Cristian Machin,Sébastien Grazzini,Atlético Rafaela
+1441133,62,Leandro Barrera,Sebastián Navarro,Argentinos Juniors
+1441133,79,Leonel Núñez,Pablo Hernández,Argentinos Juniors
+1441133,88,Santiago Nagüel,Gaspar Iñíguez,Argentinos Juniors
+1441125,71,Mauro Camoranesi,Iván Pillud,Racing Club
+1441125,78,José Sand,Javier Cámpora,Racing Club
+1441125,80,Luis Fariña,Agustín Pelletieri,Racing Club
+1441125,40,Alan Ruíz,Ignacio Piatti,San Lorenzo
+1441125,59,Matias Mirabaje,Walter Kannemann,San Lorenzo
+1441125,79,Damián Martínez,Julio Buffarini,San Lorenzo
+1441126,46,Diego Torres,Gonzalo Espinoza,Arsenal de Sarandí
+1441126,71,Julián Cardozo,Nicolás Aguirre,Arsenal de Sarandí
+1441126,71,Milton Céliz,Darío Benedetto,Arsenal de Sarandí
+1441126,46,Facundo Affranchino,Carlos Sánchez,River Plate
+1441126,64,Manuel Lanzini,Ezequiel Cirigliano,River Plate
+1441126,74,Rogelio Funes Mori,Carlos Luna,River Plate
+1441128,55,Diego Ferreira,Rubén Botta,Tigre
+1441128,55,Matías Pérez García,Lucas Menossi,Tigre
+1441128,59,Gastón Díaz,Diego Castaño,Tigre
+1441128,64,Leandro Torres,Martín Tonso,Newells Old Boys
+1441128,77,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441128,85,Victor Figueroa,Pablo Pérez,Newells Old Boys
+1441124,35,Gino Peruzzi,Mariano Bíttolo,Vélez Sarsfield
+1441124,68,Agustin Allione,Lucas Romero,Vélez Sarsfield
+1441124,78,Ezequiel Rescaldani,Federico Insúa,Vélez Sarsfield
+1441124,22,Gerardo Alcoba,Maximiliano Pellegrino,Colón de Santa Fe
+1441124,52,Ricardo Gómez,Lucas Mugni,Colón de Santa Fe
+1441124,85,Facundo Curuchet,Jorge Achucarro,Colón de Santa Fe
+1441132,46,Juan Cavallaro,Matías Donnet,Unión de Santa Fe
+1441132,56,Federico Chiapello,Diego Jara,Unión de Santa Fe
+1441132,67,Cristian Núñez,Brahian Alemán,Unión de Santa Fe
+1441132,23,Fabián Vargas,Jonathan Santana,Independiente
+1441132,50,Paulo Rosales,Luciano Leguizamón,Independiente
+1441132,78,Hernán Fredes,Víctor Zapata,Independiente
+1441130,46,Cristian Chávez,Diego Rivero,Boca Juniors
+1441130,46,Leandro Paredes,Leandro Somoza,Boca Juniors
+1441130,76,Nicolás Colazo,Emiliano Albín,Boca Juniors
+1441130,60,Cristian Álvarez,Jorge Luna,San Martín de San Juan
+1441130,74,Federico Poggi,Humberto Osorio,San Martín de San Juan
+1441130,83,Diego Sosa,Mauro Bogado,San Martín de San Juan
+1441136,82,Gonzalo Castillejos,,Lanús
+1441136,83,Diego Valeri,Mauricio Pereyra,Lanús
+1441136,53,Emanuel Moreno,Brahian Alemán,Unión de Santa Fe
+1441136,59,Cristian Núñez,Diego Jara,Unión de Santa Fe
+1441136,71,Federico Chiapello,Mauro Maidana,Unión de Santa Fe
+1441134,68,Leandro Barrera,Pablo Hernández,Argentinos Juniors
+1441134,80,Matías Laba,Alejandro Capurro,Argentinos Juniors
+1441134,86,Leonel Núñez,Marcos Figueroa,Argentinos Juniors
+1441134,46,Alejandro Donatti,Javier Malagueño,Tigre
+1441134,60,Matías Pérez García,Rubén Botta,Tigre
+1441134,79,Agustin Torassa,Federico Santander,Tigre
+1441137,46,Cristian Álvarez,Maximiliano Bustos,San Martín de San Juan
+1441137,75,Claudio Riaño,Humberto Osorio,San Martín de San Juan
+1441137,85,Diego Sosa,Gastón Caprari,San Martín de San Juan
+1441137,73,Santiago Montoya,Francisco Martínez,All Boys
+1441137,76,Nicolás Martínez,Emanuel Perea,All Boys
+1441137,83,Hernán Grana,Oscar Ahumada,All Boys
+1441141,63,Matias Mirabaje,Alan Ruíz,San Lorenzo
+1441141,77,Julio Furch,Juan Mercier,San Lorenzo
+1441141,9,Juan Caffa,Diego Torres,Arsenal de Sarandí
+1441141,62,Gustavo Canales,Nicolás Aguirre,Arsenal de Sarandí
+1441141,82,Julián Cardozo,Pablo Lugüercio,Arsenal de Sarandí
+1441139,61,Duván Zapata,Maximiliano Núñez,Estudiantes
+1441139,79,Agustín Alayes,Leonardo Jara,Estudiantes
+1441139,84,Leandro Benítez,Rodrigo Braña,Estudiantes
+1441139,71,Leandro Díaz,Ismael Quílez,Quilmes
+1441139,71,Cristian Insaurralde,Fernando Telechea,Quilmes
+1441139,78,Facundo Diz,Pablo Lima,Quilmes
+1441142,56,Sebastián Prediger,Hernán Bernardello,Colón de Santa Fe
+1441142,57,Gabriel Graciani,Iván Moreno y Fabianesi,Colón de Santa Fe
+1441142,69,Rubén Ramírez,Jorge Achucarro,Colón de Santa Fe
+1441142,70,Mauro Camoranesi,Javier Cámpora,Racing Club
+1441142,76,Gabriel Hauche,Diego Villar,Racing Club
+1441142,90,Leonardo Miglionico,Luciano Vietto,Racing Club
+1441138,70,Fernando Márquez,Jorge Velázquez,Belgrano de Córdoba
+1441138,74,César Pereyra,Lucas Melano,Belgrano de Córdoba
+1441138,86,Martín Zapata,Lucas Pittinari,Belgrano de Córdoba
+1441138,37,Christian Cellay,Emiliano Albín,Boca Juniors
+1441138,62,Leandro Paredes,Cristian Chávez,Boca Juniors
+1441138,78,Orlando Gaona,Lucas Viatri,Boca Juniors
+1441135,25,Paulo Rosales,Luciano Leguizamón,Independiente
+1441135,71,Hernán Fredes,Víctor Zapata,Independiente
+1441135,85,Lucas Villafáñez,Fabián Vargas,Independiente
+1441135,63,Nicolas Capellino,Federico González,Atlético Rafaela
+1441135,71,Darío Gandín,Sebastián Carrera,Atlético Rafaela
+1441143,70,Diego Mateo,Pablo Pérez,Newells Old Boys
+1441143,82,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441143,88,Guillermo Ortíz,Martín Tonso,Newells Old Boys
+1441143,65,Iván Bella,Gino Peruzzi,Vélez Sarsfield
+1441143,72,Lucas Romero,Ariel Cabral,Vélez Sarsfield
+1441143,82,Eduardo Pucheta,Francisco Cerro,Vélez Sarsfield
+1441140,46,Manuel Lanzini,Leonardo Ponzio,River Plate
+1441140,53,Rogelio Funes Mori,David Trezeguet,River Plate
+1441140,76,Carlos Luna,Rodrigo Mora,River Plate
+1441140,56,Washington Camacho,Nicolás Castro,Godoy Cruz
+1441140,63,Armando Cooper,Facundo Castillón,Godoy Cruz
+1441140,71,Diego Sevillano,Gonzalo Castellani,Godoy Cruz
+1441146,63,Gustavo Canales,Emilio Zelaya,Arsenal de Sarandí
+1441146,70,Pablo Lugüercio,Milton Céliz,Arsenal de Sarandí
+1441146,73,Juan Caffa,Nicolás Aguirre,Arsenal de Sarandí
+1441146,46,Iván Moreno y Fabianesi,Hernán Bernardello,Colón de Santa Fe
+1441146,56,Emmanuel Gigliotti,Facundo Curuchet,Colón de Santa Fe
+1441146,73,Sebastián Prediger,Gabriel Graciani,Colón de Santa Fe
+1441144,67,Santiago Nagüel,Gustavo Oberman,Argentinos Juniors
+1441144,68,Leonel Núñez,Brian Gómez,Argentinos Juniors
+1441144,81,Leandro Barrera,Diego Placente,Argentinos Juniors
+1441144,57,Lucas Villafáñez,Paulo Rosales,Independiente
+1441144,63,Federico Mancuello,Osmar Ferreyra,Independiente
+1441144,84,Patricio Vidal,Ernesto Farías,Independiente
+1441151,68,Facundo Quiroga,Maximiliano Coronel,All Boys
+1441151,77,Martín Morel,Iván Borghello,All Boys
+1441151,89,Emanuel Perea,Patricio Toranzo,All Boys
+1441151,69,César Carranza,Lucas Pittinari,Belgrano de Córdoba
+1441151,75,César Pereyra,Lucas Melano,Belgrano de Córdoba
+1441151,81,Fernando Márquez,Jorge Velázquez,Belgrano de Córdoba
+1441152,46,Diego Galván,Brahian Alemán,Unión de Santa Fe
+1441152,46,Diego Jara,Fausto Montero,Unión de Santa Fe
+1441152,67,Pablo Magnín,Matías Donnet,Unión de Santa Fe
+1441152,63,Diego Sosa,Cristian Grabinski,San Martín de San Juan
+1441152,88,Pablo Cantero,Mauro Bogado,San Martín de San Juan
+1441152,90,Federico Poggi,Jorge Luna,San Martín de San Juan
+1441147,60,Nicolás Castro,Fernando Zuqui,Godoy Cruz
+1441147,72,Eduardo Ledesma,Nicolás Olmedo,Godoy Cruz
+1441147,76,Facundo Castillón,Lucas Ceballos,Godoy Cruz
+1441147,62,Abel Masuero,Alan Ruíz,San Lorenzo
+1441147,80,Salvador Reynoso,Luís Aguiar,San Lorenzo
+1441147,87,Gonzalo Verón,Matias Mirabaje,San Lorenzo
+1441148,64,Diego Ftacla,Silvio González,Tigre
+1441148,75,Lucas Janson,Matías Pérez García,Tigre
+1441148,85,Agustin Torassa,Diego Ferreira,Tigre
+1441148,69,Lucas Romero,Federico Insúa,Vélez Sarsfield
+1441148,77,Agustin Allione,Iván Bella,Vélez Sarsfield
+1441148,89,Juan Sills,Facundo Ferreyra,Vélez Sarsfield
+1441145,69,José Sand,Javier Cámpora,Racing Club
+1441145,70,Mauro Camoranesi,Ricardo Centurión,Racing Club
+1441145,70,Gabriel Hachen,Victor Figueroa,Newells Old Boys
+1441145,84,Fabián Muñoz,Martín Tonso,Newells Old Boys
+1441145,88,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441149,68,Miguel Caneo,Facundo Diz,Quilmes
+1441149,72,Fernando Telechea,Martín Cauteruccio,Quilmes
+1441149,82,Pablo Mattos,Miguel Caneo,Quilmes
+1441149,63,Rogelio Funes Mori,Ezequiel Cirigliano,River Plate
+1441149,73,Ariel Rojas,Leandro González Pirez,River Plate
+1441153,66,Darío Gandín,Cristian Machin,Atlético Rafaela
+1441153,73,Nicolas Capellino,Iván Juárez,Atlético Rafaela
+1441153,74,Walter Serrano,Sebastián Carrera,Atlético Rafaela
+1441153,68,Luciano Balbi,Mauricio Pereyra,Lanús
+1441153,90,Gonzalo Castillejos,Mario Regueiro,Lanús
+1441153,90,Diego González,Silvio Romero,Lanús
+1441150,46,Nicolás Colazo,Leandro Paredes,Boca Juniors
+1441150,65,Lautaro Acosta,Lucas Viatri,Boca Juniors
+1441150,63,Duván Zapata,Maximiliano Núñez,Estudiantes
+1441150,72,Marcos Gelabert,Gastón Fernández,Estudiantes
+1441150,90,Carlos Auzqui,Guido Carrillo,Estudiantes
+1441161,54,Santiago Gentiletti,Matias Mirabaje,San Lorenzo
+1441161,65,Ignacio Piatti,Alan Ruíz,San Lorenzo
+1441161,75,Juan Mercier,Ignacio Piatti,San Lorenzo
+1441161,37,German Mandarino,Sebastián Romero,Quilmes
+1441161,69,Fernando Elizari,Joel Carli,Quilmes
+1441161,77,Cristian Insaurralde,Martín Cauteruccio,Quilmes
+1441157,70,Claudio Riaño,Gastón Caprari,San Martín de San Juan
+1441157,78,Leandro Velàzquez,Humberto Osorio,San Martín de San Juan
+1441157,86,Sebastian Penco,Jorge Luna,San Martín de San Juan
+1441157,57,Federico González,Raúl Ferro,Atlético Rafaela
+1441157,67,Diego Fraire,Cristian Machin,Atlético Rafaela
+1441157,75,Jonathan López,Darío Gandín,Atlético Rafaela
+1441159,64,Carlos Auzqui,Leonardo Jara,Estudiantes
+1441159,72,Maximiliano Núñez,Gastón Fernández,Estudiantes
+1441159,83,Leandro Benítez,Raúl Iberbia,Estudiantes
+1441159,62,Juan Careaga,Santiago Montoya,All Boys
+1441159,81,Emanuel Perea,Hernán Grana,All Boys
+1441159,85,Elvio Fredrich,Darío Stefanatto,All Boys
+1441163,60,Víctor López,Victor Figueroa,Newells Old Boys
+1441163,69,Diego Mateo,Horacio Orzán,Newells Old Boys
+1441163,77,Maximiliano Urruti,Martín Tonso,Newells Old Boys
+1441163,46,Gustavo Canales,Milton Céliz,Arsenal de Sarandí
+1441163,57,Juan Caffa,Pablo Lugüercio,Arsenal de Sarandí
+1441163,68,Eduardo Casais,Hugo Nervo,Arsenal de Sarandí
+1441154,66,Agustin Allione,Federico Insúa,Vélez Sarsfield
+1441154,78,Lucas Romero,Iván Bella,Vélez Sarsfield
+1441154,85,Juan Sills,Francisco Cerro,Vélez Sarsfield
+1441154,61,Mauro Camoranesi,Claudio Corvalán,Racing Club
+1441154,70,José Sand,Javier Cámpora,Racing Club
+1441154,77,Luis Fariña,Agustín Pelletieri,Racing Club
+1441160,5,Leandro González Pirez,Ramiro Funes Mori,River Plate
+1441160,14,Ariel Rojas,Martín Aguirre,River Plate
+1441160,87,Rogelio Funes Mori,Rodrigo Mora,River Plate
+1441160,46,Lautaro Acosta,Clemente Rodríguez,Boca Juniors
+1441160,68,Nicolás Colazo,Juan Sánchez Miño,Boca Juniors
+1441160,79,Leandro Paredes,Cristian Chávez,Boca Juniors
+1441158,46,César Carranza,Lucas Melano,Belgrano de Córdoba
+1441158,59,César Pereyra,Jorge Velázquez,Belgrano de Córdoba
+1441158,72,Fernando Márquez,Víctor Aquino,Belgrano de Córdoba
+1441158,65,Ricardo Mazacotte,Matías Donnet,Unión de Santa Fe
+1441158,70,Brahian Alemán,Maximiliano Lugo,Unión de Santa Fe
+1441158,77,Diego Galván,Pablo Bruna,Unión de Santa Fe
+1441156,71,Diego González,Óscar Benítez,Lanús
+1441156,90,Gonzalo Castillejos,Mario Regueiro,Lanús
+1441156,90,Diego Valeri,Silvio Romero,Lanús
+1441156,67,Leandro Barrera,Alejandro Capurro,Argentinos Juniors
+1441156,73,Leonel Núñez,Marcos Figueroa,Argentinos Juniors
+1441156,76,Brian Gómez,Gaspar Iñíguez,Argentinos Juniors
+1441162,46,Gabriel Graciani,Lucas Mugni,Colón de Santa Fe
+1441162,46,Carlos Luque,Sebastián Prediger,Colón de Santa Fe
+1441162,78,Rubén Ramírez,Facundo Curuchet,Colón de Santa Fe
+1441162,60,Sergio Sánchez,David Ramírez,Godoy Cruz
+1441162,71,Washington Camacho,Emanuel Insúa,Godoy Cruz
+1441162,74,Jorge Córdoba,Diego Sevillano,Godoy Cruz
+1441155,58,Martín Benítez,Patricio Vidal,Independiente
+1441155,58,Hernán Fredes,Jonathan Santana,Independiente
+1441155,84,Federico Mancuello,Osmar Ferreyra,Independiente
+1441155,44,Ezequiel Maggiolo,Federico Santander,Tigre
+1441155,64,Gastón Díaz,Matías Pérez García,Tigre
+1441155,73,Leandro Leguizamón,Gabriel Peñalba,Tigre
+1441173,46,Sébastien Grazzini,Cristian Vella,Atlético Rafaela
+1441173,56,Jonathan López,Darío Gandín,Atlético Rafaela
+1441173,77,Federico González,Sebastián Carrera,Atlético Rafaela
+1441173,54,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441173,72,Lucas Pittinari,Jorge Velázquez,Belgrano de Córdoba
+1441173,83,Lucas Melano,Víctor Aquino,Belgrano de Córdoba
+1441164,46,Sebastián Navarro,Alejandro Capurro,Argentinos Juniors
+1441164,62,Juan Ramírez,Pablo Hernández,Argentinos Juniors
+1441164,81,Ciro Rius,Marcos Figueroa,Argentinos Juniors
+1441164,75,Claudio Riaño,Humberto Osorio,San Martín de San Juan
+1441164,79,Sebastian Penco,Gastón Caprari,San Martín de San Juan
+1441164,87,Cristian Álvarez,Jorge Luna,San Martín de San Juan
+1441172,46,Juan Cavallaro,Diego Galván,Unión de Santa Fe
+1441172,46,Alejandro Pérez,Ricardo Mazacotte,Unión de Santa Fe
+1441172,63,Emanuel Moreno,Maximiliano Lugo,Unión de Santa Fe
+1441172,59,Leonardo Jara,Maximiliano Núñez,Estudiantes
+1441172,74,Guido Carrillo,Duván Zapata,Estudiantes
+1441172,79,Matías Sánchez,Leandro Benítez,Estudiantes
+1441170,46,Nicolás Colazo,Clemente Rodríguez,Boca Juniors
+1441170,64,Diego Rivero,Leandro Paredes,Boca Juniors
+1441170,85,Cristian Chávez,Walter Erviti,Boca Juniors
+1441170,58,Gonzalo Verón,Matias Mirabaje,San Lorenzo
+1441170,67,Fabian Bordagaray,Franco Jara,San Lorenzo
+1441170,68,Martín Rolle,Alan Ruíz,San Lorenzo
+1441166,61,Juan Caffa,Nicolás Aguirre,Arsenal de Sarandí
+1441166,61,Pablo Lugüercio,Gonzalo Espinoza,Arsenal de Sarandí
+1441166,67,Milton Céliz,Gustavo Canales,Arsenal de Sarandí
+1441166,60,Agustin Allione,Gino Peruzzi,Vélez Sarsfield
+1441166,67,Juan Sills,Emiliano Papa,Vélez Sarsfield
+1441166,74,Federico Freire,Lucas Pratto,Vélez Sarsfield
+1441167,45,Gonzalo Castellani,David Ramírez,Godoy Cruz
+1441167,57,Washington Camacho,Eduardo Ledesma,Godoy Cruz
+1441167,78,Jorge Córdoba,Facundo Castillón,Godoy Cruz
+1441167,31,Horacio Orzán,Martín Tonso,Newells Old Boys
+1441167,63,Victor Figueroa,Pablo Pérez,Newells Old Boys
+1441167,85,Maximiliano Urruti,Lucas Bernardi,Newells Old Boys
+1441169,61,Fernando Elizari,Facundo Diz,Quilmes
+1441169,69,German Mandarino,Leandro Díaz,Quilmes
+1441169,75,Cristian Insaurralde,Martín Cauteruccio,Quilmes
+1441169,21,Bruno Urribarri,Gerardo Alcoba,Colón de Santa Fe
+1441169,58,Rubén Ramírez,Facundo Curuchet,Colón de Santa Fe
+1441169,62,Lucas Mugni,Ricardo Gómez,Colón de Santa Fe
+1441171,74,Juan Careaga,Patricio Toranzo,All Boys
+1441171,75,Santiago Montoya,Iván Borghello,All Boys
+1441171,68,Daniel Villalba,Ariel Rojas,River Plate
+1441171,69,Carlos Luna,Rodrigo Mora,River Plate
+1441168,62,Gastón Díaz,Diego Ferreira,Tigre
+1441168,62,Silvio González,Ezequiel Maggiolo,Tigre
+1441168,73,Rubén Botta,Matías Pérez García,Tigre
+1441168,67,Claudio Corvalán,Mauro Camoranesi,Racing Club
+1441168,78,Luciano Aued,Ricardo Centurión,Racing Club
+1441168,84,Gabriel Hauche,José Sand,Racing Club
+1441165,6,Cristian Tula,Claudio Morel,Independiente
+1441165,55,Paulo Rosales,Martín Benítez,Independiente
+1441165,55,Leonel Buter,Patricio Vidal,Independiente
+1441165,62,Diego Valeri,Mauricio Pereyra,Lanús
+1441165,79,Gonzalo Castillejos,Silvio Romero,Lanús
+1441165,82,Luciano Balbi,Maximiliano Velázquez,Lanús
+1441178,57,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441178,65,Lucas Melano,Sergio Rodríguez,Belgrano de Córdoba
+1441178,73,Fernando Márquez,César Carranza,Belgrano de Córdoba
+1441178,60,Gustavo Oberman,Juan Ramírez,Argentinos Juniors
+1441178,66,Marcos Figueroa,Leandro Barrera,Argentinos Juniors
+1441178,80,Gabriel Peñalba,Sebastián Navarro,Argentinos Juniors
+1441183,80,Leandro Torres,Fabián Muñoz,Newells Old Boys
+1441183,80,Maximiliano Urruti,Pablo Pérez,Newells Old Boys
+1441183,57,German Mandarino,Jorge Serrano,Quilmes
+1441183,86,Fernando Elizari,Martín Cauteruccio,Quilmes
+1441183,88,Pablo Mattos,Sebastián Romero,Quilmes
+1441174,63,Agustin Allione,Iván Bella,Vélez Sarsfield
+1441174,65,Brian Ferreira,Federico Insúa,Vélez Sarsfield
+1441174,83,Juan Sills,Ariel Cabral,Vélez Sarsfield
+1441174,76,Luis Jerez Silva,Nicolás Olmedo,Godoy Cruz
+1441174,77,Leonel Ríos,Lucas Ceballos,Godoy Cruz
+1441174,78,Jorge Córdoba,Facundo Castillón,Godoy Cruz
+1441181,75,Juan Mercier,Enzo Kalinski,San Lorenzo
+1441181,80,Julio Furch,Denis Stracqualursi,San Lorenzo
+1441181,83,Gonzalo Verón,Alan Ruíz,San Lorenzo
+1441181,70,Santiago Montoya,Oscar Ahumada,All Boys
+1441181,70,Ángel Vildozo,Iván Borghello,All Boys
+1441181,75,Juan Careaga,Hernán Grana,All Boys
+1441180,63,Daniel Vega,Marcelo Barovero,River Plate
+1441180,76,Augusto Solari,Carlos Luna,River Plate
+1441180,89,Ariel Rojas,Rogelio Funes Mori,River Plate
+1441180,66,Brahian Alemán,Pablo Bruna,Unión de Santa Fe
+1441180,66,Juan Cavallaro,Emanuel Moreno,Unión de Santa Fe
+1441180,72,Pablo Magnín,Diego Jara,Unión de Santa Fe
+1441179,69,Mariano González,Maximiliano Núñez,Estudiantes
+1441179,86,Guido Carrillo,Duván Zapata,Estudiantes
+1441179,57,Jonathan López,Federico González,Atlético Rafaela
+1441179,76,Rodrigo Depetris,Sebastián Carrera,Atlético Rafaela
+1441179,81,Walter Serrano,Raúl Ferro,Atlético Rafaela
+1441176,63,Diego Valeri,Mauricio Pereyra,Lanús
+1441176,74,Diego González,Víctor Ayala,Lanús
+1441176,87,Gonzalo Castillejos,Silvio Romero,Lanús
+1441176,60,Agustin Torassa,Lucas Menossi,Tigre
+1441176,66,Rubén Botta,Diego Ftacla,Tigre
+1441176,66,Federico Santander,Ramiro Leone,Tigre
+1441177,46,Francisco Alarcón,Reinaldo Alderete,San Martín de San Juan
+1441177,69,Federico Poggi,Jorge Luna,San Martín de San Juan
+1441177,79,Sebastian Penco,Gastón Caprari,San Martín de San Juan
+1441177,46,Patricio Vidal,Martín Benítez,Independiente
+1441177,59,Jonathan Santana,Víctor Zapata,Independiente
+1441177,74,Hernán Fredes,Fabián Vargas,Independiente
+1441182,64,Ricardo Gómez,Lucas Mugni,Colón de Santa Fe
+1441182,73,Gabriel Graciani,Facundo Curuchet,Colón de Santa Fe
+1441182,81,Rubén Ramírez,Emmanuel Gigliotti,Colón de Santa Fe
+1441182,66,Nicolás Blandi,Lautaro Acosta,Boca Juniors
+1441182,75,Cristian Chávez,Pol Fernández,Boca Juniors
+1441182,88,Nicolás Colazo,Leandro Paredes,Boca Juniors
+1441175,74,Javier Cámpora,José Sand,Racing Club
+1441175,81,Gabriel Hauche,Diego Villar,Racing Club
+1441175,68,Juan Caffa,Nicolás Aguirre,Arsenal de Sarandí
+1441175,70,Pablo Lugüercio,Milton Céliz,Arsenal de Sarandí
+1441175,84,Darío Benedetto,Emilio Zelaya,Arsenal de Sarandí
+1441184,38,Nicolás Batista,Diego Placente,Argentinos Juniors
+1441184,61,Gabriel Peñalba,Fabio Vázquez,Argentinos Juniors
+1441184,76,Leonel Núñez,Juan Ramírez,Argentinos Juniors
+1441184,38,Jonathan Silva,Justo Villar,Estudiantes
+1441184,57,Leonardo Jara,Matías Sánchez,Estudiantes
+1441184,83,Guido Carrillo,Carlos Auzqui,Estudiantes
+1441192,70,Juan Cavallaro,Federico Chiapello,Unión de Santa Fe
+1441192,70,Diego Jara,Fausto Montero,Unión de Santa Fe
+1441192,83,Brahian Alemán,Emanuel Moreno,Unión de Santa Fe
+1441192,70,Gonzalo Verón,Fabian Bordagaray,San Lorenzo
+1441192,76,Matias Mirabaje,Julio Buffarini,San Lorenzo
+1441192,81,Emiliano Tellechea,Alan Ruíz,San Lorenzo
+1441189,61,Christian Lema,Pablo Lima,Quilmes
+1441189,83,Fernando Elizari,Facundo Diz,Quilmes
+1441189,83,Diego Diellos,Sebastián Romero,Quilmes
+1441189,50,Agustin Allione,Iván Bella,Vélez Sarsfield
+1441189,50,Lucas Romero,Francisco Cerro,Vélez Sarsfield
+1441189,88,Brian Ferreira,Federico Insúa,Vélez Sarsfield
+1441191,68,Elvio Fredrich,Martín Morel,All Boys
+1441191,68,Fernando Sánchez,Emanuel Perea,All Boys
+1441191,78,Armando Panceri,Iván Borghello,All Boys
+1441191,69,Carlos Luque,Jorge Achucarro,Colón de Santa Fe
+1441191,78,Emmanuel Gigliotti,Ricardo Gómez,Colón de Santa Fe
+1441191,83,Federico Jourdan,Gabriel Graciani,Colón de Santa Fe
+1441193,66,Federico González,Jonathan López,Atlético Rafaela
+1441193,69,Germán Rodríguez Rojas,Walter Serrano,Atlético Rafaela
+1441193,80,Rodrigo Depetris,Sébastien Grazzini,Atlético Rafaela
+1441193,13,Leandro González Pirez,Germán Pezzella,River Plate
+1441193,74,Manuel Lanzini,Ezequiel Cirigliano,River Plate
+1441193,86,Daniel Villalba,Rodrigo Mora,River Plate
+1441187,61,Leonel Ríos,Nicolás Castro,Godoy Cruz
+1441187,68,Sebastián Torrico,Jorge Córdoba,Godoy Cruz
+1441187,75,Lucas Ceballos,José San Román,Godoy Cruz
+1441187,83,Martín Pérez Guedes,Luis Fariña,Racing Club
+1441187,88,Gabriel Hauche,Diego Villar,Racing Club
+1441187,90,José Sand,Luciano Vietto,Racing Club
+1441186,69,Fernando Barrientos,Mauricio Pereyra,Lanús
+1441186,76,Óscar Benítez,Gonzalo Castillejos,Lanús
+1441186,79,Diego González,Diego Valeri,Lanús
+1441186,73,Gastón Caprari,Jorge Luna,San Martín de San Juan
+1441186,73,Leandro Velàzquez,Claudio Riaño,San Martín de San Juan
+1441186,81,Sebastian Penco,Maximiliano Bustos,San Martín de San Juan
+1441188,64,Silvio González,Ezequiel Maggiolo,Tigre
+1441188,69,Matías Pérez García,Diego Ferreira,Tigre
+1441188,78,Diego Ftacla,Federico Santander,Tigre
+1441188,75,Milton Céliz,Nicolás Aguirre,Arsenal de Sarandí
+1441188,83,Víctor Cuesta,Emilio Zelaya,Arsenal de Sarandí
+1441188,87,Gastón Esmerado,Eduardo Casais,Arsenal de Sarandí
+1441190,73,Nicolás Colazo,Leandro Paredes,Boca Juniors
+1441190,80,Cristian Chávez,Pol Fernández,Boca Juniors
+1441190,89,Nicolás Blandi,Lautaro Acosta,Boca Juniors
+1441190,62,Fabián Muñoz,Mauricio Sperdutti,Newells Old Boys
+1441190,81,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441190,89,Victor Figueroa,Maxi Rodriguez,Newells Old Boys
+1441185,46,Samuel Cáceres,Federico Mancuello,Independiente
+1441185,46,Hernán Fredes,Gabriel Vallés,Independiente
+1441185,46,Fabián Monserrat,Julián Velázquez,Independiente
+1441185,46,Cristian Tula,Víctor Zapata,Independiente
+1441185,69,Paulo Rosales,Hernán Fredes,Independiente
+1441185,69,Jonathan Santana,Fabián Monserrat,Independiente
+1441185,84,Cristian Ortíz,Osmar Ferreyra,Independiente
+1441185,46,Lucas Pittinari,César Mansanelli,Belgrano de Córdoba
+1441185,46,Martín Zapata,César Pereyra,Belgrano de Córdoba
+1441185,69,Lucas Melano,Víctor Aquino,Belgrano de Córdoba
+1441185,77,Sergio Rodríguez,Martín Zapata,Belgrano de Córdoba
+1441201,58,Martín Rolle,Denis Stracqualursi,San Lorenzo
+1441201,75,Gonzalo Verón,Julio Buffarini,San Lorenzo
+1441201,83,Abel Masuero,Fabian Bordagaray,San Lorenzo
+1441201,18,Walter Serrano,Iván Juárez,Atlético Rafaela
+1441201,46,Sebastián Carrera,Cristian Vella,Atlético Rafaela
+1441201,69,Federico González,Jonathan López,Atlético Rafaela
+1441199,60,Guido Carrillo,Duván Zapata,Estudiantes
+1441199,65,Maximiliano Núñez,Carlos Auzqui,Estudiantes
+1441199,83,Leandro Benítez,Marcos Gelabert,Estudiantes
+1441199,43,Patricio Vidal,Lucas Villafáñez,Independiente
+1441199,53,Paulo Rosales,Fabián Vargas,Independiente
+1441199,57,Hernán Fredes,Víctor Zapata,Independiente
+1441196,25,Juan Caffa,Nicolás Aguirre,Arsenal de Sarandí
+1441196,72,Milton Céliz,Pablo Lugüercio,Arsenal de Sarandí
+1441196,77,Gonzalo Espinoza,Iván Marcone,Arsenal de Sarandí
+1441196,54,Renato Pinedo,Fernando Zuqui,Godoy Cruz
+1441196,63,Leonel Ríos,Nicolás Castro,Godoy Cruz
+1441196,77,Sebastián Olivares,Nicolás Olmedo,Godoy Cruz
+1441197,46,Claudio Riaño,Humberto Osorio,San Martín de San Juan
+1441197,72,Francisco Alarcón,Maximiliano Bustos,San Martín de San Juan
+1441197,83,Leandro Velàzquez,Jorge Luna,San Martín de San Juan
+1441197,46,Matías Pérez García,Lucas Menossi,Tigre
+1441197,71,Federico Santander,Diego Ftacla,Tigre
+1441197,77,Matías Escobar,Silvio González,Tigre
+1441202,66,Hernán Bernardello,Lucas Mugni,Colón de Santa Fe
+1441202,66,Ricardo Gómez,Sebastián Prediger,Colón de Santa Fe
+1441202,83,Gabriel Graciani,Facundo Curuchet,Colón de Santa Fe
+1441202,27,Bruno Bianchi,Emanuel Moreno,Unión de Santa Fe
+1441202,56,Diego Jara,Federico Chiapello,Unión de Santa Fe
+1441202,81,Brahian Alemán,Fausto Montero,Unión de Santa Fe
+1441203,17,Victor Figueroa,Maxi Rodriguez,Newells Old Boys
+1441203,38,Víctor López,Gabriel Heinze,Newells Old Boys
+1441203,55,Maximiliano Urruti,Lucas Bernardi,Newells Old Boys
+1441203,46,Fernando Sánchez,Emanuel Perea,All Boys
+1441203,52,Francisco Martínez,Carlos Soto,All Boys
+1441203,68,Patricio Toranzo,Martín Morel,All Boys
+1441194,60,Agustin Allione,Iván Bella,Vélez Sarsfield
+1441194,74,Ezequiel Rescaldani,Federico Insúa,Vélez Sarsfield
+1441194,59,Nicolás Colazo,Leandro Paredes,Boca Juniors
+1441194,80,Nicolás Blandi,Lautaro Acosta,Boca Juniors
+1441194,83,Leandro Somoza,Cristian Erbes,Boca Juniors
+1441198,46,César Carranza,Lucas Pittinari,Belgrano de Córdoba
+1441198,58,Lucas Melano,César Pereyra,Belgrano de Córdoba
+1441198,68,César Mansanelli,Esteban González,Belgrano de Córdoba
+1441198,62,Diego Valeri,Mauricio Pereyra,Lanús
+1441198,87,Diego González,Silvio Romero,Lanús
+1441198,90,Gonzalo Castillejos,Mario Regueiro,Lanús
+1441195,64,Gabriel Hauche,Diego Villar,Racing Club
+1441195,68,Martín Pérez Guedes,Ricardo Centurión,Racing Club
+1441195,79,Javier Cámpora,Luis Fariña,Racing Club
+1441195,57,Diego Diellos,Fernando Telechea,Quilmes
+1441195,69,Sergio Hipperdinger,Pablo Lima,Quilmes
+1441195,70,Fernando Elizari,Martín Cauteruccio,Quilmes
+1441200,61,Augusto Solari,Ezequiel Cirigliano,River Plate
+1441200,61,Daniel Villalba,Carlos Luna,River Plate
+1441200,65,Marcos Figueroa,Santiago Nagüel,Argentinos Juniors
+1441200,74,Fabio Vázquez,Juan Ramírez,Argentinos Juniors
+1441200,84,Gabriel Peñalba,Sebastián Navarro,Argentinos Juniors
+1441205,26,Samuel Cáceres,Federico Mancuello,Independiente
+1441205,56,Fabián Vargas,Jonathan Santana,Independiente
+1441205,72,Fabián Monserrat,Hernán Fredes,Independiente
+1441205,62,Facundo Affranchino,Rodrigo Mora,River Plate
+1441205,62,David Trezeguet,Daniel Villalba,River Plate
+1441205,88,Luciano Vella,Leandro González Pirez,River Plate
+1441212,65,Pablo Magnín,Diego Jara,Unión de Santa Fe
+1441212,71,Brahian Alemán,Emanuel Moreno,Unión de Santa Fe
+1441212,73,Pablo Miguez,Matías Donnet,Unión de Santa Fe
+1441212,46,Fabián Muñoz,Pablo Pérez,Newells Old Boys
+1441212,46,Martín Tonso,Mauricio Sperdutti,Newells Old Boys
+1441212,72,Milton Casco,Cristian Díaz,Newells Old Boys
+1441207,21,Maximiliano Bustos,Juan Mattia,San Martín de San Juan
+1441207,51,Cristian Álvarez,Mauro Bogado,San Martín de San Juan
+1441207,76,Leandro Velàzquez,Jorge Luna,San Martín de San Juan
+1441207,64,Lucas Melano,César Pereyra,Belgrano de Córdoba
+1441207,70,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441207,85,César Carranza,Víctor Aquino,Belgrano de Córdoba
+1441204,46,Gustavo Oberman,Santiago Nagüel,Argentinos Juniors
+1441204,58,Marcos Figueroa,Leandro Barrera,Argentinos Juniors
+1441204,61,Alejandro Capurro,Sebastián Navarro,Argentinos Juniors
+1441204,63,Leandro Navarro,Alan Ruíz,San Lorenzo
+1441204,86,Gonzalo Verón,Denis Stracqualursi,San Lorenzo
+1441204,90,Abel Masuero,Fabian Bordagaray,San Lorenzo
+1441206,54,Diego Valeri,Mauricio Pereyra,Lanús
+1441206,87,Gonzalo Castillejos,Carlos Araujo,Lanús
+1441206,58,Guido Carrillo,Carlos Auzqui,Estudiantes
+1441206,69,Leandro Benítez,Román Martínez,Estudiantes
+1441206,80,Maximiliano Núñez,Leonardo Jara,Estudiantes
+1441208,46,Gastón Díaz,Diego Ferreira,Tigre
+1441208,69,Federico Santander,Diego Ftacla,Tigre
+1441208,57,Diego Sevillano,Jorge Córdoba,Godoy Cruz
+1441208,66,Leonel Ríos,Nicolás Olmedo,Godoy Cruz
+1441208,82,Renato Pinedo,José San Román,Godoy Cruz
+1441211,27,Santiago Montoya,Patricio Toranzo,All Boys
+1441211,65,Ángel Vildozo,Iván Borghello,All Boys
+1441211,90,Elvio Fredrich,Fernando Sánchez,All Boys
+1441211,60,Agustin Allione,Iván Bella,Vélez Sarsfield
+1441211,68,Jonathan Copete,Federico Insúa,Vélez Sarsfield
+1441211,79,Lucas Romero,Francisco Cerro,Vélez Sarsfield
+1441210,72,Cristian Chávez,Walter Erviti,Boca Juniors
+1441210,81,Leandro Somoza,Leandro Paredes,Boca Juniors
+1441210,87,Nicolás Blandi,Lautaro Acosta,Boca Juniors
+1441210,56,Mauro Camoranesi,Diego Villar,Racing Club
+1441210,56,Gabriel Hauche,Bruno Zuculini,Racing Club
+1441210,81,Martín Pérez Guedes,Luis Fariña,Racing Club
+1441209,46,German Mandarino,Sebastián Romero,Quilmes
+1441209,63,Fernando Elizari,Leandro Díaz,Quilmes
+1441209,68,Fernando Telechea,Pablo Lima,Quilmes
+1441209,46,Gustavo Canales,Pablo Lugüercio,Arsenal de Sarandí
+1441209,76,Gonzalo Espinoza,Jorge Ortiz,Arsenal de Sarandí
+1441209,90,Diego Torres,Juan Caffa,Arsenal de Sarandí
+1441213,62,Rodrigo Depetris,César Carignano,Atlético Rafaela
+1441213,77,Matías Fissore,Sébastien Grazzini,Atlético Rafaela
+1441213,78,Walter Serrano,Sebastián Carrera,Atlético Rafaela
+1441213,75,Carlos Luque,Lucas Mugni,Colón de Santa Fe
+1441213,77,Jorge Achucarro,Facundo Curuchet,Colón de Santa Fe
+1441213,83,Gabriel Graciani,Hernán Bernardello,Colón de Santa Fe
+1441217,64,Leonel Ríos,Nicolás Castro,Godoy Cruz
+1441217,73,Fernando Zuqui,Eduardo Ledesma,Godoy Cruz
+1441217,81,Rodrigo Salinas,Facundo Castillón,Godoy Cruz
+1441217,58,Fernando Telechea,Facundo Diz,Quilmes
+1441217,64,Emiliano Carrasco,Jacobo Mansilla,Quilmes
+1441217,76,Fernando Elizari,Martín Cauteruccio,Quilmes
+1441222,54,Gabriel Graciani,Iván Moreno y Fabianesi,Colón de Santa Fe
+1441222,56,Hernán Bernardello,Sebastián Prediger,Colón de Santa Fe
+1441222,71,Carlos Luque,Jorge Achucarro,Colón de Santa Fe
+1441222,61,Leonel Núñez,Leandro Barrera,Argentinos Juniors
+1441222,67,Santiago Nagüel,Gustavo Oberman,Argentinos Juniors
+1441222,75,Gabriel Peñalba,Gaspar Iñíguez,Argentinos Juniors
+1441215,79,Diego Villar,Luis Fariña,Racing Club
+1441215,86,José Sand,Luciano Vietto,Racing Club
+1441215,88,Gabriel Hauche,Mauro Camoranesi,Racing Club
+1441215,72,Santiago Montoya,Juan Careaga,All Boys
+1441215,78,Emanuel Perea,Oscar Ahumada,All Boys
+1441215,78,Iván Borghello,Ángel Vildozo,All Boys
+1441214,69,Gino Peruzzi,Iván Bella,Vélez Sarsfield
+1441214,78,Lucas Romero,Ariel Cabral,Vélez Sarsfield
+1441214,79,Jonathan Copete,Federico Insúa,Vélez Sarsfield
+1441214,62,Emanuel Moreno,Diego Barisone,Unión de Santa Fe
+1441214,73,Marcelo Sarmiento,Pablo Bruna,Unión de Santa Fe
+1441214,85,Federico Chiapello,Fausto Montero,Unión de Santa Fe
+1441218,53,César Pereyra,Víctor Aquino,Belgrano de Córdoba
+1441218,64,Fernando Márquez,César Carranza,Belgrano de Córdoba
+1441218,65,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441218,57,Javier Carrasco,Cristian Ivanobski,Tigre
+1441218,66,Lucas Janson,Matías Pérez García,Tigre
+1441218,70,Diego Ftacla,Damián Albil,Tigre
+1441220,62,Facundo Affranchino,Diego Martínez,River Plate
+1441220,90,Luciano Vella,Ariel Rojas,River Plate
+1441220,90,Matías Kranevitter,Rodrigo Mora,River Plate
+1441220,69,Óscar Benítez,Mauricio Pereyra,Lanús
+1441220,86,Gonzalo Castillejos,Carlos Araujo,Lanús
+1441221,68,Gonzalo Verón,Fabian Bordagaray,San Lorenzo
+1441221,78,Franco Jara,Alan Ruíz,San Lorenzo
+1441221,84,Santiago Gentiletti,Denis Stracqualursi,San Lorenzo
+1441221,46,Samuel Cáceres,Cristian Tula,Independiente
+1441221,60,Martín Benítez,Roberto Battión,Independiente
+1441221,78,Patricio Vidal,Hernán Fredes,Independiente
+1441216,70,Darío Benedetto,Gustavo Canales,Arsenal de Sarandí
+1441216,80,Gastón Esmerado,Jorge Ortiz,Arsenal de Sarandí
+1441216,85,Diego Torres,Juan Caffa,Arsenal de Sarandí
+1441216,65,Nicolás Colazo,Lautaro Acosta,Boca Juniors
+1441216,73,Nicolás Blandi,Franco Sosa,Boca Juniors
+1441216,85,Lucas Viatri,Leandro Paredes,Boca Juniors
+1441223,39,Diego Mateo,Raúl Villalba,Newells Old Boys
+1441223,73,Cristian Díaz,Horacio Orzán,Newells Old Boys
+1441223,81,Victor Figueroa,Martín Tonso,Newells Old Boys
+1441223,62,César Carignano,Joel Sacks,Atlético Rafaela
+1441223,71,Rodrigo Depetris,Sébastien Grazzini,Atlético Rafaela
+1441223,83,Nicolas Capellino,Raúl Ferro,Atlético Rafaela
+1441219,46,Maximiliano Núñez,Leonardo Jara,Estudiantes
+1441219,57,Carlos Auzqui,Gastón Fernández,Estudiantes
+1441219,70,Román Martínez,Leandro Benítez,Estudiantes
+1441219,63,Diego García,Gastón Caprari,San Martín de San Juan
+1441219,75,Federico Poggi,Maximiliano Oliva,San Martín de San Juan
+1441219,85,Sebastian Penco,Maximiliano Bustos,San Martín de San Juan
+1441231,67,Santiago Montoya,Emanuel Perea,All Boys
+1441231,79,Ángel Vildozo,Iván Borghello,All Boys
+1441231,62,Nicolás Aguirre,Juan Caffa,Arsenal de Sarandí
+1441231,77,Darío Benedetto,Gustavo Canales,Arsenal de Sarandí
+1441231,86,Diego Torres,Carlos Carbonero,Arsenal de Sarandí
+1441232,70,Diego Galván,Fausto Montero,Unión de Santa Fe
+1441232,87,Pablo Magnín,Diego Jara,Unión de Santa Fe
+1441232,90,Bruno Bianchi,Emanuel Moreno,Unión de Santa Fe
+1441232,58,José Sand,Luciano Vietto,Racing Club
+1441232,59,Gabriel Hauche,Mauro Camoranesi,Racing Club
+1441232,75,Martín Pérez Guedes,Luciano Aued,Racing Club
+1441224,54,Marcos Figueroa,Juan Ramírez,Argentinos Juniors
+1441224,70,Santiago Nagüel,Leandro Barrera,Argentinos Juniors
+1441224,76,Leonel Núñez,Gaspar Iñíguez,Argentinos Juniors
+1441224,66,Horacio Orzán,Martín Tonso,Newells Old Boys
+1441224,75,Juan Vieyra,Fabián Muñoz,Newells Old Boys
+1441224,84,Mauricio Sperdutti,Victor Figueroa,Newells Old Boys
+1441230,74,Leandro Somoza,Cristian Erbes,Boca Juniors
+1441230,77,Nicolás Blandi,Lautaro Acosta,Boca Juniors
+1441230,27,Armando Cooper,Nicolás Castro,Godoy Cruz
+1441230,69,Gonzalo Castellani,Eduardo Ledesma,Godoy Cruz
+1441230,81,Rodrigo Salinas,Facundo Castillón,Godoy Cruz
+1441228,61,Víctor Aquino,Martín Zapata,Belgrano de Córdoba
+1441228,69,César Mansanelli,César Carranza,Belgrano de Córdoba
+1441228,80,Fernando Márquez,Lucas Melano,Belgrano de Córdoba
+1441228,62,Guido Carrillo,Carlos Auzqui,Estudiantes
+1441228,76,Maximiliano Núñez,Duván Zapata,Estudiantes
+1441233,63,Rodrigo Depetris,César Carignano,Atlético Rafaela
+1441233,71,Pablo Pavetti,Sébastien Grazzini,Atlético Rafaela
+1441233,79,Sebastián Carrera,Joel Sacks,Atlético Rafaela
+1441233,70,Jonathan Copete,Federico Insúa,Vélez Sarsfield
+1441233,73,Lucas Romero,Francisco Cerro,Vélez Sarsfield
+1441233,83,Brian Ferreira,Agustin Allione,Vélez Sarsfield
+1441226,65,Óscar Benítez,Diego González,Lanús
+1441226,86,Gonzalo Castillejos,Silvio Romero,Lanús
+1441226,71,Franco Jara,Fabian Bordagaray,San Lorenzo
+1441226,84,Gonzalo Verón,Julio Buffarini,San Lorenzo
+1441226,90,Martín Rolle,Alan Ruíz,San Lorenzo
+1441225,46,Roberto Battión,Jonathan Santana,Independiente
+1441225,54,Lucas Villafáñez,Francisco Pizzini,Independiente
+1441225,70,Martín Benítez,Fabián Vargas,Independiente
+1441225,18,Gerardo Alcoba,Maximiliano Caire,Colón de Santa Fe
+1441225,46,Iván Moreno y Fabianesi,Hernán Bernardello,Colón de Santa Fe
+1441225,68,Marcelo Meli,Iván Moreno y Fabianesi,Colón de Santa Fe
+1441227,58,Claudio Riaño,Humberto Osorio,San Martín de San Juan
+1441227,68,Federico Poggi,Maximiliano Oliva,San Martín de San Juan
+1441227,84,Leandro Velàzquez,Jorge Luna,San Martín de San Juan
+1441227,37,Luciano Abecasis,Gabriel Mercado,River Plate
+1441227,57,Ariel Rojas,Augusto Solari,River Plate
+1441227,88,Daniel Villalba,Carlos Luna,River Plate
+1441229,61,Fernando Telechea,Cristian Menéndez,Quilmes
+1441229,75,German Mandarino,Jorge Serrano,Quilmes
+1441229,78,Adrián Toloza,Martín Cauteruccio,Quilmes
+1441229,55,Cristian Ivanobski,Agustin Torassa,Tigre
+1441229,61,Javier Carrasco,Matías Pérez García,Tigre
+1441229,74,Leandro Leguizamón,Ezequiel Maggiolo,Tigre
+1441240,40,Juan Cavallaro,Diego Jara,Unión de Santa Fe
+1441240,90,Pablo Bruna,Matías Donnet,Unión de Santa Fe
+1441240,90,Diego Barisone,Brahian Alemán,Unión de Santa Fe
+1441240,80,Julio Furch,Martín Rolle,Arsenal de Sarandí
+1441240,90,Darío Benedetto,Emilio Zelaya,Arsenal de Sarandí
+1441240,90,Eduardo Casais,Hugo Nervo,Arsenal de Sarandí
+1441238,50,Leonel Núñez,Pablo Hernández,Argentinos Juniors
+1441238,58,Sebastián Navarro,Gaspar Iñíguez,Argentinos Juniors
+1441238,73,Leandro Barrera,Juan Ramírez,Argentinos Juniors
+1441238,46,Jonathan Copete,Facundo Ferreyra,Vélez Sarsfield
+1441238,79,Agustin Allione,Iván Bella,Vélez Sarsfield
+1441238,83,Lucas Romero,Federico Freire,Vélez Sarsfield
+1441241,46,Santiago Montoya,Elvio Fredrich,All Boys
+1441241,59,Juan Careaga,Darío Stefanatto,All Boys
+1441241,84,Fernando Sánchez,Iván Borghello,All Boys
+1441241,62,Fabricio Angileri,Gonzalo Castellani,Godoy Cruz
+1441241,69,Ciro Rius,Nicolás Castro,Godoy Cruz
+1441241,77,Sergio Sánchez,Eduardo Ledesma,Godoy Cruz
+1441243,61,Guido Carrillo,Gastón Fernández,Estudiantes
+1441243,64,Joaquín Correa,Leonardo Jara,Estudiantes
+1441243,70,Leandro Benítez,Marcos Gelabert,Estudiantes
+1441243,86,Agustin Torassa,Rubén Botta,Tigre
+1441243,88,Kevin Itabel,Sebastián Rusculleda,Tigre
+1441243,90,Javier Carrasco,Javier García,Tigre
+1441244,65,Lautaro Acosta,Walter Erviti,Boca Juniors
+1441244,70,Lucas Viatri,Leandro Paredes,Boca Juniors
+1441244,78,Ribair Rodríguez,Christian Cellay,Boca Juniors
+1441244,73,Sebastián Romero,Gustavo Oberman,Quilmes
+1441244,83,Fernando Elizari,Leandro Díaz,Quilmes
+1441244,84,Fernando Telechea,Jorge Serrano,Quilmes
+1441246,67,Federico Poggi,Jorge Luna,San Martín de San Juan
+1441246,79,Claudio Riaño,Diego García,San Martín de San Juan
+1441246,85,Sebastian Penco,Humberto Osorio,San Martín de San Juan
+1441246,23,Walter Kannemann,Germán Voboril,San Lorenzo
+1441246,64,Franco Jara,Julio Buffarini,San Lorenzo
+1441246,74,Fabian Bordagaray,Ignacio Piatti,San Lorenzo
+1441239,65,Germán Rodríguez Rojas,Sébastien Grazzini,Atlético Rafaela
+1441239,75,Rodrigo Depetris,Jonathan López,Atlético Rafaela
+1441239,83,Pablo Pavetti,Federico González,Atlético Rafaela
+1441239,53,Luciano Vietto,Diego Villar,Racing Club
+1441239,53,Mario Bolatti,Agustín Pelletieri,Racing Club
+1441239,76,Rodrigo de Paul,Mauro Camoranesi,Racing Club
+1441248,44,Eduardo Tuzzio,Gonzalo Contrera,Independiente
+1441248,56,Hernán Fredes,Jonathan Santana,Independiente
+1441248,62,Juan Caicedo,Eduardo Tuzzio,Independiente
+1441248,56,Fabián Muñoz,Martín Tonso,Newells Old Boys
+1441248,69,Pablo Pérez,Victor Figueroa,Newells Old Boys
+1441248,82,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441245,60,Lucas Melano,Martín Zapata,Belgrano de Córdoba
+1441245,71,Fernando Márquez,Víctor Aquino,Belgrano de Córdoba
+1441245,71,César Mansanelli,Juan Quiroga,Belgrano de Córdoba
+1441245,54,Ariel Rojas,Manuel Lanzini,River Plate
+1441245,81,Rogelio Funes Mori,David Trezeguet,River Plate
+1441245,86,Carlos Luna,Rodrigo Mora,River Plate
+1441247,52,Carlos Izquierdoz,Carlos Araujo,Lanús
+1441247,69,Mauricio Pereyra,Ismael Blanco,Lanús
+1441247,80,Cristian Chávez,Guido Pizarro,Lanús
+1441247,46,Rubén Ramírez,Gabriel Graciani,Colón de Santa Fe
+1441247,60,Facundo Curuchet,Lucas Mugni,Colón de Santa Fe
+1441247,68,Hernán Bernardello,Sebastián Prediger,Colón de Santa Fe
+1441249,79,Rodrigo de Paul,José Sand,Racing Club
+1441249,83,Bruno Zuculini,Mauro Camoranesi,Racing Club
+1441249,86,Javier Cámpora,Luciano Vietto,Racing Club
+1441249,46,Leandro Barrera,Juan Ramírez,Argentinos Juniors
+1441249,57,Leandro Caruso,Daniel Villalba,Argentinos Juniors
+1441249,69,Santiago Nagüel,Marcos Figueroa,Argentinos Juniors
+1441253,58,Alan Ruíz,Enzo Kalinski,San Lorenzo
+1441253,58,Gonzalo Verón,Julio Buffarini,San Lorenzo
+1441253,74,Franco Jara,Ignacio Piatti,San Lorenzo
+1441253,58,Martín Zapata,César Mansanelli,Belgrano de Córdoba
+1441253,64,Víctor Aquino,César Pereyra,Belgrano de Córdoba
+1441253,86,Fernando Márquez,Jorge Velázquez,Belgrano de Córdoba
+1441257,46,José Fernandez,Eduardo Ledesma,Godoy Cruz
+1441257,63,Armando Cooper,Facundo Castillón,Godoy Cruz
+1441257,76,Rodrigo Salinas,Iván Óbolo,Godoy Cruz
+1441257,46,Fausto Montero,Matías Donnet,Unión de Santa Fe
+1441257,57,Damián Lizio,Brahian Alemán,Unión de Santa Fe
+1441257,79,Pablo Bruna,Pablo Miguez,Unión de Santa Fe
+1441252,46,Gabriel Graciani,Ronald Raldes,Colón de Santa Fe
+1441252,71,Marcelo Meli,Lucas Mugni,Colón de Santa Fe
+1441252,85,Rubén Ramírez,Adrián Bastía,Colón de Santa Fe
+1441252,66,Claudio Riaño,Humberto Osorio,San Martín de San Juan
+1441252,78,Leandro Velàzquez,Diego García,San Martín de San Juan
+1441252,82,Damian Canuto,Francisco Alarcón,San Martín de San Juan
+1441250,59,Agustin Allione,Francisco Cerro,Vélez Sarsfield
+1441250,59,Lucas Romero,Iván Bella,Vélez Sarsfield
+1441250,72,Ramiro Cáseres,Federico Insúa,Vélez Sarsfield
+1441250,24,Federico Mancuello,Leonel Miranda,Independiente
+1441250,56,Jonathan Santana,Ernesto Farías,Independiente
+1441250,76,Juan Caicedo,Daniel Montenegro,Independiente
+1441255,72,Ezequiel Maggiolo,Matías Pérez García,Tigre
+1441255,72,Lucas Janson,Leandro Leguizamón,Tigre
+1441255,90,Diego Cisterna,Gastón Díaz,Tigre
+1441255,82,Leandro Somoza,Cristian Erbes,Boca Juniors
+1441255,83,Lautaro Acosta,Juan Martínez,Boca Juniors
+1441255,90,Walter Erviti,Ribair Rodríguez,Boca Juniors
+1441256,33,Sebastián Martínez,Joel Carli,Quilmes
+1441256,67,Martín Cauteruccio,Fernando Elizari,Quilmes
+1441256,85,Pablo Mattos,Gustavo Oberman,Quilmes
+1441256,51,Brian Sarmiento,Emanuel Perea,All Boys
+1441256,60,Santiago Montoya,Darío Stefanatto,All Boys
+1441251,55,Victor Figueroa,Pablo Pérez,Newells Old Boys
+1441251,56,Fabián Muñoz,Martín Tonso,Newells Old Boys
+1441251,73,Milton Casco,Guillermo Ferracutti,Newells Old Boys
+1441251,70,Mauricio Pereyra,Ismael Blanco,Lanús
+1441251,82,Leandro Díaz,Silvio Romero,Lanús
+1441251,85,Óscar Benítez,Mario Regueiro,Lanús
+1441254,46,Leandro González Pirez,Adalberto Román,River Plate
+1441254,75,Juan Iturbe,Manuel Lanzini,River Plate
+1441254,83,Rogelio Funes Mori,David Trezeguet,River Plate
+1441254,61,Carlos Auzqui,Leonardo Jara,Estudiantes
+1441254,78,Guido Carrillo,Duván Zapata,Estudiantes
+1441254,87,Román Martínez,Gastón Fernández,Estudiantes
+1441258,63,Jorge Ortiz,Gonzalo Espinoza,Arsenal de Sarandí
+1441258,74,Darío Benedetto,Emilio Zelaya,Arsenal de Sarandí
+1441258,81,Julián Cardozo,Diego Torres,Arsenal de Sarandí
+1441258,69,Rodrigo Depetris,Federico González,Atlético Rafaela
+1441258,74,Germán Rodríguez Rojas,Sébastien Grazzini,Atlético Rafaela
+1441258,81,Ariel Ledheros,Diego Vera,Atlético Rafaela
+1441261,60,Marcos Figueroa,Juan Ramírez,Argentinos Juniors
+1441261,67,Juan Luis Anangonó,Leandro Caruso,Argentinos Juniors
+1441261,80,Leandro Barrera,Daniel Villalba,Argentinos Juniors
+1441261,3,Julio Furch,Emilio Zelaya,Arsenal de Sarandí
+1441261,56,Darío Benedetto,Pablo Lugüercio,Arsenal de Sarandí
+1441261,74,Diego Torres,Martín Rolle,Arsenal de Sarandí
+1441266,73,Leonardo Jara,Román Martínez,Estudiantes
+1441266,77,Germán Ré,Rodrigo Braña,Estudiantes
+1441266,84,Guido Carrillo,Duván Zapata,Estudiantes
+1441266,59,Franco Jara,Fabian Bordagaray,San Lorenzo
+1441266,67,Héctor Villalba,Alan Ruíz,San Lorenzo
+1441266,78,Gonzalo Verón,Gonzalo Prósperi,San Lorenzo
+1441264,46,Pablo Magnín,Pablo Miguez,Unión de Santa Fe
+1441264,46,Damián Lizio,Brahian Alemán,Unión de Santa Fe
+1441264,63,Pablo Mattos,Leandro Díaz,Quilmes
+1441264,87,Fernando Telechea,Gustavo Oberman,Quilmes
+1441264,90,Sebastián Romero,Fernando Elizari,Quilmes
+1441265,83,Emanuel Perea,Oscar Ahumada,All Boys
+1441265,83,Francisco Martínez,Santiago Montoya,All Boys
+1441265,88,Lautaro Fernandez,Iván Borghello,All Boys
+1441265,59,Nicolás Blandi,Pol Fernández,Boca Juniors
+1441265,70,Nicolás Colazo,Leandro Somoza,Boca Juniors
+1441259,46,Cristian Chávez,Óscar Benítez,Lanús
+1441259,84,Leandro Díaz,Silvio Romero,Lanús
+1441259,90,Fernando Barrientos,Ismael Blanco,Lanús
+1441259,39,Leandro Desábato,Franco Razzotti,Vélez Sarsfield
+1441259,57,Brian Ferreira,Federico Freire,Vélez Sarsfield
+1441259,62,Lautaro Gianetti,Fernando Tobio,Vélez Sarsfield
+1441260,59,Juan Caicedo,Ernesto Farías,Independiente
+1441260,66,Fernando Godoy,Leonel Miranda,Independiente
+1441260,79,Jonathan Santana,Hernán Fredes,Independiente
+1441260,54,Diego Villar,Alejandro García,Racing Club
+1441260,58,Rodrigo de Paul,Martín Pérez Guedes,Racing Club
+1441260,82,Javier Cámpora,Agustín Pelletieri,Racing Club
+1441262,58,Pablo Pavetti,Sébastien Grazzini,Atlético Rafaela
+1441262,58,Sebastián Carrera,Walter Serrano,Atlético Rafaela
+1441262,71,Rodrigo Depetris,Matías Fissore,Atlético Rafaela
+1441262,66,José Fernandez,Gonzalo Castellani,Godoy Cruz
+1441262,71,Armando Cooper,Nicolás Castro,Godoy Cruz
+1441262,74,Jorge Curbelo,José San Román,Godoy Cruz
+1441267,68,Martín Zapata,Juan Quiroga,Belgrano de Córdoba
+1441267,73,Iván Etevenaux,César Mansanelli,Belgrano de Córdoba
+1441267,74,Víctor Aquino,César Pereyra,Belgrano de Córdoba
+1441267,79,Maximiliano Caire,Gerardo Alcoba,Colón de Santa Fe
+1441267,80,Carlos Luque,Gabriel Graciani,Colón de Santa Fe
+1441267,85,Rubén Ramírez,Facundo Curuchet,Colón de Santa Fe
+1441263,57,Ariel Rojas,Cristian Ledesma,River Plate
+1441263,57,Juan Iturbe,Manuel Lanzini,River Plate
+1441263,73,Carlos Luna,David Trezeguet,River Plate
+1441263,58,Matías Pérez García,Lucas Janson,Tigre
+1441263,71,Ezequiel Maggiolo,Leandro Leguizamón,Tigre
+1441263,80,Matías Escobar,Gabriel Peñalba,Tigre
+1441268,69,Leandro Velàzquez,Jorge Luna,San Martín de San Juan
+1441268,73,Damian Canuto,Francisco Alarcón,San Martín de San Juan
+1441268,82,Sebastian Penco,Humberto Osorio,San Martín de San Juan
+1441268,68,Eugenio Isnaldo,Martín Tonso,Newells Old Boys
+1441268,68,Victor Figueroa,Fabián Muñoz,Newells Old Boys
+1441268,80,Raúl Villalba,Pablo Pérez,Newells Old Boys
+1441278,57,Fernando Telechea,Leandro Díaz,Quilmes
+1441278,66,Sebastián Romero,Gustavo Oberman,Quilmes
+1441278,68,Martín Cauteruccio,Fernando Elizari,Quilmes
+1441278,61,Joel Sacks,Walter Serrano,Atlético Rafaela
+1441278,69,Jonathan López,Federico González,Atlético Rafaela
+1441278,78,Sébastien Grazzini,Diego Vera,Atlético Rafaela
+1441273,74,Cristian Díaz,Horacio Orzán,Newells Old Boys
+1441273,85,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441273,85,Eugenio Isnaldo,Fabián Muñoz,Newells Old Boys
+1441273,70,César Carranza,Lucas Melano,Belgrano de Córdoba
+1441273,71,Iván Etevenaux,César Mansanelli,Belgrano de Córdoba
+1441273,79,Lucas Zelarayán,Jorge Velázquez,Belgrano de Córdoba
+1441274,35,Maximiliano Pellegrino,Ronald Raldes,Colón de Santa Fe
+1441274,53,Carlos Luque,Sebastián Prediger,Colón de Santa Fe
+1441274,66,Rubén Ramírez,Lucas Mugni,Colón de Santa Fe
+1441274,35,Jonathan Silva,Raúl Iberbia,Estudiantes
+1441274,70,Guido Carrillo,Duván Zapata,Estudiantes
+1441274,84,Leandro Benítez,Maximiliano Núñez,Estudiantes
+1441270,33,Martín Rolle,Nicolás Aguirre,Arsenal de Sarandí
+1441270,67,Gastón Esmerado,Jorge Ortiz,Arsenal de Sarandí
+1441270,76,Pablo Lugüercio,Darío Benedetto,Arsenal de Sarandí
+1441270,46,Luciano Leguizamón,Daniel Montenegro,Independiente
+1441270,56,Juan Caicedo,Hernán Fredes,Independiente
+1441270,63,Gonzalo Contrera,Sergio Ojeda,Independiente
+1441269,64,José Fernandez,Eduardo Ledesma,Godoy Cruz
+1441269,71,David Ramírez,Gonzalo Castellani,Godoy Cruz
+1441269,77,Armando Cooper,Facundo Castillón,Godoy Cruz
+1441269,75,Diego Placente,Leonel Núñez,Argentinos Juniors
+1441275,62,Ignacio Piatti,Franco Jara,San Lorenzo
+1441275,67,Gonzalo Verón,Alan Ruíz,San Lorenzo
+1441275,79,Rodrigo Contreras,Denis Stracqualursi,San Lorenzo
+1441275,46,Carlos Luna,David Trezeguet,River Plate
+1441275,46,Ariel Rojas,Cristian Ledesma,River Plate
+1441275,46,Juan Iturbe,Mauro Díaz,River Plate
+1441276,68,Lucas Janson,Leandro Leguizamón,Tigre
+1441276,71,Matías Escobar,Diego Cisterna,Tigre
+1441276,76,Ezequiel Maggiolo,Federico Santander,Tigre
+1441276,36,Francisco Martínez,Oscar Ahumada,All Boys
+1441276,63,Juan Careaga,Darío Stefanatto,All Boys
+1441276,77,Brian Sarmiento,Santiago Montoya,All Boys
+1441271,71,Martín Pérez Guedes,Mauro Camoranesi,Racing Club
+1441271,72,Luis Fariña,Agustín Pelletieri,Racing Club
+1441271,85,Brian Lluy,Iván Pillud,Racing Club
+1441271,89,Luciano Balbi,Oswaldo Vizcarrondo,Lanús
+1441271,90,Leandro Díaz,Ismael Blanco,Lanús
+1441277,63,Nicolás Colazo,Clemente Rodríguez,Boca Juniors
+1441277,67,Juan Martín Imbert,Pablo Ledesma,Boca Juniors
+1441277,86,Nicolás Blandi,Sebastián Palacios,Boca Juniors
+1441277,71,Pablo Miguez,Diego Galván,Unión de Santa Fe
+1441277,76,Juan Cavallaro,Pablo Magnín,Unión de Santa Fe
+1441277,90,Emanuel Moreno,Fausto Montero,Unión de Santa Fe
+1441272,20,Jonathan Copete,Lucas Pratto,Vélez Sarsfield
+1441272,67,Brian Ferreira,Federico Insúa,Vélez Sarsfield
+1441272,73,Federico Freire,Leandro Desábato,Vélez Sarsfield
+1441272,63,Luis Bolaños,Humberto Osorio,San Martín de San Juan
+1441272,73,Claudio Riaño,Diego García,San Martín de San Juan
+1441272,84,Damian Canuto,Maximiliano Bustos,San Martín de San Juan
+1441279,58,César Mansanelli,Jorge Velázquez,Belgrano de Córdoba
+1441279,62,César Carranza,Víctor Aquino,Belgrano de Córdoba
+1441279,70,Fernando Márquez,Lucas Melano,Belgrano de Córdoba
+1441279,58,Federico Vázquez,Ramiro Cáseres,Vélez Sarsfield
+1441279,65,Eduardo Pucheta,Agustin Allione,Vélez Sarsfield
+1441279,82,Diego Celis,Brian Ferreira,Vélez Sarsfield
+1441282,63,Martín Benítez,Hernán Fredes,Independiente
+1441282,71,Ernesto Farías,Osmar Ferreyra,Independiente
+1441282,75,Jonathan Santana,Leonel Miranda,Independiente
+1441282,62,José Fernandez,Nicolás Castro,Godoy Cruz
+1441282,70,David Ramírez,Eduardo Ledesma,Godoy Cruz
+1441282,82,Ciro Rius,Facundo Castillón,Godoy Cruz
+1441286,46,Diego Jara,Juan Cavallaro,Unión de Santa Fe
+1441286,69,Pablo Miguez,Diego Galván,Unión de Santa Fe
+1441286,81,Brahian Alemán,Fausto Montero,Unión de Santa Fe
+1441286,67,Facundo Quiroga,Ángel Vildozo,All Boys
+1441286,79,Juan Careaga,Santiago Montoya,All Boys
+1441286,88,Lautaro Fernandez,Iván Borghello,All Boys
+1441288,65,Gastón Fernández,Marcos Gelabert,Estudiantes
+1441288,79,Guido Carrillo,Carlos Auzqui,Estudiantes
+1441288,58,Victor Figueroa,Eugenio Isnaldo,Newells Old Boys
+1441288,65,Ignacio Scocco,Maximiliano Urruti,Newells Old Boys
+1441288,76,Raúl Villalba,Rinaldo Cruzado,Newells Old Boys
+1441280,46,Emiliano Romero,Damian Canuto,San Martín de San Juan
+1441280,70,Luis Bolaños,Jorge Luna,San Martín de San Juan
+1441280,78,Leandro Velàzquez,Diego García,San Martín de San Juan
+1441280,55,Luis Fariña,Mauro Camoranesi,Racing Club
+1441280,77,Diego Villar,Bruno Zuculini,Racing Club
+1441280,88,José Sand,Rodrigo de Paul,Racing Club
+1441283,56,Rodrigo Contreras,Fabian Bordagaray,San Lorenzo
+1441283,61,Héctor Villalba,Rodrigo Contreras,San Lorenzo
+1441283,70,Luís Aguiar,Ignacio Piatti,San Lorenzo
+1441283,54,Gastón Díaz,Sebastián Rusculleda,Tigre
+1441283,56,Federico Santander,Leandro Leguizamón,Tigre
+1441283,63,Javier Malagueño,Martín Galmarini,Tigre
+1441287,60,Ariel Rojas,Mauro Díaz,River Plate
+1441287,68,Juan Iturbe,Rodrigo Mora,River Plate
+1441287,77,Carlos Luna,David Trezeguet,River Plate
+1441287,46,Rubén Ramírez,Carlos Luque,Colón de Santa Fe
+1441287,46,Gabriel Graciani,Adrián Bastía,Colón de Santa Fe
+1441287,65,Lucas Mugni,Iván Moreno y Fabianesi,Colón de Santa Fe
+1441285,9,Joel Sacks,Óscar Carniello,Atlético Rafaela
+1441285,62,Sébastien Grazzini,Jonathan López,Atlético Rafaela
+1441285,71,Diego Vera,Federico González,Atlético Rafaela
+1441285,46,Juan Sánchez Miño,Pol Fernández,Boca Juniors
+1441285,74,Sebastián Palacios,Emiliano Albín,Boca Juniors
+1441285,77,Leandro Paredes,Pablo Ledesma,Boca Juniors
+1441281,37,Marcelo Herrera,Oswaldo Vizcarrondo,Lanús
+1441281,90,Leandro Díaz,Silvio Romero,Lanús
+1441281,90,Óscar Benítez,Cristian Chávez,Lanús
+1441281,64,Jorge Ortiz,Nicolás Aguirre,Arsenal de Sarandí
+1441281,64,Darío Benedetto,Gastón Esmerado,Arsenal de Sarandí
+1441281,75,Carlos Carbonero,Juan Ignacio González,Arsenal de Sarandí
+1441284,58,Marcos Figueroa,Pablo Hernández,Argentinos Juniors
+1441284,71,Leandro Barrera,Pablo Barzola,Argentinos Juniors
+1441284,81,Alejandro Capurro,Juan Ramírez,Argentinos Juniors
+1441284,68,Leandro Díaz,Gustavo Oberman,Quilmes
+1441284,73,Jorge Serrano,Fernando Elizari,Quilmes
+1441284,85,Fernando Telechea,Cristian Menéndez,Quilmes
+1441297,59,Leandro Leguizamón,Federico Santander,Tigre
+1441297,59,Lucas Janson,Cristian Ivanobski,Tigre
+1441297,79,Ezequiel Maggiolo,Diego Cisterna,Tigre
+1441297,69,Pablo Miguez,Fausto Montero,Unión de Santa Fe
+1441297,85,Brahian Alemán,Andrés Franzoia,Unión de Santa Fe
+1441297,90,Juan Cavallaro,Damián Lizio,Unión de Santa Fe
+1441296,20,Luis Castillo,Gerardo Alcoba,Colón de Santa Fe
+1441296,56,Lucas Mugni,Iván Moreno y Fabianesi,Colón de Santa Fe
+1441296,72,Carlos Luque,Marcelo Meli,Colón de Santa Fe
+1441296,54,Walter Kannemann,Alan Ruíz,San Lorenzo
+1441296,66,Héctor Villalba,Denis Stracqualursi,San Lorenzo
+1441296,83,Gonzalo Verón,Franco Jara,San Lorenzo
+1441290,46,Jorge Serrano,German Mandarino,Quilmes
+1441290,84,Martín Cauteruccio,Gustavo Oberman,Quilmes
+1441290,90,Fernando Telechea,Cristian Menéndez,Quilmes
+1441290,46,Víctor Zapata,Hernán Fredes,Independiente
+1441290,77,Lucas Villafáñez,Luciano Leguizamón,Independiente
+1441290,88,Fernando Godoy,Leonel Miranda,Independiente
+1441291,59,José Fernandez,Nicolás Castro,Godoy Cruz
+1441291,68,David Ramírez,Gonzalo Castellani,Godoy Cruz
+1441291,78,Rodrigo Salinas,Eduardo Ledesma,Godoy Cruz
+1441291,37,Fernando Barrientos,Cristian Chávez,Lanús
+1441291,68,Leandro Díaz,Ismael Blanco,Lanús
+1441291,89,Óscar Benítez,Silvio Romero,Lanús
+1441295,75,Fabián Muñoz,Martín Tonso,Newells Old Boys
+1441295,75,Rinaldo Cruzado,Maxi Rodriguez,Newells Old Boys
+1441295,90,Diego Mateo,Pablo Pérez,Newells Old Boys
+1441295,59,Juan Iturbe,Carlos Sánchez,River Plate
+1441295,68,Walter Acevedo,Luciano Abecasis,River Plate
+1441295,76,Rogelio Funes Mori,Rodrigo Mora,River Plate
+1441293,60,Luis Fariña,Diego Villar,Racing Club
+1441293,71,José Sand,Mauro Camoranesi,Racing Club
+1441293,63,Lucas Melano,Fernando Márquez,Belgrano de Córdoba
+1441293,72,César Mansanelli,Lucas Pittinari,Belgrano de Córdoba
+1441293,84,César Carranza,Víctor Aquino,Belgrano de Córdoba
+1441294,74,Brian Ferreira,Iván Bella,Vélez Sarsfield
+1441294,79,Franco Razzotti,Leandro Desábato,Vélez Sarsfield
+1441294,89,Ramiro Cáseres,Ezequiel Rescaldani,Vélez Sarsfield
+1441294,73,Leandro Benítez,Marcos Gelabert,Estudiantes
+1441294,77,Maximiliano Núñez,Carlos Auzqui,Estudiantes
+1441294,89,Matias Sarulyte,Germán Ré,Estudiantes
+1441289,54,Sebastián Palacios,Nicolás Colazo,Boca Juniors
+1441289,68,Juan Sánchez Miño,Walter Erviti,Boca Juniors
+1441289,81,Nicolás Blandi,Juan Martínez,Boca Juniors
+1441289,61,Leandro Barrera,Leandro Caruso,Argentinos Juniors
+1441289,69,Alejandro Capurro,Santiago Nagüel,Argentinos Juniors
+1441289,80,Marcos Figueroa,Pablo Hernández,Argentinos Juniors
+1441292,63,Carlos Carbonero,Diego Torres,Arsenal de Sarandí
+1441292,68,Martín Rolle,Juan Ignacio González,Arsenal de Sarandí
+1441292,76,Darío Benedetto,Milton Céliz,Arsenal de Sarandí
+1441292,49,Jorge Luna,Leandro Velàzquez,San Martín de San Juan
+1441292,78,Diego García,Humberto Osorio,San Martín de San Juan
+1441292,86,Gastón Caprari,Facundo Affranchino,San Martín de San Juan
+1441298,71,Juan Careaga,Santiago Montoya,All Boys
+1441298,85,Francisco Martínez,Ángel Vildozo,All Boys
+1441298,46,Rodrigo Depetris,Germán Rodríguez Rojas,Atlético Rafaela
+1441298,47,Diego Vera,Federico González,Atlético Rafaela
+1441298,65,Iván Juárez,Raúl Ferro,Atlético Rafaela
+1441303,46,Gabriel Graciani,Lucas Mugni,Colón de Santa Fe
+1441303,46,Andrés Bailó,Diego Pozo,Colón de Santa Fe
+1441303,67,Adrián Bastía,Facundo Curuchet,Colón de Santa Fe
+1441303,68,Federico Santander,Matías Pérez García,Tigre
+1441303,76,Leandro Leguizamón,Ezequiel Maggiolo,Tigre
+1441303,88,Diego Cisterna,Sebastián Rusculleda,Tigre
+1441301,62,César Carranza,Víctor Aquino,Belgrano de Córdoba
+1441301,68,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441301,87,Juan Martín,Fernando Márquez,Belgrano de Córdoba
+1441301,46,Jorge Ortiz,Pablo Lugüercio,Arsenal de Sarandí
+1441301,46,Carlos Carbonero,Gonzalo Espinoza,Arsenal de Sarandí
+1441301,61,Julio Furch,Juan Ignacio González,Arsenal de Sarandí
+1441306,66,Fabio Vázquez,Leandro Barrera,Argentinos Juniors
+1441306,75,Santiago Nagüel,Alejandro Capurro,Argentinos Juniors
+1441306,86,Leonel Núñez,Juan Luis Anangonó,Argentinos Juniors
+1441306,66,Brian Sarmiento,Elvio Fredrich,All Boys
+1441306,80,Juan Careaga,Darío Stefanatto,All Boys
+1441306,86,Lautaro Fernandez,Hernán Grana,All Boys
+1441299,46,Luciano Abecasis,Gabriel Mercado,River Plate
+1441299,71,Carlos Luna,Rodrigo Mora,River Plate
+1441299,71,Juan Iturbe,David Trezeguet,River Plate
+1441299,63,Brian Ferreira,Lucas Pratto,Vélez Sarsfield
+1441299,68,Franco Razzotti,Francisco Cerro,Vélez Sarsfield
+1441299,80,Federico Freire,Iván Bella,Vélez Sarsfield
+1441300,69,Gastón Fernández,Marcos Gelabert,Estudiantes
+1441300,79,Maximiliano Núñez,Carlos Auzqui,Estudiantes
+1441300,81,Matias Sarulyte,Germán Ré,Estudiantes
+1441300,72,Javier Cámpora,Mauro Camoranesi,Racing Club
+1441300,79,Diego Villar,Luis Fariña,Racing Club
+1441300,90,Claudio Corvalán,Rodrigo de Paul,Racing Club
+1441305,46,Lucas Villafáñez,Hernán Fredes,Independiente
+1441305,59,Ernesto Farías,Leonel Miranda,Independiente
+1441305,73,Martín Benítez,Luciano Leguizamón,Independiente
+1441305,54,Clemente Rodríguez,Pol Fernández,Boca Juniors
+1441305,57,Leandro Somoza,Juan Martínez,Boca Juniors
+1441305,77,Nicolás Colazo,Juan Sánchez Miño,Boca Juniors
+1441302,66,Diego García,Luis Bolaños,San Martín de San Juan
+1441302,71,Claudio Riaño,Sebastian Penco,San Martín de San Juan
+1441302,76,Federico Poggi,Jorge Luna,San Martín de San Juan
+1441302,62,David Ramírez,Nicolás Castro,Godoy Cruz
+1441302,69,José Fernandez,Eduardo Ledesma,Godoy Cruz
+1441302,78,Ciro Rius,Facundo Castillón,Godoy Cruz
+1441307,69,Iván Juárez,Jonathan López,Atlético Rafaela
+1441307,78,Cristian Vella,Joel Sacks,Atlético Rafaela
+1441307,82,Pablo Pavetti,Sébastien Grazzini,Atlético Rafaela
+1441307,66,Brahian Alemán,Fausto Montero,Unión de Santa Fe
+1441307,70,Emanuel Moreno,Guillermo Cosaro,Unión de Santa Fe
+1441307,78,Federico Chiapello,Diego Galván,Unión de Santa Fe
+1441308,54,Ignacio Piatti,Alan Ruíz,San Lorenzo
+1441308,67,Ángel Correa,Enzo Kalinski,San Lorenzo
+1441308,84,Fabian Bordagaray,Walter Kannemann,San Lorenzo
+1441308,63,Lucas Bernardi,Rinaldo Cruzado,Newells Old Boys
+1441308,74,Martín Tonso,Victor Figueroa,Newells Old Boys
+1441308,85,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441304,64,Leandro Díaz,Ismael Blanco,Lanús
+1441304,16,Facundo Diz,Fernando Telechea,Quilmes
+1441304,67,Leandro Díaz,Gustavo Oberman,Quilmes
+1441304,72,Martín Cauteruccio,Fernando Elizari,Quilmes
+1441310,71,Francisco Martínez,Brian Sarmiento,All Boys
+1441310,72,Juan Careaga,Emanuel Perea,All Boys
+1441310,84,Elvio Fredrich,Iván Borghello,All Boys
+1441310,15,Jonathan Santana,Fabián Vargas,Independiente
+1441310,46,Ernesto Farías,Juan Caicedo,Independiente
+1441310,66,Adrián Fernández,Osmar Ferreyra,Independiente
+1441318,67,Leandro Leguizamón,Ezequiel Maggiolo,Tigre
+1441318,42,Raúl Ferro,Sebastián Carrera,Atlético Rafaela
+1441318,69,Jonathan López,Walter Serrano,Atlético Rafaela
+1441318,80,Cristian Vella,Eduardo Domínguez,Atlético Rafaela
+1441316,72,Federico Insúa,Ezequiel Rescaldani,Vélez Sarsfield
+1441316,78,Leandro Desábato,Francisco Cerro,Vélez Sarsfield
+1441316,80,Juan Sabiá,Iván Bella,Vélez Sarsfield
+1441316,67,Héctor Villalba,Santiago Gentiletti,San Lorenzo
+1441316,71,Ángel Correa,Enzo Kalinski,San Lorenzo
+1441316,76,Leandro Navarro,Denis Stracqualursi,San Lorenzo
+1441309,65,Juan Cavallaro,Fausto Montero,Unión de Santa Fe
+1441309,71,Emanuel Moreno,Diego Galván,Unión de Santa Fe
+1441309,78,Federico Chiapello,Guillermo Cosaro,Unión de Santa Fe
+1441309,53,Daniel Villalba,Sebastián Navarro,Argentinos Juniors
+1441309,76,Fabio Vázquez,Leandro Caruso,Argentinos Juniors
+1441309,82,Pablo Hernández,Alejandro Capurro,Argentinos Juniors
+1441313,68,Gonzalo Castellani,Nicolás Castro,Godoy Cruz
+1441313,69,Ciro Rius,Facundo Castillón,Godoy Cruz
+1441313,82,Eduardo Ledesma,Gonzalo Castellani,Godoy Cruz
+1441313,67,Lucas Pittinari,Jorge Velázquez,Belgrano de Córdoba
+1441313,81,Juan Martín,Lucas Melano,Belgrano de Córdoba
+1441313,85,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441312,57,Miguel Caneo,Gustavo Oberman,Quilmes
+1441312,58,Pablo Lima,Wilfredo Olivera,Quilmes
+1441312,79,Facundo Diz,Leandro Díaz,Quilmes
+1441312,59,Diego García,Humberto Osorio,San Martín de San Juan
+1441312,79,Facundo Affranchino,Luis Bolaños,San Martín de San Juan
+1441312,84,Federico Poggi,Jorge Luna,San Martín de San Juan
+1441315,63,Diego Villar,Iván Pillud,Racing Club
+1441315,77,Javier Cámpora,Mario Bolatti,Racing Club
+1441315,45,Luciano Abecasis,Leandro González Pirez,River Plate
+1441315,69,Rodrigo Mora,Carlos Luna,River Plate
+1441315,73,Diego Martínez,Leonel Vangioni,River Plate
+1441317,57,Ignacio Scocco,Maximiliano Urruti,Newells Old Boys
+1441317,63,Gabriel Hachen,Fabián Muñoz,Newells Old Boys
+1441317,63,Victor Figueroa,Diego Mateo,Newells Old Boys
+1441317,55,Iván Moreno y Fabianesi,Facundo Curuchet,Colón de Santa Fe
+1441317,70,Maximiliano Caire,Carlos Luque,Colón de Santa Fe
+1441317,81,Adrián Bastía,Sebastián Prediger,Colón de Santa Fe
+1441311,64,Juan Sánchez Miño,Walter Erviti,Boca Juniors
+1441311,74,Juan Martínez,Sebastián Palacios,Boca Juniors
+1441311,70,Cristian Chávez,Ismael Blanco,Lanús
+1441311,89,Leandro Díaz,Silvio Romero,Lanús
+1441314,60,Darío Benedetto,Nicolás Aguirre,Arsenal de Sarandí
+1441314,70,Martín Rolle,Juan Ignacio González,Arsenal de Sarandí
+1441314,80,Danilo Gerlo,Hugo Nervo,Arsenal de Sarandí
+1441314,66,Matias Sarulyte,Leandro Desábato,Estudiantes
+1441314,69,Marcos Gelabert,Rodrigo Braña,Estudiantes
+1441314,78,Javier Sequeira,Gastón Fernández,Estudiantes
+1441327,56,Fernando Godoy,Leonel Miranda,Independiente
+1441327,59,Víctor Zapata,Fabián Vargas,Independiente
+1441327,69,Julián Velázquez,Federico Mancuello,Independiente
+1441327,46,Marcelo Sarmiento,Pablo Bruna,Unión de Santa Fe
+1441327,68,Lionel Altamirano,Pablo Magnín,Unión de Santa Fe
+1441327,75,Brahian Alemán,Fausto Montero,Unión de Santa Fe
+1441328,52,Daniel Villalba,Leandro Barrera,Argentinos Juniors
+1441328,72,Marcos Figueroa,Leandro Caruso,Argentinos Juniors
+1441328,85,Pablo Barzola,Alejandro Capurro,Argentinos Juniors
+1441328,60,Jonathan López,Sébastien Grazzini,Atlético Rafaela
+1441328,70,Pablo Pavetti,Rodrigo Depetris,Atlético Rafaela
+1441328,87,Lucas Albertengo,Diego Vera,Atlético Rafaela
+1441325,59,Facundo Affranchino,Luis Bolaños,San Martín de San Juan
+1441325,63,Diego García,Humberto Osorio,San Martín de San Juan
+1441325,78,Gastón Caprari,Sebastian Penco,San Martín de San Juan
+1441325,46,Lisandro Magallán,Matías Caruzzo,Boca Juniors
+1441325,46,Gonzalo Escalante,Clemente Rodríguez,Boca Juniors
+1441325,57,Sebastián Palacios,Juan Martínez,Boca Juniors
+1441320,56,Ángel Correa,Julio Buffarini,San Lorenzo
+1441320,74,Leandro Romagnoli,Gonzalo Prósperi,San Lorenzo
+1441320,73,Agustín Pelletieri,Mauro Camoranesi,Racing Club
+1441320,78,Luis Fariña,Diego Villar,Racing Club
+1441320,86,Javier Cámpora,Rodrigo de Paul,Racing Club
+1441326,69,Leandro Díaz,Ismael Blanco,Lanús
+1441326,70,Cristian Chávez,Diego González,Lanús
+1441326,86,Jorge Pereyra Díaz,Mario Regueiro,Lanús
+1441326,6,Santiago Montoya,Emanuel Perea,All Boys
+1441326,82,Elvio Fredrich,Iván Borghello,All Boys
+1441322,46,Maximiliano Núñez,Germán Ré,Estudiantes
+1441322,57,Carlos Auzqui,Gastón Fernández,Estudiantes
+1441322,74,Joaquín Correa,Javier Sequeira,Estudiantes
+1441322,61,Eduardo Ledesma,Nicolás Castro,Godoy Cruz
+1441322,65,Gonzalo Castellani,David Ramírez,Godoy Cruz
+1441322,78,Rodrigo Salinas,Iván Óbolo,Godoy Cruz
+1441319,57,Lucas Mugni,Carlos Luque,Colón de Santa Fe
+1441319,72,Marcelo Meli,Sebastián Prediger,Colón de Santa Fe
+1441319,81,Jorge Achucarro,Gabriel Graciani,Colón de Santa Fe
+1441319,75,Eros Medaglia,Federico Freire,Vélez Sarsfield
+1441319,75,Yamil Asad,Brian Ferreira,Vélez Sarsfield
+1441319,84,Leandro Desábato,Francisco Cerro,Vélez Sarsfield
+1441323,54,Juan Vieyra,Martín Tonso,Newells Old Boys
+1441323,59,Guillermo Ortíz,Victor Figueroa,Newells Old Boys
+1441323,85,Horacio Orzán,Pablo Pérez,Newells Old Boys
+1441323,16,Nicolás Martínez,Lucas Orbán,Tigre
+1441323,46,Lucas Janson,Diego Ferreira,Tigre
+1441323,82,Ezequiel Maggiolo,Rubén Botta,Tigre
+1441321,38,Carlos Sánchez,Leonardo Ponzio,River Plate
+1441321,62,Juan Iturbe,Manuel Lanzini,River Plate
+1441321,62,Rodrigo Mora,Carlos Luna,River Plate
+1441321,63,Julio Furch,Juan Ignacio González,Arsenal de Sarandí
+1441321,63,Martín Rolle,Eduardo Casais,Arsenal de Sarandí
+1441321,70,Jorge Ortiz,Gonzalo Espinoza,Arsenal de Sarandí
+1441324,51,Sergio Rodríguez,Luciano Lollo,Belgrano de Córdoba
+1441324,68,Lucas Zelarayán,Jorge Velázquez,Belgrano de Córdoba
+1441324,74,César Carranza,Fernando Márquez,Belgrano de Córdoba
+1441324,66,Martín Cauteruccio,Gustavo Oberman,Quilmes
+1441338,46,Brian Ferreira,Leandro Desábato,Vélez Sarsfield
+1441338,68,Iván Bella,Federico Freire,Vélez Sarsfield
+1441338,74,Ramiro Cáseres,Mariano Bíttolo,Vélez Sarsfield
+1441338,60,Victor Figueroa,Maxi Rodriguez,Newells Old Boys
+1441338,83,Diego Mateo,Raúl Villalba,Newells Old Boys
+1441338,86,Pablo Pérez,Martín Tonso,Newells Old Boys
+1441337,61,Luis Fariña,Diego Villar,Racing Club
+1441337,74,Agustín Pelletieri,Mauro Camoranesi,Racing Club
+1441337,86,Martín Pérez Guedes,Bruno Zuculini,Racing Club
+1441337,68,Adrián Bastía,Sebastián Prediger,Colón de Santa Fe
+1441337,69,Iván Moreno y Fabianesi,Carlos Luque,Colón de Santa Fe
+1441337,83,Jorge Achucarro,Gabriel Graciani,Colón de Santa Fe
+1441332,68,Juan Careaga,Damián Morales,All Boys
+1441332,82,Francisco Martínez,Iván Borghello,All Boys
+1441332,90,Lautaro Fernandez,Santiago Montoya,All Boys
+1441332,18,Diego García,Humberto Osorio,San Martín de San Juan
+1441332,62,Federico Poggi,Luis Bolaños,San Martín de San Juan
+1441332,86,Facundo Affranchino,Jorge Luna,San Martín de San Juan
+1441334,71,Adrián Toloza,Gustavo Oberman,Quilmes
+1441334,88,Pablo Garnier,Fernando Elizari,Quilmes
+1441334,90,Leandro Díaz,Sebastián Romero,Quilmes
+1441334,68,Jonathan Schunke,Germán Ré,Estudiantes
+1441334,71,Carlos Auzqui,Gastón Fernández,Estudiantes
+1441334,88,Guido Carrillo,Gastón Gil Romero,Estudiantes
+1441330,14,Rodrigo Depetris,Juan Eluchans,Atlético Rafaela
+1441330,61,Raúl Ferro,Sebastián Carrera,Atlético Rafaela
+1441330,70,Jonathan López,Federico González,Atlético Rafaela
+1441330,46,Hernán Fredes,Jonathan Santana,Independiente
+1441330,46,Leonel Galeano,Cristian Tula,Independiente
+1441330,67,Adrián Fernández,Roberto Battión,Independiente
+1441333,29,Juan Sánchez Miño,Román Riquelme,Boca Juniors
+1441333,49,Lisandro Magallán,Matías Caruzzo,Boca Juniors
+1441333,73,Gonzalo Escalante,Walter Erviti,Boca Juniors
+1441333,65,César Carranza,Lucas Melano,Belgrano de Córdoba
+1441333,68,Lucas Pittinari,Martín Zapata,Belgrano de Córdoba
+1441333,75,Víctor Aquino,Fernando Márquez,Belgrano de Córdoba
+1441336,57,Darío Benedetto,Damián Pérez,Arsenal de Sarandí
+1441336,69,Martín Rolle,Juan Ignacio González,Arsenal de Sarandí
+1441336,85,Pablo Lugüercio,Hugo Nervo,Arsenal de Sarandí
+1441336,63,Julio Buffarini,Leandro Navarro,San Lorenzo
+1441336,70,Rodrigo Contreras,Héctor Villalba,San Lorenzo
+1441336,74,Ángel Correa,Denis Stracqualursi,San Lorenzo
+1441335,70,Eduardo Ledesma,Gonzalo Castellani,Godoy Cruz
+1441335,84,Rodrigo Salinas,Iván Óbolo,Godoy Cruz
+1441335,84,Ciro Rius,José Fernandez,Godoy Cruz
+1441335,70,Jonathan Bottinelli,Diego Martínez,River Plate
+1441335,71,Rodrigo Mora,Juan Iturbe,River Plate
+1441335,85,Ezequiel Cirigliano,Manuel Lanzini,River Plate
+1441331,64,Lionel Altamirano,Pablo Magnín,Unión de Santa Fe
+1441331,66,Brahian Alemán,Fausto Montero,Unión de Santa Fe
+1441331,88,Juan Cavallaro,Andrés Franzoia,Unión de Santa Fe
+1441331,55,Jorge Pereyra Díaz,Ismael Blanco,Lanús
+1441331,87,Cristian Chávez,Mario Regueiro,Lanús
+1441329,46,Diego Cisterna,Nicolás Martínez,Tigre
+1441329,57,Leandro Leguizamón,Rubén Botta,Tigre
+1441329,65,Matías Escobar,Gastón Díaz,Tigre
+1441329,67,Pablo Barzola,Santiago Nagüel,Argentinos Juniors
+1441329,67,Leandro Barrera,Daniel Villalba,Argentinos Juniors
+1441329,85,Leandro Caruso,Alejandro Capurro,Argentinos Juniors
+1441342,46,Julio Buffarini,Fernando Meza,San Lorenzo
+1441342,63,Ángel Correa,Enzo Kalinski,San Lorenzo
+1441342,74,Franco Jara,Leandro Navarro,San Lorenzo
+1441342,63,Nicolás Castro,Gonzalo Castellani,Godoy Cruz
+1441345,45,Román Martínez,Gastón Gil Romero,Estudiantes
+1441345,65,Pablo Ledesma,Cristian Erbes,Boca Juniors
+1441345,65,Federico Bravo,Gonzalo Escalante,Boca Juniors
+1441345,65,Leandro Paredes,Leandro Somoza,Boca Juniors
+1441341,63,Facundo Callejo,Facundo Curuchet,Colón de Santa Fe
+1441341,69,Adrián Bastía,Sebastián Prediger,Colón de Santa Fe
+1441341,82,Lucas Mugni,Gabriel Graciani,Colón de Santa Fe
+1441341,58,Juan Ignacio González,Nicolás Aguirre,Arsenal de Sarandí
+1441341,59,Milton Céliz,Darío Benedetto,Arsenal de Sarandí
+1441341,76,Martín Rolle,Julio Furch,Arsenal de Sarandí
+1441347,55,Gastón Caprari,Diego García,San Martín de San Juan
+1441347,68,Federico Poggi,Luis Bolaños,San Martín de San Juan
+1441347,73,Claudio Riaño,Sebastian Penco,San Martín de San Juan
+1441347,56,Diego Galván,Marcelo Sarmiento,Unión de Santa Fe
+1441347,69,Fausto Montero,Brahian Alemán,Unión de Santa Fe
+1441347,87,Lionel Altamirano,Pablo Bruna,Unión de Santa Fe
+1441339,45,Juan Caicedo,Ernesto Farías,Independiente
+1441339,70,Hernán Fredes,Leonel Miranda,Independiente
+1441339,74,Osmar Ferreyra,Cristian Tula,Independiente
+1441339,58,Reinaldo Lenis,Daniel Villalba,Argentinos Juniors
+1441339,58,Leandro Barrera,Santiago Nagüel,Argentinos Juniors
+1441339,66,Fabio Vázquez,Leandro Caruso,Argentinos Juniors
+1441340,54,Cristian Díaz,Rinaldo Cruzado,Newells Old Boys
+1441340,64,Horacio Orzán,Pablo Pérez,Newells Old Boys
+1441340,42,Agustín Pelletieri,Mauro Camoranesi,Racing Club
+1441340,54,Javier Cámpora,Iván Pillud,Racing Club
+1441344,80,Ezequiel Cirigliano,Manuel Lanzini,River Plate
+1441344,57,Fernando Telechea,Gustavo Oberman,Quilmes
+1441344,61,Emiliano Carrasco,Jacobo Mansilla,Quilmes
+1441344,77,Sergio Hipperdinger,Sebastián Romero,Quilmes
+1441346,48,Sergio Rodríguez,Luciano Lollo,Belgrano de Córdoba
+1441346,63,César Carranza,Jorge Velázquez,Belgrano de Córdoba
+1441346,69,César Mansanelli,Gastón Turus,Belgrano de Córdoba
+1441346,71,Elvio Fredrich,Iván Borghello,All Boys
+1441346,85,Damián Morales,Santiago Montoya,All Boys
+1441346,89,Matías Lequi,Francisco Martínez,All Boys
+1441348,60,Jorge Pereyra Díaz,Leandro Díaz,Lanús
+1441348,61,Cristian Chávez,Diego González,Lanús
+1441348,77,Cristian Vella,Pablo Pavetti,Atlético Rafaela
+1441348,83,Lucas Albertengo,Jonathan López,Atlético Rafaela
+1441348,87,Cristian Machin,Federico González,Atlético Rafaela
+1441343,59,Facundo Ferreyra,Agustin Allione,Vélez Sarsfield
+1441343,74,Lucas Romero,Francisco Cerro,Vélez Sarsfield
+1441343,73,Ramiro Leone,Kevin Itabel,Tigre
+1441343,75,Diego Ftacla,Federico Santander,Tigre
+1441343,81,Diego Castaño,Sebastián Rusculleda,Tigre
+1441357,66,Nicolás Castro,Fabricio Angileri,Godoy Cruz
+1441357,80,Fernando Zuqui,Gonzalo Castellani,Godoy Cruz
+1441357,83,Armando Cooper,David Ramírez,Godoy Cruz
+1441357,55,Rubén Ramírez,Facundo Curuchet,Colón de Santa Fe
+1441357,71,Ricardo Gómez,Sebastián Prediger,Colón de Santa Fe
+1441357,79,Lucas Mugni,Bruno Urribarri,Colón de Santa Fe
+1441356,58,Cristian Menéndez,Gustavo Oberman,Quilmes
+1441356,67,Emiliano Carrasco,Sebastián Romero,Quilmes
+1441356,77,Fernando Telechea,Ismael Quílez,Quilmes
+1441356,62,Leandro Romagnoli,Ángel Correa,San Lorenzo
+1441356,67,Enzo Kalinski,Leandro Navarro,San Lorenzo
+1441353,46,Federico Chiapello,Brahian Alemán,Unión de Santa Fe
+1441353,61,Diego Gálligo,Fausto Montero,Unión de Santa Fe
+1441353,75,Pablo Miguez,Diego Galván,Unión de Santa Fe
+1441353,56,Víctor Aquino,Fernando Márquez,Belgrano de Córdoba
+1441353,71,César Carranza,Lucas Melano,Belgrano de Córdoba
+1441353,75,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441351,62,Reinaldo Lenis,Santiago Nagüel,Argentinos Juniors
+1441351,62,Juan Luis Anangonó,Marcos Figueroa,Argentinos Juniors
+1441351,66,Cristian Chávez,Leandro Díaz,Lanús
+1441351,89,Ismael Blanco,Silvio Romero,Lanús
+1441349,73,Ricardo Centurión,Mario Bolatti,Racing Club
+1441349,83,Javier Cámpora,Luis Fariña,Racing Club
+1441349,86,Leonardo Rolheiser,Bruno Zuculini,Racing Club
+1441349,60,Ezequiel Rescaldani,Jonathan Copete,Vélez Sarsfield
+1441349,70,Leandro Desábato,Francisco Cerro,Vélez Sarsfield
+1441349,72,Juan Sills,Agustin Allione,Vélez Sarsfield
+1441350,46,Diego Cisterna,Alejandro Donatti,Tigre
+1441350,59,Agustin Torassa,Leandro Leguizamón,Tigre
+1441350,71,Lucas Janson,Gabriel Peñalba,Tigre
+1441350,63,Osmar Ferreyra,Federico Mancuello,Independiente
+1441350,72,Hernán Fredes,Juan Caicedo,Independiente
+1441350,75,Jonathan Santana,Fabián Vargas,Independiente
+1441355,64,Pol Fernández,Walter Erviti,Boca Juniors
+1441355,65,Leandro Paredes,Lautaro Acosta,Boca Juniors
+1441355,69,Gonzalo Escalante,Pablo Ledesma,Boca Juniors
+1441355,57,Ezequiel Cirigliano,Leonardo Ponzio,River Plate
+1441355,58,Rodrigo Mora,Juan Iturbe,River Plate
+1441355,86,Carlos Luna,Rogelio Funes Mori,River Plate
+1441352,24,Cristian Vella,Joel Sacks,Atlético Rafaela
+1441352,81,Lucas Albertengo,Pablo Pavetti,Atlético Rafaela
+1441352,90,Raúl Ferro,Jonathan López,Atlético Rafaela
+1441352,65,Facundo Affranchino,Maximiliano Bustos,San Martín de San Juan
+1441352,71,Claudio Riaño,Humberto Osorio,San Martín de San Juan
+1441352,80,Federico Poggi,Luis Bolaños,San Martín de San Juan
+1441354,74,José Manuel Caspary,Elvio Fredrich,All Boys
+1441354,87,Martín Morel,Santiago Montoya,All Boys
+1441354,66,Leandro Benítez,Rodrigo Braña,Estudiantes
+1441354,73,Leonardo Jara,Maximiliano Núñez,Estudiantes
+1441354,87,Guido Carrillo,Carlos Auzqui,Estudiantes
+1441358,66,Pablo Lugüercio,Juan Ignacio González,Arsenal de Sarandí
+1441358,86,Milton Céliz,Nicolás Aguirre,Arsenal de Sarandí
+1441358,90,Julio Furch,Darío Benedetto,Arsenal de Sarandí
+1441358,64,Pablo Pérez,Diego Mateo,Newells Old Boys
+1441358,74,Maximiliano Urruti,Victor Figueroa,Newells Old Boys
+1441358,84,Fabián Muñoz,Martín Tonso,Newells Old Boys
+1441368,56,César Pereyra,Lucas Melano,Belgrano de Córdoba
+1441368,64,Lucas Zelarayán,Juan Quiroga,Belgrano de Córdoba
+1441368,75,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441368,73,Lucas Albertengo,Pablo Pavetti,Atlético Rafaela
+1441368,82,Ariel Ledheros,Jonathan López,Atlético Rafaela
+1441368,87,Alexis Niz,Cristian Vella,Atlético Rafaela
+1441365,58,Leandro Romagnoli,Leandro Navarro,San Lorenzo
+1441365,72,Alan Ruíz,Ángel Correa,San Lorenzo
+1441365,79,Denis Stracqualursi,Gonzalo Verón,San Lorenzo
+1441365,46,Sebastián Palacios,Nicolás Colazo,Boca Juniors
+1441365,61,Lucas Viatri,Leandro Paredes,Boca Juniors
+1441365,82,Lautaro Acosta,Gonzalo Escalante,Boca Juniors
+1441362,71,Diego Mateo,Pablo Pérez,Newells Old Boys
+1441362,79,Victor Figueroa,Martín Tonso,Newells Old Boys
+1441362,86,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441362,64,Fernando Zuqui,Gonzalo Castellani,Godoy Cruz
+1441362,79,Armando Cooper,Nicolás Castro,Godoy Cruz
+1441362,86,Rodrigo Salinas,José San Román,Godoy Cruz
+1441361,76,Federico Marcucci,Lucas Romero,Vélez Sarsfield
+1441361,82,Leonardo Villalba,Eduardo Pucheta,Vélez Sarsfield
+1441361,89,Ramiro Cáseres,Iván Bella,Vélez Sarsfield
+1441361,62,Martín Rolle,Juan Ignacio González,Arsenal de Sarandí
+1441361,71,Milton Céliz,Julio Furch,Arsenal de Sarandí
+1441361,72,Eduardo Casais,Danilo Gerlo,Arsenal de Sarandí
+1441363,61,Javier Cámpora,Luciano Vietto,Racing Club
+1441363,77,Ricardo Centurión,Rodrigo de Paul,Racing Club
+1441363,90,Matías Martínez,Luis Fariña,Racing Club
+1441363,46,Matías Escobar,Diego Castaño,Tigre
+1441363,62,Leandro Leguizamón,Sebastián Rusculleda,Tigre
+1441363,81,Gabriel Peñalba,Kevin Itabel,Tigre
+1441360,46,Cristian Chávez,Ismael Blanco,Lanús
+1441360,88,Jorge Pereyra Díaz,Silvio Romero,Lanús
+1441360,59,Leonel Miranda,Federico Mancuello,Independiente
+1441360,66,Osmar Ferreyra,Hernán Fredes,Independiente
+1441359,26,Diego García,Luis Bolaños,San Martín de San Juan
+1441359,63,Nicolás Pelaitay,Gastón Caprari,San Martín de San Juan
+1441359,74,Claudio Riaño,Humberto Osorio,San Martín de San Juan
+1441359,46,Fabio Vázquez,Rodrigo Gómez,Argentinos Juniors
+1441359,53,Reinaldo Lenis,Santiago Nagüel,Argentinos Juniors
+1441359,73,Daniel Villalba,Nicolás Freire,Argentinos Juniors
+1441364,56,Rubén Ramírez,Iván Moreno y Fabianesi,Colón de Santa Fe
+1441364,65,Ricardo Gómez,Sebastián Prediger,Colón de Santa Fe
+1441364,46,Pablo Lima,Sebastián Martínez,Quilmes
+1441364,57,German Mandarino,Ismael Quílez,Quilmes
+1441364,71,Gustavo Oberman,Miguel Caneo,Quilmes
+1441366,46,Carlos Luna,Ariel Rojas,River Plate
+1441366,55,Jonathan Bottinelli,Éder Balanta,River Plate
+1441366,77,Rodrigo Mora,Juan Iturbe,River Plate
+1441366,34,Emanuel Perea,Santiago Montoya,All Boys
+1441366,68,Martín Morel,Brian Sarmiento,All Boys
+1441366,75,José Manuel Caspary,Iván Borghello,All Boys
+1441367,65,Joaquín Correa,Leonardo Jara,Estudiantes
+1441367,79,Leandro Benítez,Maximiliano Núñez,Estudiantes
+1441367,84,Jonathan Schunke,Germán Ré,Estudiantes
+1441367,75,Lionel Altamirano,Guillermo Cosaro,Unión de Santa Fe
+1441367,80,Pablo Miguez,Bruno Bianchi,Unión de Santa Fe
+1441367,82,Diego Gálligo,Brahian Alemán,Unión de Santa Fe
+1441370,68,Pablo Lugüercio,Juan Ignacio González,Arsenal de Sarandí
+1441370,85,Julio Furch,Darío Benedetto,Arsenal de Sarandí
+1441370,88,Martín Rolle,Nicolás Aguirre,Arsenal de Sarandí
+1441370,48,Ricardo Centurión,Mario Bolatti,Racing Club
+1441370,74,Matías Martínez,Luis Fariña,Racing Club
+1441370,80,Ignacio Colombini,Claudio Corvalán,Racing Club
+1441369,57,Ezequiel Rescaldani,Lucas Pratto,Vélez Sarsfield
+1441369,57,Jonathan Copete,Agustin Allione,Vélez Sarsfield
+1441374,63,Pablo Pavetti,Sebastián Carrera,Atlético Rafaela
+1441374,70,Lucas Albertengo,Jonathan López,Atlético Rafaela
+1441374,73,Guido Carrillo,Duván Zapata,Estudiantes
+1441378,61,Jacobo Mansilla,Pablo Lima,Quilmes
+1441378,66,Diego Diellos,Sebastián Romero,Quilmes
+1441378,78,Gustavo Oberman,Ismael Quílez,Quilmes
+1441378,63,Diego Mateo,Rinaldo Cruzado,Newells Old Boys
+1441378,80,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441378,81,Victor Figueroa,Maxi Rodriguez,Newells Old Boys
+1441377,76,Clemente Rodríguez,Nahuel Zárate,Boca Juniors
+1441377,87,Cristian Erbes,Lautaro Acosta,Boca Juniors
+1441377,71,Emmanuel Gigliotti,Luis Castillo,Colón de Santa Fe
+1441377,83,Carlos Luque,Facundo Curuchet,Colón de Santa Fe
+1441377,86,Maximiliano Caire,Gabriel Graciani,Colón de Santa Fe
+1441372,63,Francisco Pizzini,Adrián Fernández,Independiente
+1441372,74,Juan Martínez Trejo,Osmar Ferreyra,Independiente
+1441372,77,Hernán Fredes,Fabián Vargas,Independiente
+1441372,45,Diego García,Maximiliano Bustos,San Martín de San Juan
+1441372,55,Claudio Riaño,Gastón Caprari,San Martín de San Juan
+1441372,74,Federico Poggi,Facundo Affranchino,San Martín de San Juan
+1441375,70,Diego Galván,Marcelo Sarmiento,Unión de Santa Fe
+1441375,75,Diego Gálligo,Brahian Alemán,Unión de Santa Fe
+1441375,85,Santiago Zurbriggen,Guillermo Cosaro,Unión de Santa Fe
+1441375,45,Carlos Luna,Carlos Sánchez,River Plate
+1441375,52,Walter Acevedo,Ezequiel Cirigliano,River Plate
+1441375,69,Rodrigo Mora,Juan Iturbe,River Plate
+1441376,43,Martín Morel,Iván Borghello,All Boys
+1441376,48,Damián Morales,Emanuel Perea,All Boys
+1441376,72,Lautaro Fernandez,Santiago Montoya,All Boys
+1441376,71,Leandro Navarro,Enzo Kalinski,San Lorenzo
+1441376,86,Leandro Romagnoli,Ignacio Piatti,San Lorenzo
+1441376,89,Alan Ruíz,Julio Buffarini,San Lorenzo
+1441373,51,Daniel Villalba,Santiago Nagüel,Argentinos Juniors
+1441373,67,Juan Luis Anangonó,Gaspar Iñíguez,Argentinos Juniors
+1441373,74,Leandro Barrera,Nicolás Freire,Argentinos Juniors
+1441373,71,Lucas Zelarayán,Fernando Márquez,Belgrano de Córdoba
+1441373,89,César Carranza,Martín Zapata,Belgrano de Córdoba
+1441371,61,Kevin Itabel,Leandro Leguizamón,Tigre
+1441371,85,Diego Ftacla,Federico Santander,Tigre
+1441371,53,Cristian Chávez,Jorge Valdez Chamorro,Lanús
+1441371,81,Óscar Benítez,Fernando Barrientos,Lanús
+1441386,63,Carlos Luque,Lucas Mugni,Colón de Santa Fe
+1441386,68,Adrián Bastía,Sebastián Prediger,Colón de Santa Fe
+1441386,72,Facundo Curuchet,Luis Castillo,Colón de Santa Fe
+1441386,63,Juan Careaga,Fernando Sánchez,All Boys
+1441386,73,Lautaro Fernandez,José Manuel Caspary,All Boys
+1441386,84,Santiago Montoya,Darío Stefanatto,All Boys
+1441384,46,Lucas Romero,Francisco Cerro,Vélez Sarsfield
+1441384,69,Agustin Allione,Gino Peruzzi,Vélez Sarsfield
+1441384,78,Ezequiel Rescaldani,Facundo Ferreyra,Vélez Sarsfield
+1441384,5,Matías Morales,Ismael Quílez,Quilmes
+1441384,46,Jacobo Mansilla,Sebastián Romero,Quilmes
+1441384,58,Cristian Menéndez,Pablo Lima,Quilmes
+1441380,61,César Pereyra,Jorge Velázquez,Belgrano de Córdoba
+1441380,69,Lucas Zelarayán,Fernando Márquez,Belgrano de Córdoba
+1441380,79,César Mansanelli,Martín Zapata,Belgrano de Córdoba
+1441380,57,Osmar Ferreyra,Federico Mancuello,Independiente
+1441380,61,Leonel Galeano,Diego Rodríguez,Independiente
+1441380,75,Agustin Rodríguez,Adrián Fernández,Independiente
+1441381,45,Francisco Alarcón,Reinaldo Alderete,San Martín de San Juan
+1441381,64,Lucas Salas,Diego García,San Martín de San Juan
+1441381,72,Santiago Hoyos,Gastón Caprari,San Martín de San Juan
+1441381,69,Cristian Chávez,Jorge Pereyra Díaz,Lanús
+1441381,73,Leandro Díaz,Carlos Izquierdoz,Lanús
+1441382,75,Mauro Camoranesi,Diego Villar,Racing Club
+1441382,81,Ignacio Colombini,Javier Cámpora,Racing Club
+1441382,81,Martín Pérez Guedes,Rodrigo de Paul,Racing Club
+1441382,75,Rodrigo Salinas,Iván Óbolo,Godoy Cruz
+1441382,80,Eduardo Ledesma,Nicolás Castro,Godoy Cruz
+1441382,85,Fabricio Angileri,José Fernandez,Godoy Cruz
+1441385,22,Diego Mateo,Rinaldo Cruzado,Newells Old Boys
+1441385,69,Juan Vieyra,Victor Figueroa,Newells Old Boys
+1441385,76,Maxi Rodriguez,Lucas Bernardi,Newells Old Boys
+1441385,71,Ribair Rodríguez,Lautaro Acosta,Boca Juniors
+1441383,70,Milton Céliz,Julio Furch,Arsenal de Sarandí
+1441383,76,Martín Rolle,Nicolás Aguirre,Arsenal de Sarandí
+1441383,26,Diego Ftacla,Federico Santander,Tigre
+1441383,81,Emiliano Ellacopulos,Leandro Leguizamón,Tigre
+1441379,59,Gastón Fernández,Leandro Benítez,Estudiantes
+1441379,59,Joaquín Correa,Carlos Auzqui,Estudiantes
+1441379,46,Juan Luis Anangonó,Mariano Guerreiro,Argentinos Juniors
+1441379,75,Fabio Vázquez,Pablo Hernández,Argentinos Juniors
+1441379,78,Daniel Villalba,Gaspar Iñíguez,Argentinos Juniors
+1441387,58,Leandro Romagnoli,Julio Buffarini,San Lorenzo
+1441387,58,Franco Jara,Enzo Kalinski,San Lorenzo
+1441387,75,Alan Ruíz,Ángel Correa,San Lorenzo
+1441387,64,Fausto Montero,Andrés Franzoia,Unión de Santa Fe
+1441387,69,Juan Avendaño,Bruno Bianchi,Unión de Santa Fe
+1441387,69,Emanuel Moreno,Juan Cavallaro,Unión de Santa Fe
+1441390,65,Diego Diellos,Cristian Menéndez,Quilmes
+1441390,69,Matías Morales,Pablo Garnier,Quilmes
+1441390,73,Gustavo Oberman,Jacobo Mansilla,Quilmes
+1441390,65,Javier Cámpora,Diego Villar,Racing Club
+1441390,70,Martín Pérez Guedes,Luis Fariña,Racing Club
+1441390,79,Mario Bolatti,Agustín Pelletieri,Racing Club
+1441394,46,Adrián Fernández,Fabián Monserrat,Independiente
+1441394,66,Hernán Fredes,Fernando Godoy,Independiente
+1441394,73,Agustin Rodríguez,Juan Caicedo,Independiente
+1441394,63,Joaquín Correa,Carlos Auzqui,Estudiantes
+1441394,74,Gastón Gil Romero,Leandro Benítez,Estudiantes
+1441394,85,Leonardo Jara,Maximiliano Núñez,Estudiantes
+1441391,72,Fernando Zuqui,Nicolás Castro,Godoy Cruz
+1441391,78,Rodrigo Salinas,Gonzalo Castellani,Godoy Cruz
+1441391,79,David Ramírez,Facundo Castillón,Godoy Cruz
+1441391,39,Julio Furch,Víctor Cuesta,Arsenal de Sarandí
+1441391,63,Diego Torres,Martín Rolle,Arsenal de Sarandí
+1441396,68,Diego Vera,Lucas Albertengo,Atlético Rafaela
+1441396,68,Alexis Niz,Cristian Vella,Atlético Rafaela
+1441396,78,Jonathan López,Sebastián Carrera,Atlético Rafaela
+1441396,62,Denis Stracqualursi,Enzo Kalinski,San Lorenzo
+1441396,68,Alan Ruíz,Ángel Correa,San Lorenzo
+1441396,82,Leandro Navarro,Ignacio Piatti,San Lorenzo
+1441397,68,Fausto Montero,Diego Galván,Unión de Santa Fe
+1441397,79,Alejandro Pérez,Santiago Zurbriggen,Unión de Santa Fe
+1441397,83,Emanuel Moreno,Juan Cavallaro,Unión de Santa Fe
+1441397,62,Facundo Curuchet,Luis Castillo,Colón de Santa Fe
+1441397,71,Carlos Luque,Ricardo Gómez,Colón de Santa Fe
+1441397,74,Iván Moreno y Fabianesi,Lucas Mugni,Colón de Santa Fe
+1441393,50,Ismael Blanco,Mario Regueiro,Lanús
+1441393,60,Jorge Valdez Chamorro,Fernando Barrientos,Lanús
+1441393,52,César Pereyra,Lucas Melano,Belgrano de Córdoba
+1441393,65,Lucas Zelarayán,Jorge Velázquez,Belgrano de Córdoba
+1441393,74,Víctor Aquino,Fernando Márquez,Belgrano de Córdoba
+1441389,74,Nahuel Zárate,Clemente Rodríguez,Boca Juniors
+1441389,76,Lautaro Acosta,Walter Erviti,Boca Juniors
+1441389,90,Ribair Rodríguez,Juan Martínez,Boca Juniors
+1441389,60,Iván Bella,Gino Peruzzi,Vélez Sarsfield
+1441389,72,Ezequiel Rescaldani,Facundo Ferreyra,Vélez Sarsfield
+1441389,90,Agustin Allione,Lucas Romero,Vélez Sarsfield
+1441395,71,Daniel Villalba,Lucas Rodríguez,Argentinos Juniors
+1441395,71,Leandro Caruso,Juan Luis Anangonó,Argentinos Juniors
+1441395,89,Nicolás Batista,Rodrigo Gómez,Argentinos Juniors
+1441395,53,Leonardo Ponzio,Juan Iturbe,River Plate
+1441395,58,Leandro González Pirez,Jonatan Maidana,River Plate
+1441395,84,Federico Andrada,Ariel Rojas,River Plate
+1441392,62,Sebastián Rusculleda,Norberto Paparatto,Tigre
+1441392,70,Ezequiel Maggiolo,Lucas Janson,Tigre
+1441392,49,Federico Poggi,Diego García,San Martín de San Juan
+1441392,61,Humberto Osorio,Gastón Caprari,San Martín de San Juan
+1441392,82,Francisco Alarcón,Jorge Luna,San Martín de San Juan
+1441398,81,Emanuel Perea,Brian Sarmiento,All Boys
+1441398,88,Martín Morel,Santiago Montoya,All Boys
+1441398,89,Cristian Varela,Jonathan Ferrari,All Boys
+1441398,62,Juan Vieyra,Horacio Orzán,Newells Old Boys
+1441398,62,Victor Figueroa,Martín Tonso,Newells Old Boys
+1441402,59,César Pereyra,Lucas Melano,Belgrano de Córdoba
+1441402,70,Lucas Zelarayán,Jorge Velázquez,Belgrano de Córdoba
+1441402,78,Víctor Aquino,Fernando Márquez,Belgrano de Córdoba
+1441402,46,Luis Bolaños,Federico Poggi,San Martín de San Juan
+1441402,65,Sebastian Penco,Gastón Caprari,San Martín de San Juan
+1441402,86,Maximiliano Bustos,Claudio Riaño,San Martín de San Juan
+1441403,35,Luis Jerez Silva,Federico Lértora,Godoy Cruz
+1441403,68,David Ramírez,Nicolás Castro,Godoy Cruz
+1441403,68,Rodrigo Salinas,Iván Óbolo,Godoy Cruz
+1441403,85,Norberto Paparatto,Sebastián Rusculleda,Tigre
+1441403,88,Matías Escobar,Gastón Díaz,Tigre
+1441404,73,Julio Furch,Juan Ignacio González,Arsenal de Sarandí
+1441404,84,Martín Rolle,Hugo Nervo,Arsenal de Sarandí
+1441404,84,Sebastián Romero,Fernando Elizari,Quilmes
+1441404,85,Gustavo Oberman,Martín Cauteruccio,Quilmes
+1441400,62,Matías Kranevitter,Leonardo Ponzio,River Plate
+1441400,70,Rodrigo Mora,Juan Iturbe,River Plate
+1441400,76,Jonathan Bottinelli,Leonel Vangioni,River Plate
+1441400,46,Luciano Leguizamón,Juan Martínez Trejo,Independiente
+1441400,62,Osmar Ferreyra,Hernán Fredes,Independiente
+1441400,64,Francisco Pizzini,Adrián Fernández,Independiente
+1441408,46,Rubén Ramírez,Lucas Mugni,Colón de Santa Fe
+1441408,66,Iván Moreno y Fabianesi,Luis Castillo,Colón de Santa Fe
+1441408,72,Marcos Fernández,Sebastián Prediger,Colón de Santa Fe
+1441408,66,Juan Eluchans,Rodrigo Depetris,Atlético Rafaela
+1441408,79,Alexis Niz,Federico González,Atlético Rafaela
+1441408,86,Jonathan López,Matías Fissore,Atlético Rafaela
+1441405,69,Diego Villar,Rodrigo de Paul,Racing Club
+1441405,85,Javier Cámpora,Luis Fariña,Racing Club
+1441405,86,Martín Pérez Guedes,Ricardo Centurión,Racing Club
+1441405,73,Pablo Ledesma,Cristian Erbes,Boca Juniors
+1441407,68,Horacio Orzán,Martín Tonso,Newells Old Boys
+1441407,73,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441407,80,Carlos Torres,Maxi Rodriguez,Newells Old Boys
+1441407,46,Andrés Franzoia,Fausto Montero,Unión de Santa Fe
+1441407,62,Diego Galván,Pablo Magnín,Unión de Santa Fe
+1441399,46,Alan Ruíz,Enzo Kalinski,San Lorenzo
+1441399,46,Fabian Bordagaray,Gonzalo Prósperi,San Lorenzo
+1441399,81,Denis Stracqualursi,Ángel Correa,San Lorenzo
+1441399,57,Fabio Vázquez,Alejandro Capurro,Argentinos Juniors
+1441399,61,Gaspar Iñíguez,Daniel Villalba,Argentinos Juniors
+1441399,68,Leandro Barrera,Santiago Nagüel,Argentinos Juniors
+1441406,27,Ezequiel Rescaldani,Facundo Ferreyra,Vélez Sarsfield
+1441406,58,Agustin Allione,Iván Bella,Vélez Sarsfield
+1441406,60,Brian Ferreira,Federico Insúa,Vélez Sarsfield
+1441406,67,Jonathan Copete,Ezequiel Rescaldani,Vélez Sarsfield
+1441406,75,Lautaro Fernandez,Brian Sarmiento,All Boys
+1441401,46,Carlos Auzqui,Joaquín Correa,Estudiantes
+1441401,46,Rodrigo Braña,Leandro Desábato,Estudiantes
+1441401,46,Matias Sarulyte,Román Martínez,Estudiantes
+1441401,67,Guido Carrillo,Duván Zapata,Estudiantes
+1441401,46,Mario Regueiro,Paolo Goltz,Lanús
+1441401,46,Oswaldo Vizcarrondo,Diego González,Lanús
+1441413,62,Lucas Janson,Diego Cisterna,Tigre
+1441413,74,Ezequiel Maggiolo,Leandro Leguizamón,Tigre
+1441413,73,Lucas Melano,Martín Zapata,Belgrano de Córdoba
+1441413,79,César Mansanelli,Fernando Márquez,Belgrano de Córdoba
+1441413,83,César Carranza,César Pereyra,Belgrano de Córdoba
+1441414,55,Maximiliano Bustos,Luis Bolaños,San Martín de San Juan
+1441414,62,Sebastian Penco,Gastón Caprari,San Martín de San Juan
+1441414,87,Federico Poggi,Jorge Luna,San Martín de San Juan
+1441414,46,Gastón Fernández,Gastón Gil Romero,Estudiantes
+1441414,57,Jonathan Schunke,Leandro Desábato,Estudiantes
+1441414,71,Leonardo Jara,Marcos Angeleri,Estudiantes
+1441416,39,Leonel Miranda,Hernán Fredes,Independiente
+1441416,64,Agustin Rodríguez,Francisco Pizzini,Independiente
+1441416,64,Gabriel Vallés,Julián Velázquez,Independiente
+1441416,52,Alan Ruíz,Ignacio Piatti,San Lorenzo
+1441416,53,Julio Buffarini,Leandro Navarro,San Lorenzo
+1441416,80,Fabian Bordagaray,Leandro Romagnoli,San Lorenzo
+1441417,53,Daniel Villalba,Pablo Barzola,Argentinos Juniors
+1441417,75,Nicolás Batista,Alejandro Capurro,Argentinos Juniors
+1441417,87,Fabio Vázquez,Juan Luis Anangonó,Argentinos Juniors
+1441417,60,Rubén Ramírez,Luis Castillo,Colón de Santa Fe
+1441417,70,Iván Moreno y Fabianesi,Sebastián Prediger,Colón de Santa Fe
+1441417,79,Lucas Mugni,Facundo Curuchet,Colón de Santa Fe
+1441409,67,Damián Lizio,Juan Cavallaro,Unión de Santa Fe
+1441409,83,Lionel Altamirano,Pablo Magnín,Unión de Santa Fe
+1441409,90,Brahian Alemán,Andrés Franzoia,Unión de Santa Fe
+1441409,64,Jonathan Copete,Ezequiel Rescaldani,Vélez Sarsfield
+1441409,82,Eduardo Pucheta,Iván Bella,Vélez Sarsfield
+1441409,85,Agustin Allione,Federico Insúa,Vélez Sarsfield
+1441410,68,Juan Careaga,Elvio Fredrich,All Boys
+1441410,68,José Manuel Caspary,Iván Borghello,All Boys
+1441410,80,Lautaro Fernandez,Fernando Sánchez,All Boys
+1441410,72,Diego Villar,Luis Fariña,Racing Club
+1441418,70,Lucas Albertengo,Rodrigo Depetris,Atlético Rafaela
+1441418,75,Jonathan López,Sebastián Carrera,Atlético Rafaela
+1441418,86,Joel Sacks,Cristian Vella,Atlético Rafaela
+1441418,73,Horacio Orzán,Martín Tonso,Newells Old Boys
+1441418,86,Maximiliano Urruti,Ignacio Scocco,Newells Old Boys
+1441411,61,Lautaro Acosta,Francisco Di Franco,Boca Juniors
+1441411,62,Pablo Ledesma,Cristian Erbes,Boca Juniors
+1441411,78,Leandro Paredes,Juan Martínez,Boca Juniors
+1441411,72,Martín Rolle,Pablo Lugüercio,Arsenal de Sarandí
+1441411,77,Diego Torres,Juan Ignacio González,Arsenal de Sarandí
+1441415,71,Fernando Barrientos,Diego González,Lanús
+1441415,72,Mario Regueiro,Guido Pizarro,Lanús
+1441415,79,Bruno Vides,Silvio Romero,Lanús
+1441415,26,Carlos Luna,Cristian Ledesma,River Plate
+1441415,46,Matías Kranevitter,Rogelio Funes Mori,River Plate
+1441415,46,Carlos Sánchez,Manuel Lanzini,River Plate
+1441412,71,Fernando Elizari,Cristian Menéndez,Quilmes
+1441412,83,Gustavo Oberman,Miguel Caneo,Quilmes
+1441412,88,Jorge Serrano,Sebastián Romero,Quilmes
+1441412,78,Fernando Zuqui,Nicolás Castro,Godoy Cruz
+1441412,84,Rodrigo Salinas,Facundo Castillón,Godoy Cruz
+1441427,81,Martín Pérez Guedes,Diego Villar,Racing Club
+1441427,83,Javier Cámpora,Luciano Vietto,Racing Club
+1441427,88,Leonardo Rolheiser,Bruno Zuculini,Racing Club
+1441427,63,Lionel Altamirano,Pablo Magnín,Unión de Santa Fe
+1441427,69,Matías Donnet,Marcelo Sarmiento,Unión de Santa Fe
+1441427,72,Santiago Zurbriggen,Emanuel Brítez,Unión de Santa Fe
+1441423,66,Maximiliano Núñez,Leonardo Jara,Estudiantes
+1441423,82,Gastón Fernández,Guido Carrillo,Estudiantes
+1441423,89,Gastón Gil Romero,Joaquín Correa,Estudiantes
+1441423,60,Lucas Pittinari,Martín Zapata,Belgrano de Córdoba
+1441423,68,Tobias Figueroa,César Pereyra,Belgrano de Córdoba
+1441423,87,Lucas Zelarayán,Lucas Melano,Belgrano de Córdoba
+1441424,65,Ezequiel Maggiolo,Leandro Leguizamón,Tigre
+1441424,73,Yulián Mejía,Nicolás Martínez,Tigre
+1441424,69,Gustavo Oberman,Cristian Menéndez,Quilmes
+1441424,77,Fernando Elizari,Miguel Caneo,Quilmes
+1441424,86,Fernando Telechea,Martín Cauteruccio,Quilmes
+1441420,56,Carlos Luque,Gabriel Graciani,Colón de Santa Fe
+1441420,76,Iván Moreno y Fabianesi,Marcos Fernández,Colón de Santa Fe
+1441420,89,Marcelo Argüello,Lucas Mugni,Colón de Santa Fe
+1441420,65,Alexis Zárate,Leonel Miranda,Independiente
+1441420,75,Patricio Vidal,Adrián Fernández,Independiente
+1441420,81,Raúl Ezequiel Millañanco,Francisco Pizzini,Independiente
+1441419,55,Cristian Díaz,Milton Casco,Newells Old Boys
+1441419,73,Fabián Muñoz,Maxi Rodriguez,Newells Old Boys
+1441419,78,Lorenzo Faravelli,Victor Figueroa,Newells Old Boys
+1441419,72,Santiago Nagüel,Alejandro Capurro,Argentinos Juniors
+1441419,77,Pablo Hernández,Leandro Caruso,Argentinos Juniors
+1441419,90,Daniel Villalba,Juan Luis Anangonó,Argentinos Juniors
+1441422,53,Juan Iturbe,Diego Martínez,River Plate
+1441422,61,Luciano Abecasis,Carlos Sánchez,River Plate
+1441422,75,Leonardo Ponzio,Leonel Vangioni,River Plate
+1441422,57,Federico Poggi,Luis Bolaños,San Martín de San Juan
+1441422,58,Sebastian Penco,Gastón Caprari,San Martín de San Juan
+1441422,74,Humberto Osorio,Facundo Affranchino,San Martín de San Juan
+1441428,46,Agustin Allione,Fernando Tobio,Vélez Sarsfield
+1441428,71,Francisco Cerro,Fernando Gago,Vélez Sarsfield
+1441428,83,Jonathan Copete,Federico Insúa,Vélez Sarsfield
+1441428,60,Joel Sacks,Cristian Vella,Atlético Rafaela
+1441428,66,Sébastien Grazzini,Raúl Ferro,Atlético Rafaela
+1441428,76,Rodrigo Depetris,Sebastián Carrera,Atlético Rafaela
+1441426,60,Julián Cardozo,Mariano González,Arsenal de Sarandí
+1441426,67,Martín Rolle,Nicolás Aguirre,Arsenal de Sarandí
+1441426,84,Víctor Cuesta,Lisandro López,Arsenal de Sarandí
+1441426,76,Damián Morales,Juan Careaga,All Boys
+1441426,78,Julián Fernández,Fernando Sánchez,All Boys
+1441426,82,José Manuel Caspary,Ángel Vildozo,All Boys
+1441421,55,Alan Ruíz,Gonzalo Prósperi,San Lorenzo
+1441421,76,Leandro Navarro,Leandro Romagnoli,San Lorenzo
+1441421,79,Fabian Bordagaray,Gonzalo Verón,San Lorenzo
+1441421,55,Mario Regueiro,Ismael Blanco,Lanús
+1441421,66,Óscar Benítez,Nicolás Pasquini,Lanús
+1441421,89,Jorge Pereyra Díaz,Diego González,Lanús
+1441425,72,Eduardo Ledesma,Gonzalo Castellani,Godoy Cruz
+1441425,72,Armando Cooper,Nicolás Castro,Godoy Cruz
+1441425,85,Rodrigo Salinas,Iván Óbolo,Godoy Cruz
+1441425,62,Leandro Paredes,Román Riquelme,Boca Juniors
+1441425,65,Gonzalo Escalante,Cristian Erbes,Boca Juniors
+1441425,75,Francisco Di Franco,Nicolás Blandi,Boca Juniors

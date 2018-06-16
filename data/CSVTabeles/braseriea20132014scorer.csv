@@ -1,0 +1,861 @@
+GameID,Minute,Scorer,Team
+2203991,31,Rafael Sóbis,Fluminense RJ
+2203991,45,Fred,Fluminense RJ
+2203991,59,Nirley,Figueirense
+2203997,6,Charles Aránguiz,Internacional
+2203992,13,Antônio Carlos,São Paulo FC
+2203992,22,Douglas,São Paulo FC
+2203992,56,Luís Fabiano,São Paulo FC
+2203994,16,Dráusio,Atlético Paranaense
+2203996,80,Anderson Talisca,EC Bahia
+2203996,62,Nílton,Cruzeiro EC
+2203996,89,Marcelo Moreno,Cruzeiro EC
+2203993,80,Geuvânio,Santos FC
+2203993,73,Neto Baiano,Sport Club Recife
+2203998,13,Paulo Baier,Criciúma EC
+2203998,83,Leandro,SE Palmeiras
+2203998,88,Alan Kardec,SE Palmeiras
+2204003,45,Rafael Sóbis,Fluminense RJ
+2204000,64,Emerson Sheik,Botafogo RJ
+2204000,75,Pablo Zeballos,Botafogo RJ
+2204000,9,Rafael Moura,Internacional
+2204000,35,Rafael Moura,Internacional
+2204002,10,Guilherme,Corinthians SP
+2204002,80,Gil,Corinthians SP
+2204005,50,Júlio Baptista,Cruzeiro EC
+2204005,90,Antônio Carlos,São Paulo FC
+2204006,11,Dinei,EC Vitória BA
+2204006,37,José Welison,EC Vitória BA
+2204006,78,Mosquito,Atlético Paranaense
+2204006,82,Marcelo Cirino,Atlético Paranaense
+2204001,12,Rithely,Sport Club Recife
+2204001,39,Ananias,Sport Club Recife
+2204001,37,Ricardo Conceição,Chapecoense
+2204007,11,Alan Ruíz,Grêmio Porto Alegre
+2204007,22,Lucas Coelho,Grêmio Porto Alegre
+2204007,84,Fernandinho Silva,Atlético Mineiro
+2204008,8,Lincoln,EC Bahia
+2204008,75,Fahel,EC Bahia
+2204009,82,Amaral,Goiás EC
+2204012,22,Alexandre Pato,São Paulo FC
+2204012,72,Ademilson,São Paulo FC
+2204012,30,Robinho,Coritiba FC
+2204012,61,Chico,Coritiba FC
+2204014,24,Éderson,Atlético Paranaense
+2204014,40,Marcelo Cirino,Atlético Paranaense
+2204014,36,Nílton,Cruzeiro EC
+2204014,75,Souza,Cruzeiro EC
+2204014,83,Marcelo Moreno,Cruzeiro EC
+2204011,88,Wagner,Fluminense RJ
+2204011,54,Marquinhos,EC Vitória BA
+2204011,83,Marquinhos,EC Vitória BA
+2204010,13,Paulinho,Flamengo RJ
+2204010,50,Márcio Araújo,Flamengo RJ
+2204010,60,Alecsandro,Flamengo RJ
+2204010,73,Alecsandro,Flamengo RJ
+2204010,11,Wesley,SE Palmeiras
+2204010,31,Henrique Dourado,SE Palmeiras
+2204016,59,Maxi Biancucchi,EC Bahia
+2204017,13,Andrés DAlessandro,Internacional
+2204017,45,Charles Aránguiz,Internacional
+2204017,78,Patric,Sport Club Recife
+2204018,14,Silvinho,Criciúma EC
+2204015,69,David,Goiás EC
+2204019,77,Paolo Guerrero,Corinthians SP
+2204023,16,Lúcio,SE Palmeiras
+2204023,32,Henrique Dourado,SE Palmeiras
+2204027,54,Andrés DAlessandro,Internacional
+2204027,68,Alan Patrick,Internacional
+2204027,52,Marcos Guilherme,Atlético Paranaense
+2204020,23,Emerson Sheik,Botafogo RJ
+2204020,52,Emerson Sheik,Botafogo RJ
+2204020,55,Daniel Freitas,Botafogo RJ
+2204020,57,Daniel Freitas,Botafogo RJ
+2204020,73,Daniel Freitas,Botafogo RJ
+2204020,81,Wallyson,Botafogo RJ
+2204021,11,Fred,Fluminense RJ
+2204021,87,Chiquinho,Fluminense RJ
+2204022,81,Luís Fabiano,São Paulo FC
+2204022,49,Fágner,Corinthians SP
+2204025,55,Marion,Atlético Mineiro
+2204025,72,André,Atlético Mineiro
+2204025,38,Marcelo Moreno,Cruzeiro EC
+2204029,90,Tiago Luis,Chapecoense
+2204029,31,Hernán Barcos,Grêmio Porto Alegre
+2204029,65,Hernán Barcos,Grêmio Porto Alegre
+2204024,86,Rithely,Sport Club Recife
+2204026,90,Pará,EC Bahia
+2204026,39,Souza,EC Vitória BA
+2204028,44,Gabriel Barbosa,Santos FC
+2204028,62,Arouca,Santos FC
+2204039,54,Ramón,Goiás EC
+2204039,70,Danilo Cezario,Goiás EC
+2204035,11,Ricardo Goulart,Cruzeiro EC
+2204035,45,Ricardo Goulart,Cruzeiro EC
+2204035,69,Borges,Cruzeiro EC
+2204035,23,Alex,Coritiba FC
+2204035,55,Norberto Neto,Coritiba FC
+2204030,23,Ganso,São Paulo FC
+2204030,90,Ganso,São Paulo FC
+2204032,48,Giovanni Augusto,Figueirense
+2204034,71,Cleberson,Atlético Paranaense
+2204034,88,Tiago Luis,Chapecoense
+2204037,37,Rodriguinho,Grêmio Porto Alegre
+2204033,38,Cícero,Santos FC
+2204033,75,André,Atlético Mineiro
+2204033,81,André,Atlético Mineiro
+2204036,49,Marquinhos Gabriel,SE Palmeiras
+2204031,72,Mike,Sport Club Recife
+2204040,11,Paulinho,Flamengo RJ
+2204040,90,Anderson Talisca,EC Bahia
+2204044,75,Alex,Coritiba FC
+2204044,21,Wellington Paulista,Internacional
+2204045,51,Ricardo Goulart,Cruzeiro EC
+2204045,77,Marcelo Moreno,Cruzeiro EC
+2204048,23,Silvinho,Criciúma EC
+2204041,42,Wálter,Fluminense RJ
+2204041,66,Wálter,Fluminense RJ
+2204041,73,Wagner,Fluminense RJ
+2204041,76,Rafael Sóbis,Fluminense RJ
+2204041,26,Rogério Ceni,São Paulo FC
+2204041,45,Alexandre Pato,São Paulo FC
+2204041,53,Lucão Cavalcante,São Paulo FC
+2204042,59,Jádson,Corinthians SP
+2204042,85,Douglas Coutinho,Atlético Paranaense
+2204047,44,Rodriguinho,Grêmio Porto Alegre
+2204047,81,Maxi Rodríguez,Grêmio Porto Alegre
+2204047,6,Pablo Zeballos,Botafogo RJ
+2204043,37,Henrique Dourado,SE Palmeiras
+2204049,26,Alex Alves,Goiás EC
+2204049,69,Erik,Goiás EC
+2204049,9,Geuvânio,Santos FC
+2204049,39,Cícero,Santos FC
+2204046,17,Alemão,EC Vitória BA
+2204046,65,Dinei,EC Vitória BA
+2204046,90,Willie,EC Vitória BA
+2204046,12,Jesús Dátolo,Atlético Mineiro
+2204046,62,Réver,Atlético Mineiro
+2204056,4,Kenedy,Fluminense RJ
+2204052,61,Lucas Coelho,Grêmio Porto Alegre
+2204051,28,Augusto,Sport Club Recife
+2204051,20,Romarinho,Corinthians SP
+2204051,38,Jádson,Corinthians SP
+2204051,55,Jádson,Corinthians SP
+2204051,69,Romarinho,Corinthians SP
+2204054,56,Marcos Guilherme,Atlético Paranaense
+2204054,59,Luccas Claro,Coritiba FC
+2204058,5,Jackson Souza,Goiás EC
+2204050,43,Emerson Sheik,Botafogo RJ
+2204050,69,Dinei,EC Vitória BA
+2204057,39,Wellington,Internacional
+2204057,70,Willians,Internacional
+2204057,43,Ricardo Goulart,Cruzeiro EC
+2204057,88,Marcelo Moreno,Cruzeiro EC
+2204059,42,Tiago Luis,Chapecoense
+2204059,47,Dedé,Chapecoense
+2204063,61,Mario Bolatti,Botafogo RJ
+2204063,90,Pablo Zeballos,Botafogo RJ
+2204068,57,Fábio Ferreira,Criciúma EC
+2204067,24,Wellington Paulista,Internacional
+2204067,78,Wellington Paulista,Internacional
+2204062,67,Paolo Guerrero,Corinthians SP
+2204064,30,Bady,Atlético Paranaense
+2204064,90,Cléo,Atlético Paranaense
+2204064,75,Rogério Ceni,São Paulo FC
+2204064,90,Luís Fabiano,São Paulo FC
+2204065,52,Jesús Dátolo,Atlético Mineiro
+2204065,64,Diego Tardelli,Atlético Mineiro
+2204060,19,Alecsandro,Flamengo RJ
+2204060,21,Everaldo,Figueirense
+2204066,61,Alan Santos,Santos FC
+2204066,87,Lucas Lima,Santos FC
+2204072,10,Luís Fabiano,São Paulo FC
+2204072,89,Dorlan Pabón,São Paulo FC
+2204072,78,Josué,Atlético Mineiro
+2204074,3,Alex,Coritiba FC
+2204074,13,Keirrison,Coritiba FC
+2204074,44,Denner,Coritiba FC
+2204076,47,Neto Baiano,Sport Club Recife
+2204075,15,Ricardo Goulart,Cruzeiro EC
+2204075,17,Éverton Ribeiro,Cruzeiro EC
+2204075,45,Borges,Cruzeiro EC
+2204079,54,Abuda,Chapecoense
+2204079,70,Alemão,Chapecoense
+2204079,85,Demerson,EC Bahia
+2204071,30,Jean,Fluminense RJ
+2204071,21,Jorge Henrique,Internacional
+2204073,10,Gabriel Barbosa,Santos FC
+2204073,17,Diego Cardoso,Santos FC
+2204078,74,Everaldo,Figueirense
+2204078,45,Douglas Coutinho,Atlético Paranaense
+2204078,53,Douglas Coutinho,Atlético Paranaense
+2204078,90,Douglas Coutinho,Atlético Paranaense
+2204070,29,Wallyson,Botafogo RJ
+2204081,44,Neto Baiano,Sport Club Recife
+2204084,5,Thiago Heleno,Figueirense
+2204084,68,Everaldo,Figueirense
+2204080,34,Samir,Flamengo RJ
+2204080,19,Douglas Coutinho,Atlético Paranaense
+2204080,60,Cleberson,Atlético Paranaense
+2204086,12,Rogério Ceni,São Paulo FC
+2204086,19,Alan Kardec,São Paulo FC
+2204088,39,Paulo Baier,Criciúma EC
+2204088,59,Paulo Baier,Criciúma EC
+2204088,66,Serginho,Criciúma EC
+2204088,84,Darío Conca,Fluminense RJ
+2204088,85,Matheus Carvalho,Fluminense RJ
+2204082,7,Paolo Guerrero,Corinthians SP
+2204082,10,Fágner,Corinthians SP
+2204082,90,Cláudio Winck,Internacional
+2204083,24,Bruno Uvini,Santos FC
+2204083,69,Alison,Santos FC
+2204085,72,Ricardo Goulart,Cruzeiro EC
+2204085,76,Éverton Ribeiro,Cruzeiro EC
+2204085,62,Alemão,EC Vitória BA
+2204085,90,Ayrton,EC Vitória BA
+2204089,42,Jailton,Chapecoense
+2204089,90,Leonardo Silva,Atlético Mineiro
+2204092,57,Ricardo Conceição,Chapecoense
+2204095,66,Luan,Atlético Mineiro
+2204095,25,Titi,EC Bahia
+2204098,4,Giuliano,Grêmio Porto Alegre
+2204090,11,Mario Bolatti,Botafogo RJ
+2204093,54,Fernando Tobio,SE Palmeiras
+2204093,8,Ricardo Goulart,Cruzeiro EC
+2204093,10,Manoel,Cruzeiro EC
+2204097,16,Rafael Moura,Internacional
+2204097,45,Andrés DAlessandro,Internacional
+2204097,58,Fabrício,Internacional
+2204097,78,Alex,Internacional
+2204091,62,Darío Conca,Fluminense RJ
+2204094,52,Marcelo Cirino,Atlético Paranaense
+2204094,58,Douglas Coutinho,Atlético Paranaense
+2204103,13,Rildo,Santos FC
+2204103,52,Gabriel Barbosa,Santos FC
+2204103,81,Diego Cardoso,Santos FC
+2204105,41,Lucas Silva,Cruzeiro EC
+2204105,47,Marquinhos,Cruzeiro EC
+2204105,50,Dedé,Cruzeiro EC
+2204105,73,Ricardo Goulart,Cruzeiro EC
+2204105,79,Dagoberto,Cruzeiro EC
+2204108,90,Serginho,Criciúma EC
+2204108,19,Caio,EC Vitória BA
+2204108,67,Caio,EC Vitória BA
+2204108,84,Ayrton,EC Vitória BA
+2204106,66,Wellington Silva,Internacional
+2204101,52,Felipe Azevedo,Sport Club Recife
+2204101,69,Durval,Sport Club Recife
+2204101,85,Diego Tardelli,Atlético Mineiro
+2204102,51,Paolo Guerrero,Corinthians SP
+2204102,90,Petros,Corinthians SP
+2204104,17,Jean,Fluminense RJ
+2204104,34,Darío Conca,Fluminense RJ
+2204104,64,Cícero,Fluminense RJ
+2204109,43,Amaral,Goiás EC
+2204109,47,Bruno Mineiro,Goiás EC
+2204109,75,Kaká,São Paulo FC
+2204100,33,Alecsandro,Flamengo RJ
+2204107,56,Hernán Barcos,Grêmio Porto Alegre
+2204107,64,Hernán Barcos,Grêmio Porto Alegre
+2204107,48,Zé Eduardo,Coritiba FC
+2204107,72,Zé Eduardo,Coritiba FC
+2204107,90,Alex,Coritiba FC
+2204110,24,Edílson,Botafogo RJ
+2204110,59,Léo,Cruzeiro EC
+2204112,74,Alan Kardec,São Paulo FC
+2204112,81,Rodrigo Souza,Criciúma EC
+2204116,59,Caio,EC Vitória BA
+2204116,78,Caio,EC Vitória BA
+2204116,12,Hernán Barcos,Grêmio Porto Alegre
+2204113,61,Henrique Dourado,SE Palmeiras
+2204113,63,Kieza,EC Bahia
+2204118,41,Léo Lisboa,Figueirense
+2204118,75,Clayton,Figueirense
+2204118,83,Marco Antonio,Figueirense
+2204119,8,Neném,Chapecoense
+2204111,10,Cícero,Fluminense RJ
+2204111,20,David,Goiás EC
+2204115,33,Leonardo Silva,Atlético Mineiro
+2204115,55,Marcos Guilherme,Atlético Paranaense
+2204115,75,Léo Pereira,Atlético Paranaense
+2204115,86,Deivid,Atlético Paranaense
+2204117,58,Rafael Moura,Internacional
+2204126,31,Fahel,EC Bahia
+2204121,26,Elivélton,Fluminense RJ
+2204121,82,Germano,Coritiba FC
+2204120,85,Eduardo,Flamengo RJ
+2204123,84,Gil,Corinthians SP
+2204124,45,Cléo,Atlético Paranaense
+2204124,90,Douglas Coutinho,Atlético Paranaense
+2204127,62,Charles Aránguiz,Internacional
+2204127,84,Cláudio Winck,Internacional
+2204122,17,Alexandre Pato,São Paulo FC
+2204122,32,Alan Kardec,São Paulo FC
+2204122,39,Alexandre Pato,São Paulo FC
+2204122,45,Kadu,EC Vitória BA
+2204125,44,Diego Tardelli,Atlético Mineiro
+2204125,87,Jesús Dátolo,Atlético Mineiro
+2204125,54,Henrique Dourado,SE Palmeiras
+2204129,87,Marquinhos,Figueirense
+2204139,77,Pedro Henrique,Goiás EC
+2204132,43,Gil,Corinthians SP
+2204132,36,Kieza,EC Bahia
+2204133,61,Henrique Dourado,SE Palmeiras
+2204133,54,Alexandre Pato,São Paulo FC
+2204133,89,Alan Kardec,São Paulo FC
+2204134,17,Éverton,Flamengo RJ
+2204135,25,Marcelo Moreno,Cruzeiro EC
+2204135,48,Ricardo Goulart,Cruzeiro EC
+2204135,88,Júlio Baptista,Cruzeiro EC
+2204137,11,Luan,Grêmio Porto Alegre
+2204137,49,Lucas Coelho,Grêmio Porto Alegre
+2204130,65,Daniel Freitas,Botafogo RJ
+2204130,68,Pablo Zeballos,Botafogo RJ
+2204131,40,Régis,Sport Club Recife
+2204131,25,Cleberson,Atlético Paranaense
+2204138,90,Clayton,Figueirense
+2204138,8,Jesús Dátolo,Atlético Mineiro
+2204138,25,Leonardo Silva,Atlético Mineiro
+2204138,74,Diego Tardelli,Atlético Mineiro
+2204141,33,Patric,Sport Club Recife
+2204141,14,Henrique Dourado,SE Palmeiras
+2204141,23,Fabio,SE Palmeiras
+2204143,45,Leandro Damião,Santos FC
+2204143,67,Thiago Ribeiro,Santos FC
+2204148,2,Clayton,Figueirense
+2204144,17,Dudu,Coritiba FC
+2204144,63,Keirrison,Coritiba FC
+2204140,65,Leó Moura,Flamengo RJ
+2204140,71,Eduardo,Flamengo RJ
+2204140,10,Maicosuel,Atlético Mineiro
+2204147,36,Ganso,São Paulo FC
+2204149,61,Camilo,Chapecoense
+2204142,23,Paolo Guerrero,Corinthians SP
+2204142,64,Elías,Corinthians SP
+2204142,77,Luciano,Corinthians SP
+2204142,85,Luciano,Corinthians SP
+2204142,88,Luciano,Corinthians SP
+2204142,10,Thiago Mendes,Goiás EC
+2204142,61,Jackson Souza,Goiás EC
+2204145,86,Dagoberto,Cruzeiro EC
+2204150,31,Luis Ramírez,Botafogo RJ
+2204155,81,Diego Tardelli,Atlético Mineiro
+2204153,13,Juninho,SE Palmeiras
+2204151,34,Cícero,Fluminense RJ
+2204151,42,Fred,Fluminense RJ
+2204151,51,Darío Conca,Fluminense RJ
+2204151,80,Fred,Fluminense RJ
+2204152,24,Ganso,São Paulo FC
+2204152,88,Alexandre Pato,São Paulo FC
+2204152,86,Gabriel Barbosa,Santos FC
+2204156,75,Everaldo,Figueirense
+2204157,46,Hernán Barcos,Grêmio Porto Alegre
+2204157,49,Hernán Barcos,Grêmio Porto Alegre
+2204157,62,Paolo Guerrero,Corinthians SP
+2204158,78,Lucas Mugni,Flamengo RJ
+2204158,82,Eduardo,Flamengo RJ
+2204159,25,Marcelo Moreno,Cruzeiro EC
+2204163,20,Jorge Henrique,Internacional
+2204165,50,Léo,Cruzeiro EC
+2204165,52,Marcelo Moreno,Cruzeiro EC
+2204165,58,Alisson,Cruzeiro EC
+2204165,71,Marcelo Moreno,Cruzeiro EC
+2204165,11,Zezinho,Chapecoense
+2204165,70,Bruno Rangel,Chapecoense
+2204160,63,Daniel Freitas,Botafogo RJ
+2204161,50,Neto Baiano,Sport Club Recife
+2204161,53,Danilo Barcelos,Sport Club Recife
+2204162,74,Romarinho,Corinthians SP
+2204162,43,Fred,Fluminense RJ
+2204168,48,Giovanni Augusto,Figueirense
+2204168,76,Rogério Ceni,São Paulo FC
+2204166,40,Caio,EC Vitória BA
+2204166,33,Marcelo,Flamengo RJ
+2204166,71,Alecsandro,Flamengo RJ
+2204167,59,Hernán Barcos,Grêmio Porto Alegre
+2204169,39,Erik,Goiás EC
+2204169,43,Erik,Goiás EC
+2204169,84,Erik,Goiás EC
+2204169,63,Cléo,Atlético Paranaense
+2204170,90,Luan,Grêmio Porto Alegre
+2204173,47,David Braz,Santos FC
+2204173,52,David Braz,Santos FC
+2204173,74,Leandro Damião,Santos FC
+2204173,65,Dinei,EC Vitória BA
+2204171,17,Wagner,Fluminense RJ
+2204171,23,Cícero,Fluminense RJ
+2204171,89,Kenedy,Fluminense RJ
+2204171,14,Júlio Baptista,Cruzeiro EC
+2204171,44,Júlio Baptista,Cruzeiro EC
+2204171,58,Marcelo Moreno,Cruzeiro EC
+2204172,26,Alexandre Pato,São Paulo FC
+2204172,8,Rithely,Sport Club Recife
+2204175,70,Leonardo Silva,Atlético Mineiro
+2204174,30,Dellatorre,Atlético Paranaense
+2204174,53,Henrique Dourado,SE Palmeiras
+2204177,18,Andrés DAlessandro,Internacional
+2204177,35,Paulão,Internacional
+2204177,51,Everaldo,Figueirense
+2204177,75,Marco Antonio,Figueirense
+2204177,76,Giovanni Augusto,Figueirense
+2204183,82,Jonathan Cristaldo,SE Palmeiras
+2204187,90,Hernán Barcos,Grêmio Porto Alegre
+2204188,38,Everaldo,Figueirense
+2204188,84,Cícero,Fluminense RJ
+2204181,41,Patric,Sport Club Recife
+2204181,53,Patric,Sport Club Recife
+2204181,90,Patric,Sport Club Recife
+2204181,25,Thiago Ribeiro,Santos FC
+2204184,1,Robinho,Coritiba FC
+2204184,14,Alejandro Martinuccio,Coritiba FC
+2204184,76,Joel Tagueu,Coritiba FC
+2204180,20,Pablo Zeballos,Botafogo RJ
+2204180,23,André Bahia,Botafogo RJ
+2204180,8,Alan Kardec,São Paulo FC
+2204180,37,Souza,São Paulo FC
+2204180,41,Souza,São Paulo FC
+2204180,81,Alexandre Pato,São Paulo FC
+2204186,8,Richarlyson,EC Vitória BA
+2204186,56,Marcinho,EC Vitória BA
+2204189,70,Samuel Rosa,Goiás EC
+2204182,14,Petros,Corinthians SP
+2204185,54,Éverton Ribeiro,Cruzeiro EC
+2204185,71,Ricardo Goulart,Cruzeiro EC
+2204185,30,Rafael Miranda,EC Bahia
+2204191,7,Fred,Fluminense RJ
+2204191,35,Fred,Fluminense RJ
+2204191,63,Darío Conca,Fluminense RJ
+2204199,42,Douglas Grolli,Chapecoense
+2204199,46,Tiago Luis,Chapecoense
+2204199,87,Douglas Grolli,Chapecoense
+2204199,83,Felipe Azevedo,Sport Club Recife
+2204193,14,Lucas Lima,Santos FC
+2204193,39,Robinho,Santos FC
+2204193,88,Dudu,Coritiba FC
+2204190,65,Wallace Reis,Flamengo RJ
+2204192,36,Rogério Ceni,São Paulo FC
+2204192,71,Alan Kardec,São Paulo FC
+2204196,18,Kieza,EC Bahia
+2204196,24,Kieza,EC Bahia
+2204196,85,Maxi Biancucchi,EC Bahia
+2204197,41,Alex,Internacional
+2204197,59,Eduardo Sasha,Internacional
+2204194,30,Marcelo Cirino,Atlético Paranaense
+2204194,70,Marcos Júnior,EC Vitória BA
+2204198,63,Luís Felipe,Criciúma EC
+2204205,27,Alisson,Cruzeiro EC
+2204205,55,Marcelo Moreno,Cruzeiro EC
+2204206,67,Dinei,EC Vitória BA
+2204206,71,William Henrique,EC Vitória BA
+2204206,76,Vinícius,EC Vitória BA
+2204206,18,Cícero,Fluminense RJ
+2204208,63,Thiago Heleno,Figueirense
+2204208,45,Silvinho,Criciúma EC
+2204200,30,Emerson Sheik,Botafogo RJ
+2204200,32,Dankler,Botafogo RJ
+2204200,43,Emerson Sheik,Botafogo RJ
+2204200,73,Maxi Biancucchi,EC Bahia
+2204200,90,Branquinho,EC Bahia
+2204203,48,Diogo,SE Palmeiras
+2204203,69,Victor Luís,SE Palmeiras
+2204203,13,Héctor Canteros,Flamengo RJ
+2204203,32,Alecsandro,Flamengo RJ
+2204204,60,Hélder,Coritiba FC
+2204204,63,Joel Tagueu,Coritiba FC
+2204204,86,Joel Tagueu,Coritiba FC
+2204204,45,Michel Bastos,São Paulo FC
+2204202,9,Malcom,Corinthians SP
+2204202,49,Ferrugem,Corinthians SP
+2204209,79,Erik,Goiás EC
+2204209,90,Jackson Souza,Goiás EC
+2204209,18,Guilherme,Atlético Mineiro
+2204209,43,Guilherme,Atlético Mineiro
+2204209,45,Carlos,Atlético Mineiro
+2204214,81,Rafael Moura,Internacional
+2204218,69,Paulo Baier,Criciúma EC
+2204218,37,Pablo Zeballos,Botafogo RJ
+2204210,27,Eduardo,Flamengo RJ
+2204210,45,Fred,Fluminense RJ
+2204211,75,Felipe Azevedo,Sport Club Recife
+2204212,36,Fábio Santos,Corinthians SP
+2204212,66,Fábio Santos,Corinthians SP
+2204212,74,Paolo Guerrero,Corinthians SP
+2204212,6,Souza,São Paulo FC
+2204212,45,Édson Silva,São Paulo FC
+2204215,45,Ricardo Goulart,Cruzeiro EC
+2204215,52,Alisson,Cruzeiro EC
+2204215,39,Carlos,Atlético Mineiro
+2204215,41,Diego Tardelli,Atlético Mineiro
+2204215,90,Carlos,Atlético Mineiro
+2204216,9,Kadu,EC Vitória BA
+2204216,53,Luiz Gustavo,EC Vitória BA
+2204216,6,Kieza,EC Bahia
+2204213,40,Leandro Damião,Santos FC
+2204213,57,Robinho,Santos FC
+2204213,89,Lucas Lima,Santos FC
+2204213,45,Giovanni Augusto,Figueirense
+2204217,8,Dudu,Grêmio Porto Alegre
+2204219,7,Ramón,Goiás EC
+2204219,12,Esquerdinha,Goiás EC
+2204219,27,Erik,Goiás EC
+2204219,37,David,Goiás EC
+2204219,49,Thiago Mendes,Goiás EC
+2204219,90,Juninho,SE Palmeiras
+2204224,62,Alejandro Martinuccio,Coritiba FC
+2204224,8,Marcelo Moreno,Cruzeiro EC
+2204224,39,Éverton Ribeiro,Cruzeiro EC
+2204227,39,Charles Aránguiz,Internacional
+2204227,48,Eduardo Sasha,Internacional
+2204227,53,Andrés DAlessandro,Internacional
+2204226,72,Railan,EC Bahia
+2204229,10,Bruno Silva,Chapecoense
+2204229,67,Camilo,Chapecoense
+2204229,89,Leandro Pereira,Chapecoense
+2204222,18,Rogério Ceni,São Paulo FC
+2204222,90,Luís Fabiano,São Paulo FC
+2204222,36,Éverton,Flamengo RJ
+2204222,87,Alecsandro,Flamengo RJ
+2204228,84,Marcão,Figueirense
+2204220,62,Bolívar,Botafogo RJ
+2204223,26,Lúcio,SE Palmeiras
+2204223,63,Henrique Dourado,SE Palmeiras
+2204225,12,Diego Tardelli,Atlético Mineiro
+2204225,54,Diego Tardelli,Atlético Mineiro
+2204225,24,Cicinho,Santos FC
+2204225,60,Thiago Ribeiro,Santos FC
+2204225,84,Geuvânio,Santos FC
+2204239,24,Leandro Pereira,Chapecoense
+2204239,54,Souza,Criciúma EC
+2204232,57,Alexandre Pato,São Paulo FC
+2204232,53,Fred,Fluminense RJ
+2204232,73,Wagner,Fluminense RJ
+2204232,90,Darío Conca,Fluminense RJ
+2204230,50,Hernán Barcos,Grêmio Porto Alegre
+2204230,77,Hernán Barcos,Grêmio Porto Alegre
+2204234,42,Cléo,Atlético Paranaense
+2204235,85,Diego Tardelli,Atlético Mineiro
+2204235,90,Guilherme,Atlético Mineiro
+2204236,18,Emanuel Biancucchi,EC Bahia
+2204236,49,Emanuel Biancucchi,EC Bahia
+2204236,62,Eduardo,Flamengo RJ
+2204233,14,David Braz,Santos FC
+2204233,63,Geuvânio,Santos FC
+2204237,11,Andrés DAlessandro,Internacional
+2204237,31,Alex,Internacional
+2204237,44,Eduardo Sasha,Internacional
+2204237,73,Eduardo Sasha,Internacional
+2204237,15,Leandro Almeida,Coritiba FC
+2204237,64,Zé Eduardo,Coritiba FC
+2204238,76,Clayton,Figueirense
+2204238,78,Clayton,Figueirense
+2204238,81,Marcão,Figueirense
+2204238,35,Jonathan Cristaldo,SE Palmeiras
+2204243,52,Wesley,SE Palmeiras
+2204243,58,Henrique Dourado,SE Palmeiras
+2204243,66,Henrique Dourado,SE Palmeiras
+2204243,70,Henrique Dourado,SE Palmeiras
+2204243,41,Leandro Pereira,Chapecoense
+2204243,90,Leandro Pereira,Chapecoense
+2204240,24,Robinho,Santos FC
+2204241,22,Fred,Fluminense RJ
+2204241,83,Marcos Aurélio,EC Bahia
+2204244,46,Hélder,Coritiba FC
+2204246,52,Marcinho,EC Vitória BA
+2204246,74,Marcinho,EC Vitória BA
+2204246,68,Rogério,Botafogo RJ
+2204247,55,Rogério Ceni,São Paulo FC
+2204242,25,Anderson Martins,Corinthians SP
+2204242,73,Paolo Guerrero,Corinthians SP
+2204242,90,Luciano,Corinthians SP
+2204245,20,Marcelo Moreno,Cruzeiro EC
+2204245,34,Marquinhos,Cruzeiro EC
+2204245,56,Alex,Internacional
+2204248,6,Eduardo Santos,Criciúma EC
+2204248,19,Souza,Criciúma EC
+2204248,61,Souza,Criciúma EC
+2204248,13,Carlos,Atlético Mineiro
+2204249,35,Ramón,Goiás EC
+2204250,50,Henrique Dourado,SE Palmeiras
+2204252,6,Maicon,São Paulo FC
+2204254,45,Luccas Claro,Coritiba FC
+2204256,3,Edno,EC Vitória BA
+2204256,42,Edno,EC Vitória BA
+2204256,73,Erik,Goiás EC
+2204256,75,Bruno Mineiro,Goiás EC
+2204255,73,Luciano,Corinthians SP
+2204257,30,Alan Ruíz,Grêmio Porto Alegre
+2204257,76,Dudu,Grêmio Porto Alegre
+2204258,57,Mazola,Figueirense
+2204258,5,Eduardo,Flamengo RJ
+2204258,90,Nixon,Flamengo RJ
+2204253,10,Leandro Damião,Santos FC
+2204259,36,Diones,Chapecoense
+2204259,40,Leandro Pereira,Chapecoense
+2204259,60,Leandro Pereira,Chapecoense
+2204259,76,Diones,Chapecoense
+2204259,89,Camilo,Chapecoense
+2204262,25,Jádson,Corinthians SP
+2204262,87,Edílson,Botafogo RJ
+2204269,10,Jackson Souza,Goiás EC
+2204269,25,David,Goiás EC
+2204269,53,Erik,Goiás EC
+2204263,68,Pablo Mouche,SE Palmeiras
+2204263,75,João Pedro,SE Palmeiras
+2204263,56,Hernán Barcos,Grêmio Porto Alegre
+2204260,57,Héctor Canteros,Flamengo RJ
+2204260,62,Gabriel,Flamengo RJ
+2204260,15,Dedé,Cruzeiro EC
+2204265,72,Luan,Atlético Mineiro
+2204266,39,Tiago Luis,Chapecoense
+2204267,53,Alex,Internacional
+2204267,87,Valdivia,Internacional
+2204267,86,Fred,Fluminense RJ
+2204261,1,Rithely,Sport Club Recife
+2204261,41,Diego Souza,Sport Club Recife
+2204261,28,Dinei,EC Vitória BA
+2204264,51,Dellatorre,Atlético Paranaense
+2204264,69,Bady,Atlético Paranaense
+2204264,90,Dellatorre,Atlético Paranaense
+2204268,17,Joílson,Criciúma EC
+2204268,23,Souza,Criciúma EC
+2204268,61,Lucca,Criciúma EC
+2204271,45,Wagner,Fluminense RJ
+2204271,50,Wagner,Fluminense RJ
+2204271,56,Darío Conca,Fluminense RJ
+2204271,85,Fred,Fluminense RJ
+2204271,45,Ronaldo Alves,Criciúma EC
+2204271,69,Lucca,Criciúma EC
+2204272,40,Rogério Ceni,São Paulo FC
+2204272,79,Ganso,São Paulo FC
+2204272,88,Fahel,EC Bahia
+2204275,28,Douglas Santos,Atlético Mineiro
+2204273,85,Henrique Dourado,SE Palmeiras
+2204273,38,Geuvânio,Santos FC
+2204273,41,Gabriel Barbosa,Santos FC
+2204273,49,Gabriel Barbosa,Santos FC
+2204274,17,Cléo,Atlético Paranaense
+2204274,45,Cléo,Atlético Paranaense
+2204274,8,Eduardo,Flamengo RJ
+2204277,73,Nilmar,Internacional
+2204277,4,Paolo Guerrero,Corinthians SP
+2204277,45,Gil,Corinthians SP
+2204278,33,Marco Antonio,Figueirense
+2204278,73,Marcão,Figueirense
+2204278,88,Mazola,Figueirense
+2204278,90,Marcão,Figueirense
+2204270,60,Wallyson,Botafogo RJ
+2204270,22,Diego Souza,Sport Club Recife
+2204276,84,Dedé,Cruzeiro EC
+2204286,85,Guilherme Santos,EC Bahia
+2204286,54,Luan,Atlético Mineiro
+2204280,69,Gabriel,Flamengo RJ
+2204280,90,Gabriel,Flamengo RJ
+2204282,19,Fábio Santos,Corinthians SP
+2204282,80,Luciano,Corinthians SP
+2204282,84,Edno,EC Vitória BA
+2204285,90,Dagoberto,Cruzeiro EC
+2204285,88,Pablo Mouche,SE Palmeiras
+2204288,78,Cléo,Atlético Paranaense
+2204284,29,Joel Tagueu,Coritiba FC
+2204284,88,Alex,Coritiba FC
+2204287,38,Hernán Barcos,Grêmio Porto Alegre
+2204283,90,Edson,Fluminense RJ
+2204281,90,Esquerdinha,Goiás EC
+2204291,48,Wagner,Fluminense RJ
+2204291,90,Fred,Fluminense RJ
+2204291,90,Cleberson,Atlético Paranaense
+2204293,26,Henrique Dourado,SE Palmeiras
+2204293,90,Danilo,Corinthians SP
+2204298,90,Pablo,Figueirense
+2204298,36,Marquinhos,Cruzeiro EC
+2204294,31,Leandro Almeida,Coritiba FC
+2204294,85,Cristian Riveros,Grêmio Porto Alegre
+2204295,35,Tiago,Atlético Mineiro
+2204295,48,Jesús Dátolo,Atlético Mineiro
+2204295,69,Carlos,Atlético Mineiro
+2204295,18,Rodrigo Mancha,Sport Club Recife
+2204295,78,Danilo Barcelos,Sport Club Recife
+2204296,63,Luis Cáceres,EC Vitória BA
+2204296,79,Edno,EC Vitória BA
+2204296,86,Edno,EC Vitória BA
+2204296,67,Souza,Criciúma EC
+2204299,90,Leandro Pereira,Chapecoense
+2204299,13,Bruno Uvini,Santos FC
+2204290,35,Rogério,Botafogo RJ
+2204290,67,Wallyson,Botafogo RJ
+2204290,75,Eduardo,Flamengo RJ
+2204297,10,Alan Patrick,Internacional
+2204297,38,Nilmar,Internacional
+2204292,3,Édson Silva,São Paulo FC
+2204292,6,Luís Fabiano,São Paulo FC
+2204292,59,Alan Kardec,São Paulo FC
+2204307,45,Richarlyson,EC Vitória BA
+2204309,26,Fred,Fluminense RJ
+2204309,88,Darío Conca,Fluminense RJ
+2204302,46,Elías,Corinthians SP
+2204302,90,Bruno Henrique,Corinthians SP
+2204302,25,Robinho,Coritiba FC
+2204302,32,Alex,Coritiba FC
+2204301,65,Diego Souza,Sport Club Recife
+2204303,63,Gabriel Barbosa,Santos FC
+2204303,25,Charles Aránguiz,Internacional
+2204303,81,Charles Aránguiz,Internacional
+2204305,5,Marquinhos,Cruzeiro EC
+2204305,16,Egídio,Cruzeiro EC
+2204305,90,Léo,Cruzeiro EC
+2204308,71,Souza,Criciúma EC
+2204308,37,Édson Silva,São Paulo FC
+2204308,83,Alan Kardec,São Paulo FC
+2204300,56,Anderson Pico,Flamengo RJ
+2204300,61,Nixon,Flamengo RJ
+2204300,70,Nixon,Flamengo RJ
+2204304,1,Paulinho Dias,Atlético Paranaense
+2204306,36,Mazinho,SE Palmeiras
+2204313,38,Tiago,Atlético Mineiro
+2204313,65,Dodô,Atlético Mineiro
+2204314,45,Joel Tagueu,Coritiba FC
+2204310,28,Cléo,Atlético Paranaense
+2204310,90,Cléo,Atlético Paranaense
+2204311,89,Danilo Barcelos,Sport Club Recife
+2204311,90,Mike,Sport Club Recife
+2204311,9,Márcio Araújo,Flamengo RJ
+2204311,24,Nixon,Flamengo RJ
+2204316,56,Kadu,EC Vitória BA
+2204316,14,Luís Fabiano,São Paulo FC
+2204316,77,Kaká,São Paulo FC
+2204317,28,Luan,Grêmio Porto Alegre
+2204317,49,Ramiro,Grêmio Porto Alegre
+2204317,76,Alan Ruíz,Grêmio Porto Alegre
+2204317,82,Alan Ruíz,Grêmio Porto Alegre
+2204317,61,Rafael Moura,Internacional
+2204318,64,Marcão,Figueirense
+2204312,7,Paolo Guerrero,Corinthians SP
+2204315,59,Marcelo Moreno,Cruzeiro EC
+2204315,64,Ricardo Goulart,Cruzeiro EC
+2204315,90,Willian,Cruzeiro EC
+2204315,3,Lucca,Criciúma EC
+2204319,63,Erik,Goiás EC
+2204319,70,Erik,Goiás EC
+2204319,76,Thiago Mendes,Goiás EC
+2204321,74,Edson,Fluminense RJ
+2204328,12,Dudu,Grêmio Porto Alegre
+2204328,39,Hernán Barcos,Grêmio Porto Alegre
+2204328,66,Ramiro,Grêmio Porto Alegre
+2204320,18,Lucas Mugni,Flamengo RJ
+2204320,58,Éverton,Flamengo RJ
+2204320,81,Nixon,Flamengo RJ
+2204320,67,Joel Tagueu,Coritiba FC
+2204320,84,Joel Tagueu,Coritiba FC
+2204323,53,Ricardo Goulart,Cruzeiro EC
+2204324,54,Diego Souza,Sport Club Recife
+2204326,70,Kieza,EC Bahia
+2204326,25,Malcom,Corinthians SP
+2204326,84,Renato Augusto,Corinthians SP
+2204327,79,Paulão,Internacional
+2204322,22,Luís Fabiano,São Paulo FC
+2204322,79,Rafael Tolói,São Paulo FC
+2204325,52,Dodô,Atlético Mineiro
+2204325,45,Jefferson,Figueirense
+2204329,81,Dinei,EC Vitória BA
+2204332,49,Luís Fabiano,São Paulo FC
+2204332,18,Paulão,Internacional
+2204330,51,França,Figueirense
+2204334,50,Cleberson,Atlético Paranaense
+2204334,28,Robinho,Santos FC
+2204336,19,Dinei,EC Vitória BA
+2204336,37,Luccas Claro,Coritiba FC
+2204338,52,Guilherme Santos,EC Bahia
+2204339,45,Felipe Macedo,Goiás EC
+2204333,78,Ananias,Sport Club Recife
+2204333,90,Patric,Sport Club Recife
+2204335,25,Luan,Atlético Mineiro
+2204335,45,Diego Tardelli,Atlético Mineiro
+2204335,63,Luan,Atlético Mineiro
+2204335,73,Dodô,Atlético Mineiro
+2204331,47,Bruno Silva,Chapecoense
+2204331,66,Camilo,Chapecoense
+2204331,71,Leandro Pereira,Chapecoense
+2204331,84,Bruno Silva,Chapecoense
+2204331,86,Rafael Lima,Chapecoense
+2204337,13,Cristian Riveros,Grêmio Porto Alegre
+2204337,66,Ricardo Goulart,Cruzeiro EC
+2204337,76,Éverton Ribeiro,Cruzeiro EC
+2204347,21,Rafael Moura,Internacional
+2204347,90,Fabrício,Internacional
+2204347,24,Dodô,Atlético Mineiro
+2204346,62,Fahel,EC Bahia
+2204346,73,Henrique Almeida,EC Bahia
+2204346,71,Bady,Atlético Paranaense
+2204340,38,Élton,Flamengo RJ
+2204340,65,Cléber Santana,Criciúma EC
+2204341,11,Mike,Sport Club Recife
+2204341,32,Ewerton Páscoa,Sport Club Recife
+2204341,40,Joelinton,Sport Club Recife
+2204341,90,Fred,Fluminense RJ
+2204343,55,Boschilia,São Paulo FC
+2204345,13,Ricardo Goulart,Cruzeiro EC
+2204345,63,Éverton Ribeiro,Cruzeiro EC
+2204345,23,Samuel Rosa,Goiás EC
+2204348,17,Pablo,Figueirense
+2204348,59,Pablo,Figueirense
+2204342,83,Paolo Guerrero,Corinthians SP
+2204344,55,Zé Eduardo,Coritiba FC
+2204344,71,Joel Tagueu,Coritiba FC
+2204349,51,Leandro Pereira,Chapecoense
+2204349,63,Leandro Pereira,Chapecoense
+2204356,24,Taiberson Ruan,Internacional
+2204356,65,Fabrício,Internacional
+2204356,79,Valdivia,Internacional
+2204356,38,Renato Augusto,SE Palmeiras
+2204357,48,Lucca,Criciúma EC
+2204357,68,Lucca,Criciúma EC
+2204357,10,Patric,Sport Club Recife
+2204357,58,Ewerton Páscoa,Sport Club Recife
+2204350,29,Éverton,Flamengo RJ
+2204350,69,Élton,Flamengo RJ
+2204350,80,Éverton,Flamengo RJ
+2204350,86,Nixon,Flamengo RJ
+2204351,58,Edson,Fluminense RJ
+2204351,65,Fred,Fluminense RJ
+2204351,71,Fred,Fluminense RJ
+2204351,90,Darío Conca,Fluminense RJ
+2204351,5,Paolo Guerrero,Corinthians SP
+2204351,40,Ralf,Corinthians SP
+2204351,84,Danilo,Corinthians SP
+2204352,70,Édson Silva,São Paulo FC
+2204352,84,Mazola,Figueirense
+2204353,48,Leandro Damião,Santos FC
+2204353,90,Leandro Damião,Santos FC
+2204359,41,Bruno Rangel,Chapecoense
+2204359,72,Hugo Ragelli,Cruzeiro EC
+2204354,62,Marcelo Cirino,Atlético Paranaense
+2204355,32,Rafael Galhardo,EC Bahia
+2204358,90,Pedro Botelho,Atlético Mineiro
+2204358,6,Carlinhos,Coritiba FC
+2204358,85,Leandro Almeida,Coritiba FC
+2204362,27,Elías,Corinthians SP
+2204362,72,Fábio Santos,Corinthians SP
+2204362,61,Roger Guedes,Criciúma EC
+2204368,50,Pablo,Figueirense
+2204368,87,Rafael Moura,Internacional
+2204368,90,Wellington Silva,Internacional
+2204361,4,Joelinton,Sport Club Recife
+2204363,20,Henrique Dourado,SE Palmeiras
+2204363,10,Ricardo Silva,Atlético Paranaense
+2204364,35,Zé Eduardo,Coritiba FC
+2204364,85,Dudu,Coritiba FC
+2204364,90,Keirrison,Coritiba FC
+2204364,14,Henrique Almeida,EC Bahia
+2204364,26,Rômulo,EC Bahia
+2204365,45,Nílton,Cruzeiro EC
+2204365,59,Marcelo Moreno,Cruzeiro EC
+2204365,34,Fred,Fluminense RJ
+2204366,90,Thiago Ribeiro,Santos FC
+2204367,59,Luan,Grêmio Porto Alegre
+2204367,32,Luiz Antônio,Flamengo RJ
+2204369,15,Erik,Goiás EC
+2204369,41,Welinton,Goiás EC
+2204369,60,David,Goiás EC
+2204369,90,Erik,Goiás EC
+2204369,28,Abuda,Chapecoense
+2204369,64,Bruno Rangel,Chapecoense

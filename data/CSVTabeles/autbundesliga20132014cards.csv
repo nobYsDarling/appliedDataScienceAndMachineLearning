@@ -1,0 +1,892 @@
+GameID,Minute,Player,Team,Card
+1765599,58,Tomáš Jun,Austria Wien,yellow
+1765599,90,Rubin Okotie,Austria Wien,yellow
+1765599,45,Markus Rusek,FC Admira Wacker,yellow
+1765599,70,Patrick Tischler,FC Admira Wacker,yellow
+1765599,87,Stephan Auer,FC Admira Wacker,yellow
+1765599,89,Bernhard Schachner,FC Admira Wacker,yellow
+1765599,90,Christoph Schösswendter,FC Admira Wacker,yellow
+1765595,12,Dominique Taboga,SV Grödig,yellow
+1765595,14,Peter Tschernegg,SV Grödig,yellow
+1765595,23,Dieter Elsneg,SV Grödig,yellow
+1765595,26,Thomas Salamon,SV Grödig,yellow
+1765595,39,Tadej Trdina,SV Grödig,yellow
+1765595,77,Kevin Fend,SV Grödig,yellow
+1765595,82,Sascha Boller,SV Grödig,yellow
+1765595,90,Ione Cabrera,SV Grödig,yellow
+1765595,32,Thomas Hinum,SV Ried,yellow
+1765595,44,Oliver Kragl,SV Ried,yellow
+1765595,64,Thomas Gebauer,SV Ried,yellow
+1765595,82,Sandro,SV Ried,yellow
+1765595,90,Marcel Ziegl,SV Ried,yellow
+1765597,61,Daniel Dunst,Wolfsberger AC,yellow
+1765597,64,Mihret Topčagić,Wolfsberger AC,yellow
+1765597,38,Thomas Schrammel,Rapid Wien,yellow
+1765597,39,Marcel Sabitzer,Rapid Wien,yellow
+1765597,73,Guido Burgstaller,Rapid Wien,yellow
+1765597,89,Harald Pichler,Rapid Wien,yellow
+1765598,49,Thomas Pichlmann,SC Wiener Neustadt,yellow
+1765598,63,Stefan Rakowitz,SC Wiener Neustadt,yellow
+1765598,90,David Witteveen,SC Wiener Neustadt,yellow
+1765598,90,Christoph Freitag,SC Wiener Neustadt,yellow
+1765598,82,Christian Schwegler,RB Salzburg,yellow
+1765596,63,Stipe Vučur,FC Wacker Innsbruck,yellow
+1765596,65,Christian Schilling,FC Wacker Innsbruck,yellow
+1765596,50,Robert Berić,Sturm Graz,yellow
+1765596,85,Aleksandar Todorovski,Sturm Graz,yellow
+1765596,85,Anel Hadžić,Sturm Graz,yellow
+1765596,90,Daniel Offenbacher,Sturm Graz,yellow
+1765602,16,Dennis Mimm,SC Wiener Neustadt,red
+1765600,3,Bernhard Janeczek,SV Ried,yellow
+1765600,70,René Gartler,SV Ried,yellow
+1765600,83,Thomas Gebauer,SV Ried,yellow
+1765600,38,Mihret Topčagić,Wolfsberger AC,yellow
+1765600,59,Danijel Mićić,Wolfsberger AC,yellow
+1765600,60,Michael Sollbauer,Wolfsberger AC,yellow
+1765600,73,Dario Baldauf,Wolfsberger AC,yellow-red
+1765603,12,Martin Hinteregger,RB Salzburg,yellow
+1765603,46,Kevin Kampl,RB Salzburg,yellow
+1765603,72,Stefan Ilsanker,RB Salzburg,yellow
+1765603,29,Tomáš Jun,Austria Wien,yellow
+1765603,57,Florian Mader,Austria Wien,yellow
+1765603,58,Kaja Rogulj,Austria Wien,yellow
+1765603,64,Alexander Gorgon,Austria Wien,yellow
+1765604,44,Markus Rusek,FC Admira Wacker,yellow
+1765604,40,Stipe Vučur,FC Wacker Innsbruck,yellow
+1765604,60,Stjepan Vuleta,FC Wacker Innsbruck,yellow
+1765604,70,Marco Kofler,FC Wacker Innsbruck,yellow
+1765601,40,Milan Dudić,Sturm Graz,yellow
+1765601,18,Thomas Zündel,SV Grödig,yellow
+1765601,28,Lukas Schubert,SV Grödig,yellow
+1765609,11,Boris Hüttenbrenner,Wolfsberger AC,yellow
+1765609,90,Danijel Mićić,Wolfsberger AC,yellow
+1765605,5,Sascha Boller,SV Grödig,yellow
+1765605,22,Mario Leitgeb,SV Grödig,yellow
+1765605,28,Tadej Trdina,SV Grödig,yellow
+1765605,48,Dominique Taboga,SV Grödig,yellow
+1765605,23,Peter Pöllhuber,FC Admira Wacker,red
+1765605,31,Christoph Schösswendter,FC Admira Wacker,red
+1765605,37,Patrick Tischler,FC Admira Wacker,yellow
+1765605,41,Bernhard Schachner,FC Admira Wacker,yellow
+1765605,54,Issiaka Ouédraogo,FC Admira Wacker,yellow
+1765605,88,Daniel Drescher,FC Admira Wacker,red
+1765606,30,Marco Kofler,FC Wacker Innsbruck,yellow
+1765606,79,Stipe Vučur,FC Wacker Innsbruck,yellow
+1765606,80,Lukas Hinterseer,FC Wacker Innsbruck,yellow
+1765606,85,Stefan Hierländer,RB Salzburg,yellow
+1765610,25,Fabian Koch,Austria Wien,yellow
+1765610,60,Lukas Rotpuller,Austria Wien,yellow
+1765610,8,Thomas Reifeltshammer,SV Ried,yellow
+1765610,20,Marcel Ziegl,SV Ried,yellow
+1765610,38,Clemens Walch,SV Ried,yellow
+1765610,87,Oliver Kragl,SV Ried,yellow
+1765610,90,Sandro,SV Ried,yellow
+1765607,46,Tobias Kainz,Sturm Graz,yellow
+1765607,51,Aleksandar Todorovski,Sturm Graz,yellow
+1765607,56,Nikola Vujadinović,Sturm Graz,yellow
+1765607,83,Christoph Kröpfl,Sturm Graz,yellow
+1765607,85,Florian Kainz,Sturm Graz,yellow
+1765607,89,Patrick Wolf,Sturm Graz,yellow
+1765607,1,Maximilian Hofmann,Rapid Wien,red
+1765607,35,Marcel Sabitzer,Rapid Wien,yellow
+1765607,38,Guido Burgstaller,Rapid Wien,yellow
+1765607,40,Thanos Petsos,Rapid Wien,yellow
+1765615,43,Manuel Kerhe,Wolfsberger AC,yellow
+1765615,71,Alexander Kofler,Wolfsberger AC,yellow
+1765615,83,Michele Polverino,Wolfsberger AC,yellow-red
+1765615,18,Marco Kofler,FC Wacker Innsbruck,yellow
+1765615,85,Thomas Bergmann,FC Wacker Innsbruck,yellow
+1765615,88,Christian Schilling,FC Wacker Innsbruck,yellow
+1765614,49,René Gartler,SV Ried,yellow
+1765614,90,Matthias Koch,SC Wiener Neustadt,yellow
+1765618,45,Sadio Mané,RB Salzburg,yellow
+1765618,55,Stefan Hierländer,RB Salzburg,yellow
+1765618,83,Valon Berisha,RB Salzburg,yellow
+1765618,63,Robert Strobl,SV Grödig,yellow
+1765618,74,Ione Cabrera,SV Grödig,yellow
+1765618,76,Thomas Zündel,SV Grödig,yellow-red
+1765618,88,Tadej Trdina,SV Grödig,yellow
+1765619,30,Bernhard Schachner,FC Admira Wacker,yellow
+1765619,41,Stefan Schwab,FC Admira Wacker,yellow
+1765619,39,Andreas Hölzl,Sturm Graz,yellow
+1765619,41,Nikola Vujadinović,Sturm Graz,yellow
+1765619,90,Martin Ehrenreich,Sturm Graz,yellow
+1765617,26,Stephan Palla,Rapid Wien,yellow-red
+1765617,26,Guido Burgstaller,Rapid Wien,yellow
+1765617,52,Kaja Rogulj,Austria Wien,yellow
+1765617,85,Manuel Ortlechner,Austria Wien,yellow
+1765622,19,Sadio Mané,RB Salzburg,yellow
+1765622,33,Andreas Ulmer,RB Salzburg,yellow
+1765622,37,Stefan Hierländer,RB Salzburg,yellow
+1765622,65,Dušan Švento,RB Salzburg,yellow
+1765622,90,Martin Hinteregger,RB Salzburg,yellow
+1765620,30,Mario Leitgeb,SV Grödig,yellow
+1765620,54,Peter Tschernegg,SV Grödig,yellow
+1765620,70,Dominique Taboga,SV Grödig,red
+1765620,7,Boris Hüttenbrenner,Wolfsberger AC,yellow
+1765620,85,Jacobo,Wolfsberger AC,yellow
+1765621,19,Christian Schilling,FC Wacker Innsbruck,yellow
+1765621,36,Roman Wallner,FC Wacker Innsbruck,yellow
+1765621,49,Thomas Reifeltshammer,SV Ried,yellow
+1765621,60,Jan Marc Riegler,SV Ried,yellow
+1765621,69,Sandro Wieser,SV Ried,yellow
+1765621,87,René Gartler,SV Ried,yellow-red
+1765623,86,Markus Suttner,Austria Wien,yellow
+1765623,46,Thomas Fröschl,SC Wiener Neustadt,yellow
+1765623,58,Christoph Martschinko,SC Wiener Neustadt,yellow
+1765623,63,Remo Mally,SC Wiener Neustadt,yellow
+1765623,84,Kristijan Dobras,SC Wiener Neustadt,yellow
+1765624,16,Bernhard Schachner,FC Admira Wacker,yellow
+1765624,29,Thomas Ebner,FC Admira Wacker,yellow
+1765624,76,Thorsten Schick,FC Admira Wacker,yellow
+1765624,26,Steffen Hofmann,Rapid Wien,yellow
+1765624,38,Christopher Trimmel,Rapid Wien,yellow
+1765624,58,Marcel Sabitzer,Rapid Wien,yellow
+1765624,89,Harald Pichler,Rapid Wien,yellow
+1765625,53,Thomas Gebauer,SV Ried,yellow
+1765625,79,Oliver Kragl,SV Ried,yellow
+1765625,80,Sandro Wieser,SV Ried,yellow
+1765625,85,Sandro,SV Ried,yellow-red
+1765625,38,Patrick Wolf,Sturm Graz,yellow
+1765625,48,Manuel Weber,Sturm Graz,yellow
+1765625,53,Anel Hadžić,Sturm Graz,yellow
+1765625,79,Michael Madl,Sturm Graz,yellow
+1765627,45,Michele Polverino,Wolfsberger AC,yellow
+1765627,76,Michael Sollbauer,Wolfsberger AC,yellow
+1765627,34,Lukas Rotpuller,Austria Wien,yellow
+1765627,51,Emir Dilaver,Austria Wien,yellow
+1765627,65,Thomas Murg,Austria Wien,yellow
+1765630,20,Mario Pollhammer,SC Wiener Neustadt,yellow
+1765630,21,Stefan Rakowitz,SC Wiener Neustadt,red
+1765630,18,Stipe Vučur,FC Wacker Innsbruck,red
+1765630,22,Marco Kofler,FC Wacker Innsbruck,yellow
+1765630,49,Lukas Hinterseer,FC Wacker Innsbruck,yellow
+1765630,90,Tomáš Abrahám,FC Wacker Innsbruck,red
+1765630,90,Daniel Schütz,FC Wacker Innsbruck,yellow
+1765628,31,Christopher Dibon,Rapid Wien,yellow
+1765628,39,Thanos Petsos,Rapid Wien,yellow
+1765628,50,Steffen Hofmann,Rapid Wien,yellow
+1765628,55,Christopher Trimmel,Rapid Wien,yellow
+1765628,76,Brian Behrendt,Rapid Wien,yellow
+1765628,80,Lukas Denner,Rapid Wien,yellow
+1765628,17,Mario Leitgeb,SV Grödig,yellow
+1765628,67,Thomas Salamon,SV Grödig,yellow
+1765628,75,Thomas Zündel,SV Grödig,yellow
+1765628,85,Philipp Huspek,SV Grödig,yellow
+1765628,88,Maximilian Karner,SV Grödig,yellow
+1765632,55,Martin Hinteregger,RB Salzburg,yellow
+1765632,21,Bernhard Schachner,FC Admira Wacker,yellow
+1765632,53,Wilfried Domoraud,FC Admira Wacker,yellow
+1765632,59,Stefan Schwab,FC Admira Wacker,yellow
+1765636,20,Anel Hadžić,Sturm Graz,yellow
+1765636,37,Florian Kainz,Sturm Graz,yellow
+1765636,64,Daniel Beichler,Sturm Graz,yellow
+1765636,18,José Antonio Solano,Wolfsberger AC,yellow
+1765636,25,Gernot Suppan,Wolfsberger AC,yellow
+1765636,53,Christian Falk,Wolfsberger AC,yellow
+1765636,81,Daniel Segovia,Wolfsberger AC,yellow
+1765635,68,Thomas Zündel,SV Grödig,yellow
+1765635,17,Peter Hlinka,SC Wiener Neustadt,yellow
+1765635,38,Kristijan Dobras,SC Wiener Neustadt,yellow
+1765635,45,Remo Mally,SC Wiener Neustadt,yellow
+1765639,27,James Holland,Austria Wien,yellow
+1765639,72,Alexander Grünwald,Austria Wien,yellow
+1765639,90,Manuel Ortlechner,Austria Wien,yellow
+1765639,16,Christopher Wernitznig,FC Wacker Innsbruck,yellow
+1765639,60,Sebastian Siller,FC Wacker Innsbruck,yellow
+1765639,64,Thomas Löffler,FC Wacker Innsbruck,yellow
+1765640,6,Stefan Schwab,FC Admira Wacker,yellow
+1765640,73,Thorsten Schick,FC Admira Wacker,yellow
+1765640,82,Issiaka Ouédraogo,FC Admira Wacker,yellow
+1765640,86,Christoph Schösswendter,FC Admira Wacker,yellow
+1765640,90,Thomas Ebner,FC Admira Wacker,yellow
+1765640,23,Oliver Kragl,SV Ried,yellow
+1765640,25,Sandro Wieser,SV Ried,yellow
+1765640,25,Thomas Hinum,SV Ried,yellow
+1765640,55,Robert Žulj,SV Ried,yellow
+1765640,62,Jan Marc Riegler,SV Ried,yellow
+1765640,87,Marcel Ziegl,SV Ried,yellow
+1765637,59,Martin Hinteregger,RB Salzburg,yellow
+1765637,76,Stefan Hierländer,RB Salzburg,yellow
+1765637,90,Florian Klein,RB Salzburg,yellow
+1765637,22,Terrence Boyd,Rapid Wien,yellow
+1765637,34,Thanos Petsos,Rapid Wien,yellow
+1765637,45,Harald Pichler,Rapid Wien,yellow
+1765637,90,Marcel Sabitzer,Rapid Wien,yellow
+1765656,2,Jaio,FC Wacker Innsbruck,red
+1765656,34,Roman Wallner,FC Wacker Innsbruck,yellow
+1765656,61,Daniel Schütz,FC Wacker Innsbruck,yellow
+1765656,85,Marco Kofler,FC Wacker Innsbruck,yellow
+1765656,48,Branko Bošković,Rapid Wien,yellow
+1765656,59,Thomas Schrammel,Rapid Wien,yellow
+1765657,66,Markus Katzer,FC Admira Wacker,yellow
+1765658,56,Christoph Martschinko,SC Wiener Neustadt,yellow
+1765658,62,Dennis Mimm,SC Wiener Neustadt,yellow
+1765658,21,Nikola Vujadinović,Sturm Graz,yellow
+1765658,21,Daniel Beichler,Sturm Graz,yellow
+1765658,57,Christian Klem,Sturm Graz,yellow
+1765658,84,Robert Berić,Sturm Graz,yellow
+1765659,61,Markus Suttner,Austria Wien,yellow
+1765659,74,Roman Kienast,Austria Wien,yellow
+1765659,90,Rubin Okotie,Austria Wien,yellow
+1765659,27,Kevin Fend,SV Grödig,yellow
+1765659,48,Robert Strobl,SV Grödig,yellow
+1765659,75,Peter Tschernegg,SV Grödig,yellow
+1765648,20,Robert Žulj,SV Ried,yellow
+1765648,40,Clemens Walch,SV Ried,yellow
+1765648,40,Thomas Hinum,SV Ried,yellow
+1765648,69,Marcel Ziegl,SV Ried,yellow
+1765648,21,Stefan Ilsanker,RB Salzburg,yellow
+1765648,53,Christian Schwegler,RB Salzburg,yellow
+1765648,55,Kevin Kampl,RB Salzburg,yellow
+1765648,60,Alan,RB Salzburg,red
+1765648,61,Rodnei,RB Salzburg,yellow
+1765648,81,Sadio Mané,RB Salzburg,yellow
+1765661,39,Daniel Offenbacher,Sturm Graz,yellow
+1765661,51,Christian Gratzei,Sturm Graz,red
+1765661,67,Florian Kainz,Sturm Graz,yellow
+1765661,77,Andreas Hölzl,Sturm Graz,yellow
+1765661,90,Michael Madl,Sturm Graz,yellow
+1765661,28,Philipp Hosiner,Austria Wien,yellow
+1765661,66,James Holland,Austria Wien,yellow
+1765661,69,Thomas Murg,Austria Wien,yellow-red
+1765661,71,Lukas Rotpuller,Austria Wien,yellow
+1765660,62,Thomas Salamon,SV Grödig,yellow
+1765660,76,Thomas Zündel,SV Grödig,yellow
+1765660,32,Thomas Bergmann,FC Wacker Innsbruck,yellow
+1765660,56,Alexander Hauser,FC Wacker Innsbruck,yellow
+1765660,64,Tomáš Abrahám,FC Wacker Innsbruck,yellow
+1765660,66,Roman Wallner,FC Wacker Innsbruck,yellow
+1765666,52,Stephan Auer,FC Admira Wacker,yellow
+1765666,65,Thorsten Schick,FC Admira Wacker,yellow
+1765666,87,Markus Katzer,FC Admira Wacker,yellow
+1765666,7,Manuel Wallner,SC Wiener Neustadt,yellow
+1765666,33,Mattias Sereinig,SC Wiener Neustadt,yellow
+1765666,76,Matthias Koch,SC Wiener Neustadt,yellow
+1765662,37,Christopher Dibon,Rapid Wien,yellow
+1765662,45,Thanos Petsos,Rapid Wien,yellow
+1765662,68,Terrence Boyd,Rapid Wien,yellow
+1765662,23,Clemens Walch,SV Ried,yellow
+1765662,90,Jan Marc Riegler,SV Ried,yellow
+1765664,86,Christian Schwegler,RB Salzburg,yellow
+1765664,51,Michele Polverino,Wolfsberger AC,yellow
+1765664,69,Roland Putsche,Wolfsberger AC,yellow
+1765664,79,Dario Baldauf,Wolfsberger AC,yellow
+1765664,87,Sandro Gotal,Wolfsberger AC,yellow
+1765664,88,Christian Falk,Wolfsberger AC,yellow
+1765670,25,Jan Marc Riegler,SV Ried,yellow
+1765670,52,Marcel Ziegl,SV Ried,yellow
+1765670,55,Thomas Hinum,SV Ried,yellow
+1765670,61,Sandro,SV Ried,yellow
+1765670,69,Oliver Kragl,SV Ried,yellow
+1765670,37,Mario Leitgeb,SV Grödig,yellow-red
+1765670,79,Dominique Taboga,SV Grödig,yellow
+1765670,84,Lukas Schubert,SV Grödig,yellow
+1765680,34,Daniel Offenbacher,Sturm Graz,yellow
+1765680,46,Michael Madl,Sturm Graz,yellow
+1765680,72,Robert Berić,Sturm Graz,yellow
+1765680,16,Christian Schilling,FC Wacker Innsbruck,yellow
+1765680,60,Lukas Hinterseer,FC Wacker Innsbruck,yellow
+1765680,68,Stjepan Vuleta,FC Wacker Innsbruck,red
+1765680,75,Thomas Löffler,FC Wacker Innsbruck,yellow
+1765680,89,Simon Piesinger,FC Wacker Innsbruck,yellow
+1765683,83,Stephan Palla,Rapid Wien,yellow
+1765683,80,Michael Sollbauer,Wolfsberger AC,yellow
+1765687,34,Thomas Ebner,FC Admira Wacker,yellow
+1765687,15,Kaja Rogulj,Austria Wien,yellow
+1765687,45,James Holland,Austria Wien,yellow
+1765684,39,Mario Pollhammer,SC Wiener Neustadt,yellow
+1765684,68,Thomas Vollnhofer,SC Wiener Neustadt,yellow
+1765684,76,Matthias Koch,SC Wiener Neustadt,yellow
+1765693,65,Nemanja Rnić,Wolfsberger AC,yellow-red
+1765693,39,Clemens Walch,SV Ried,yellow
+1765693,59,Sandro Wieser,SV Ried,yellow
+1765693,61,Julius Perstaller,SV Ried,yellow
+1765693,72,Thomas Reifeltshammer,SV Ried,yellow
+1765693,82,Gernot Trauner,SV Ried,yellow
+1765694,59,Sascha Boller,SV Grödig,yellow
+1765694,88,Peter Tschernegg,SV Grödig,yellow
+1765694,19,Robert Berić,Sturm Graz,yellow
+1765694,23,Daniel Beichler,Sturm Graz,yellow
+1765694,70,Andreas Hölzl,Sturm Graz,yellow
+1765694,89,Nikola Vujadinović,Sturm Graz,yellow
+1765700,60,Sebastian Siller,FC Wacker Innsbruck,red
+1765700,61,Tomáš Abrahám,FC Wacker Innsbruck,yellow
+1765700,16,Markus Rusek,FC Admira Wacker,yellow
+1765700,74,Wilfried Domoraud,FC Admira Wacker,yellow
+1765699,33,Fabian Koch,Austria Wien,yellow
+1765699,66,Marin Leovac,Austria Wien,yellow
+1765699,56,Rodnei,RB Salzburg,yellow
+1765699,71,Sadio Mané,RB Salzburg,yellow
+1765696,35,Louis Schaub,Rapid Wien,yellow
+1765696,45,Christopher Dibon,Rapid Wien,yellow
+1765696,85,Harald Pichler,Rapid Wien,yellow
+1765707,16,Szabolcs Sáfár,FC Wacker Innsbruck,red
+1765707,29,Lukas Hinterseer,FC Wacker Innsbruck,yellow
+1765705,25,Richard Windbichler,FC Admira Wacker,yellow
+1765705,27,Maximilian Sax,FC Admira Wacker,yellow
+1765705,39,Wilfried Domoraud,FC Admira Wacker,red
+1765705,66,Stephan Auer,FC Admira Wacker,yellow
+1765705,76,Daniel Drescher,FC Admira Wacker,yellow
+1765705,79,Andreas Leitner,FC Admira Wacker,red
+1765705,34,Mario Leitgeb,SV Grödig,yellow
+1765705,61,Ione Cabrera,SV Grödig,yellow
+1765712,64,Sandro Gotal,Wolfsberger AC,yellow
+1765712,61,Manuel Wallner,SC Wiener Neustadt,yellow
+1765712,90,Christoph Freitag,SC Wiener Neustadt,yellow
+1765715,53,Sandro Wieser,SV Ried,yellow
+1765715,90,Bernhard Janeczek,SV Ried,yellow
+1765715,37,James Holland,Austria Wien,yellow
+1765715,49,Kaja Rogulj,Austria Wien,yellow
+1765710,14,Christopher Dibon,Rapid Wien,yellow
+1765710,27,Christopher Trimmel,Rapid Wien,yellow
+1765710,27,Steffen Hofmann,Rapid Wien,yellow
+1765710,30,Thanos Petsos,Rapid Wien,yellow
+1765710,27,Daniel Offenbacher,Sturm Graz,yellow
+1765710,40,Nikola Vujadinović,Sturm Graz,yellow
+1765710,51,Robert Berić,Sturm Graz,yellow
+1765710,82,David Schloffer,Sturm Graz,yellow
+1765724,19,Lukas Hinterseer,FC Wacker Innsbruck,yellow
+1765724,32,Andreas Kuen,FC Wacker Innsbruck,yellow
+1765724,77,Michele Polverino,Wolfsberger AC,yellow
+1765723,55,Christoph Freitag,SC Wiener Neustadt,yellow
+1765723,75,Peter Hlinka,SC Wiener Neustadt,yellow-red
+1765723,79,David Witteveen,SC Wiener Neustadt,yellow
+1765723,86,Manuel Wallner,SC Wiener Neustadt,yellow
+1765723,88,Thomas Reifeltshammer,SV Ried,yellow
+1765723,88,Thomas Hinum,SV Ried,yellow-red
+1765728,56,Daniel Offenbacher,Sturm Graz,yellow
+1765728,72,Milan Dudić,Sturm Graz,yellow
+1765728,83,Patrick Wolf,Sturm Graz,yellow
+1765728,85,Andreas Hölzl,Sturm Graz,yellow
+1765728,87,David Schloffer,Sturm Graz,yellow
+1765728,39,Thorsten Schick,FC Admira Wacker,yellow
+1765728,43,Daniel Toth,FC Admira Wacker,yellow
+1765728,63,Daniel Drescher,FC Admira Wacker,yellow
+1765725,77,Kaja Rogulj,Austria Wien,yellow
+1765725,17,Terrence Boyd,Rapid Wien,yellow
+1765725,39,Marcel Sabitzer,Rapid Wien,yellow
+1765727,46,Dominique Taboga,SV Grödig,yellow
+1765727,51,Marvin Potzmann,SV Grödig,yellow
+1765727,71,Sascha Boller,SV Grödig,yellow
+1765727,71,Mario Leitgeb,SV Grödig,yellow
+1765727,90,Ione Cabrera,SV Grödig,yellow-red
+1765727,31,Alan,RB Salzburg,yellow
+1765727,77,Franz Schiemer,RB Salzburg,yellow
+1765727,87,Sadio Mané,RB Salzburg,yellow
+1765727,90,Georg Teigl,RB Salzburg,red
+1765747,47,Christopher Dibon,Rapid Wien,red
+1765747,66,Louis Schaub,Rapid Wien,yellow
+1765747,29,Thomas Ebner,FC Admira Wacker,yellow
+1765747,35,Stephan Auer,FC Admira Wacker,yellow
+1765747,64,Issiaka Ouédraogo,FC Admira Wacker,yellow
+1765747,74,Thorsten Schick,FC Admira Wacker,yellow
+1765735,20,Nemanja Rnić,Wolfsberger AC,yellow
+1765735,14,Thomas Salamon,SV Grödig,yellow
+1765735,34,Sascha Boller,SV Grödig,yellow
+1765738,83,Jan Marc Riegler,SV Ried,yellow
+1765738,67,Darko Jevtić,FC Wacker Innsbruck,yellow
+1765741,5,Martin Hinteregger,RB Salzburg,yellow
+1765741,45,Alan,RB Salzburg,yellow
+1765741,8,Tobias Kainz,Sturm Graz,yellow
+1765741,36,Philipp Hütter,Sturm Graz,yellow
+1765741,89,Michael Madl,Sturm Graz,yellow
+1765741,90,Daniel Beichler,Sturm Graz,yellow
+1765743,34,Thomas Pichlmann,SC Wiener Neustadt,yellow
+1765743,36,Thomas Vollnhofer,SC Wiener Neustadt,red
+1765743,41,Mario Pollhammer,SC Wiener Neustadt,yellow
+1765743,51,Herbert Rauter,SC Wiener Neustadt,yellow
+1765743,45,Marin Leovac,Austria Wien,yellow
+1765743,51,James Holland,Austria Wien,red
+1765743,77,Fabian Koch,Austria Wien,yellow
+1765743,90,Christian Ramsebner,Austria Wien,yellow
+1765756,24,Darko Jevtić,FC Wacker Innsbruck,yellow
+1765756,39,Simon Piesinger,FC Wacker Innsbruck,yellow
+1765756,71,Jaio,FC Wacker Innsbruck,yellow
+1765756,9,Christoph Martschinko,SC Wiener Neustadt,yellow
+1765756,18,Christoph Freitag,SC Wiener Neustadt,yellow
+1765756,45,Jörg Siebenhandl,SC Wiener Neustadt,yellow
+1765756,59,Peter Hlinka,SC Wiener Neustadt,yellow
+1765756,76,Dennis Mimm,SC Wiener Neustadt,yellow
+1765756,87,David Witteveen,SC Wiener Neustadt,yellow
+1765754,50,Philipp Hosiner,Austria Wien,yellow
+1765754,78,Roman Kienast,Austria Wien,yellow
+1765754,90,Tomas Šimkovič,Austria Wien,yellow
+1765754,90,Thomas Murg,Austria Wien,yellow
+1765754,66,Michael Sollbauer,Wolfsberger AC,yellow
+1765754,78,Michele Polverino,Wolfsberger AC,yellow
+1765754,90,Boris Hüttenbrenner,Wolfsberger AC,yellow
+1765755,69,Harald Pichler,Rapid Wien,yellow
+1765755,71,Thanos Petsos,Rapid Wien,yellow
+1765757,15,Stefan Schwab,FC Admira Wacker,yellow
+1765757,31,René Schicker,FC Admira Wacker,yellow
+1765757,39,Thomas Ebner,FC Admira Wacker,yellow
+1765757,86,Richard Windbichler,FC Admira Wacker,yellow
+1765757,90,Christoph Schösswendter,FC Admira Wacker,yellow
+1765757,65,Christian Schwegler,RB Salzburg,yellow
+1765753,29,Philipp Hütter,Sturm Graz,yellow
+1765753,37,Christian Klem,Sturm Graz,yellow
+1765753,38,Bernhard Janeczek,SV Ried,yellow
+1765753,42,Oliver Kragl,SV Ried,yellow
+1765753,56,Jan Marc Riegler,SV Ried,yellow
+1765753,83,Andreas Schicker,SV Ried,yellow
+1765761,40,Peter Hlinka,SC Wiener Neustadt,yellow
+1765761,11,Ione Cabrera,SV Grödig,yellow
+1765761,34,Philipp Huspek,SV Grödig,yellow
+1765765,60,Marco Kofler,FC Wacker Innsbruck,yellow
+1765765,78,Stipe Vučur,FC Wacker Innsbruck,yellow
+1765765,81,Christian Schilling,FC Wacker Innsbruck,yellow
+1765765,78,James Holland,Austria Wien,yellow
+1765765,82,Markus Suttner,Austria Wien,yellow
+1765767,13,Thomas Hinum,SV Ried,yellow
+1765767,76,Toni Vastić,SV Ried,yellow
+1765767,46,Richard Windbichler,FC Admira Wacker,yellow
+1765767,80,Markus Rusek,FC Admira Wacker,yellow
+1765764,24,Christopher Trimmel,Rapid Wien,yellow
+1765764,38,Thomas Schrammel,Rapid Wien,yellow
+1765764,43,Brian Behrendt,Rapid Wien,yellow
+1765764,88,Dominik Wydra,Rapid Wien,yellow
+1765764,90,Guido Burgstaller,Rapid Wien,yellow
+1765764,22,Christian Schwegler,RB Salzburg,yellow
+1765764,73,Alan,RB Salzburg,yellow
+1765763,34,Roland Putsche,Wolfsberger AC,yellow
+1765763,57,Patrick Wolf,Sturm Graz,yellow
+1765763,77,Philipp Hütter,Sturm Graz,yellow
+1765763,84,Daniel Offenbacher,Sturm Graz,yellow
+1765763,90,Daniel Beichler,Sturm Graz,yellow
+1765777,75,Christian Hayden,SV Grödig,yellow
+1765777,43,Florian Mader,Austria Wien,yellow
+1765777,58,Philipp Hosiner,Austria Wien,yellow
+1765777,90,Thomas Murg,Austria Wien,yellow
+1765777,90,Tomas Šimkovič,Austria Wien,yellow
+1765774,24,Nemanja Rnić,Wolfsberger AC,yellow
+1765774,60,Manuel Kerhe,Wolfsberger AC,yellow
+1765776,58,Christian Klem,Sturm Graz,yellow
+1765776,86,Daniel Offenbacher,Sturm Graz,yellow
+1765776,37,Stefan Stangl,SC Wiener Neustadt,yellow
+1765776,53,Jürgen Säumel,SC Wiener Neustadt,yellow
+1765771,37,Florian Klein,RB Salzburg,yellow
+1765771,29,Thomas Hinum,SV Ried,yellow
+1765771,62,Andreas Schicker,SV Ried,yellow
+1765771,65,Oliver Kragl,SV Ried,yellow
+1765771,67,Clemens Walch,SV Ried,yellow
+1765771,81,Robert Žulj,SV Ried,yellow
+1765771,90,Jan Marc Riegler,SV Ried,yellow
+1765773,90,Dominik Wydra,Rapid Wien,yellow
+1765773,53,Marco Kofler,FC Wacker Innsbruck,yellow-red
+1765773,77,Sebastian Siller,FC Wacker Innsbruck,yellow
+1765780,25,Christian Ramsebner,Austria Wien,yellow
+1765780,72,Fabian Koch,Austria Wien,yellow
+1765780,90,Florian Mader,Austria Wien,yellow
+1765780,27,Daniel Beichler,Sturm Graz,yellow
+1765780,90,Benedikt Pliquett,Sturm Graz,yellow
+1765778,18,Sebastian Siller,FC Wacker Innsbruck,yellow
+1765778,47,Alexander Fröschl,FC Wacker Innsbruck,yellow
+1765778,48,Tomi,SV Grödig,yellow
+1765778,57,Maximilian Karner,SV Grödig,red
+1765778,58,Sascha Boller,SV Grödig,yellow
+1765778,59,Philipp Huspek,SV Grödig,yellow
+1765778,75,Mario Leitgeb,SV Grödig,yellow-red
+1765778,79,Peter Tschernegg,SV Grödig,red
+1765782,26,Julian Baumgartner,SV Ried,yellow
+1765782,88,Patrick Möschl,SV Ried,yellow
+1765782,73,Thanos Petsos,Rapid Wien,yellow
+1765782,90,Christopher Trimmel,Rapid Wien,yellow
+1765785,43,Michele Polverino,Wolfsberger AC,yellow
+1765785,82,Michael Sollbauer,Wolfsberger AC,yellow
+1765785,49,Alan,RB Salzburg,yellow
+1765787,81,Remo Mally,SC Wiener Neustadt,yellow
+1765787,63,René Schicker,FC Admira Wacker,yellow
+1765795,13,Marvin Potzmann,SV Grödig,yellow
+1765795,35,Hannes Sigurðsson,SV Grödig,yellow
+1765795,78,Sascha Boller,SV Grödig,yellow
+1765795,20,Julian Baumgartner,SV Ried,yellow
+1765800,16,Christian Ramsebner,Austria Wien,yellow
+1765800,59,Thomas Murg,Austria Wien,red
+1765800,23,Wilfried Domoraud,FC Admira Wacker,yellow
+1765800,90,Stephan Auer,FC Admira Wacker,yellow
+1765798,60,Dario Baldauf,Wolfsberger AC,yellow
+1765799,44,Remo Mally,SC Wiener Neustadt,yellow
+1765799,13,André Ramalho,RB Salzburg,yellow
+1765799,79,Valon Berisha,RB Salzburg,yellow
+1765806,38,Stefan Schwab,FC Admira Wacker,yellow
+1765806,45,Stipe Vučur,FC Wacker Innsbruck,yellow-red
+1765806,86,Sebastian Siller,FC Wacker Innsbruck,yellow
+1765802,45,Robert Žulj,SV Ried,yellow
+1765802,64,Gernot Trauner,SV Ried,yellow-red
+1765802,90,Clemens Walch,SV Ried,yellow
+1765802,14,Dario Baldauf,Wolfsberger AC,yellow
+1765802,40,Michele Polverino,Wolfsberger AC,yellow
+1765803,17,Manuel Weber,Sturm Graz,yellow
+1765803,81,Thomas Salamon,SV Grödig,yellow
+1765805,72,Martin Hinteregger,RB Salzburg,yellow
+1765805,72,Christian Schwegler,RB Salzburg,yellow
+1765805,79,Alan,RB Salzburg,yellow
+1765805,22,Daniel Royer,Austria Wien,yellow
+1765805,23,James Holland,Austria Wien,yellow
+1765805,27,Heinz Lindner,Austria Wien,yellow
+1765805,68,Emir Dilaver,Austria Wien,yellow
+1765805,69,Markus Suttner,Austria Wien,yellow
+1765805,83,Christian Ramsebner,Austria Wien,yellow
+1765805,90,Roman Kienast,Austria Wien,yellow-red
+1765804,17,Thanos Petsos,Rapid Wien,yellow
+1765804,38,Guido Burgstaller,Rapid Wien,yellow
+1765804,29,Christoph Freitag,SC Wiener Neustadt,yellow
+1765804,52,Stefan Stangl,SC Wiener Neustadt,yellow
+1765804,90,Jürgen Säumel,SC Wiener Neustadt,yellow
+1765807,31,Maximilian Karner,SV Grödig,yellow
+1765807,90,Tomi,SV Grödig,yellow-red
+1765807,28,Stephan Auer,FC Admira Wacker,yellow
+1765807,68,Issiaka Ouédraogo,FC Admira Wacker,yellow
+1765807,83,Daniel Toth,FC Admira Wacker,yellow
+1765808,39,Alexander Hauser,FC Wacker Innsbruck,yellow
+1765808,57,Marco Kofler,FC Wacker Innsbruck,yellow
+1765808,75,Lukas Hinterseer,FC Wacker Innsbruck,yellow
+1765808,80,Sebastian Siller,FC Wacker Innsbruck,yellow
+1765808,81,Franz Schiemer,RB Salzburg,yellow
+1765809,20,Manuel Weber,Sturm Graz,yellow
+1765809,73,Michael Madl,Sturm Graz,yellow
+1765809,73,Milan Dudić,Sturm Graz,red
+1765809,78,Daniel Offenbacher,Sturm Graz,yellow
+1765809,90,Nikola Vujadinović,Sturm Graz,yellow
+1765809,90,Marco Djuricin,Sturm Graz,yellow
+1765809,11,Brian Behrendt,Rapid Wien,yellow
+1765809,70,Christopher Dibon,Rapid Wien,yellow
+1765809,73,Terrence Boyd,Rapid Wien,red
+1765809,85,Dominik Wydra,Rapid Wien,yellow
+1765810,33,Herbert Rauter,SC Wiener Neustadt,yellow
+1765810,32,Michele Polverino,Wolfsberger AC,yellow
+1765810,76,Roland Putsche,Wolfsberger AC,yellow
+1765811,72,Robert Žulj,SV Ried,yellow
+1765811,85,Sandro Wieser,SV Ried,yellow
+1765811,90,Clemens Walch,SV Ried,red
+1765818,23,Sascha Boller,SV Grödig,yellow
+1765813,81,Patrick Möschl,SV Ried,yellow
+1765813,12,Thomas Pichlmann,SC Wiener Neustadt,yellow
+1765813,54,Manuel Wallner,SC Wiener Neustadt,yellow
+1765813,60,Kristijan Dobras,SC Wiener Neustadt,yellow
+1765815,38,Sandro Gotal,Wolfsberger AC,yellow
+1765815,45,Joachim Standfest,Wolfsberger AC,yellow
+1765815,51,Bright Edomwonyi,FC Wacker Innsbruck,yellow
+1765815,85,Željko Đokić,FC Wacker Innsbruck,yellow
+1765820,56,Wilfried Domoraud,FC Admira Wacker,yellow
+1765820,13,Anel Hadžić,Sturm Graz,yellow
+1765820,31,Robert Berić,Sturm Graz,yellow
+1765820,82,Michael Madl,Sturm Graz,yellow
+1765816,23,Christopher Trimmel,Rapid Wien,yellow
+1765816,77,Steffen Hofmann,Rapid Wien,yellow
+1765816,1,Manuel Ortlechner,Austria Wien,yellow
+1765816,45,James Holland,Austria Wien,yellow
+1765824,40,Florian Kainz,Sturm Graz,yellow
+1765824,41,Michael Madl,Sturm Graz,yellow
+1765824,75,Philipp Hütter,Sturm Graz,yellow
+1765824,27,Martin Hinteregger,RB Salzburg,yellow
+1765824,78,Florian Klein,RB Salzburg,yellow
+1765822,19,Matthias Maak,SV Grödig,yellow
+1765822,90,Maximilian Karner,SV Grödig,yellow
+1765822,46,Roland Putsche,Wolfsberger AC,yellow
+1765822,51,Silvio,Wolfsberger AC,yellow
+1765823,29,Željko Đokić,FC Wacker Innsbruck,red
+1765823,30,Daniel Schütz,FC Wacker Innsbruck,yellow
+1765823,37,Christian Schilling,FC Wacker Innsbruck,yellow
+1765823,30,René Gartler,SV Ried,yellow
+1765823,44,Andreas Schicker,SV Ried,yellow
+1765823,66,Clemens Walch,SV Ried,yellow
+1765823,74,Oliver Kragl,SV Ried,yellow
+1765833,53,James Holland,Austria Wien,yellow
+1765833,63,Lukas Rotpuller,Austria Wien,yellow
+1765833,84,Christian Ramsebner,Austria Wien,yellow
+1765833,89,Thomas Salamon,Austria Wien,yellow
+1765833,57,Matthias Koch,SC Wiener Neustadt,yellow
+1765836,80,Wilfried Domoraud,FC Admira Wacker,yellow
+1765836,66,Branko Bošković,Rapid Wien,red
+1765836,67,Steffen Hofmann,Rapid Wien,yellow
+1765836,90,Dominik Wydra,Rapid Wien,yellow
+1765840,49,Andreas Schicker,SV Ried,yellow
+1765840,56,René Gartler,SV Ried,yellow
+1765840,34,Anel Hadžić,Sturm Graz,yellow
+1765840,34,Daniel Offenbacher,Sturm Graz,yellow
+1765840,85,Manuel Weber,Sturm Graz,yellow
+1765840,88,Nikola Vujadinović,Sturm Graz,yellow
+1765840,90,Marco Djuricin,Sturm Graz,yellow
+1765842,30,Roland Putsche,Wolfsberger AC,yellow
+1765842,21,Emir Dilaver,Austria Wien,yellow
+1765842,44,Philipp Hosiner,Austria Wien,yellow
+1765845,28,Kristijan Dobras,SC Wiener Neustadt,yellow
+1765845,67,Herbert Rauter,SC Wiener Neustadt,yellow
+1765845,35,Christopher Wernitznig,FC Wacker Innsbruck,yellow
+1765845,64,Marco Kofler,FC Wacker Innsbruck,yellow
+1765845,67,Darko Jevtić,FC Wacker Innsbruck,yellow
+1765845,83,Stipe Vučur,FC Wacker Innsbruck,yellow
+1765846,18,Robert Žulj,RB Salzburg,yellow
+1765846,21,Lukas Thürauer,FC Admira Wacker,yellow
+1765846,33,Benjamin Sulimani,FC Admira Wacker,yellow-red
+1765846,75,Markus Rusek,FC Admira Wacker,yellow
+1765859,61,Kaja Rogulj,Austria Wien,yellow
+1765859,90,Tomáš Jun,Austria Wien,yellow
+1765859,55,Armin Hamzic,FC Wacker Innsbruck,yellow-red
+1765852,71,Florian Hart,SV Grödig,yellow
+1765852,90,Maximilian Karner,SV Grödig,yellow
+1765852,29,Christoph Freitag,SC Wiener Neustadt,yellow
+1765852,31,Mario Pollhammer,SC Wiener Neustadt,yellow
+1765855,57,Sandro Gotal,Wolfsberger AC,yellow
+1765855,77,Nemanja Rnić,Wolfsberger AC,yellow
+1765861,16,Stephan Zwierschitz,FC Admira Wacker,yellow
+1765861,61,Harald Pichler,SV Ried,yellow
+1765856,66,Alexander Walke,RB Salzburg,yellow
+1765856,78,Martin Hinteregger,RB Salzburg,yellow
+1765856,52,Brian Behrendt,Rapid Wien,yellow
+1765856,60,Christopher Trimmel,Rapid Wien,yellow
+1765856,62,Terrence Boyd,Rapid Wien,yellow
+1765867,80,Joachim Standfest,Wolfsberger AC,yellow
+1765867,80,Manuel Kerhe,Wolfsberger AC,yellow
+1765867,90,Christian Falk,Wolfsberger AC,yellow
+1765867,31,Stephan Auer,FC Admira Wacker,yellow
+1765864,38,Gerard Oliva,SV Ried,yellow
+1765864,68,Jan Zwischenbrugger,SV Ried,yellow
+1765864,85,Rodnei,RB Salzburg,yellow
+1765864,90,Valentino Lazaro,RB Salzburg,yellow
+1765870,22,Christoph Freitag,SC Wiener Neustadt,yellow
+1765870,70,Jürgen Säumel,SC Wiener Neustadt,yellow
+1765870,42,Daniel Offenbacher,Sturm Graz,yellow
+1765870,84,Manuel Weber,Sturm Graz,yellow
+1765870,86,Christian Klem,Sturm Graz,yellow-red
+1765871,26,Lukas Rotpuller,Austria Wien,yellow
+1765871,50,Alexander Gorgon,Austria Wien,yellow
+1765871,6,Tadej Trdina,SV Grödig,yellow
+1765871,77,Matthias Maak,SV Grödig,yellow
+1765866,31,Daniel Schütz,FC Wacker Innsbruck,yellow
+1765866,64,Stipe Vučur,FC Wacker Innsbruck,yellow
+1765866,64,Željko Đokić,FC Wacker Innsbruck,yellow
+1765866,90,Ji-Paraná,FC Wacker Innsbruck,yellow
+1765866,27,Mario Sonnleitner,Rapid Wien,yellow
+1765875,80,Tadej Trdina,SV Grödig,yellow
+1765875,27,Lukas Hinterseer,FC Wacker Innsbruck,yellow
+1765875,79,Ji-Paraná,FC Wacker Innsbruck,yellow
+1765875,87,Stipe Vučur,FC Wacker Innsbruck,yellow
+1765875,90,Željko Đokić,FC Wacker Innsbruck,yellow
+1765880,23,Nikola Vujadinović,Sturm Graz,yellow
+1765880,67,Daniel Offenbacher,Sturm Graz,yellow
+1765880,70,Daniel Beichler,Sturm Graz,yellow
+1765880,30,Manuel Ortlechner,Austria Wien,yellow
+1765880,85,Florian Mader,Austria Wien,yellow
+1765880,86,Emir Dilaver,Austria Wien,yellow
+1765881,42,Brian Behrendt,Rapid Wien,yellow
+1765881,66,Guido Burgstaller,Rapid Wien,yellow
+1765881,82,Dominik Wydra,Rapid Wien,yellow
+1765881,30,Oliver Kragl,SV Ried,yellow
+1765881,38,Thomas Gebauer,SV Ried,yellow
+1765881,58,Thomas Reifeltshammer,SV Ried,yellow
+1765881,60,Harald Pichler,SV Ried,yellow
+1765885,61,Richard Windbichler,FC Admira Wacker,yellow
+1765885,76,Thorsten Schick,FC Admira Wacker,yellow
+1765885,90,Thomas Ebner,FC Admira Wacker,yellow
+1765885,67,Remo Mally,SC Wiener Neustadt,yellow
+1765885,90,Jürgen Säumel,SC Wiener Neustadt,yellow
+1765883,39,Valon Berisha,RB Salzburg,yellow
+1765883,62,Stefan Ilsanker,RB Salzburg,yellow
+1765883,64,Valentino Lazaro,RB Salzburg,yellow
+1765883,10,Joachim Standfest,Wolfsberger AC,yellow
+1765883,49,Gernot Suppan,Wolfsberger AC,yellow
+1765883,58,Silvio,Wolfsberger AC,red
+1765883,65,Stefan Schwendinger,Wolfsberger AC,yellow
+1765883,75,Michael Sollbauer,Wolfsberger AC,yellow
+1765898,61,Thomas Ebner,FC Admira Wacker,yellow
+1765891,30,Thomas Hinum,SV Ried,yellow
+1765891,46,Bernhard Janeczek,SV Ried,red
+1765891,54,Toni Vastić,SV Ried,yellow
+1765891,75,Harald Pichler,SV Ried,yellow
+1765891,13,Taxiarchis Fountas,SV Grödig,yellow
+1765891,27,Mario Leitgeb,SV Grödig,yellow
+1765891,29,Tomi,SV Grödig,yellow
+1765891,33,Christoph Martschinko,SV Grödig,yellow
+1765893,16,Aleksandar Todorovski,Sturm Graz,yellow
+1765893,55,Anel Hadžić,Sturm Graz,yellow
+1765893,67,Patrick Wolf,Sturm Graz,yellow
+1765893,73,Michael Madl,Sturm Graz,yellow
+1765893,58,Christian Schilling,FC Wacker Innsbruck,yellow
+1765893,74,Bright Edomwonyi,FC Wacker Innsbruck,yellow
+1765894,34,Deni Alar,Rapid Wien,yellow
+1765894,55,Thanos Petsos,Rapid Wien,yellow
+1765894,65,Nemanja Rnić,Wolfsberger AC,yellow
+1765894,72,Peter Žulj,Wolfsberger AC,yellow
+1765894,82,Boris Hüttenbrenner,Wolfsberger AC,yellow
+1765894,85,Joachim Standfest,Wolfsberger AC,yellow
+1765896,39,Sadio Mané,RB Salzburg,yellow
+1765896,43,André Ramalho,RB Salzburg,yellow
+1765896,73,Manuel Wallner,SC Wiener Neustadt,yellow
+1765913,53,Christian Schilling,FC Wacker Innsbruck,yellow
+1765913,44,Thorsten Schick,FC Admira Wacker,yellow
+1765913,65,Lukas Thürauer,FC Admira Wacker,yellow
+1765913,74,Richard Windbichler,FC Admira Wacker,yellow-red
+1765913,85,Manuel Kuttin,FC Admira Wacker,yellow
+1765913,90,Wilfried Domoraud,FC Admira Wacker,yellow
+1765904,31,Roland Putsche,Wolfsberger AC,yellow
+1765904,38,Jan Zwischenbrugger,SV Ried,yellow
+1765904,74,Jakob Kreuzer,SV Ried,yellow
+1765904,83,Julian Baumgartner,SV Ried,yellow
+1765905,28,Ione Cabrera,SV Grödig,yellow
+1765905,48,Andreas Pfingstner,Sturm Graz,yellow
+1765908,58,Jürgen Säumel,SC Wiener Neustadt,yellow
+1765908,84,Dennis Mimm,SC Wiener Neustadt,yellow-red
+1765908,82,Michael Schimpelsberger,Rapid Wien,yellow
+1765908,90,Guido Burgstaller,Rapid Wien,yellow
+1765910,13,Markus Suttner,Austria Wien,yellow
+1765910,33,Lukas Rotpuller,Austria Wien,yellow
+1765910,10,Robert Žulj,RB Salzburg,yellow
+1765923,41,Brian Behrendt,Rapid Wien,yellow
+1765923,80,Thanos Petsos,Rapid Wien,yellow
+1765923,81,Terrence Boyd,Rapid Wien,yellow
+1765923,38,Andreas Hölzl,Sturm Graz,yellow
+1765923,78,Marco Djuricin,Sturm Graz,yellow
+1765923,78,Daniel Beichler,Sturm Graz,yellow
+1765923,90,Michael Madl,Sturm Graz,yellow
+1765919,29,Lukas Thürauer,FC Admira Wacker,yellow
+1765919,65,René Schicker,FC Admira Wacker,yellow
+1765919,49,Maximilian Karner,SV Grödig,yellow
+1765919,63,Dieter Elsneg,SV Grödig,yellow
+1765919,76,Tomi,SV Grödig,yellow
+1765921,28,Sebastian Siller,FC Wacker Innsbruck,yellow
+1765921,64,Željko Đokić,FC Wacker Innsbruck,yellow
+1765921,69,Marco Kofler,FC Wacker Innsbruck,yellow
+1765921,76,Christopher Wernitznig,FC Wacker Innsbruck,yellow
+1765925,25,Christoph Freitag,SC Wiener Neustadt,yellow
+1765927,63,Harald Pichler,SV Ried,yellow
+1765927,72,Patrick Möschl,SV Ried,yellow
+1765927,44,James Holland,Austria Wien,yellow-red
+1765927,75,Christian Ramsebner,Austria Wien,yellow
+1765927,89,Lukas Rotpuller,Austria Wien,yellow
+1765938,27,Peter Tschernegg,SV Grödig,yellow
+1765938,50,Tomi,SV Grödig,yellow
+1765938,65,Ione Cabrera,SV Grödig,yellow
+1765938,76,Marco Perchtold,SV Grödig,yellow
+1765938,13,Florian Klein,RB Salzburg,yellow
+1765938,43,André Ramalho,RB Salzburg,yellow
+1765934,71,Jürgen Säumel,SC Wiener Neustadt,yellow
+1765934,80,Herbert Rauter,SC Wiener Neustadt,yellow
+1765934,90,Michael Berger,SC Wiener Neustadt,yellow
+1765934,55,Andreas Schicker,SV Ried,yellow
+1765936,45,Lukas Hinterseer,FC Wacker Innsbruck,yellow
+1765936,72,Miroslav Milošević,FC Wacker Innsbruck,yellow
+1765936,66,Michael Sollbauer,Wolfsberger AC,yellow
+1765936,78,Jacobo,Wolfsberger AC,yellow
+1765941,44,Markus Katzer,FC Admira Wacker,yellow
+1765941,76,Thomas Weber,FC Admira Wacker,yellow
+1765941,85,Issiaka Ouédraogo,FC Admira Wacker,yellow
+1765941,88,Daniel Toth,FC Admira Wacker,yellow
+1765937,31,Manuel Ortlechner,Austria Wien,yellow
+1765937,72,Lukas Rotpuller,Austria Wien,yellow
+1765937,85,Christian Ramsebner,Austria Wien,yellow
+1765937,86,Guido Burgstaller,Rapid Wien,yellow-red
+1765948,34,Martin Hinteregger,RB Salzburg,yellow
+1765948,51,Andreas Hölzl,Sturm Graz,yellow
+1765948,65,Daniel Offenbacher,Sturm Graz,yellow
+1765948,90,Florian Kainz,Sturm Graz,yellow
+1765944,18,Ione Cabrera,SV Grödig,yellow
+1765944,87,Stefan Nutz,SV Grödig,yellow
+1765946,26,Harald Pichler,SV Ried,yellow
+1765946,49,Oliver Kragl,SV Ried,yellow
+1765946,62,Patrick Möschl,SV Ried,yellow
+1765946,73,Clemens Walch,SV Ried,yellow
+1765946,12,Ji-Paraná,FC Wacker Innsbruck,yellow
+1765946,45,Christian Schilling,FC Wacker Innsbruck,yellow
+1765946,76,Marco Kofler,FC Wacker Innsbruck,yellow
+1765951,26,Thomas Pichlmann,SC Wiener Neustadt,yellow
+1765951,40,Herbert Rauter,SC Wiener Neustadt,yellow
+1765951,50,Jürgen Säumel,SC Wiener Neustadt,yellow
+1765951,79,Remo Mally,SC Wiener Neustadt,yellow-red
+1765951,39,Fabian Koch,Austria Wien,yellow
+1765951,85,Alexander Grünwald,Austria Wien,yellow
+1765960,76,Markus Suttner,Austria Wien,yellow
+1765960,71,Christian Falk,Wolfsberger AC,yellow
+1765960,79,Boris Hüttenbrenner,Wolfsberger AC,yellow
+1765958,43,Marco Djuricin,Sturm Graz,yellow
+1765958,62,Andreas Hölzl,Sturm Graz,yellow
+1765958,90,Florian Kainz,Sturm Graz,yellow
+1765958,30,Patrick Möschl,SV Ried,yellow
+1765958,68,Thomas Reifeltshammer,SV Ried,yellow
+1765963,30,Marco Kofler,FC Wacker Innsbruck,yellow
+1765963,44,Roman Wallner,FC Wacker Innsbruck,yellow
+1765963,58,Željko Đokić,FC Wacker Innsbruck,yellow-red
+1765963,28,Thomas Pichlmann,SC Wiener Neustadt,yellow
+1765963,67,Peter Hlinka,SC Wiener Neustadt,yellow
+1765963,90,Daniel Maderner,SC Wiener Neustadt,yellow
+1765965,12,Daniel Toth,FC Admira Wacker,yellow
+1765965,32,Stefan Schwab,FC Admira Wacker,yellow
+1765965,53,Stephan Auer,FC Admira Wacker,yellow
+1765965,55,René Schicker,FC Admira Wacker,yellow
+1765965,70,Richard Windbichler,FC Admira Wacker,yellow
+1765961,34,Ione Cabrera,SV Grödig,yellow
+1765961,42,Kevin Fend,SV Grödig,yellow
+1765961,70,Matthias Maak,SV Grödig,yellow
+1765961,90,Hannes Sigurðsson,SV Grödig,yellow
+1765961,36,Christopher Trimmel,Rapid Wien,yellow
+1765961,45,Dominik Wydra,Rapid Wien,yellow
+1765961,75,Marcel Sabitzer,Rapid Wien,yellow
+1765970,10,Dennis Mimm,SC Wiener Neustadt,yellow
+1765970,52,Herbert Rauter,SC Wiener Neustadt,yellow
+1765970,57,Stefan Stangl,SC Wiener Neustadt,yellow
+1765970,65,Jürgen Säumel,SC Wiener Neustadt,yellow
+1765970,32,Christoph Martschinko,SV Grödig,yellow
+1765970,36,Maximilian Karner,SV Grödig,yellow
+1765970,46,Mario Leitgeb,SV Grödig,yellow
+1765970,58,Philipp Huspek,SV Grödig,yellow
+1765970,83,Marvin Potzmann,SV Grödig,yellow
+1765976,8,Christopher Trimmel,Rapid Wien,yellow
+1765976,63,Steffen Hofmann,Rapid Wien,yellow
+1765976,65,Marcel Sabitzer,Rapid Wien,yellow
+1765976,70,Brian Behrendt,Rapid Wien,yellow
+1765976,1,Alan,RB Salzburg,yellow
+1765977,22,Alexander Hauser,FC Wacker Innsbruck,yellow
+1765977,24,Christian Schilling,FC Wacker Innsbruck,yellow
+1765977,27,Marco Kofler,FC Wacker Innsbruck,yellow
+1765977,54,Miroslav Milošević,FC Wacker Innsbruck,yellow
+1765977,56,Szabolcs Sáfár,FC Wacker Innsbruck,red
+1765977,87,Bright Edomwonyi,FC Wacker Innsbruck,yellow
+1765977,90,Thomas Löffler,FC Wacker Innsbruck,yellow
+1765977,41,Lukas Rotpuller,Austria Wien,yellow
+1765973,15,Robert Berić,Sturm Graz,yellow
+1765973,45,Aleksandar Todorovski,Sturm Graz,yellow
+1765973,75,Daniel Offenbacher,Sturm Graz,yellow
+1765985,90,Michael Schimpelsberger,Rapid Wien,yellow
+1765985,36,Bright Edomwonyi,FC Wacker Innsbruck,yellow
+1765985,59,Miroslav Milošević,FC Wacker Innsbruck,yellow
+1765985,70,Alexander Hauser,FC Wacker Innsbruck,yellow
+1765987,65,Stephan Zwierschitz,FC Admira Wacker,yellow
+1765987,86,Daniel Toth,FC Admira Wacker,yellow
+1765987,90,Stephan Auer,FC Admira Wacker,yellow
+1765987,21,Jacobo,Wolfsberger AC,yellow
+1765987,45,Michael Sollbauer,Wolfsberger AC,yellow
+1765987,81,Stefan Schwendinger,Wolfsberger AC,yellow
+1765989,39,Florian Kainz,Sturm Graz,yellow
+1765989,83,David Schnaderbeck,Sturm Graz,yellow
+1765991,19,Peter Tschernegg,SV Grödig,yellow
+1765991,33,Ione Cabrera,SV Grödig,yellow
+1765991,63,Florian Hart,SV Grödig,yellow
+1765991,20,Markus Suttner,Austria Wien,yellow
+1765991,36,Christian Ramsebner,Austria Wien,yellow
+1765991,68,Fabian Koch,Austria Wien,yellow
+1765994,32,Marco Kofler,FC Wacker Innsbruck,yellow
+1765994,76,Tomáš Abrahám,FC Wacker Innsbruck,yellow
+1765994,85,Darko Jevtić,FC Wacker Innsbruck,yellow
+1765994,37,Marvin Potzmann,SV Grödig,yellow
+1765996,8,Emir Dilaver,Austria Wien,yellow
+1765996,14,Markus Suttner,Austria Wien,yellow
+1765996,55,De Paula,Austria Wien,yellow
+1765996,28,Robert Berić,Sturm Graz,yellow
+1765996,48,Marco Djuricin,Sturm Graz,yellow
+1765996,50,Daniel Offenbacher,Sturm Graz,yellow
+1765996,67,Michael Madl,Sturm Graz,yellow
+1765996,89,Florian Kainz,Sturm Graz,yellow
+1765997,2,René Gartler,SV Ried,yellow
+1765997,39,Patrick Möschl,SV Ried,yellow
+1765997,67,Oliver Kragl,SV Ried,yellow
+1765997,87,Gernot Trauner,SV Ried,yellow
+1765997,24,Steffen Hofmann,Rapid Wien,yellow
+1765998,55,Manuel Kerhe,Wolfsberger AC,yellow
+1765998,69,Jacobo,Wolfsberger AC,yellow
+1765998,31,Kevin Kampl,RB Salzburg,yellow
+1765998,67,Martin Hinteregger,RB Salzburg,yellow
+1765998,74,Sadio Mané,RB Salzburg,red
+1765999,25,Matthias Koch,SC Wiener Neustadt,yellow
+1765999,42,Markus Glänzer,SC Wiener Neustadt,yellow

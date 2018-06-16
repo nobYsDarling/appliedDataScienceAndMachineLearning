@@ -1,0 +1,937 @@
+GameID,Minute,Scorer,Team
+1729985,47,Carlos Tenorio,Vasco da Gama
+1729991,2,Maxi Biancucchi,EC Vitória BA
+1729991,11,Renato Cajá,EC Vitória BA
+1729991,29,Diego Forlán,Internacional
+1729991,63,Fred,Internacional
+1729989,73,Paulinho,Corinthians SP
+1729989,24,Rafael Marques,Botafogo RJ
+1729993,16,Zé Roberto,Grêmio Porto Alegre
+1729993,71,Elano,Grêmio Porto Alegre
+1729995,8,Lúcio,São Paulo FC
+1729995,44,Jádson,São Paulo FC
+1729997,45,Matheus Ferraz,Criciúma EC
+1729997,46,Lins,Criciúma EC
+1729997,82,João Vitor,Criciúma EC
+1729997,71,Diones,EC Bahia
+1729987,15,Rafael Sóbis,Fluminense RJ
+1729987,53,Samuel Rosa,Fluminense RJ
+1729987,28,Manoel,Atlético Paranaense
+1729999,5,Diego Souza,Cruzeiro EC
+1729999,30,Bruno Rodrigo,Cruzeiro EC
+1729999,40,Nílton,Cruzeiro EC
+1729999,42,Borges,Cruzeiro EC
+1729999,79,Nílton,Cruzeiro EC
+1730001,53,Deivid,Coritiba FC
+1730001,90,Arthur,Coritiba FC
+1730001,51,Diego Tardelli,Atlético Mineiro
+1730021,7,Pedro Botelho,Atlético Paranaense
+1730021,29,Manoel,Atlético Paranaense
+1730021,44,Dedé,Cruzeiro EC
+1730021,47,Luan,Cruzeiro EC
+1730005,14,Fellype Gabriel,Botafogo RJ
+1730005,21,Rafael Marques,Botafogo RJ
+1730005,71,Walter Montillo,Santos FC
+1730009,60,Luís Fabiano,São Paulo FC
+1730009,68,Aloísio,São Paulo FC
+1730009,72,Thiago Carleto,São Paulo FC
+1730009,74,Luís Fabiano,São Paulo FC
+1730009,81,Dakson,Vasco da Gama
+1730009,84,Luan Garcia,Vasco da Gama
+1730007,25,William Souza,Ponte Preta
+1730007,72,Cicinho,Ponte Preta
+1730017,12,Maxi Biancucchi,EC Vitória BA
+1730017,45,Edson Magal,EC Vitória BA
+1730017,49,Maxi Biancucchi,EC Vitória BA
+1730015,37,Ernando,Goiás EC
+1730015,87,Guilherme,Corinthians SP
+1730013,13,Willians,Internacional
+1730013,16,Rodrigo Moledo,Internacional
+1730019,60,Ronaldinho,Atlético Mineiro
+1730019,90,Ronaldinho,Atlético Mineiro
+1730023,22,Souza,Portuguesa (SP)
+1730023,83,Diogo,Portuguesa (SP)
+1730023,37,Rafael Sóbis,Fluminense RJ
+1730025,6,Nicolás Lodeiro,Botafogo RJ
+1730025,56,Nicolás Lodeiro,Botafogo RJ
+1730025,24,Anselmo Ramon,Cruzeiro EC
+1730041,32,Éderson,Atlético Paranaense
+1730041,71,Éderson,Atlético Paranaense
+1730041,77,Marcelo Moreno,Flamengo RJ
+1730041,80,Renato,Flamengo RJ
+1730043,78,Willian José,Santos FC
+1730043,11,Eduardo Vargas,Grêmio Porto Alegre
+1730031,31,Dinei,EC Vitória BA
+1730031,59,Dinei,EC Vitória BA
+1730035,76,Hugo,Goiás EC
+1730035,33,Deivid,Coritiba FC
+1730029,73,Emerson Sheik,Corinthians SP
+1730027,24,Digão,Fluminense RJ
+1730027,33,Digão,Fluminense RJ
+1730027,80,Wellington Nem,Fluminense RJ
+1730033,64,Diego Forlán,Internacional
+1730033,9,Matos,EC Bahia
+1730033,61,Fernandão,EC Bahia
+1730037,15,Rogério,Clube Náutico
+1730037,90,Marcos Vinicius,Clube Náutico
+1730037,31,Michel,Portuguesa (SP)
+1730037,81,Romão,Portuguesa (SP)
+1730049,1,Rodrigo,Goiás EC
+1730057,14,João Vitor,Criciúma EC
+1730057,56,Giancarlo,Criciúma EC
+1730057,65,Matheus Ferraz,Criciúma EC
+1730057,90,Neilton,Santos FC
+1730063,55,Marcelo Cañete,Portuguesa (SP)
+1730063,25,Rafael Moura,Internacional
+1730045,69,Alisson,Vasco da Gama
+1730045,90,Abuda,Vasco da Gama
+1730053,69,Elano,Grêmio Porto Alegre
+1730055,23,Chiquinho,Ponte Preta
+1730055,46,William Souza,Ponte Preta
+1730055,85,William Souza,Ponte Preta
+1730055,35,Paulo Baier,Atlético Paranaense
+1730055,56,Éderson,Atlético Paranaense
+1730055,63,Éverton,Atlético Paranaense
+1730055,90,Marcão,Atlético Paranaense
+1730047,82,Rogério,Clube Náutico
+1730051,40,Fernandão,EC Bahia
+1730051,68,Fernandão,EC Bahia
+1730051,7,Vitinho,Botafogo RJ
+1730059,84,Dagoberto,Cruzeiro EC
+1730061,16,Robinho,Coritiba FC
+1730061,87,Alex,Coritiba FC
+1730061,22,Carlinhos,Fluminense RJ
+1730077,38,Hernane Brocador,Flamengo RJ
+1730077,53,Gabriel,Flamengo RJ
+1730077,80,Gabriel,Flamengo RJ
+1730079,37,Élber,Cruzeiro EC
+1730079,62,Éverton Ribeiro,Cruzeiro EC
+1730079,22,Otávio,Internacional
+1730079,73,Gabriel,Internacional
+1730065,21,Carlos Alberto,Vasco da Gama
+1730065,8,Fernandão,EC Bahia
+1730075,31,Clarence Seedorf,Botafogo RJ
+1730075,35,Antônio Carlos,Botafogo RJ
+1730067,82,Rafael Sóbis,Fluminense RJ
+1730067,86,Denilson,Fluminense RJ
+1730067,70,Vitor,Goiás EC
+1730071,27,Luis Cáceres,EC Vitória BA
+1730071,35,Maxi Biancucchi,EC Vitória BA
+1730071,86,Damián Escudero,EC Vitória BA
+1730071,29,Éderson,Atlético Paranaense
+1730071,79,Luiz Alberto,Atlético Paranaense
+1730081,1,Deivid,Coritiba FC
+1730083,3,Cícero,Santos FC
+1730073,86,Kléber Gladiador,Grêmio Porto Alegre
+1730073,41,Luís Fabiano,São Paulo FC
+1730087,8,Marcelo Moreno,Flamengo RJ
+1730087,48,Víctor Cáceres,Flamengo RJ
+1730087,52,Chico,Coritiba FC
+1730087,60,Alex,Coritiba FC
+1730097,72,Caion,Clube Náutico
+1730097,10,Diego Sacoman,Ponte Preta
+1730097,43,William Souza,Ponte Preta
+1730097,56,Rildo,Ponte Preta
+1730101,76,Pedro Botelho,Atlético Paranaense
+1730101,83,Hernán Barcos,Grêmio Porto Alegre
+1730103,4,Valdomiro,Portuguesa (SP)
+1730103,17,Bruno Rodrigo,Cruzeiro EC
+1730089,58,Giva,Santos FC
+1730089,82,Cícero,Santos FC
+1730091,33,Alexandre Pato,Corinthians SP
+1730091,43,Alexandre Pato,Corinthians SP
+1730093,40,Diego Forlán,Internacional
+1730093,57,Índio,Internacional
+1730093,73,Rafael Moura,Internacional
+1730093,77,Andrés DAlessandro,Internacional
+1730093,17,Nei,Vasco da Gama
+1730093,45,André,Vasco da Gama
+1730093,65,Rafael Vaz,Vasco da Gama
+1730093,86,Fellipe Bastos,Vasco da Gama
+1730095,52,Wálter,Goiás EC
+1730085,85,Clarence Seedorf,Botafogo RJ
+1730099,12,Rosinei,Atlético Mineiro
+1730099,27,Luan,Atlético Mineiro
+1730099,49,Alecsandro,Atlético Mineiro
+1730099,84,Leleu,Atlético Mineiro
+1730099,90,Wellington Paulista,Criciúma EC
+1730107,36,Carlinhos,Fluminense RJ
+1730107,52,Fred,Fluminense RJ
+1730107,19,Andrés DAlessandro,Internacional
+1730107,33,Diego Forlán,Internacional
+1730107,40,Diego Forlán,Internacional
+1730123,1,Neilton,Santos FC
+1730123,10,Willian José,Santos FC
+1730123,75,Neilton,Santos FC
+1730123,90,Giva,Santos FC
+1730123,87,Bruno Moraes,Portuguesa (SP)
+1730109,35,Rosinei,Atlético Mineiro
+1730111,20,Dinei,EC Vitória BA
+1730111,28,Maxi Biancucchi,EC Vitória BA
+1730111,56,Maxi Biancucchi,EC Vitória BA
+1730111,9,Aloísio,São Paulo FC
+1730111,35,Rogério Ceni,São Paulo FC
+1730113,14,Eduardo Vargas,Grêmio Porto Alegre
+1730113,35,Eduardo Vargas,Grêmio Porto Alegre
+1730113,21,Clarence Seedorf,Botafogo RJ
+1730121,55,Geraldo,Coritiba FC
+1730105,31,Paulinho,Flamengo RJ
+1730119,9,Ricardo Goulart,Cruzeiro EC
+1730119,53,Vinícius Araújo,Cruzeiro EC
+1730119,69,Vinícius Araújo,Cruzeiro EC
+1730125,48,Elias,Botafogo RJ
+1730125,78,Renato,Botafogo RJ
+1730129,51,Luan,Cruzeiro EC
+1730129,79,Luan,Cruzeiro EC
+1730129,81,Luan,Cruzeiro EC
+1730137,27,Wellington Paulista,Criciúma EC
+1730137,76,Matheus Ferraz,Criciúma EC
+1730137,37,Zé Roberto,Grêmio Porto Alegre
+1730133,90,Juan,Internacional
+1730141,5,Marcelo Cirino,Atlético Paranaense
+1730141,25,Alexandre Pato,Corinthians SP
+1730143,20,Neilton,Santos FC
+1730143,64,Cícero,Santos FC
+1730143,40,Alex,Coritiba FC
+1730143,87,Alex,Coritiba FC
+1730127,58,Carlinhos,Fluminense RJ
+1730127,18,Juninho Pernambucano,Vasco da Gama
+1730127,47,André,Vasco da Gama
+1730127,83,Carlos Tenorio,Vasco da Gama
+1730135,44,Renan Oliveira,Goiás EC
+1730135,65,Renan Oliveira,Goiás EC
+1730135,39,Bruno Moraes,Portuguesa (SP)
+1730139,6,Marcos Rocha,Atlético Mineiro
+1730139,23,Jô,Atlético Mineiro
+1730139,71,Jô,Atlético Mineiro
+1730139,83,Alecsandro,Atlético Mineiro
+1730145,10,Juninho Pernambucano,Vasco da Gama
+1730145,56,Rafael Vaz,Vasco da Gama
+1730145,74,Edmilson,Vasco da Gama
+1730145,63,Ivo,Criciúma EC
+1730145,73,Wellington Paulista,Criciúma EC
+1730163,12,Moisés,Portuguesa (SP)
+1730163,22,Gilberto,Portuguesa (SP)
+1730163,7,Manoel,Atlético Paranaense
+1730163,63,Dellatorre,Atlético Paranaense
+1730163,90,Léo,Atlético Paranaense
+1730155,49,Rildo,Ponte Preta
+1730153,50,Cristian Riveros,Grêmio Porto Alegre
+1730153,84,Kléber Gladiador,Grêmio Porto Alegre
+1730157,74,Derley,Clube Náutico
+1730157,90,Maikon Leite,Clube Náutico
+1730157,90,Rogério,Clube Náutico
+1730159,31,Éverton Ribeiro,Cruzeiro EC
+1730159,43,Ricardo Goulart,Cruzeiro EC
+1730159,53,Nílton,Cruzeiro EC
+1730159,57,Ricardo Goulart,Cruzeiro EC
+1730159,18,Alecsandro,Atlético Mineiro
+1730147,90,Elías,Flamengo RJ
+1730147,21,Rafael Marques,Botafogo RJ
+1730151,1,Marquinhos Gabriel,EC Bahia
+1730151,32,Marquinhos Gabriel,EC Bahia
+1730151,33,Thiago Mendes,Goiás EC
+1730161,45,Alex,Coritiba FC
+1730161,10,Maxi Biancucchi,EC Vitória BA
+1730167,77,Fred,Fluminense RJ
+1730179,80,Bernard,Atlético Mineiro
+1730179,85,Éverton,Atlético Paranaense
+1730179,87,Éderson,Atlético Paranaense
+1730183,68,Bruno Henrique,Portuguesa (SP)
+1730183,90,Elton,Criciúma EC
+1730181,23,Lincoln,Coritiba FC
+1730181,26,Robinho,Coritiba FC
+1730181,55,Alex,Coritiba FC
+1730181,57,Lincoln,Coritiba FC
+1730181,87,Robinho,Coritiba FC
+1730181,3,William Souza,Ponte Preta
+1730181,46,Baraka,Ponte Preta
+1730181,48,William Souza,Ponte Preta
+1730169,33,Emerson Sheik,Corinthians SP
+1730169,80,Alexandre Pato,Corinthians SP
+1730171,28,Fernandão,EC Bahia
+1730171,45,Wallyson,EC Bahia
+1730171,76,Marquinhos Gabriel,EC Bahia
+1730165,31,Vitinho,Botafogo RJ
+1730165,81,Elias,Botafogo RJ
+1730175,88,Wálter,Goiás EC
+1730175,15,Pedro Ken,Vasco da Gama
+1730177,72,Aloísio,São Paulo FC
+1730173,75,Andrés DAlessandro,Internacional
+1730173,27,Thiago Ribeiro,Santos FC
+1730173,66,Renato,Santos FC
+1730189,14,Aloísio,São Paulo FC
+1730189,63,Anderson Talisca,EC Bahia
+1730189,87,Fahel,EC Bahia
+1730199,13,Luan,Cruzeiro EC
+1730187,7,Nixon,Flamengo RJ
+1730187,13,Elías,Flamengo RJ
+1730187,75,Paulinho,Flamengo RJ
+1730193,18,Hernán Barcos,Grêmio Porto Alegre
+1730193,20,Leandro Damião,Internacional
+1730195,85,William Souza,Ponte Preta
+1730195,49,Gum,Fluminense RJ
+1730197,9,Renato Augusto,Corinthians SP
+1730197,23,Paolo Guerrero,Corinthians SP
+1730201,43,Dellatorre,Atlético Paranaense
+1730201,90,Éderson,Atlético Paranaense
+1730185,45,André,Vasco da Gama
+1730185,47,André,Vasco da Gama
+1730185,23,Rafael Marques,Botafogo RJ
+1730185,30,Clarence Seedorf,Botafogo RJ
+1730185,48,Rafael Marques,Botafogo RJ
+1730191,70,Tarracha,EC Vitória BA
+1730191,85,Fabrício,EC Vitória BA
+1730191,63,Marcelo Cañete,Portuguesa (SP)
+1730203,85,Cícero,Santos FC
+1730203,83,Maikon Leite,Clube Náutico
+1730209,13,Leandro Damião,Internacional
+1730211,5,Maxi Biancucchi,EC Vitória BA
+1730211,83,Fred,Fluminense RJ
+1730217,71,Bruno Lopes,Criciúma EC
+1730217,25,Vinícius Araújo,Cruzeiro EC
+1730217,85,Ricardo Goulart,Cruzeiro EC
+1730207,67,João Paulo,Flamengo RJ
+1730207,90,Lauro,Portuguesa (SP)
+1730221,80,Paulo Baier,Atlético Paranaense
+1730215,26,Wálter,Goiás EC
+1730215,52,Wálter,Goiás EC
+1730215,34,Auremir,Clube Náutico
+1730219,28,Ronaldinho,Atlético Mineiro
+1730219,90,Luan,Atlético Mineiro
+1730219,14,Elias,Botafogo RJ
+1730219,58,Nicolás Lodeiro,Botafogo RJ
+1730223,55,Willian José,Santos FC
+1730223,3,Paulo André,Corinthians SP
+1730205,56,André,Vasco da Gama
+1730205,84,William Souza,Ponte Preta
+1730213,9,Deivid,Coritiba FC
+1730225,53,Rafael Marques,Botafogo RJ
+1730225,69,André Bahia,Botafogo RJ
+1730227,18,Rafael Sóbis,Fluminense RJ
+1730227,90,Rafael Sóbis,Fluminense RJ
+1730227,27,Elías,Flamengo RJ
+1730227,33,Hernane Brocador,Flamengo RJ
+1730227,82,Hernane Brocador,Flamengo RJ
+1730229,7,Ralf,Corinthians SP
+1730229,52,Alexandre Pato,Corinthians SP
+1730249,5,Pedro Ken,Vasco da Gama
+1730231,69,Ramiro,Grêmio Porto Alegre
+1730231,79,Maxi Rodríguez,Grêmio Porto Alegre
+1730231,90,Guilherme Biteco,Grêmio Porto Alegre
+1730233,14,Juan,Internacional
+1730233,87,Otávio,Internacional
+1730233,1,João Paulo,Atlético Paranaense
+1730233,74,Éderson,Atlético Paranaense
+1730235,6,William Souza,Ponte Preta
+1730235,29,Artur,Ponte Preta
+1730235,61,Éverton Santos,Ponte Preta
+1730235,55,Lins,Criciúma EC
+1730251,37,Diogo,Portuguesa (SP)
+1730251,78,Diogo,Portuguesa (SP)
+1730251,46,Lucas Evangelista,São Paulo FC
+1730265,10,João Vitor,Criciúma EC
+1730265,31,Marlon,Criciúma EC
+1730265,39,Leonardo,Criciúma EC
+1730267,20,Leonardo Silva,Atlético Mineiro
+1730267,57,Alecsandro,Atlético Mineiro
+1730271,78,Edu Dracena,Santos FC
+1730271,90,Rafael Vaz,Vasco da Gama
+1730259,52,Pedro Oldoni,EC Vitória BA
+1730259,62,Vander,EC Vitória BA
+1730259,87,Marquinhos,EC Vitória BA
+1730259,22,William Souza,Ponte Preta
+1730269,90,Bill,Coritiba FC
+1730269,58,Gilberto,Portuguesa (SP)
+1730261,59,Werley,Grêmio Porto Alegre
+1730261,62,Hernán Barcos,Grêmio Porto Alegre
+1730261,74,Kléber Gladiador,Grêmio Porto Alegre
+1730261,68,Nílton,Cruzeiro EC
+1730263,16,Wálter,Goiás EC
+1730263,52,Chicão,Flamengo RJ
+1730257,17,Rodrigo Caio,São Paulo FC
+1730257,37,Paulo Baier,Atlético Paranaense
+1730253,9,Vitinho,Botafogo RJ
+1730253,64,Clarence Seedorf,Botafogo RJ
+1730253,74,Vitinho,Botafogo RJ
+1730253,32,Ignacio Scocco,Internacional
+1730253,33,Ignacio Scocco,Internacional
+1730253,90,Fabrício,Internacional
+1730285,70,Samuel Rosa,Fluminense RJ
+1730287,12,Léo,Cruzeiro EC
+1730287,60,Mayke,Cruzeiro EC
+1730287,75,Borges,Cruzeiro EC
+1730287,80,Ricardo Goulart,Cruzeiro EC
+1730287,85,Vinícius Araújo,Cruzeiro EC
+1730287,70,Dinei,EC Vitória BA
+1730273,86,André,Vasco da Gama
+1730273,5,Hernán Barcos,Grêmio Porto Alegre
+1730273,25,Alex Telles,Grêmio Porto Alegre
+1730273,36,Ramiro,Grêmio Porto Alegre
+1730273,50,Hernán Barcos,Grêmio Porto Alegre
+1730277,90,Paolo Guerrero,Corinthians SP
+1730283,17,Wálter,Goiás EC
+1730291,71,Luiz Ricardo,Portuguesa (SP)
+1730291,65,Bolívar,Botafogo RJ
+1730291,72,Rafael Marques,Botafogo RJ
+1730291,77,Elias,Botafogo RJ
+1730289,62,Paulo Baier,Atlético Paranaense
+1730289,72,Éderson,Atlético Paranaense
+1730289,44,Sueliton,Criciúma EC
+1730295,7,Pará,Grêmio Porto Alegre
+1730303,22,Dedé,Cruzeiro EC
+1730303,71,Borges,Cruzeiro EC
+1730311,8,Gabriel Barbosa,Santos FC
+1730311,55,Cícero,Santos FC
+1730305,34,Sueliton,Criciúma EC
+1730305,35,Fabinho,Criciúma EC
+1730305,60,Júlio César,Coritiba FC
+1730293,55,André,Vasco da Gama
+1730293,4,Paolo Guerrero,Corinthians SP
+1730297,27,Luís Fabiano,São Paulo FC
+1730297,45,Reinaldo,São Paulo FC
+1730297,90,Eduardo Teixeira,Fluminense RJ
+1730299,58,Hélder,EC Bahia
+1730299,78,Fernandão,EC Bahia
+1730307,54,Diego Tardelli,Atlético Mineiro
+1730307,88,Jesús Dátolo,Atlético Mineiro
+1730307,35,Bruno Henrique,Portuguesa (SP)
+1730301,27,Andrés DAlessandro,Internacional
+1730301,85,Leandro Damião,Internacional
+1730301,36,Renan Oliveira,Goiás EC
+1730301,72,William Matheus,Goiás EC
+1730301,75,Ramón,Goiás EC
+1730301,77,Dudu Cearense,Goiás EC
+1730309,46,Éderson,Atlético Paranaense
+1730309,56,Éderson,Atlético Paranaense
+1730321,60,Kléber Gladiador,Grêmio Porto Alegre
+1730325,41,Juan Olivera,Clube Náutico
+1730325,4,Léo,Atlético Paranaense
+1730325,18,Éverton,Atlético Paranaense
+1730325,79,Éderson,Atlético Paranaense
+1730325,89,Éderson,Atlético Paranaense
+1730331,1,Moisés,Portuguesa (SP)
+1730331,4,Gilberto,Portuguesa (SP)
+1730331,6,Gilberto,Portuguesa (SP)
+1730331,59,Bérgson,Portuguesa (SP)
+1730331,55,Fernandão,EC Bahia
+1730331,72,Wallyson,EC Bahia
+1730315,12,Thiago Ribeiro,Santos FC
+1730315,28,Cícero,Santos FC
+1730317,24,Alexandre Pato,Corinthians SP
+1730317,34,Alexandre Pato,Corinthians SP
+1730317,74,Romarinho,Corinthians SP
+1730317,83,Paolo Guerrero,Corinthians SP
+1730319,16,Marcel,Criciúma EC
+1730327,1,Willian,Cruzeiro EC
+1730327,31,Lucas Silva,Cruzeiro EC
+1730327,38,Júlio Baptista,Cruzeiro EC
+1730327,67,Lucas Silva,Cruzeiro EC
+1730327,86,Vinícius Araújo,Cruzeiro EC
+1730327,18,Willie,Vasco da Gama
+1730327,40,André,Vasco da Gama
+1730327,42,Willie,Vasco da Gama
+1730343,13,Wálter,Goiás EC
+1730343,70,Wálter,Goiás EC
+1730335,22,Hernane Brocador,Flamengo RJ
+1730335,44,Hernane Brocador,Flamengo RJ
+1730335,90,Juan,EC Vitória BA
+1730349,6,Marcelo Cirino,Atlético Paranaense
+1730349,37,Marco Antonio,Atlético Paranaense
+1730349,86,Emerson,Santos FC
+1730351,40,Gilberto,Portuguesa (SP)
+1730351,48,Gilberto,Portuguesa (SP)
+1730351,90,Adrianinho,Ponte Preta
+1730339,68,Fahel,EC Bahia
+1730339,24,Borges,Cruzeiro EC
+1730339,39,Éverton Ribeiro,Cruzeiro EC
+1730339,89,Júlio Baptista,Cruzeiro EC
+1730341,53,Andrés DAlessandro,Internacional
+1730347,45,Ronaldinho,Atlético Mineiro
+1730347,82,Ronaldinho,Atlético Mineiro
+1730347,13,Wagner,Fluminense RJ
+1730347,72,Rhayner,Fluminense RJ
+1730333,13,Rafael Marques,Botafogo RJ
+1730333,39,Hyuri,Botafogo RJ
+1730333,49,Hyuri,Botafogo RJ
+1730333,57,Alex,Coritiba FC
+1730337,69,Aloísio,São Paulo FC
+1730337,22,Marcel,Criciúma EC
+1730337,42,Lins,Criciúma EC
+1730345,47,Willie,Vasco da Gama
+1730345,51,Marlone,Vasco da Gama
+1730345,90,Marlone,Vasco da Gama
+1730355,65,Biro Biro,Fluminense RJ
+1730359,16,Marquinhos,EC Vitória BA
+1730359,86,Neto Berola,Atlético Mineiro
+1730363,25,William Souza,Ponte Preta
+1730363,30,Juan,Internacional
+1730363,61,Andrés DAlessandro,Internacional
+1730363,71,Ignacio Scocco,Internacional
+1730371,49,Thiago Ribeiro,Santos FC
+1730361,51,Hernán Barcos,Grêmio Porto Alegre
+1730361,58,Zé Roberto,Grêmio Porto Alegre
+1730361,70,Rhodolfo,Grêmio Porto Alegre
+1730361,87,Kléber Gladiador,Grêmio Porto Alegre
+1730361,78,Luiz Ricardo,Portuguesa (SP)
+1730367,53,Ricardo Goulart,Cruzeiro EC
+1730369,31,Alex,Coritiba FC
+1730369,45,Alex,Coritiba FC
+1730365,3,Lins,Criciúma EC
+1730365,53,Octávio,Botafogo RJ
+1730365,90,Elias,Botafogo RJ
+1729988,16,Éderson,Atlético Paranaense
+1729988,45,Rafael Sóbis,Fluminense RJ
+1729998,8,Feijão,EC Bahia
+1729998,72,Fernandão,EC Bahia
+1729998,85,Obina,EC Bahia
+1729998,34,Lins,Criciúma EC
+1730000,27,Renan Oliveira,Goiás EC
+1730000,38,Willian,Cruzeiro EC
+1730000,71,Willian,Cruzeiro EC
+1729986,11,Corrêa,Portuguesa (SP)
+1729986,75,Gilberto,Portuguesa (SP)
+1729990,89,Hyuri,Botafogo RJ
+1729994,25,Hernán Barcos,Grêmio Porto Alegre
+1729994,80,Paulinho Moccelin,Grêmio Porto Alegre
+1729992,26,Andrés DAlessandro,Internacional
+1729992,28,Andrés DAlessandro,Internacional
+1729992,7,Luis Cáceres,EC Vitória BA
+1729992,72,Luis Cáceres,EC Vitória BA
+1729996,47,Luís Fabiano,São Paulo FC
+1730002,23,Jô,Atlético Mineiro
+1730002,26,Jô,Atlético Mineiro
+1730002,40,Jô,Atlético Mineiro
+1730004,20,Leó Moura,Flamengo RJ
+1730004,55,Hernane Brocador,Flamengo RJ
+1730004,57,Cícero,Santos FC
+1730022,35,Nílton,Cruzeiro EC
+1730024,60,Rafael Sóbis,Fluminense RJ
+1730024,72,Wagner,Fluminense RJ
+1730024,34,Diogo,Portuguesa (SP)
+1730008,67,Artur,Ponte Preta
+1730008,86,André Santos,Flamengo RJ
+1730010,31,Rodrigo Caio,São Paulo FC
+1730010,71,Antônio Carlos,São Paulo FC
+1730012,90,Alex,Coritiba FC
+1730012,21,Wallyson,EC Bahia
+1730012,53,William Barbio,EC Bahia
+1730012,65,Titi,EC Bahia
+1730014,51,Otávio,Internacional
+1730016,77,Alexandre Pato,Corinthians SP
+1730016,57,Hugo,Goiás EC
+1730016,84,Amaral,Goiás EC
+1730006,66,Cícero,Santos FC
+1730006,38,Elias,Botafogo RJ
+1730006,56,Elias,Botafogo RJ
+1730018,19,Dinei,EC Vitória BA
+1730018,70,Dinei,EC Vitória BA
+1730018,13,Hugo Cabral,Clube Náutico
+1730020,61,Fernandinho Silva,Atlético Mineiro
+1730032,7,André,Vasco da Gama
+1730032,80,Alemão,EC Vitória BA
+1730032,89,Marquinhos,EC Vitória BA
+1730044,72,Elano,Grêmio Porto Alegre
+1730044,84,Willian José,Santos FC
+1730028,38,Lins,Criciúma EC
+1730028,44,Bruno,Fluminense RJ
+1730028,70,Bruno,Fluminense RJ
+1730036,6,Lincoln,Coritiba FC
+1730036,73,Robinho,Coritiba FC
+1730036,37,Roni,Goiás EC
+1730036,69,Eduardo Sasha,Goiás EC
+1730026,45,Nílton,Cruzeiro EC
+1730026,81,Júlio Baptista,Cruzeiro EC
+1730026,87,Júlio Baptista,Cruzeiro EC
+1730030,87,Fellipe Bastos,Ponte Preta
+1730030,90,Adaílton,Ponte Preta
+1730040,26,Welliton,São Paulo FC
+1730042,1,Hernane Brocador,Flamengo RJ
+1730042,8,Luiz Antônio,Flamengo RJ
+1730042,19,Fran Mérida,Atlético Paranaense
+1730042,52,Dellatorre,Atlético Paranaense
+1730042,77,Marcelo Cirino,Atlético Paranaense
+1730042,81,Roger,Atlético Paranaense
+1730034,51,Feijão,EC Bahia
+1730034,88,Fernandão,EC Bahia
+1730038,7,Moisés,Portuguesa (SP)
+1730038,34,Gilberto,Portuguesa (SP)
+1730038,40,Bruno Henrique,Portuguesa (SP)
+1730062,51,Gum,Fluminense RJ
+1730062,31,Lincoln,Coritiba FC
+1730050,90,Rodrigo,Goiás EC
+1730052,30,Edílson,Botafogo RJ
+1730052,81,Fernandão,EC Bahia
+1730052,85,Obina,EC Bahia
+1730064,85,Wanderson,Portuguesa (SP)
+1730046,2,Fernandinho Silva,Atlético Mineiro
+1730046,18,Ronaldinho,Atlético Mineiro
+1730046,72,Dakson,Vasco da Gama
+1730056,10,Paulo Baier,Atlético Paranaense
+1730058,19,Thiago Ribeiro,Santos FC
+1730058,41,Willian José,Santos FC
+1730058,78,Tony Ewerton,Criciúma EC
+1730068,36,William Matheus,Goiás EC
+1730068,52,Jean,Fluminense RJ
+1730068,84,Rafael Sóbis,Fluminense RJ
+1730082,50,Juan Olivera,Clube Náutico
+1730082,76,Maikon Leite,Clube Náutico
+1730082,83,Maikon Leite,Clube Náutico
+1730076,42,Elias,Ponte Preta
+1730070,8,Gilberto,Portuguesa (SP)
+1730070,13,Gilberto,Portuguesa (SP)
+1730070,31,Gilberto,Portuguesa (SP)
+1730070,79,Wanderson,Portuguesa (SP)
+1730074,69,Eduardo Vargas,Grêmio Porto Alegre
+1730078,5,Hernane Brocador,Flamengo RJ
+1730078,18,Wallace Reis,Flamengo RJ
+1730078,24,Hernane Brocador,Flamengo RJ
+1730078,78,Elías,Flamengo RJ
+1730078,45,Daniel Carvalho,Criciúma EC
+1730072,56,Éderson,Atlético Paranaense
+1730072,62,Éderson,Atlético Paranaense
+1730072,68,Roger,Atlético Paranaense
+1730072,17,Renato Cajá,EC Vitória BA
+1730072,29,Ayrton,EC Vitória BA
+1730072,43,Dinei,EC Vitória BA
+1730072,82,William Henrique,EC Vitória BA
+1730072,85,Ayrton,EC Vitória BA
+1730080,6,Otávio,Internacional
+1730080,5,Nílton,Cruzeiro EC
+1730080,52,Willian,Cruzeiro EC
+1730084,18,Luan,Atlético Mineiro
+1730084,37,Marcos Rocha,Atlético Mineiro
+1730084,88,Alecsandro,Atlético Mineiro
+1730084,15,Cicinho,Santos FC
+1730100,42,Lins,Criciúma EC
+1730100,41,Luan,Atlético Mineiro
+1730098,45,William Souza,Ponte Preta
+1730098,80,Hugo Cabral,Clube Náutico
+1730098,90,Maikon Leite,Clube Náutico
+1730102,44,Cristian Riveros,Grêmio Porto Alegre
+1730104,6,Éverton Ribeiro,Cruzeiro EC
+1730104,16,Borges,Cruzeiro EC
+1730104,28,Willian,Cruzeiro EC
+1730104,30,Borges,Cruzeiro EC
+1730086,2,Biro Biro,Fluminense RJ
+1730086,13,Bolívar,Botafogo RJ
+1730096,16,Damián Escudero,EC Vitória BA
+1730096,88,William Henrique,EC Vitória BA
+1730096,35,Pedro Henrique,Goiás EC
+1730088,45,André Santos,Flamengo RJ
+1730088,50,Wallace Reis,Flamengo RJ
+1730090,23,Edu Dracena,Santos FC
+1730090,60,Thiago Ribeiro,Santos FC
+1730090,90,Léo,Santos FC
+1730092,20,Paolo Guerrero,Corinthians SP
+1730092,41,Cléber Reis,Corinthians SP
+1730094,9,Edmilson,Vasco da Gama
+1730094,42,André,Vasco da Gama
+1730094,74,Willie,Vasco da Gama
+1730094,18,Jorge Henrique,Internacional
+1730114,38,Alex Telles,Grêmio Porto Alegre
+1730112,5,Antônio Carlos,São Paulo FC
+1730112,66,Luís Fabiano,São Paulo FC
+1730112,87,Antônio Carlos,São Paulo FC
+1730112,34,Juan,EC Vitória BA
+1730112,69,Dinei,EC Vitória BA
+1730106,34,Hernane Brocador,Flamengo RJ
+1730106,54,Willie,Vasco da Gama
+1730108,80,Leandro Damião,Internacional
+1730120,29,Maikon Leite,Clube Náutico
+1730120,10,Ricardo Goulart,Cruzeiro EC
+1730120,53,Ricardo Goulart,Cruzeiro EC
+1730120,58,Éverton Ribeiro,Cruzeiro EC
+1730120,77,Mayke,Cruzeiro EC
+1730122,42,Paulo Baier,Atlético Paranaense
+1730122,45,Paulo Baier,Atlético Paranaense
+1730122,30,Júlio César,Coritiba FC
+1730116,34,Fernandão,EC Bahia
+1730116,21,William Souza,Ponte Preta
+1730118,29,Wálter,Goiás EC
+1730118,2,Lins,Criciúma EC
+1730124,15,Luiz Ricardo,Portuguesa (SP)
+1730124,59,Gilberto,Portuguesa (SP)
+1730124,66,Gilberto,Portuguesa (SP)
+1730138,57,Maxi Rodríguez,Grêmio Porto Alegre
+1730138,36,Wellington Paulista,Criciúma EC
+1730138,89,Serginho,Criciúma EC
+1730144,62,Júlio César,Coritiba FC
+1730132,17,Rafael Miranda,EC Bahia
+1730132,26,Fernandão,EC Bahia
+1730140,35,William Souza,Ponte Preta
+1730140,78,Elias,Ponte Preta
+1730126,9,Maikon Leite,Clube Náutico
+1730126,26,Rafael Marques,Botafogo RJ
+1730126,40,Clarence Seedorf,Botafogo RJ
+1730126,90,Gegê,Botafogo RJ
+1730128,11,Cris,Vasco da Gama
+1730130,77,Douglas,São Paulo FC
+1730130,80,Reinaldo,São Paulo FC
+1730136,82,Héverton,Portuguesa (SP)
+1730136,36,Hugo,Goiás EC
+1730136,51,Wálter,Goiás EC
+1730134,29,Leó Moura,Flamengo RJ
+1730134,71,Hernane Brocador,Flamengo RJ
+1730134,81,Rafael Moura,Internacional
+1730154,90,Rafael Sóbis,Fluminense RJ
+1730154,38,Matheus Bressan,Grêmio Porto Alegre
+1730162,12,Marquinhos,EC Vitória BA
+1730162,71,Dinei,EC Vitória BA
+1730162,45,Geraldo,Coritiba FC
+1730156,45,Éverton Costa,Santos FC
+1730156,70,Walter Montillo,Santos FC
+1730156,90,Rafael Ratão,Ponte Preta
+1730146,16,Wellington Paulista,Criciúma EC
+1730146,23,Lins,Criciúma EC
+1730146,53,Wellington Paulista,Criciúma EC
+1730146,19,Marlone,Vasco da Gama
+1730146,49,André,Vasco da Gama
+1730158,17,Andrés DAlessandro,Internacional
+1730158,45,Otávio,Internacional
+1730158,70,Willians,Internacional
+1730158,82,Kléber,Internacional
+1730158,27,Tiago Real,Clube Náutico
+1730160,86,Fernandinho Silva,Atlético Mineiro
+1730148,41,Gegê,Botafogo RJ
+1730148,62,Rafael Marques,Botafogo RJ
+1730148,12,Hernane Brocador,Flamengo RJ
+1730152,4,Hugo,Goiás EC
+1730152,31,Wálter,Goiás EC
+1730152,38,Eduardo Sasha,Goiás EC
+1730152,67,William Barbio,EC Bahia
+1730164,2,Marcelo Cirino,Atlético Paranaense
+1730168,18,Borges,Cruzeiro EC
+1730178,30,Ademilson,São Paulo FC
+1730178,65,Ganso,São Paulo FC
+1730178,73,Welliton,São Paulo FC
+1730182,29,Uendel,Ponte Preta
+1730184,70,Matheus Ferraz,Criciúma EC
+1730184,9,Gilberto,Portuguesa (SP)
+1730184,13,Bérgson,Portuguesa (SP)
+1730184,90,Henrique Dourado,Portuguesa (SP)
+1730170,49,Hernán Barcos,Grêmio Porto Alegre
+1730172,51,Paulinho,Flamengo RJ
+1730172,85,Hernane Brocador,Flamengo RJ
+1730172,78,Fernandão,EC Bahia
+1730180,85,Roger,Atlético Paranaense
+1730176,36,Rodrigo,Goiás EC
+1730176,67,Hugo,Goiás EC
+1730166,78,William Henrique,EC Vitória BA
+1730196,82,Diego Cavalieri,Fluminense RJ
+1730196,84,Diego Sacoman,Ponte Preta
+1730204,51,Maikon Leite,Clube Náutico
+1730204,1,Thiago Ribeiro,Santos FC
+1730204,22,Cícero,Santos FC
+1730204,25,Éverton Costa,Santos FC
+1730204,27,Cicinho,Santos FC
+1730204,89,Cícero,Santos FC
+1730198,60,Alexandre Pato,Corinthians SP
+1730188,58,Lucas Cândido,Atlético Mineiro
+1730190,23,Aloísio,São Paulo FC
+1730194,4,Willians,Internacional
+1730194,41,Jackson Souza,Internacional
+1730194,61,Andrés DAlessandro,Internacional
+1730194,52,Eduardo Vargas,Grêmio Porto Alegre
+1730202,18,Roni,Goiás EC
+1730202,26,Dudu Cearense,Goiás EC
+1730202,90,Wálter,Goiás EC
+1730186,6,Dankler,Botafogo RJ
+1730186,7,Nicolás Lodeiro,Botafogo RJ
+1730186,54,Jomar,Vasco da Gama
+1730186,68,Pedro Ken,Vasco da Gama
+1730192,63,Moisés Mineiro,Portuguesa (SP)
+1730192,19,Luis Cáceres,EC Vitória BA
+1730200,41,Carlinhos,Coritiba FC
+1730200,72,Keirrison,Coritiba FC
+1730200,61,Dagoberto,Cruzeiro EC
+1730218,13,Éverton Ribeiro,Cruzeiro EC
+1730218,19,Dagoberto,Cruzeiro EC
+1730218,58,Borges,Cruzeiro EC
+1730218,77,Borges,Cruzeiro EC
+1730218,85,Dagoberto,Cruzeiro EC
+1730218,34,João Vitor,Criciúma EC
+1730218,42,Lins,Criciúma EC
+1730218,45,Ricardinho,Criciúma EC
+1730220,52,Júlio César,Botafogo RJ
+1730206,16,Diego Sacoman,Ponte Preta
+1730206,80,Adrianinho,Ponte Preta
+1730206,90,Uendel,Ponte Preta
+1730210,33,Leandro Damião,Internacional
+1730210,48,Jorge Henrique,Internacional
+1730210,10,Aloísio,São Paulo FC
+1730210,45,Aloísio,São Paulo FC
+1730210,54,Aloísio,São Paulo FC
+1730222,47,Obina,EC Bahia
+1730222,57,Éderson,Atlético Paranaense
+1730224,27,Douglas,Corinthians SP
+1730224,62,Gustavo Henrique,Santos FC
+1730212,27,Biro Biro,Fluminense RJ
+1730212,58,Rafael Sóbis,Fluminense RJ
+1730212,23,Marquinhos,EC Vitória BA
+1730212,63,Juan,EC Vitória BA
+1730212,64,William Henrique,EC Vitória BA
+1730214,3,Alex,Coritiba FC
+1730214,35,Robinho,Coritiba FC
+1730214,59,Geraldo,Coritiba FC
+1730214,1,Pará,Grêmio Porto Alegre
+1730216,2,Júnior Viçosa,Goiás EC
+1730216,41,Amaral,Goiás EC
+1730250,27,Edmilson,Vasco da Gama
+1730250,73,Edmilson,Vasco da Gama
+1730250,82,Luccas Claro,Coritiba FC
+1730252,8,Rodrigo Caio,São Paulo FC
+1730252,78,Aloísio,São Paulo FC
+1730252,42,Luiz Ricardo,Portuguesa (SP)
+1730238,11,Fernandinho Silva,Atlético Mineiro
+1730238,23,Jô,Atlético Mineiro
+1730238,58,Guilherme,Atlético Mineiro
+1730238,67,Diego Tardelli,Atlético Mineiro
+1730238,75,Alecsandro,Atlético Mineiro
+1730226,90,Eduardo Sasha,Goiás EC
+1730230,61,Dinei,EC Vitória BA
+1730230,53,Guilherme,Corinthians SP
+1730240,54,Éverton Ribeiro,Cruzeiro EC
+1730228,89,Hernane Brocador,Flamengo RJ
+1730234,45,Dellatorre,Atlético Paranaense
+1730236,35,Ricardinho,Criciúma EC
+1730236,55,Leonardo,Ponte Preta
+1730264,50,Hernane Brocador,Flamengo RJ
+1730264,62,Rodrigo,Goiás EC
+1730254,40,Jorge Henrique,Internacional
+1730254,51,Jackson Souza,Internacional
+1730254,48,Doria,Botafogo RJ
+1730258,13,Marcelo Cirino,Atlético Paranaense
+1730258,28,Luiz Alberto,Atlético Paranaense
+1730258,58,Éderson,Atlético Paranaense
+1730260,18,Renato Cajá,EC Vitória BA
+1730260,29,Ayrton,EC Vitória BA
+1730260,45,Dinei,EC Vitória BA
+1730262,34,Borges,Cruzeiro EC
+1730262,79,Willian,Cruzeiro EC
+1730262,86,Ricardo Goulart,Cruzeiro EC
+1730256,90,Alexandre Pato,Corinthians SP
+1730266,71,Wellington Paulista,Criciúma EC
+1730272,29,Edmilson,Vasco da Gama
+1730272,78,André,Vasco da Gama
+1730272,23,Bruno Peres,Santos FC
+1730272,27,Gustavo Henrique,Santos FC
+1730274,52,Rhodolfo,Grêmio Porto Alegre
+1730284,24,Eduardo Sasha,Goiás EC
+1730284,26,Ramón,Goiás EC
+1730290,7,Fábio Ferreira,Criciúma EC
+1730290,29,Wellington Paulista,Criciúma EC
+1730290,61,Paulo Baier,Atlético Paranaense
+1730276,49,Rogério Ceni,São Paulo FC
+1730276,63,Ademilson,São Paulo FC
+1730278,65,Guilherme,Corinthians SP
+1730288,50,Dinei,EC Vitória BA
+1730288,35,Willian,Cruzeiro EC
+1730288,70,Júlio Baptista,Cruzeiro EC
+1730288,80,Ricardo Goulart,Cruzeiro EC
+1730280,37,Walter Montillo,Santos FC
+1730280,66,Cícero,Santos FC
+1730280,71,Cícero,Santos FC
+1730282,38,Fernandinho Silva,Atlético Mineiro
+1730282,67,Alecsandro,Atlético Mineiro
+1730282,66,Andrés DAlessandro,Internacional
+1730286,17,Wagner,Fluminense RJ
+1730286,50,Samuel Rosa,Fluminense RJ
+1730310,28,Elias,Botafogo RJ
+1730310,37,Clarence Seedorf,Botafogo RJ
+1730310,79,Bruno Mendes,Botafogo RJ
+1730310,82,Bruno Mendes,Botafogo RJ
+1730306,70,Júnior Urso,Coritiba FC
+1730306,29,Wellington Paulista,Criciúma EC
+1730306,71,Lins,Criciúma EC
+1730298,25,Jean,Fluminense RJ
+1730298,89,Gum,Fluminense RJ
+1730298,17,Welliton,São Paulo FC
+1730304,75,Souza,Cruzeiro EC
+1730304,84,Vinícius Araújo,Cruzeiro EC
+1730304,5,Leonardo,Ponte Preta
+1730304,90,Leonardo,Ponte Preta
+1730312,21,Dinei,EC Vitória BA
+1730312,84,Maxi Biancucchi,EC Vitória BA
+1730296,61,Maxi Rodríguez,Grêmio Porto Alegre
+1730296,87,Maxi Rodríguez,Grêmio Porto Alegre
+1730296,86,João Paulo,Flamengo RJ
+1730300,82,Fernandão,EC Bahia
+1730302,26,Wálter,Goiás EC
+1730302,73,Hugo,Goiás EC
+1730302,83,Roni,Goiás EC
+1730302,20,Otávio,Internacional
+1730308,45,Bruno Henrique,Portuguesa (SP)
+1730308,64,Bruno Henrique,Portuguesa (SP)
+1730320,13,Wellington Paulista,Criciúma EC
+1730320,53,Dinei,EC Vitória BA
+1730328,3,Thalles Lima,Vasco da Gama
+1730328,32,Edmilson,Vasco da Gama
+1730328,64,Paulão,Cruzeiro EC
+1730324,24,Fernandinho Silva,Atlético Mineiro
+1730324,34,Diego Tardelli,Atlético Mineiro
+1730324,67,Diego Tardelli,Atlético Mineiro
+1730324,73,Diego Tardelli,Atlético Mineiro
+1730324,44,Amaral,Goiás EC
+1730316,65,Thiago Ribeiro,Santos FC
+1730318,18,Paulinho,Flamengo RJ
+1730322,15,Adaílton,Ponte Preta
+1730322,54,Eduardo Vargas,Grêmio Porto Alegre
+1730326,25,Zezinho,Atlético Paranaense
+1730326,27,Paulo Baier,Atlético Paranaense
+1730326,52,Felipe,Atlético Paranaense
+1730326,60,Éderson,Atlético Paranaense
+1730326,62,Felipe,Atlético Paranaense
+1730326,65,Cleberson,Atlético Paranaense
+1730326,46,Tiago Real,Clube Náutico
+1730314,4,Aloísio,São Paulo FC
+1730314,28,Elias,Botafogo RJ
+1730332,44,Fernandão,EC Bahia
+1730348,37,Gum,Fluminense RJ
+1730348,54,Biro Biro,Fluminense RJ
+1730348,22,Diego Tardelli,Atlético Mineiro
+1730348,83,Alecsandro,Atlético Mineiro
+1730334,39,Deivid,Coritiba FC
+1730334,69,Alex,Coritiba FC
+1730334,84,Bruno Mendes,Botafogo RJ
+1730336,44,Dinei,EC Vitória BA
+1730336,47,Maxi Biancucchi,EC Vitória BA
+1730336,62,Dinei,EC Vitória BA
+1730336,80,Marquinhos,EC Vitória BA
+1730336,45,Wallace Reis,Flamengo RJ
+1730336,60,Hernane Brocador,Flamengo RJ
+1730338,2,Wellington Paulista,Criciúma EC
+1730340,84,Vinícius Araújo,Cruzeiro EC
+1730340,15,Marquinhos Gabriel,EC Bahia
+1730340,90,Anderson Talisca,EC Bahia
+1730346,5,Edmilson,Vasco da Gama
+1730346,87,Bernardo,Vasco da Gama
+1730352,15,Henrique Dourado,Portuguesa (SP)
+1730352,65,Wanderson,Portuguesa (SP)
+1730344,17,Hernán Barcos,Grêmio Porto Alegre
+1730350,34,Cícero,Santos FC
+1730350,77,Cícero,Santos FC
+1730350,28,Marcelo Cirino,Atlético Paranaense
+1730368,14,Hernane Brocador,Flamengo RJ
+1730368,64,Souza,Cruzeiro EC
+1730358,52,Derley,Clube Náutico
+1730354,4,Paulo Baier,Atlético Paranaense
+1730354,44,Éderson,Atlético Paranaense
+1730354,64,Marcelo Cirino,Atlético Paranaense
+1730354,81,Éderson,Atlético Paranaense
+1730354,85,Éderson,Atlético Paranaense
+1730354,41,Edmilson,Vasco da Gama
+1730356,42,William Barbio,EC Bahia
+1730356,56,Wagner,Fluminense RJ
+1730356,83,Samuel Rosa,Fluminense RJ
+1730360,45,Ronaldinho,Atlético Mineiro
+1730360,90,Ronaldinho,Atlético Mineiro
+1730360,4,Marquinhos,EC Vitória BA
+1730360,6,Maxi Biancucchi,EC Vitória BA
+1730366,10,Nicolás Lodeiro,Botafogo RJ
+1730366,68,Elias,Botafogo RJ
+1730366,89,Clarence Seedorf,Botafogo RJ
+1730370,28,Luccas Claro,Coritiba FC
+1730372,6,Cícero,Santos FC
+1730372,45,Walter Montillo,Santos FC
+1730372,78,Walter Montillo,Santos FC

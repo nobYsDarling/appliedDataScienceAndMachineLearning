@@ -1,0 +1,549 @@
+GameID,Minute,Scorer,Team
+873875,11,Jonathan Soriano,RB Salzburg
+873875,22,Jonathan Soriano,RB Salzburg
+873876,4,Terrence Boyd,Rapid Wien
+873876,20,Stefan Kulovits,Rapid Wien
+873876,55,Christopher Drazan,Rapid Wien
+873876,71,Terrence Boyd,Rapid Wien
+873877,38,Michael Mörz,SV Mattersburg
+873877,65,Thorsten Röcher,SV Mattersburg
+873879,14,René Gartler,SV Ried
+873879,19,René Gartler,SV Ried
+873878,77,Tomáš Jun,Austria Wien
+873881,53,Mario Sonnleitner,Rapid Wien
+873882,14,Franz Schiemer,RB Salzburg
+873882,33,Jonathan Soriano,RB Salzburg
+873882,76,Gonzalo Zárate,RB Salzburg
+873882,45,Patrick Bürger,SV Mattersburg
+873882,49,Alois Höller,SV Mattersburg
+873883,25,Rubin Okotie,Sturm Graz
+873884,16,Marcel Schreter,FC Wacker Innsbruck
+873884,14,Philipp Hosiner,FC Admira Wacker
+873884,81,Philipp Hosiner,FC Admira Wacker
+873880,50,José Antonio Solano,Wolfsberger AC
+873880,64,Michael Liendl,Wolfsberger AC
+873887,48,Ilčo Naumoski,SV Mattersburg
+873887,87,Ilčo Naumoski,SV Mattersburg
+873887,89,Florin Lovin,SV Mattersburg
+873887,23,Richard Sukuta-Pasu,Sturm Graz
+873888,30,Jonathan Soriano,RB Salzburg
+873888,86,Jonathan Soriano,RB Salzburg
+873885,67,Anel Hadžić,SV Ried
+873885,85,Guillem,SV Ried
+873886,38,Roman Kienast,Austria Wien
+873886,52,Roman Kienast,Austria Wien
+873886,83,Tomas Šimkovič,Austria Wien
+873889,17,Issiaka Ouédraogo,FC Admira Wacker
+873889,24,Issiaka Ouédraogo,FC Admira Wacker
+873889,72,Philipp Hosiner,FC Admira Wacker
+873889,84,Marcel Sabitzer,FC Admira Wacker
+873891,7,Imre Szabics,Sturm Graz
+873891,9,Rubin Okotie,Sturm Graz
+873891,41,Richard Sukuta-Pasu,Sturm Graz
+873891,44,Rubin Okotie,Sturm Graz
+873891,2,Jacobo,Wolfsberger AC
+873894,83,Marcelo Fernandes,FC Wacker Innsbruck
+873894,90,Christopher Wernitznig,FC Wacker Innsbruck
+873894,34,Manuel Seidl,SV Mattersburg
+873890,14,Dario Tadić,SC Wiener Neustadt
+873890,90,Günter Friesenbichler,SC Wiener Neustadt
+873890,17,Robert Žulj,SV Ried
+873890,66,René Gartler,SV Ried
+873890,73,Mario Reiter,SV Ried
+873892,26,Deni Alar,Rapid Wien
+873892,75,Lukas Grozurek,Rapid Wien
+873893,61,Marko Stanković,Austria Wien
+873896,15,Guido Burgstaller,Rapid Wien
+873896,57,Deni Alar,Rapid Wien
+873896,70,Steffen Hofmann,Rapid Wien
+873897,11,Christopher Wernitznig,FC Wacker Innsbruck
+873897,57,Julius Perstaller,FC Wacker Innsbruck
+873897,55,Günter Friesenbichler,SC Wiener Neustadt
+873897,66,Günter Friesenbichler,SC Wiener Neustadt
+873897,78,Günter Friesenbichler,SC Wiener Neustadt
+873898,72,Manuel Seidl,SV Mattersburg
+873899,15,Philipp Hosiner,FC Admira Wacker
+873899,37,Marcel Sabitzer,FC Admira Wacker
+873899,45,Philipp Hosiner,FC Admira Wacker
+873899,80,René Schicker,FC Admira Wacker
+873899,45,Håvard Nielsen,RB Salzburg
+873899,46,Håvard Nielsen,RB Salzburg
+873899,56,Håvard Nielsen,RB Salzburg
+873899,77,Stefan Maierhofer,RB Salzburg
+873895,85,Alexander Grünwald,Austria Wien
+873900,24,Richard Sukuta-Pasu,Sturm Graz
+873900,42,Nikola Vujadinović,Sturm Graz
+873900,73,Richard Sukuta-Pasu,Sturm Graz
+873900,54,Lukas Thürauer,FC Admira Wacker
+873900,60,Marcel Sabitzer,FC Admira Wacker
+873901,34,Valon Berisha,RB Salzburg
+873901,33,Peter Hlinka,SC Wiener Neustadt
+873902,58,Tomáš Jun,Austria Wien
+873902,17,Martin Švejnoha,FC Wacker Innsbruck
+873903,17,Marvin Potzmann,SV Mattersburg
+873903,45,Patrick Bürger,SV Mattersburg
+873903,90,Anel Hadžić,SV Ried
+873904,18,Dario Baldauf,Wolfsberger AC
+873905,46,Thomas Reifeltshammer,SV Ried
+873906,26,Markus Suttner,Austria Wien
+873906,83,Tomas Šimkovič,Austria Wien
+873908,12,Jakob Jantscher,RB Salzburg
+873908,31,Valon Berisha,RB Salzburg
+873908,38,Franz Schiemer,RB Salzburg
+873908,70,Jonathan Soriano,RB Salzburg
+873909,64,René Schicker,FC Admira Wacker
+873909,39,Jacobo,Wolfsberger AC
+873907,12,Terrence Boyd,Rapid Wien
+873907,49,Christopher Trimmel,Rapid Wien
+873907,66,Terrence Boyd,Rapid Wien
+873914,8,Christian Falk,Wolfsberger AC
+873914,12,Mihret Topčagić,Wolfsberger AC
+873914,22,Christian Falk,Wolfsberger AC
+873914,31,Christian Falk,Wolfsberger AC
+873914,67,Michael Liendl,Wolfsberger AC
+873914,76,Michael Liendl,Wolfsberger AC
+873910,35,Nikola Vujadinović,Sturm Graz
+873910,59,Imre Szabics,Sturm Graz
+873910,70,Nikola Vujadinović,Sturm Graz
+873911,34,Jonathan Soriano,RB Salzburg
+873911,70,Marcel Ziegl,SV Ried
+873913,2,Marvin Potzmann,SV Mattersburg
+873913,44,Ilčo Naumoski,SV Mattersburg
+873913,5,Philipp Hosiner,Austria Wien
+873913,53,Kaja Rogulj,Austria Wien
+873913,70,Philipp Hosiner,Austria Wien
+873913,90,Alexander Gorgon,Austria Wien
+873919,2,Andreas Schrott,FC Admira Wacker
+873919,29,Issiaka Ouédraogo,FC Admira Wacker
+873919,36,Lukas Thürauer,FC Admira Wacker
+873919,57,Thorsten Schick,FC Admira Wacker
+873919,90,René Schicker,FC Admira Wacker
+873919,26,Marvin Potzmann,SV Mattersburg
+873916,71,Peter Hlinka,SC Wiener Neustadt
+873916,57,Manuel Weber,Sturm Graz
+873917,86,Valon Berisha,RB Salzburg
+873918,22,Christian Falk,Wolfsberger AC
+873915,31,Guido Burgstaller,Rapid Wien
+873915,84,Christopher Trimmel,Rapid Wien
+873923,84,Tomáš Jun,Austria Wien
+873923,71,Mihret Topčagić,Wolfsberger AC
+873921,48,Markus Katzer,Rapid Wien
+873921,86,Lukas Grozurek,Rapid Wien
+873924,88,Robert Žulj,SV Ried
+873924,64,Stefan Schwab,FC Admira Wacker
+873920,44,Valon Berisha,RB Salzburg
+873920,45,Sadio Mané,RB Salzburg
+873920,89,Sadio Mané,RB Salzburg
+873920,36,Rubin Okotie,Sturm Graz
+873920,65,Florian Kainz,Sturm Graz
+873925,89,Rivera,Wolfsberger AC
+873925,90,Michael Liendl,Wolfsberger AC
+873925,8,Marco Meilinger,SV Ried
+873925,51,René Gartler,SV Ried
+873925,54,Clemens Walch,SV Ried
+873925,56,René Gartler,SV Ried
+873925,76,Markus Hammerer,SV Ried
+873927,56,Alois Höller,SV Mattersburg
+873927,5,Jonathan Soriano,RB Salzburg
+873927,51,Jonathan Soriano,RB Salzburg
+873927,60,Isaac Vorsah,RB Salzburg
+873929,11,Thorsten Schick,FC Admira Wacker
+873929,24,Issiaka Ouédraogo,FC Admira Wacker
+873929,47,Stefan Schwab,FC Admira Wacker
+873929,90,Marcel Sabitzer,FC Admira Wacker
+873929,76,Daniel Schütz,FC Wacker Innsbruck
+873928,15,Florian Kainz,Sturm Graz
+873928,7,Philipp Hosiner,Austria Wien
+873926,86,Terrence Boyd,Rapid Wien
+873926,10,Stefan Rakowitz,SC Wiener Neustadt
+873933,8,Sadio Mané,RB Salzburg
+873933,36,Christoph Leitgeb,RB Salzburg
+873933,88,Georg Teigl,RB Salzburg
+873933,54,Christian Thonhofer,Wolfsberger AC
+873933,66,Christian Falk,Wolfsberger AC
+873930,41,Marcel Schreter,FC Wacker Innsbruck
+873934,63,Manuel Wallner,SC Wiener Neustadt
+873934,69,Stefan Rakowitz,SC Wiener Neustadt
+873934,22,Thorsten Schick,FC Admira Wacker
+873931,29,Alexander Gorgon,Austria Wien
+873931,51,Alexander Gorgon,Austria Wien
+873935,4,Robert Žulj,SV Ried
+873935,62,Anel Hadžić,SV Ried
+873935,90,Nacho Rodríguez,SV Ried
+873935,28,Thomas Fröschl,SC Wiener Neustadt
+873938,25,Thorsten Schick,FC Admira Wacker
+873938,32,Bernhard Schachner,FC Admira Wacker
+873938,45,Lukas Thürauer,FC Admira Wacker
+873938,82,Stefan Schwab,FC Admira Wacker
+873938,2,Philipp Hosiner,Austria Wien
+873938,29,Tomas Šimkovič,Austria Wien
+873938,51,Kaja Rogulj,Austria Wien
+873938,60,Alexander Gorgon,Austria Wien
+873938,90,Philipp Hosiner,Austria Wien
+873938,90,Philipp Hosiner,Austria Wien
+873939,16,Thorsten Röcher,SV Mattersburg
+873939,83,Patrick Bürger,SV Mattersburg
+873939,43,Tomáš Abrahám,FC Wacker Innsbruck
+873937,14,Steffen Hofmann,Rapid Wien
+873937,47,Terrence Boyd,Rapid Wien
+873936,60,José Antonio Solano,Wolfsberger AC
+873936,57,Imre Szabics,Sturm Graz
+873942,75,Roman Wallner,FC Wacker Innsbruck
+873941,38,Richard Sukuta-Pasu,Sturm Graz
+873941,47,Florian Kainz,Sturm Graz
+873941,67,Guido Burgstaller,Rapid Wien
+873943,44,Patrick Bürger,SV Mattersburg
+873943,72,Christian Falk,Wolfsberger AC
+873944,21,Christoph Leitgeb,RB Salzburg
+873944,27,Jonathan Soriano,RB Salzburg
+873944,74,Jonathan Soriano,RB Salzburg
+873944,89,Christoph Leitgeb,RB Salzburg
+873944,86,Richard Windbichler,FC Admira Wacker
+873940,11,Philipp Hosiner,Austria Wien
+873940,18,Tomáš Jun,Austria Wien
+873940,52,Philipp Hosiner,Austria Wien
+873940,69,Philipp Hosiner,Austria Wien
+873940,82,Marko Stanković,Austria Wien
+873940,87,Roland Linz,Austria Wien
+873940,57,Robert Žulj,SV Ried
+873945,90,Benjamin Sulimani,FC Admira Wacker
+873945,41,Nikola Vujadinović,Sturm Graz
+873945,47,Rubin Okotie,Sturm Graz
+873947,49,Florian Mader,Austria Wien
+873947,69,Tomáš Jun,Austria Wien
+873947,82,Philipp Hosiner,Austria Wien
+873948,4,René Gartler,SV Ried
+873948,13,René Gartler,SV Ried
+873948,26,René Gartler,SV Ried
+873948,38,Clemens Walch,SV Ried
+873948,47,Robert Žulj,SV Ried
+873948,84,Clemens Walch,SV Ried
+873948,31,Martin Rodler,SV Mattersburg
+873946,7,Franz Schiemer,RB Salzburg
+873946,53,Jonathan Soriano,RB Salzburg
+873946,81,Jonathan Soriano,RB Salzburg
+873949,6,Christian Falk,Wolfsberger AC
+873949,48,Christian Falk,Wolfsberger AC
+873951,22,Manuel Ortlechner,Austria Wien
+873951,65,Roman Kienast,Austria Wien
+873951,68,Alexander Grünwald,Austria Wien
+873950,13,Rubin Okotie,Sturm Graz
+873950,25,Imre Szabics,Sturm Graz
+873950,77,Rubin Okotie,Sturm Graz
+873950,36,René Gartler,SV Ried
+873952,5,Deni Alar,Rapid Wien
+873952,30,Deni Alar,Rapid Wien
+873952,38,Terrence Boyd,Rapid Wien
+873954,20,Michael Liendl,Wolfsberger AC
+873954,62,Benjamin Sulimani,FC Admira Wacker
+873953,18,Sadio Mané,RB Salzburg
+873953,82,Georg Teigl,RB Salzburg
+873955,90,Richard Sukuta-Pasu,Sturm Graz
+873956,32,Clemens Walch,SV Ried
+873956,76,Markus Hammerer,SV Ried
+873956,90,Anel Hadžić,SV Ried
+873956,5,Georg Teigl,RB Salzburg
+873958,15,Philipp Hosiner,Austria Wien
+873958,71,Alexander Gorgon,Austria Wien
+873958,73,Philipp Hosiner,Austria Wien
+873958,37,Martin Rodler,SV Mattersburg
+873959,64,Daniel Offenbacher,SC Wiener Neustadt
+873959,69,Dario Tadić,SC Wiener Neustadt
+873959,76,Michael Liendl,Wolfsberger AC
+873957,70,Deni Alar,Rapid Wien
+873957,90,Guido Burgstaller,Rapid Wien
+873963,77,Christian Falk,Wolfsberger AC
+873963,89,Michael Liendl,Wolfsberger AC
+873963,7,Julius Perstaller,FC Wacker Innsbruck
+873963,90,Christian Schilling,FC Wacker Innsbruck
+873960,26,Terrence Boyd,Rapid Wien
+873960,45,Deni Alar,Rapid Wien
+873960,58,Deni Alar,Rapid Wien
+873960,80,Deni Alar,Rapid Wien
+873960,34,René Gartler,SV Ried
+873960,84,Anel Hadžić,SV Ried
+873960,90,Markus Grössinger,SV Ried
+873961,16,Richard Sukuta-Pasu,Sturm Graz
+873961,43,Milan Dudić,Sturm Graz
+873961,62,Richard Sukuta-Pasu,Sturm Graz
+873961,50,Dario Tadić,SC Wiener Neustadt
+873964,45,Ilčo Naumoski,SV Mattersburg
+873964,47,Patrick Bürger,SV Mattersburg
+873964,79,Patrick Bürger,SV Mattersburg
+873969,1,Marco Meilinger,SV Ried
+873969,20,Robert Žulj,SV Ried
+873969,41,René Gartler,SV Ried
+873965,8,Richard Sukuta-Pasu,Sturm Graz
+873965,66,Sadio Mané,RB Salzburg
+873967,81,Alois Höller,SV Mattersburg
+873968,19,Christian Falk,Wolfsberger AC
+873968,39,De Paula,Wolfsberger AC
+873968,57,Jacobo,Wolfsberger AC
+873968,9,Philipp Hosiner,Austria Wien
+873968,33,Philipp Hosiner,Austria Wien
+873968,65,Fabian Koch,Austria Wien
+873968,70,Philipp Hosiner,Austria Wien
+873968,72,Alexander Gorgon,Austria Wien
+873968,90,Emir Dilaver,Austria Wien
+873966,43,Mario Sonnleitner,Rapid Wien
+873966,44,Deni Alar,Rapid Wien
+873966,51,Terrence Boyd,Rapid Wien
+873971,45,Dario Tadić,SC Wiener Neustadt
+873972,16,Sadio Mané,RB Salzburg
+873972,24,Georg Teigl,RB Salzburg
+873972,58,Valon Berisha,RB Salzburg
+873972,59,Sadio Mané,RB Salzburg
+873972,67,Stefan Hierländer,RB Salzburg
+873972,72,Jonathan Soriano,RB Salzburg
+873972,90,Sadio Mané,RB Salzburg
+873974,21,Roman Wallner,FC Wacker Innsbruck
+873974,37,Thomas Bergmann,FC Wacker Innsbruck
+873974,56,Roman Wallner,FC Wacker Innsbruck
+873974,68,Maximilian Sax,FC Admira Wacker
+873973,49,Philipp Hosiner,Austria Wien
+873973,67,Markus Suttner,Austria Wien
+873973,89,Marko Stanković,Austria Wien
+873973,55,Rubin Okotie,Sturm Graz
+873970,58,Robert Žulj,SV Ried
+873970,83,Mihret Topčagić,Wolfsberger AC
+873975,10,Jan Marc Riegler,SV Ried
+873975,45,Jan Marc Riegler,SV Ried
+873975,90,Clemens Walch,SV Ried
+873979,38,Issiaka Ouédraogo,FC Admira Wacker
+873979,48,Peter Hlinka,SC Wiener Neustadt
+873979,51,Dario Tadić,SC Wiener Neustadt
+873976,20,Christopher Trimmel,Rapid Wien
+873976,27,Philipp Hosiner,Austria Wien
+873976,54,Philipp Hosiner,Austria Wien
+873978,26,Rivera,Wolfsberger AC
+873978,72,Franz Schiemer,RB Salzburg
+873984,57,Christopher Wernitznig,FC Wacker Innsbruck
+873984,49,Michael Novak,SV Mattersburg
+873981,67,Nikola Vujadinović,Sturm Graz
+873981,9,Mihret Topčagić,Wolfsberger AC
+873981,58,Michael Liendl,Wolfsberger AC
+873981,90,Manuel Kerhe,Wolfsberger AC
+873983,30,Alexander Gorgon,Austria Wien
+873983,80,Emir Dilaver,Austria Wien
+873983,89,Roman Kienast,Austria Wien
+873983,90,Roman Kienast,Austria Wien
+873982,1,Kevin Kampl,RB Salzburg
+873982,69,Jonathan Soriano,RB Salzburg
+873982,86,Martin Hinteregger,RB Salzburg
+873982,48,Terrence Boyd,Rapid Wien
+873982,82,Guido Burgstaller,Rapid Wien
+873982,90,Marcel Sabitzer,Rapid Wien
+873985,45,Thomas Reifeltshammer,SV Ried
+873985,6,Alexander Grünwald,Austria Wien
+873985,68,Tomáš Jun,Austria Wien
+873985,79,Roman Kienast,Austria Wien
+873986,29,Branko Bošković,Rapid Wien
+873986,60,Nikola Vujadinović,Sturm Graz
+873987,8,Daniel Schütz,FC Wacker Innsbruck
+873988,66,Dario Baldauf,Wolfsberger AC
+873989,44,Tito,FC Admira Wacker
+873989,16,Christoph Leitgeb,RB Salzburg
+873990,78,David Schloffer,Sturm Graz
+873990,69,Issiaka Ouédraogo,FC Admira Wacker
+873990,75,Stefan Schwab,FC Admira Wacker
+873991,44,Jonathan Soriano,RB Salzburg
+873991,48,Jonathan Soriano,RB Salzburg
+873991,55,Alan,RB Salzburg
+873991,19,Arvedin Terzić,SC Wiener Neustadt
+873992,26,Fabian Koch,Austria Wien
+873992,75,Philipp Hosiner,Austria Wien
+873992,78,Philipp Hosiner,Austria Wien
+873992,29,Marco Kofler,FC Wacker Innsbruck
+873993,35,Manuel Seidl,SV Mattersburg
+873994,16,Mihret Topčagić,Wolfsberger AC
+873994,35,Christian Thonhofer,Wolfsberger AC
+873994,10,Guido Burgstaller,Rapid Wien
+873995,70,Toni Vastić,SV Ried
+873995,56,David Schloffer,Sturm Graz
+873995,85,Richard Sukuta-Pasu,Sturm Graz
+873997,60,Terrence Boyd,Rapid Wien
+873997,67,Deni Alar,Rapid Wien
+873997,20,Patrick Bürger,SV Mattersburg
+873997,50,Christian Gartner,SV Mattersburg
+873999,75,Rivera,Wolfsberger AC
+873998,3,Roman Wallner,FC Wacker Innsbruck
+873998,40,Daniel Schütz,FC Wacker Innsbruck
+873998,65,Georg Teigl,RB Salzburg
+873998,74,Jonathan Soriano,RB Salzburg
+873998,90,Sadio Mané,RB Salzburg
+874002,53,Harald Pichler,Rapid Wien
+874002,57,Issiaka Ouédraogo,FC Admira Wacker
+874000,21,Jürgen Säumel,Sturm Graz
+874000,67,Jürgen Säumel,Sturm Graz
+874000,81,Imre Szabics,Sturm Graz
+874000,79,Roman Wallner,FC Wacker Innsbruck
+874000,90,Christian Schilling,FC Wacker Innsbruck
+874001,42,Jonathan Soriano,RB Salzburg
+874001,81,Martin Hinteregger,RB Salzburg
+874001,22,Marco Meilinger,SV Ried
+874001,52,Marco Meilinger,SV Ried
+874004,2,Jacobo,Wolfsberger AC
+874004,88,Christian Ramsebner,SC Wiener Neustadt
+874003,16,Alexander Gorgon,Austria Wien
+874003,38,Alexander Grünwald,Austria Wien
+874003,71,Philipp Hosiner,Austria Wien
+874003,82,Philipp Hosiner,Austria Wien
+874009,32,Stefan Schwab,FC Admira Wacker
+874005,5,René Gartler,SV Ried
+874005,45,Marco Meilinger,SV Ried
+874005,53,Nacho Rodríguez,SV Ried
+874005,9,Deni Alar,Rapid Wien
+874005,90,Deni Alar,Rapid Wien
+874006,62,Daniel Offenbacher,SC Wiener Neustadt
+874008,28,Christopher Wernitznig,FC Wacker Innsbruck
+874008,65,Tomáš Abrahám,FC Wacker Innsbruck
+874008,3,Mihret Topčagić,Wolfsberger AC
+874008,21,Mihret Topčagić,Wolfsberger AC
+874008,55,Jacobo,Wolfsberger AC
+874007,37,Alexander Grünwald,Austria Wien
+874007,61,Kevin Kampl,RB Salzburg
+874011,82,Julius Perstaller,FC Wacker Innsbruck
+874011,66,Terrence Boyd,Rapid Wien
+874013,2,Jacobo,Wolfsberger AC
+874013,19,Manuel Kerhe,Wolfsberger AC
+874013,63,Jacobo,Wolfsberger AC
+874013,88,Mihret Topčagić,Wolfsberger AC
+874014,3,Marco Meilinger,SV Ried
+874014,50,Robert Žulj,SV Ried
+874014,55,Robert Žulj,SV Ried
+874014,26,Tito,FC Admira Wacker
+874014,77,Stefan Schwab,FC Admira Wacker
+874010,51,Jonathan Soriano,RB Salzburg
+874010,77,Jonathan Soriano,RB Salzburg
+874010,80,Sadio Mané,RB Salzburg
+874015,47,Jacobo,Wolfsberger AC
+874015,62,Robert Žulj,SV Ried
+874015,90,Anel Hadžić,SV Ried
+874015,90,Markus Grössinger,SV Ried
+874016,49,Markus Katzer,Rapid Wien
+874016,57,Deni Alar,Rapid Wien
+874017,51,Alois Höller,SV Mattersburg
+874017,72,Sadio Mané,RB Salzburg
+874017,75,Jonathan Soriano,RB Salzburg
+874019,9,Christoph Schösswendter,FC Admira Wacker
+874019,37,Daniel Segovia,FC Admira Wacker
+874019,59,Richard Windbichler,FC Admira Wacker
+874019,62,Daniel Segovia,FC Admira Wacker
+874019,3,Lukas Hinterseer,FC Wacker Innsbruck
+874019,46,Daniel Schütz,FC Wacker Innsbruck
+874019,90,Julius Perstaller,FC Wacker Innsbruck
+874018,43,Richard Sukuta-Pasu,Sturm Graz
+874018,66,Alexander Grünwald,Austria Wien
+874022,39,Michael Madl,Sturm Graz
+874022,90,Richard Sukuta-Pasu,Sturm Graz
+874022,65,Alexander Pöllhuber,SV Mattersburg
+874022,83,Patrick Bürger,SV Mattersburg
+874020,36,Lukas Hinterseer,FC Wacker Innsbruck
+874020,76,Christopher Wernitznig,FC Wacker Innsbruck
+874023,17,Alan,RB Salzburg
+874023,33,Alan,RB Salzburg
+874023,50,Jonathan Soriano,RB Salzburg
+874023,58,Alan,RB Salzburg
+874023,76,Jonathan Soriano,RB Salzburg
+874023,87,Jonathan Soriano,RB Salzburg
+874023,10,De Paula,Wolfsberger AC
+874023,37,Roland Putsche,Wolfsberger AC
+874024,41,Christian Ramsebner,SC Wiener Neustadt
+874024,81,Dennis Mimm,SC Wiener Neustadt
+874024,90,Dennis Mimm,SC Wiener Neustadt
+874021,27,Tomáš Jun,Austria Wien
+874021,56,Tomáš Jun,Austria Wien
+874021,53,Deni Alar,Rapid Wien
+874021,66,Marcel Sabitzer,Rapid Wien
+874025,42,René Gartler,SV Ried
+874025,71,Toni Vastić,SV Ried
+874025,6,Stefan Rakowitz,SC Wiener Neustadt
+874026,44,Mihret Topčagić,Wolfsberger AC
+874026,72,Michael Liendl,Wolfsberger AC
+874026,75,Jacobo,Wolfsberger AC
+874027,63,Deni Alar,Rapid Wien
+874027,65,Alan,RB Salzburg
+874027,70,Alan,RB Salzburg
+874027,90,Dušan Švento,RB Salzburg
+874029,35,Ivica Majstorović,SV Mattersburg
+874029,54,Patrick Bürger,SV Mattersburg
+874029,53,Christopher Wernitznig,FC Wacker Innsbruck
+874028,32,Florian Mader,Austria Wien
+874028,56,Manuel Ortlechner,Austria Wien
+874030,4,Philipp Hosiner,Austria Wien
+874030,53,Philipp Hosiner,Austria Wien
+874030,73,Tomáš Jun,Austria Wien
+874030,89,René Gartler,SV Ried
+874032,12,Thomas Fröschl,SC Wiener Neustadt
+874032,64,Thomas Fröschl,SC Wiener Neustadt
+874032,25,Simon Piesinger,FC Wacker Innsbruck
+874032,35,Alexander Hauser,FC Wacker Innsbruck
+874033,11,Florin Lovin,SV Mattersburg
+874033,13,Ingo Klemen,SV Mattersburg
+874033,24,Ingo Klemen,SV Mattersburg
+874033,79,Mihret Topčagić,Wolfsberger AC
+874034,63,Alan,RB Salzburg
+874034,74,Sadio Mané,RB Salzburg
+874034,51,Daniel Toth,FC Admira Wacker
+874031,13,Andreas Hölzl,Sturm Graz
+874031,7,Marcel Sabitzer,Rapid Wien
+874031,65,Mario Sonnleitner,Rapid Wien
+874031,90,Dominik Starkl,Rapid Wien
+874035,33,Thorsten Schick,FC Admira Wacker
+874035,39,Patrik Ježek,FC Admira Wacker
+874035,57,Stefan Schwab,FC Admira Wacker
+874037,83,Philipp Hosiner,Austria Wien
+874037,90,Nacer Barazite,Austria Wien
+874037,90,Philipp Hosiner,Austria Wien
+874038,21,Alois Höller,SV Mattersburg
+874038,36,Adnan Mravac,SV Mattersburg
+874036,71,Christoph Martschinko,SC Wiener Neustadt
+874036,5,Jonathan Soriano,RB Salzburg
+874036,16,Alan,RB Salzburg
+874036,63,Kevin Kampl,RB Salzburg
+874036,66,Valon Berisha,RB Salzburg
+874036,78,Alan,RB Salzburg
+874041,29,Philipp Hosiner,Austria Wien
+874041,37,Alexander Grünwald,Austria Wien
+874041,85,Roman Kienast,Austria Wien
+874041,49,Dario Tadić,SC Wiener Neustadt
+874042,53,Patrick Bürger,SV Mattersburg
+874042,90,Ingo Klemen,SV Mattersburg
+874043,48,Kevin Kampl,RB Salzburg
+874043,68,Alan,RB Salzburg
+874043,79,Sadio Mané,RB Salzburg
+874043,38,Roman Wallner,FC Wacker Innsbruck
+874040,36,Rubin Okotie,Sturm Graz
+874040,84,Nikola Vujadinović,Sturm Graz
+874040,90,Serkan Ciftci,Sturm Graz
+874040,61,René Gartler,SV Ried
+874045,52,Lukas Hinterseer,FC Wacker Innsbruck
+874045,90,Christopher Wernitznig,FC Wacker Innsbruck
+874045,45,Rubin Okotie,Sturm Graz
+874046,36,Thomas Reifeltshammer,SV Ried
+874046,54,Robert Žulj,SV Ried
+874046,25,Alan,RB Salzburg
+874046,30,Sadio Mané,RB Salzburg
+874047,5,Christopher Trimmel,Rapid Wien
+874047,59,Dominik Wydra,Rapid Wien
+874048,3,Alexander Gorgon,Austria Wien
+874048,6,Markus Suttner,Austria Wien
+874048,12,Tomáš Jun,Austria Wien
+874048,53,Alexander Gorgon,Austria Wien
+874049,66,Dario Tadić,SC Wiener Neustadt
+874049,72,Peter Hlinka,SC Wiener Neustadt
+874050,20,Louis Schaub,Rapid Wien
+874050,49,Louis Schaub,Rapid Wien
+874050,88,Terrence Boyd,Rapid Wien
+874051,30,Mario Pollhammer,SC Wiener Neustadt
+874051,63,Daniel Offenbacher,SC Wiener Neustadt
+874051,68,Herbert Rauter,SC Wiener Neustadt
+874052,39,Sadio Mané,RB Salzburg
+874052,75,Sadio Mané,RB Salzburg
+874052,83,Ibrahim Sekagya,RB Salzburg
+874053,50,Stephan Stückler,Wolfsberger AC
+874053,45,Marco Kofler,FC Wacker Innsbruck
+874053,72,Julius Perstaller,FC Wacker Innsbruck
+874053,75,Christian Schilling,FC Wacker Innsbruck
+874053,78,Julius Perstaller,FC Wacker Innsbruck
+874054,72,Daniel Segovia,FC Admira Wacker

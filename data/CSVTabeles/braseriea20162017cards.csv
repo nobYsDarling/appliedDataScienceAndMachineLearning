@@ -1,0 +1,1855 @@
+GameID,Minute,Player,Team,Card
+8382472,65,Miguel Trauco,Flamengo RJ,yellow
+8382472,82,Éverton,Flamengo RJ,yellow
+8382472,21,Fábio Santos,Atlético Mineiro,yellow
+8382472,59,Ralph,Atlético Mineiro,yellow
+8382472,83,Rafael Carioca,Atlético Mineiro,yellow
+8382474,35,Rodriguinho,Corinthians SP,yellow
+8382474,63,Fágner,Corinthians SP,yellow
+8382474,64,Wellington Paulista,Chapecoense,yellow
+8382474,84,Andrei,Chapecoense,yellow
+8382471,90,Leo,Fluminense RJ,yellow
+8382471,45,Victor Ferraz,Santos FC,yellow
+8382471,55,Ricardo Oliveira,Santos FC,yellow
+8382471,62,Bruno Henrique,Santos FC,yellow
+8382471,69,Lucas Veríssimo,Santos FC,yellow
+8382471,90,Lucas Lima,Santos FC,yellow
+8382473,78,Jomar,Vasco da Gama,yellow
+8382473,90,Douglas Luiz,Vasco da Gama,yellow
+8382475,90,Rodrigo Caio,São Paulo FC,yellow
+8382478,74,Marcão,Atlético Paranaense,yellow-red
+8382479,42,Rodrigo,Sport Club Recife,yellow
+8382479,44,Samuel Xavier,Sport Club Recife,yellow
+8382480,75,Renê,EC Vitória BA,yellow
+8382480,85,Willian Farias,EC Vitória BA,yellow
+8382477,64,Ramiro,Grêmio Porto Alegre,yellow
+8382477,69,Marcelo Oliveira,Grêmio Porto Alegre,yellow
+8382477,28,Marcelo Benevenuto,Botafogo RJ,yellow
+8382477,61,Rodrigo Pimpão,Botafogo RJ,yellow
+8382477,62,Bruno Silva,Botafogo RJ,yellow
+8382477,63,Emerson Santos,Botafogo RJ,yellow
+8382477,90,João Paulo,Botafogo RJ,yellow
+8382476,42,Alan Santos,Coritiba FC,yellow
+8382476,70,Ricardo Silva,Atlético GO,yellow
+8382476,77,Marcão Silva,Atlético GO,yellow
+8382483,22,Thiago Maia,Santos FC,yellow
+8382483,30,Leandro Donizete,Santos FC,yellow
+8382483,50,Vladimir Hernández,Santos FC,yellow
+8382483,53,Rafael Longuine,Santos FC,yellow
+8382483,90,David Braz,Santos FC,yellow
+8382483,90,Jonathan Copete,Santos FC,yellow
+8382483,19,Matheus Galdezani,Coritiba FC,yellow
+8382483,45,Neto Berola,Coritiba FC,yellow
+8382483,58,Jonas,Coritiba FC,yellow
+8382483,74,Getterson,Coritiba FC,yellow
+8382489,49,Wálter,Atlético GO,yellow
+8382489,90,Igor,Atlético GO,yellow
+8382489,45,Gabriel,Flamengo RJ,yellow
+8382490,79,Andrei,Chapecoense,yellow
+8382490,67,Willian,SE Palmeiras,yellow
+8382482,22,Jean,Vasco da Gama,yellow
+8382482,25,Luís Fabiano,Vasco da Gama,yellow
+8382482,90,Gilberto,Vasco da Gama,yellow
+8382482,90,Martín Silva,Vasco da Gama,yellow
+8382482,10,Gustavo,EC Bahia,yellow
+8382482,90,Pablo Armero,EC Bahia,yellow-red
+8382485,27,Nogueira,Fluminense RJ,yellow
+8382485,45,Junior Sornoza,Fluminense RJ,yellow
+8382485,62,Richarlison,Fluminense RJ,yellow
+8382485,76,Marcos Júnior,Fluminense RJ,yellow
+8382485,87,Douglas,Fluminense RJ,yellow
+8382485,90,Renato,Fluminense RJ,yellow
+8382486,8,Thiago Heleno,Atlético Paranaense,yellow
+8382486,24,Wéverton,Atlético Paranaense,yellow
+8382486,24,Lucas Barrios,Grêmio Porto Alegre,yellow
+8382486,32,Ramiro,Grêmio Porto Alegre,yellow
+8382486,76,Marcelo Grohe,Grêmio Porto Alegre,yellow-red
+8382486,77,Arthur,Grêmio Porto Alegre,yellow
+8382488,90,Marquinhos Gabriel,Corinthians SP,yellow
+8382481,58,Igor Rabello,Botafogo RJ,yellow
+8382487,13,Raul Prata,Sport Club Recife,yellow
+8382487,64,Diego Souza,Sport Club Recife,yellow
+8382487,78,Fabrício,Sport Club Recife,yellow
+8382487,21,Raniel,Cruzeiro EC,yellow
+8382487,24,Léo,Cruzeiro EC,yellow
+8382487,88,Ariel Cabral,Cruzeiro EC,yellow
+8382484,48,Thiago Mendes,São Paulo FC,yellow
+8382484,56,Betão,Avaí FC,yellow
+8382484,84,Luan,Avaí FC,yellow
+8382492,65,Luís Fabiano,Vasco da Gama,yellow
+8382492,74,Jean,Vasco da Gama,yellow
+8382492,57,Douglas,Fluminense RJ,yellow
+8382492,90,Marquinho,Fluminense RJ,yellow
+8382492,90,Nogueira,Fluminense RJ,yellow
+8382494,36,Rodrigo Caio,São Paulo FC,yellow
+8382494,64,Sidão,São Paulo FC,yellow
+8382494,74,Thomaz,São Paulo FC,yellow
+8382494,43,Yerry Mina,SE Palmeiras,yellow
+8382494,73,Felipe Melo,SE Palmeiras,yellow
+8382498,38,Paulinho,EC Vitória BA,yellow
+8382498,86,Uillian Correia,EC Vitória BA,yellow
+8382498,90,Fred,EC Vitória BA,yellow
+8382498,13,Tomas Bastos,Coritiba FC,yellow
+8382498,48,Jonas,Coritiba FC,yellow
+8382498,83,Tiago Real,Coritiba FC,yellow
+8382495,38,Fábio Santos,Atlético Mineiro,yellow
+8382495,89,Rómulo Otero,Atlético Mineiro,yellow
+8382495,14,Nino Paraíba,Ponte Preta,yellow
+8382495,18,Kadu,Ponte Preta,yellow
+8382493,52,Jonathan Copete,Santos FC,yellow
+8382493,78,Victor Ferraz,Santos FC,yellow
+8382493,40,Henrique,Cruzeiro EC,yellow
+8382493,55,Léo,Cruzeiro EC,yellow
+8382493,84,Húdson,Cruzeiro EC,yellow
+8382496,45,Pablo,Atlético Paranaense,yellow
+8382499,71,Eduardo Diniz,Atlético GO,yellow
+8382499,88,Igor,Atlético GO,yellow
+8382497,64,Thallyson,Sport Club Recife,yellow
+8382497,71,Anselmo,Sport Club Recife,yellow
+8382497,83,Eugenio Mena,Sport Club Recife,yellow-red
+8382497,86,Matheus Ferraz,Sport Club Recife,yellow
+8382497,62,Matheus Bressan,Grêmio Porto Alegre,yellow
+8382491,8,Bruno Silva,Botafogo RJ,yellow
+8382491,40,Matheus Reis,EC Bahia,yellow
+8382500,54,Arthur,Chapecoense,yellow
+8382500,83,Luiz Otávio,Chapecoense,yellow-red
+8382500,87,Leandro Silva,Avaí FC,yellow-red
+8382506,23,Matheus Galdezani,Coritiba FC,yellow
+8382506,40,William Matheus,Coritiba FC,yellow
+8382506,44,Dodô,Coritiba FC,yellow
+8382506,14,Otavio,Atlético Paranaense,yellow
+8382506,61,Pablo,Atlético Paranaense,yellow
+8382501,45,Leandro Salino,EC Vitória BA,yellow
+8382501,55,Paulinho,EC Vitória BA,yellow
+8382501,70,Fred,EC Vitória BA,yellow
+8382501,80,David,EC Vitória BA,yellow
+8382501,90,Fernando Miguel,EC Vitória BA,yellow
+8382504,69,Vitor Bueno,Santos FC,yellow
+8382504,84,Bruno Henrique,Santos FC,red
+8382502,49,Gustavo Cuéllar,Flamengo RJ,yellow
+8382502,67,Juan,Flamengo RJ,yellow
+8382502,49,Bruno Silva,Botafogo RJ,yellow
+8382502,71,Joel Carli,Botafogo RJ,yellow
+8382510,8,Betão,Avaí FC,yellow
+8382510,35,Luan,Avaí FC,yellow
+8382510,48,Alemão,Avaí FC,yellow
+8382510,83,Lourenço,Avaí FC,yellow
+8382510,16,Anselmo,Sport Club Recife,yellow
+8382510,25,Osvaldo,Sport Club Recife,yellow
+8382510,80,Rithely,Sport Club Recife,yellow
+8382510,84,André,Sport Club Recife,yellow
+8382503,63,Thiago Santos,SE Palmeiras,yellow
+8382503,83,Michel Bastos,SE Palmeiras,yellow
+8382503,44,Victor,Atlético Mineiro,yellow
+8382503,44,Robinho,Atlético Mineiro,yellow
+8382503,70,Yago Severin,Atlético Mineiro,yellow
+8382503,89,Alex Silva,Atlético Mineiro,yellow
+8382507,47,Bruno Cortês,Grêmio Porto Alegre,yellow
+8382507,51,Lucas Barrios,Grêmio Porto Alegre,yellow
+8382507,51,Gilberto,Vasco da Gama,yellow
+8382507,62,Wellington,Vasco da Gama,yellow
+8382507,90,Nenê,Vasco da Gama,yellow
+8382509,15,Wendel,Ponte Preta,yellow
+8382509,79,Emerson Sheik,Ponte Preta,yellow
+8382509,21,Maicon,São Paulo FC,yellow
+8382509,63,Gilberto,São Paulo FC,yellow
+8382509,79,Rodrigo Caio,São Paulo FC,yellow
+8382509,79,Renan Ribeiro,São Paulo FC,yellow
+8382509,80,Marcinho,São Paulo FC,yellow
+8382505,90,Diogo Barbosa,Cruzeiro EC,yellow
+8382505,32,Rossi,Chapecoense,yellow
+8382505,38,Victor Ramos,Chapecoense,yellow
+8382505,89,Osman Júnior,Chapecoense,yellow
+8382508,56,Bruno Pacheco,Atlético GO,yellow
+8382508,80,Marcão Silva,Atlético GO,yellow
+8382511,39,Richarlison,Fluminense RJ,yellow
+8382511,52,Leo,Fluminense RJ,yellow
+8382511,83,Renato,Fluminense RJ,yellow
+8382511,19,Lucho González,Atlético Paranaense,yellow
+8382511,29,Jonathan,Atlético Paranaense,yellow
+8382511,90,Santos,Atlético Paranaense,yellow
+8382515,53,Fábio Santos,Atlético Mineiro,yellow
+8382515,63,Yago Severin,Atlético Mineiro,yellow
+8382515,90,Elías,Atlético Mineiro,yellow
+8382515,45,Lourenço,Avaí FC,yellow
+8382516,19,Rildo,Coritiba FC,yellow
+8382516,41,Marcio,Coritiba FC,yellow
+8382516,45,William Matheus,Coritiba FC,yellow
+8382516,50,Matheus Galdezani,Coritiba FC,yellow
+8382516,44,Thiago Santos,SE Palmeiras,yellow
+8382516,55,Felipe Melo,SE Palmeiras,yellow
+8382516,82,Antônio Carlos,SE Palmeiras,yellow
+8382513,21,Lucas Veríssimo,Santos FC,yellow
+8382513,28,Thiago Maia,Santos FC,yellow
+8382513,41,Vitor Bueno,Santos FC,yellow
+8382513,90,Yuri Oliveira,Santos FC,yellow
+8382513,90,Arnaldo,Botafogo RJ,yellow
+8382513,90,Joel Carli,Botafogo RJ,yellow
+8382512,12,Clayson,Corinthians SP,yellow
+8382512,15,Pablo Castro,Corinthians SP,yellow
+8382512,38,Gabriel,Corinthians SP,yellow
+8382517,17,Ronaldo Alves,Sport Club Recife,yellow
+8382517,72,Thallyson,Sport Club Recife,yellow
+8382517,4,Juan,Flamengo RJ,yellow
+8382517,72,Réver,Flamengo RJ,yellow
+8382514,30,Bruno,São Paulo FC,yellow
+8382514,55,Willian Farias,EC Vitória BA,yellow
+8382519,29,Igor,Atlético GO,yellow
+8382519,18,Fábio,Ponte Preta,yellow
+8382519,90,Elton,Ponte Preta,red
+8382519,90,Marllon,Ponte Preta,yellow
+8382520,23,Wellington Paulista,Chapecoense,yellow
+8382520,33,Apodi,Chapecoense,yellow
+8382520,68,Andrei,Chapecoense,yellow
+8382520,90,Rossi,Chapecoense,yellow
+8382520,24,Bruno Cortês,Grêmio Porto Alegre,yellow
+8382520,24,Walter Kannemann,Grêmio Porto Alegre,yellow
+8382520,84,Marcelo Grohe,Grêmio Porto Alegre,yellow
+8382518,22,Renê Júnior,EC Bahia,yellow
+8382518,46,Vinicius,EC Bahia,yellow
+8382518,65,Eduardo Santos,EC Bahia,yellow
+8382518,71,Tiago,EC Bahia,yellow
+8382518,9,Henrique,Cruzeiro EC,red
+8382518,14,Ramón Ábila,Cruzeiro EC,yellow
+8382518,25,Ezequiel,Cruzeiro EC,yellow
+8382523,20,Felipe Melo,SE Palmeiras,yellow
+8382523,87,Zé Roberto,SE Palmeiras,yellow
+8382523,90,Roger Guedes,SE Palmeiras,yellow
+8382523,90,Michel Bastos,SE Palmeiras,yellow
+8382523,21,Henrique Dourado,Fluminense RJ,yellow
+8382523,56,Henrique,Fluminense RJ,yellow
+8382522,44,Osvaldo,Sport Club Recife,yellow
+8382521,42,Bruno Silva,Botafogo RJ,yellow
+8382521,47,João Paulo,Botafogo RJ,yellow
+8382521,57,Gilson,Botafogo RJ,yellow
+8382521,81,Renan Gorne,Botafogo RJ,yellow
+8382521,36,William Matheus,Coritiba FC,yellow
+8382521,49,Kléber Gladiador,Coritiba FC,yellow
+8382521,57,Henrique Almeida,Coritiba FC,yellow
+8382524,89,Guilherme Arana,Corinthians SP,yellow
+8382524,55,Cícero,São Paulo FC,yellow
+8382528,45,Willian Farias,EC Vitória BA,yellow
+8382528,63,David,EC Vitória BA,yellow
+8382528,86,Paulinho,EC Vitória BA,yellow
+8382528,19,Frickson Erazo,Atlético Mineiro,yellow
+8382528,90,Ralph,Atlético Mineiro,yellow
+8382529,45,Emerson Sheik,Ponte Preta,yellow
+8382529,72,Nino Paraíba,Ponte Preta,yellow
+8382529,44,Luiz Otávio,Chapecoense,yellow
+8382529,50,Reinaldo,Chapecoense,yellow
+8382529,54,Apodi,Chapecoense,yellow
+8382529,90,Osman Júnior,Chapecoense,yellow
+8382530,79,Pedro Castro,Avaí FC,yellow
+8382530,83,Juan,Avaí FC,yellow
+8382530,84,Marquinhos,Avaí FC,red
+8382530,88,Éverton,Flamengo RJ,yellow
+8382525,61,Murilo Cerqueira,Cruzeiro EC,yellow
+8382525,71,Robinho,Cruzeiro EC,yellow
+8382525,81,Thiago Neves,Cruzeiro EC,yellow
+8382525,45,Andrigo,Atlético GO,yellow
+8382525,50,André Castro,Atlético GO,yellow
+8382525,59,Marcos Dutra,Atlético GO,yellow
+8382525,66,Jorginho,Atlético GO,yellow
+8382526,70,Paulo André,Atlético Paranaense,yellow
+8382526,86,Daniel Guedes,Santos FC,yellow-red
+8382527,73,Gustavo Ferrareis,EC Bahia,yellow
+8382535,54,Leonardo Silva,Atlético Mineiro,yellow
+8382535,70,Alex Silva,Atlético Mineiro,yellow
+8382535,41,Lucho González,Atlético Paranaense,yellow-red
+8382535,67,Deivid,Atlético Paranaense,yellow
+8382535,74,Jonathan,Atlético Paranaense,yellow
+8382535,82,Nicolas,Atlético Paranaense,yellow
+8382535,90,Zé Ivaldo,Atlético Paranaense,yellow
+8382537,68,André,Sport Club Recife,yellow
+8382537,8,Cícero,São Paulo FC,yellow
+8382538,41,Kanu,EC Vitória BA,yellow
+8382538,90,Gabriel Xavier,EC Vitória BA,red
+8382538,58,Bruno Silva,Botafogo RJ,yellow
+8382539,28,Andrigo,Atlético GO,yellow
+8382539,81,Felipe Garcia,Atlético GO,yellow
+8382539,86,Luiz Fernando,Atlético GO,yellow
+8382539,37,Judson,Avaí FC,yellow
+8382539,45,Luan,Avaí FC,yellow
+8382539,45,Leandro Silva,Avaí FC,yellow
+8382539,65,Capa,Avaí FC,yellow
+8382539,83,Betão,Avaí FC,yellow
+8382539,90,Gustavo Schiavolin,Avaí FC,yellow
+8382532,28,Márcio Araújo,Flamengo RJ,yellow
+8382532,31,Vinicius Júnior,Flamengo RJ,yellow
+8382532,3,Negueba,Ponte Preta,yellow
+8382532,20,Nino Paraíba,Ponte Preta,yellow
+8382533,41,Lucas Lima,Santos FC,yellow
+8382533,36,Juninho,SE Palmeiras,yellow
+8382533,40,Tchê Tchê,SE Palmeiras,yellow
+8382533,77,Willian,SE Palmeiras,yellow
+8382534,17,Henrique,Cruzeiro EC,yellow
+8382540,22,Rossi,Chapecoense,yellow
+8382540,84,Luiz Antônio,Chapecoense,yellow
+8382540,89,Luiz Otávio,Chapecoense,yellow
+8382540,14,Alan Cardoso,Vasco da Gama,yellow
+8382540,34,Henrique,Vasco da Gama,yellow
+8382536,18,Tiago Real,Coritiba FC,yellow
+8382536,71,Kléber Gladiador,Coritiba FC,red
+8382536,12,Renê Júnior,EC Bahia,yellow
+8382536,18,Agustin Allione,EC Bahia,yellow
+8382536,26,Zé Rafael,EC Bahia,yellow
+8382536,71,Edson,EC Bahia,red
+8382536,81,Juninho,EC Bahia,yellow
+8382531,19,Mateus Norton,Fluminense RJ,yellow
+8382531,64,Henrique,Fluminense RJ,yellow
+8382531,70,Marcos Calazans,Fluminense RJ,yellow
+8382531,90,Henrique Dourado,Fluminense RJ,yellow
+8382531,13,Edílson,Grêmio Porto Alegre,yellow
+8382531,76,Fernandinho Silva,Grêmio Porto Alegre,yellow
+8382531,90,Everton,Grêmio Porto Alegre,yellow
+8382549,63,Marcão Silva,Atlético GO,yellow
+8382549,17,Grafite,Atlético Paranaense,yellow
+8382549,60,Deivid,Atlético Paranaense,yellow
+8382549,62,Thiago Heleno,Atlético Paranaense,yellow
+8382549,81,Nikão,Atlético Paranaense,yellow
+8382549,90,Bruno Guimarães,Atlético Paranaense,yellow
+8382542,0,Evander,Vasco da Gama,yellow
+8382542,26,Paulão,Vasco da Gama,yellow
+8382542,44,Nenê,Vasco da Gama,yellow
+8382542,77,Mateus Vital,Vasco da Gama,yellow
+8382542,24,Juan,Avaí FC,yellow
+8382543,22,David Braz,Santos FC,yellow
+8382543,53,Thiago Maia,Santos FC,yellow
+8382543,64,Bruno Henrique,Santos FC,yellow
+8382543,64,Rodrigo,Ponte Preta,yellow
+8382543,67,Jeferson,Ponte Preta,yellow
+8382543,73,Luan Peres,Ponte Preta,yellow
+8382543,78,Marllon,Ponte Preta,yellow
+8382546,32,Dodô,Coritiba FC,yellow
+8382546,66,Marcio,Coritiba FC,yellow
+8382546,50,Gabriel,Corinthians SP,yellow
+8382546,65,Ángel Romero,Corinthians SP,yellow
+8382546,67,Fágner,Corinthians SP,yellow
+8382541,88,Mateus Norton,Fluminense RJ,yellow
+8382541,53,Orlando Berrío,Flamengo RJ,yellow
+8382541,64,Gustavo Cuéllar,Flamengo RJ,yellow
+8382541,76,Rodinei,Flamengo RJ,yellow
+8382541,84,Darío Conca,Flamengo RJ,yellow
+8382541,90,Miguel Trauco,Flamengo RJ,yellow
+8382541,90,Paolo Guerrero,Flamengo RJ,yellow
+8382544,25,Christian Cueva,São Paulo FC,yellow
+8382544,57,Júnior Tavares,São Paulo FC,yellow
+8382544,54,Rafael Carioca,Atlético Mineiro,yellow
+8382544,86,Yago Severin,Atlético Mineiro,yellow
+8382548,45,Régis,EC Bahia,yellow
+8382548,45,Anderson,EC Bahia,yellow
+8382548,28,Keno,SE Palmeiras,yellow
+8382548,55,Willian,SE Palmeiras,yellow
+8382548,73,Juninho,SE Palmeiras,yellow
+8382548,88,Roger Guedes,SE Palmeiras,yellow
+8382548,89,Alejandro Guerra,SE Palmeiras,yellow
+8382550,37,Rodrigo Lindoso,Botafogo RJ,yellow
+8382550,70,Roberto Fernández,Botafogo RJ,yellow
+8382545,31,Rafael Sóbis,Cruzeiro EC,yellow
+8382545,40,Diogo Barbosa,Cruzeiro EC,yellow
+8382545,45,Robinho,Cruzeiro EC,yellow
+8382545,83,Ezequiel,Cruzeiro EC,yellow
+8382545,88,Léo,Cruzeiro EC,yellow
+8382545,34,Ramiro,Grêmio Porto Alegre,yellow
+8382545,64,Michel,Grêmio Porto Alegre,yellow
+8382558,61,Neilton,EC Vitória BA,yellow
+8382558,71,Geferson,EC Vitória BA,yellow
+8382558,86,David Braz,Santos FC,yellow
+8382551,53,Victor Luís,Botafogo RJ,yellow
+8382551,81,Dudu Cearense,Botafogo RJ,yellow
+8382551,84,Joel Carli,Botafogo RJ,yellow
+8382551,85,Roger,Botafogo RJ,yellow
+8382551,90,João Paulo,Botafogo RJ,yellow
+8382551,62,Breno,Vasco da Gama,yellow
+8382553,31,Yerry Mina,SE Palmeiras,yellow
+8382553,85,Alejandro Guerra,SE Palmeiras,yellow
+8382553,65,Silva,Atlético GO,yellow
+8382553,70,André Castro,Atlético GO,yellow
+8382555,6,Ralph,Atlético Mineiro,yellow
+8382555,77,Fred,Atlético Mineiro,yellow
+8382555,22,Ronaldo Alves,Sport Club Recife,yellow
+8382556,17,Jonathan,Atlético Paranaense,yellow
+8382556,45,Sidcley,Atlético Paranaense,yellow
+8382556,88,Pablo,Atlético Paranaense,yellow
+8382556,10,Lucas Pratto,São Paulo FC,yellow
+8382556,15,Diego Lugano,São Paulo FC,yellow
+8382556,67,Wellington Nem,São Paulo FC,yellow
+8382560,44,Judson,Avaí FC,yellow
+8382560,9,Mateus Norton,Fluminense RJ,yellow
+8382554,56,Gabriel,Corinthians SP,yellow-red
+8382554,57,Fabián Balbuena,Corinthians SP,yellow
+8382554,67,Ángel Romero,Corinthians SP,yellow
+8382554,19,Agustin Allione,EC Bahia,yellow
+8382554,30,Rodrigo Becão,EC Bahia,yellow
+8382554,60,Renê Júnior,EC Bahia,yellow-red
+8382559,49,João Lucas,Ponte Preta,yellow
+8382559,67,Fernando Bob,Ponte Preta,yellow
+8382559,41,John Lennon,Cruzeiro EC,yellow
+8382559,90,Luis Caicedo,Cruzeiro EC,yellow
+8382552,28,Éverton,Flamengo RJ,yellow
+8382552,54,Juan,Flamengo RJ,yellow
+8382552,79,Rômulo,Flamengo RJ,yellow
+8382552,36,Andrei,Chapecoense,yellow
+8382557,82,Edílson,Grêmio Porto Alegre,yellow
+8382557,90,Geromel,Grêmio Porto Alegre,yellow
+8382563,90,Reinaldo Lenis,Sport Club Recife,yellow
+8382562,45,Douglas Luiz,Vasco da Gama,yellow
+8382562,73,Luís Fabiano,Vasco da Gama,yellow
+8382564,82,Diego Lugano,São Paulo FC,yellow
+8382564,85,Lucas,Fluminense RJ,yellow
+8382565,32,Alecsandro,Coritiba FC,yellow
+8382565,76,Léo,Coritiba FC,yellow
+8382566,35,Kieza,EC Vitória BA,yellow
+8382566,39,Geferson,EC Vitória BA,yellow
+8382566,40,Patric,EC Vitória BA,yellow
+8382567,43,Walter Kannemann,Grêmio Porto Alegre,yellow
+8382567,65,Edílson,Grêmio Porto Alegre,yellow
+8382567,67,Geromel,Grêmio Porto Alegre,yellow
+8382567,90,Bruno Cortês,Grêmio Porto Alegre,yellow
+8382567,45,Rodriguinho,Corinthians SP,yellow
+8382567,60,Cássio,Corinthians SP,yellow
+8382567,64,Ángel Romero,Corinthians SP,yellow
+8382567,70,Jô,Corinthians SP,yellow
+8382567,83,Marquinhos Gabriel,Corinthians SP,yellow
+8382569,17,Fernando Bob,Ponte Preta,yellow
+8382569,67,Emerson Sheik,Ponte Preta,yellow
+8382569,75,Lucca,Ponte Preta,yellow
+8382569,87,Wendel,Ponte Preta,yellow
+8382569,90,Rodrigo,Ponte Preta,red
+8382569,90,Renato Cajá,Ponte Preta,red
+8382569,33,Gabriel Furtado,SE Palmeiras,yellow
+8382569,78,Alejandro Guerra,SE Palmeiras,yellow
+8382569,78,Yerry Mina,SE Palmeiras,yellow
+8382569,90,Tchê Tchê,SE Palmeiras,red
+8382568,30,Lucas Fonseca,EC Bahia,yellow-red
+8382568,32,Matheus Sales,EC Bahia,yellow
+8382568,30,Paolo Guerrero,Flamengo RJ,yellow
+8382568,36,Éverton Ribeiro,Flamengo RJ,yellow
+8382568,55,Rodinei,Flamengo RJ,yellow
+8382570,16,Arthur,Chapecoense,yellow
+8382570,30,Luiz Antônio,Chapecoense,yellow
+8382570,44,Fabricio Bruno,Chapecoense,yellow
+8382570,73,Lourency,Chapecoense,yellow
+8382570,83,Apodi,Chapecoense,yellow
+8382570,16,Rafael Moura,Atlético Mineiro,yellow
+8382570,19,Rómulo Otero,Atlético Mineiro,yellow
+8382570,48,Bremer,Atlético Mineiro,yellow
+8382570,58,Leonan,Atlético Mineiro,yellow
+8382570,67,Rafael Carioca,Atlético Mineiro,yellow
+8382561,40,Igor Rabello,Botafogo RJ,yellow
+8382561,37,Douglas Friedrich,Avaí FC,yellow
+8382561,82,Luan,Avaí FC,yellow
+8382573,58,Juninho,SE Palmeiras,yellow
+8382573,85,Miguel Borja,SE Palmeiras,yellow
+8382573,88,Raphael Veiga,SE Palmeiras,yellow
+8382573,50,Matheus Bressan,Grêmio Porto Alegre,yellow
+8382579,34,Marcão Silva,Atlético GO,yellow
+8382579,51,Jorginho,Atlético GO,yellow-red
+8382579,90,Bruno Pacheco,Atlético GO,yellow
+8382579,59,Thiago Maia,Santos FC,yellow
+8382572,75,Éverton,Flamengo RJ,yellow
+8382572,39,Christian Cueva,São Paulo FC,yellow
+8382574,36,Fágner,Corinthians SP,yellow
+8382574,40,Jô,Corinthians SP,yellow
+8382574,56,Jádson,Corinthians SP,yellow
+8382574,65,Arnaldo,Botafogo RJ,yellow
+8382574,74,Victor Luís,Botafogo RJ,yellow
+8382575,12,Fábio Santos,Atlético Mineiro,yellow
+8382575,39,Robinho,Atlético Mineiro,yellow
+8382575,45,Marlone,Atlético Mineiro,yellow
+8382575,53,Roger,Atlético Mineiro,yellow
+8382575,8,Ramón Ábila,Cruzeiro EC,yellow
+8382575,39,Rafael Sóbis,Cruzeiro EC,yellow
+8382575,52,Ariel Cabral,Cruzeiro EC,yellow
+8382575,74,Luis Caicedo,Cruzeiro EC,yellow
+8382577,45,Diego Souza,Sport Club Recife,yellow
+8382577,23,Matheus Rossetto,Atlético Paranaense,yellow
+8382577,67,Bruno Guimarães,Atlético Paranaense,yellow
+8382577,74,Wanderson,Atlético Paranaense,yellow
+8382578,7,André Lima,EC Vitória BA,yellow
+8382578,17,Kanu,EC Vitória BA,yellow
+8382578,61,Willian Farias,EC Vitória BA,yellow
+8382578,66,Geferson,EC Vitória BA,yellow
+8382578,78,Patric,EC Vitória BA,yellow
+8382578,36,Tiago,EC Bahia,yellow
+8382578,37,Zé Rafael,EC Bahia,yellow
+8382578,47,Agustin Allione,EC Bahia,yellow
+8382576,7,Jonas,Coritiba FC,yellow
+8382576,27,Bruno Brigido,Coritiba FC,yellow
+8382576,54,Anderson,Coritiba FC,yellow
+8382576,1,Paulão,Vasco da Gama,yellow
+8382576,37,Douglas Luiz,Vasco da Gama,yellow
+8382576,69,Jean,Vasco da Gama,yellow
+8382576,78,Breno,Vasco da Gama,yellow
+8382576,83,Martín Silva,Vasco da Gama,yellow
+8382580,31,Rômulo,Avaí FC,yellow
+8382580,90,Luan,Avaí FC,yellow
+8382580,80,Naldo,Ponte Preta,yellow
+8382580,80,Jadson,Ponte Preta,yellow
+8382571,41,Richarlison,Fluminense RJ,yellow
+8382571,44,Jefferson Orejuela,Fluminense RJ,yellow
+8382571,87,Marcos Júnior,Fluminense RJ,yellow
+8382571,13,Lucas Mineiro,Chapecoense,yellow
+8382571,48,Diego Renan,Chapecoense,yellow
+8382571,80,Rossi,Chapecoense,yellow-red
+8382571,87,Jandrei,Chapecoense,yellow
+8382571,90,Fabricio Bruno,Chapecoense,yellow
+8382589,82,Everaldo,Atlético GO,yellow
+8382589,37,Renê,EC Vitória BA,yellow
+8382589,72,Ramon,EC Vitória BA,yellow
+8382589,80,Rafaelson,EC Vitória BA,yellow
+8382589,88,Yago,EC Vitória BA,yellow
+8382582,9,Paulão,Vasco da Gama,yellow
+8382582,32,Luís Fabiano,Vasco da Gama,yellow
+8382582,37,Nenê,Vasco da Gama,yellow
+8382582,90,Andrey,Vasco da Gama,yellow
+8382582,90,Gilberto,Vasco da Gama,yellow
+8382582,3,Paolo Guerrero,Flamengo RJ,yellow
+8382584,57,Pablo Castro,Corinthians SP,yellow
+8382584,67,Guilherme Arana,Corinthians SP,yellow
+8382584,35,Jadson,Ponte Preta,yellow
+8382584,89,Emerson Sheik,Ponte Preta,yellow
+8382590,68,Victor Ramos,Chapecoense,yellow
+8382590,16,Paulo André,Atlético Paranaense,yellow
+8382590,55,Lucho González,Atlético Paranaense,yellow
+8382590,87,Jonathan,Atlético Paranaense,yellow
+8382585,84,Ariel Cabral,Cruzeiro EC,yellow
+8382585,34,Mayke,SE Palmeiras,yellow
+8382585,84,Willian,SE Palmeiras,yellow
+8382585,86,Dudu,SE Palmeiras,yellow
+8382585,90,Tchê Tchê,SE Palmeiras,yellow
+8382587,81,Luan,Grêmio Porto Alegre,yellow
+8382587,24,Luan,Avaí FC,yellow
+8382587,34,Pedro Castro,Avaí FC,yellow
+8382587,57,Wellington Simião,Avaí FC,yellow
+8382587,65,Capa,Avaí FC,yellow
+8382587,87,Joel Tagueu,Avaí FC,yellow-red
+8382588,23,Pablo Armero,EC Bahia,yellow
+8382588,77,Lucas Fonseca,EC Bahia,yellow
+8382588,83,Matheus Sales,EC Bahia,yellow
+8382588,85,Anderson,EC Bahia,yellow
+8382588,26,Henrique Dourado,Fluminense RJ,yellow
+8382588,70,Marcos Júnior,Fluminense RJ,yellow
+8382581,43,Joel Carli,Botafogo RJ,yellow
+8382581,39,Rafael Carioca,Atlético Mineiro,yellow
+8382581,90,Matheus Mancini,Atlético Mineiro,yellow
+8382581,90,Fábio Santos,Atlético Mineiro,yellow
+8382583,45,Jonathan Copete,Santos FC,yellow
+8382583,69,David Braz,Santos FC,yellow
+8382583,88,Jean Mota,Santos FC,yellow
+8382583,90,Lucas Lima,Santos FC,yellow
+8382583,45,Lucas Pratto,São Paulo FC,yellow
+8382583,90,Lucas Fernandes,São Paulo FC,yellow
+8382583,90,Júnior Tavares,São Paulo FC,yellow
+8382586,48,Edinho,Coritiba FC,yellow
+8382586,75,Alecsandro,Coritiba FC,yellow
+8382586,90,William Matheus,Coritiba FC,red
+8382586,64,Everton Felipe,Sport Club Recife,yellow
+8382586,80,Eugenio Mena,Sport Club Recife,yellow
+8382595,90,Fábio Santos,Atlético Mineiro,yellow
+8382595,21,Emiliano Vecchio,Santos FC,yellow
+8382595,74,Daniel Guedes,Santos FC,yellow
+8382599,15,Fernandinho,Ponte Preta,yellow
+8382599,4,Feijão,EC Bahia,yellow
+8382599,10,Tiago,EC Bahia,yellow
+8382599,15,Zé Rafael,EC Bahia,yellow
+8382591,20,Mascarenhas,Fluminense RJ,yellow
+8382591,85,Henrique,Fluminense RJ,yellow
+8382591,90,Marcos Calazans,Fluminense RJ,yellow
+8382591,31,Matheus Fernandes,Botafogo RJ,yellow
+8382591,77,João Paulo,Botafogo RJ,yellow
+8382591,81,Joel Carli,Botafogo RJ,yellow
+8382591,90,Victor Luís,Botafogo RJ,yellow
+8382593,25,Thiago Santos,SE Palmeiras,yellow
+8382593,28,Dudu,SE Palmeiras,yellow
+8382593,90,Miguel Borja,SE Palmeiras,yellow
+8382593,25,Rodriguinho,Corinthians SP,yellow
+8382593,61,Jádson,Corinthians SP,yellow
+8382593,83,Cássio,Corinthians SP,yellow
+8382593,90,Guilherme Arana,Corinthians SP,yellow
+8382596,39,Thiago Heleno,Atlético Paranaense,yellow
+8382596,81,Matheus Anjos,Atlético Paranaense,yellow
+8382596,90,Otavio,Atlético Paranaense,yellow
+8382596,24,Henrique,Cruzeiro EC,yellow
+8382598,11,Geferson,EC Vitória BA,yellow
+8382598,40,Fred,EC Vitória BA,yellow
+8382598,57,Carlos Eduardo,EC Vitória BA,yellow
+8382598,84,Kanu,EC Vitória BA,yellow
+8382598,31,Wellington,Vasco da Gama,yellow
+8382598,76,Thalles Lima,Vasco da Gama,yellow
+8382598,90,Andrey,Vasco da Gama,yellow
+8382592,40,Miguel Trauco,Flamengo RJ,yellow
+8382592,78,Federico Mancuello,Flamengo RJ,yellow
+8382592,36,Michel,Grêmio Porto Alegre,yellow
+8382592,39,Walter Kannemann,Grêmio Porto Alegre,yellow
+8382594,31,Igor,Atlético GO,yellow
+8382594,57,Gilvan,Atlético GO,yellow
+8382594,70,Wálter,Atlético GO,yellow
+8382597,44,Patrick Bezerra,Sport Club Recife,yellow
+8382597,49,Ronaldo Alves,Sport Club Recife,yellow
+8382597,9,Reinaldo,Chapecoense,yellow
+8382597,27,Wellington Paulista,Chapecoense,yellow
+8382597,37,Andrei,Chapecoense,yellow
+8382597,52,Lucas Marques,Chapecoense,yellow
+8382597,54,Douglas Grolli,Chapecoense,yellow
+8382597,61,Arthur,Chapecoense,yellow
+8382597,84,Apodi,Chapecoense,yellow
+8382597,89,Lucas Mineiro,Chapecoense,yellow
+8382600,36,Judson,Avaí FC,yellow
+8382600,78,Juan,Avaí FC,yellow
+8382600,46,Marcio,Coritiba FC,yellow
+8382600,76,Anderson,Coritiba FC,yellow
+8382603,33,Edu Dracena,SE Palmeiras,yellow
+8382603,72,Gabriel Furtado,SE Palmeiras,yellow
+8382603,34,Cleiton Xavier,EC Vitória BA,yellow
+8382603,36,Wallace Reis,EC Vitória BA,yellow
+8382603,70,Geferson,EC Vitória BA,yellow
+8382602,14,Rafael Marques,Vasco da Gama,yellow
+8382602,32,Wellington,Vasco da Gama,yellow
+8382602,77,Thalles Lima,Vasco da Gama,yellow
+8382602,78,Breno,Vasco da Gama,yellow
+8382602,35,Leandro Donizete,Santos FC,yellow
+8382602,52,Bruno Henrique,Santos FC,yellow
+8382602,84,Daniel Guedes,Santos FC,yellow-red
+8382605,21,Lucas Silva,Cruzeiro EC,yellow
+8382605,27,Rafael Sóbis,Cruzeiro EC,yellow
+8382605,77,Lucas Romero,Cruzeiro EC,yellow
+8382605,90,Geuvânio,Flamengo RJ,yellow
+8382607,62,Edílson,Grêmio Porto Alegre,yellow
+8382607,9,Emerson Sheik,Ponte Preta,yellow
+8382607,33,Jeferson,Ponte Preta,yellow
+8382609,32,Paulinho,Atlético GO,yellow
+8382609,79,Bruno Pacheco,Atlético GO,yellow
+8382609,29,Bremer,Atlético Mineiro,yellow
+8382609,81,Robinho,Atlético Mineiro,yellow
+8382609,90,Victor,Atlético Mineiro,yellow
+8382610,20,Andrei,Chapecoense,yellow
+8382610,21,Moisés Ribeiro,Chapecoense,yellow
+8382610,52,Douglas Grolli,Chapecoense,yellow
+8382610,64,Lucas Marques,Chapecoense,yellow
+8382610,26,Wellington Nem,São Paulo FC,yellow
+8382610,70,Rodrigo Caio,São Paulo FC,yellow
+8382606,49,Matheus Galdezani,Coritiba FC,yellow
+8382606,73,Henrique Almeida,Coritiba FC,yellow
+8382606,90,Luizão,Coritiba FC,yellow
+8382606,90,Alecsandro,Coritiba FC,yellow
+8382606,9,Jefferson Orejuela,Fluminense RJ,yellow
+8382606,45,Lucas,Fluminense RJ,yellow
+8382606,64,Renato,Fluminense RJ,yellow
+8382606,81,Pedro,Fluminense RJ,yellow
+8382608,50,Renê Júnior,EC Bahia,yellow
+8382608,75,Feijão,EC Bahia,yellow
+8382601,45,Rodrigo Pimpão,Botafogo RJ,yellow
+8382601,65,Roger,Botafogo RJ,yellow
+8382601,85,Leandrinho,Botafogo RJ,yellow
+8382601,90,Gilson,Botafogo RJ,yellow
+8382601,31,Eugenio Mena,Sport Club Recife,yellow
+8382601,54,Samuel Xavier,Sport Club Recife,yellow
+8382601,73,Sander,Sport Club Recife,yellow
+8382613,40,Lucas Lima,Santos FC,yellow
+8382613,53,Matheus Ribeiro,Santos FC,yellow
+8382613,83,Emiliano Vecchio,Santos FC,yellow
+8382613,84,Vanderlei,Santos FC,yellow
+8382613,63,Fabricio Bruno,Chapecoense,yellow
+8382613,65,Lucas Mineiro,Chapecoense,yellow
+8382618,7,Renê,EC Vitória BA,yellow
+8382618,81,David,EC Vitória BA,yellow
+8382618,83,Santiago Tréllez,EC Vitória BA,yellow
+8382618,36,Rafael Thyere,Grêmio Porto Alegre,yellow
+8382618,52,Walter Kannemann,Grêmio Porto Alegre,yellow
+8382618,56,Lucas Barrios,Grêmio Porto Alegre,yellow
+8382619,36,Emerson Sheik,Ponte Preta,yellow
+8382620,79,Capa,Avaí FC,yellow
+8382620,90,Betão,Avaí FC,yellow
+8382620,31,Fágner,Corinthians SP,yellow
+8382620,63,Ángel Romero,Corinthians SP,yellow
+8382620,86,Marquinhos Gabriel,Corinthians SP,yellow
+8382612,67,Márcio Araújo,Flamengo RJ,yellow
+8382612,87,Federico Mancuello,Flamengo RJ,yellow
+8382612,22,Bruno Henrique,SE Palmeiras,yellow
+8382612,51,Yerry Mina,SE Palmeiras,yellow
+8382612,58,Miguel Borja,SE Palmeiras,yellow
+8382612,58,Luan Garcia,SE Palmeiras,yellow
+8382612,73,Michel Bastos,SE Palmeiras,yellow
+8382612,76,Tchê Tchê,SE Palmeiras,yellow
+8382612,76,Jaílson Santos,SE Palmeiras,yellow
+8382612,80,Thiago Santos,SE Palmeiras,yellow
+8382612,90,Dudu,SE Palmeiras,yellow
+8382614,24,Jonatan Gómez,São Paulo FC,yellow
+8382614,60,Petros,São Paulo FC,yellow
+8382614,81,Diego Lugano,São Paulo FC,yellow
+8382614,13,Paulão,Vasco da Gama,yellow
+8382614,39,Rafael Marques,Vasco da Gama,yellow
+8382614,90,Thalles Lima,Vasco da Gama,yellow
+8382615,3,Bremer,Atlético Mineiro,yellow
+8382615,35,Victor,Atlético Mineiro,yellow
+8382615,53,Fred,Atlético Mineiro,yellow
+8382615,55,Adílson,Atlético Mineiro,yellow
+8382615,35,Matheus Reis,EC Bahia,yellow
+8382615,40,Matheus Sales,EC Bahia,yellow
+8382615,54,Vinicius,EC Bahia,yellow
+8382615,66,Jean,EC Bahia,yellow
+8382615,73,Eduardo Santos,EC Bahia,yellow
+8382615,84,Éder Ferreira,EC Bahia,yellow
+8382611,35,Richarlison,Fluminense RJ,yellow
+8382611,46,Marlon Freitas,Fluminense RJ,yellow
+8382611,84,Wendel,Fluminense RJ,yellow
+8382611,84,Marcos Calazans,Fluminense RJ,yellow
+8382611,40,Lucas Romero,Cruzeiro EC,yellow
+8382611,48,Léo,Cruzeiro EC,yellow
+8382611,82,Ezequiel,Cruzeiro EC,yellow
+8382617,45,Rithely,Sport Club Recife,yellow
+8382617,48,Everton Felipe,Sport Club Recife,yellow
+8382617,29,Igor,Atlético GO,yellow
+8382616,33,Otavio,Atlético Paranaense,yellow
+8382616,57,Nikão,Atlético Paranaense,yellow
+8382616,82,Lucho González,Atlético Paranaense,yellow
+8382616,40,Joel Carli,Botafogo RJ,yellow
+8382616,54,Rodrigo Pimpão,Botafogo RJ,yellow
+8382616,85,Emerson Santos,Botafogo RJ,yellow-red
+8382616,87,Igor Rabello,Botafogo RJ,yellow
+8382616,90,Jefferson,Botafogo RJ,yellow
+8382628,27,Caíque,EC Vitória BA,yellow
+8382628,84,Caique Sá,EC Vitória BA,yellow
+8382628,50,Apodi,Chapecoense,yellow
+8382628,60,Douglas Grolli,Chapecoense,yellow
+8382628,67,Andrei,Chapecoense,yellow
+8382628,80,Moisés Ribeiro,Chapecoense,yellow
+8382628,89,Lourency,Chapecoense,yellow
+8382622,85,Willian Arão,Flamengo RJ,yellow
+8382622,39,Luizão,Coritiba FC,yellow
+8382622,45,Tomas Bastos,Coritiba FC,yellow
+8382622,54,Wilson,Coritiba FC,yellow
+8382622,78,William Matheus,Coritiba FC,yellow
+8382622,84,Rildo,Coritiba FC,yellow
+8382622,90,Alecsandro,Coritiba FC,yellow
+8382623,67,Daniel Guedes,Santos FC,yellow
+8382623,38,Eduardo Santos,EC Bahia,yellow
+8382621,45,Leo,Fluminense RJ,yellow
+8382621,76,Frazan,Fluminense RJ,yellow
+8382621,40,Rodriguinho,Corinthians SP,yellow
+8382621,76,Fabián Balbuena,Corinthians SP,yellow
+8382627,64,André,Sport Club Recife,yellow
+8382627,74,Rithely,Sport Club Recife,yellow
+8382627,90,Diego Souza,Sport Club Recife,yellow
+8382627,63,Juninho,SE Palmeiras,yellow
+8382627,75,Keno,SE Palmeiras,yellow
+8382627,78,Jaílson Santos,SE Palmeiras,yellow
+8382627,90,Raphael Veiga,SE Palmeiras,yellow
+8382630,32,Wellington Simião,Avaí FC,yellow
+8382630,76,Judson,Avaí FC,yellow
+8382625,11,Yago Severin,Atlético Mineiro,yellow
+8382625,47,Alex Silva,Atlético Mineiro,yellow
+8382625,63,Rómulo Otero,Atlético Mineiro,yellow
+8382625,70,Matheus Mancini,Atlético Mineiro,yellow
+8382625,73,Marlone,Atlético Mineiro,yellow
+8382625,17,Damián Escudero,Vasco da Gama,yellow
+8382625,24,Jomar,Vasco da Gama,yellow
+8382625,31,Bruno Paulista,Vasco da Gama,yellow
+8382626,39,Luis Henrique,Atlético Paranaense,yellow
+8382626,39,Eduardo,Atlético Paranaense,yellow
+8382626,90,Thiago Heleno,Atlético Paranaense,yellow
+8382626,32,Léo Artur,Ponte Preta,yellow
+8382626,58,Aranha,Ponte Preta,yellow
+8382629,67,Wálter,Atlético GO,yellow
+8382629,29,Bruno Silva,Botafogo RJ,yellow
+8382629,69,Saulo,Botafogo RJ,yellow
+8382629,73,Gilson,Botafogo RJ,yellow
+8382629,90,Dudu Cearense,Botafogo RJ,yellow
+8382624,12,Rodrigo Caio,São Paulo FC,yellow
+8382624,30,Michel,Grêmio Porto Alegre,yellow
+8382624,54,Arthur,Grêmio Porto Alegre,yellow
+8382624,87,Maicon,Grêmio Porto Alegre,yellow
+8382631,46,Petros,São Paulo FC,yellow
+8382633,90,Deyverson,SE Palmeiras,yellow
+8382633,45,Juan,Avaí FC,yellow-red
+8382633,74,Joel Tagueu,Avaí FC,yellow
+8382640,72,Luiz Antônio,Chapecoense,yellow
+8382640,66,Diego Rosa,Atlético GO,yellow
+8382634,45,Diego,Flamengo RJ,yellow
+8382636,26,Luizão,Coritiba FC,yellow
+8382636,37,Henrique Almeida,Coritiba FC,yellow
+8382636,56,Léo,Coritiba FC,yellow
+8382636,90,Yílmar Filigrana,Coritiba FC,yellow
+8382636,16,Adílson,Atlético Mineiro,yellow
+8382636,32,Marcos Rocha,Atlético Mineiro,yellow
+8382636,61,Leonardo Silva,Atlético Mineiro,yellow
+8382636,86,Rafael Carioca,Atlético Mineiro,yellow
+8382638,71,Rodrigão,EC Bahia,yellow
+8382638,75,Vinicius,EC Bahia,yellow
+8382638,49,Juninho Piaulense,Sport Club Recife,yellow
+8382638,55,Patrick Bezerra,Sport Club Recife,yellow
+8382638,62,Ronaldo Alves,Sport Club Recife,yellow
+8382638,69,Thomás Jaguaribe,Sport Club Recife,yellow
+8382638,84,Oswaldo Henriquez,Sport Club Recife,yellow
+8382638,90,Reinaldo Lenis,Sport Club Recife,yellow
+8382635,52,Sassá,Cruzeiro EC,yellow
+8382635,55,Ariel Cabral,Cruzeiro EC,yellow
+8382635,70,Thiago Neves,Cruzeiro EC,yellow
+8382635,85,Diogo Barbosa,Cruzeiro EC,yellow
+8382635,24,Uillian Correia,EC Vitória BA,yellow
+8382635,75,Fernando Miguel,EC Vitória BA,yellow
+8382635,81,Cleiton Xavier,EC Vitória BA,yellow
+8382635,90,Wallace Reis,EC Vitória BA,yellow
+8382637,34,Maicon,Grêmio Porto Alegre,yellow
+8382637,90,Ramiro,Grêmio Porto Alegre,yellow
+8382637,90,Geromel,Grêmio Porto Alegre,yellow
+8382637,90,Edílson,Grêmio Porto Alegre,yellow-red
+8382637,25,Yuri Oliveira,Santos FC,yellow
+8382637,72,Vanderlei,Santos FC,yellow
+8382637,90,Thiago Ribeiro,Santos FC,yellow
+8382637,90,Lucas Lima,Santos FC,yellow
+8382637,90,David Braz,Santos FC,yellow
+8382632,19,Bruno Paulista,Vasco da Gama,yellow
+8382632,21,Jean,Vasco da Gama,yellow
+8382632,28,Guilherme Costa,Vasco da Gama,yellow
+8382632,38,Matheus Rossetto,Atlético Paranaense,yellow
+8382632,40,Pablo,Atlético Paranaense,yellow
+8382632,84,Felipe Gedoz,Atlético Paranaense,yellow
+8382639,25,Marllon,Ponte Preta,yellow
+8382639,85,Lucas,Fluminense RJ,yellow
+8382647,20,Eugenio Mena,Sport Club Recife,yellow
+8382647,24,Diego Souza,Sport Club Recife,yellow
+8382647,37,Reinaldo Lenis,Sport Club Recife,yellow
+8382647,59,Rithely,Sport Club Recife,yellow
+8382647,83,Durval,Sport Club Recife,yellow
+8382647,3,Renato Chaves,Fluminense RJ,yellow
+8382647,54,Jefferson Orejuela,Fluminense RJ,red
+8382647,55,Marlon Freitas,Fluminense RJ,yellow
+8382647,67,Lucas,Fluminense RJ,yellow
+8382647,82,Marcos Calazans,Fluminense RJ,yellow
+8382650,41,Apodi,Chapecoense,yellow
+8382650,54,Fabricio Bruno,Chapecoense,yellow
+8382650,60,Reinaldo,Chapecoense,yellow
+8382650,69,Túlio de Melo,Chapecoense,yellow
+8382650,90,Fernando Guerrero,Chapecoense,yellow
+8382650,40,João Paulo,EC Bahia,yellow
+8382650,90,Matheus Reis,EC Bahia,yellow
+8382650,90,Éder Ferreira,EC Bahia,yellow
+8382645,53,Leonardo Silva,Atlético Mineiro,yellow
+8382645,90,Marcos Rocha,Atlético Mineiro,yellow
+8382645,90,Rómulo Otero,Atlético Mineiro,yellow
+8382645,21,Giovanni Augusto,Corinthians SP,yellow
+8382648,42,Yago,EC Vitória BA,yellow
+8382648,81,David,EC Vitória BA,yellow
+8382648,90,Uillian Correia,EC Vitória BA,yellow
+8382648,22,Naldo,Ponte Preta,yellow
+8382641,43,Rodrigo Lindoso,Botafogo RJ,yellow
+8382641,46,Igor Rabello,Botafogo RJ,yellow
+8382641,73,Joel Carli,Botafogo RJ,yellow
+8382641,84,João Paulo,Botafogo RJ,yellow
+8382641,90,Leonardo Valencia,Botafogo RJ,yellow
+8382641,49,Egídio,SE Palmeiras,yellow
+8382641,90,Jaílson Santos,SE Palmeiras,yellow
+8382643,40,Yuri Oliveira,Santos FC,yellow
+8382643,50,Lucas Lima,Santos FC,yellow
+8382643,90,David Braz,Santos FC,yellow-red
+8382643,39,Diego,Flamengo RJ,yellow
+8382643,60,Éverton,Flamengo RJ,yellow
+8382643,74,Rodinei,Flamengo RJ,yellow-red
+8382649,26,Andrigo,Atlético GO,yellow
+8382649,26,Paulinho,Atlético GO,yellow
+8382649,44,Gilvan,Atlético GO,yellow
+8382649,68,Igor,Atlético GO,yellow
+8382649,90,Luiz Fernando,Atlético GO,yellow
+8382649,36,Michel,Grêmio Porto Alegre,yellow
+8382649,64,Walter Kannemann,Grêmio Porto Alegre,yellow
+8382644,22,Bruno,São Paulo FC,yellow
+8382644,49,Robert Arboleda,São Paulo FC,yellow
+8382644,56,Rodrigo Caio,São Paulo FC,yellow
+8382644,90,Diego Lugano,São Paulo FC,yellow
+8382644,18,Jonas,Coritiba FC,yellow
+8382644,24,Alan Santos,Coritiba FC,yellow
+8382644,43,Matheus Galdezani,Coritiba FC,yellow
+8382644,63,Yan Sasse,Coritiba FC,yellow
+8382644,78,Wilson,Coritiba FC,yellow
+8382646,19,Matheus Rossetto,Atlético Paranaense,yellow
+8382646,34,Betão,Avaí FC,yellow
+8382646,90,Judson,Avaí FC,yellow
+8382642,18,Rafael Marques,Vasco da Gama,yellow
+8382642,77,Paulo Vitor,Vasco da Gama,yellow
+8382642,82,Gilberto,Vasco da Gama,yellow
+8382642,86,Andrés Ríos,Vasco da Gama,yellow
+8382642,73,Lucas Silva,Cruzeiro EC,yellow
+8382651,90,Marlon Freitas,Fluminense RJ,yellow
+8382651,35,Andrigo,Atlético GO,yellow
+8382651,68,Luiz Fernando,Atlético GO,yellow
+8382651,73,Bruno Pacheco,Atlético GO,yellow
+8382654,62,Ángel Romero,Corinthians SP,yellow
+8382654,42,Oswaldo Henriquez,Sport Club Recife,yellow
+8382654,49,Samuel Xavier,Sport Club Recife,yellow
+8382652,64,Éverton,Flamengo RJ,yellow
+8382652,65,Réver,Flamengo RJ,yellow
+8382652,86,Diego,Flamengo RJ,yellow
+8382652,90,Orlando Berrío,Flamengo RJ,yellow
+8382652,13,Yago,EC Vitória BA,yellow
+8382652,63,Wallace Reis,EC Vitória BA,yellow
+8382653,37,Michel Bastos,SE Palmeiras,yellow
+8382653,24,Guilherme,Atlético Paranaense,yellow
+8382653,82,Paulo André,Atlético Paranaense,yellow
+8382653,90,Fabrício,Atlético Paranaense,yellow
+8382655,31,Sassá,Cruzeiro EC,yellow
+8382655,33,Lucas Silva,Cruzeiro EC,yellow
+8382655,67,Diogo Barbosa,Cruzeiro EC,yellow
+8382655,31,Dudu Cearense,Botafogo RJ,yellow
+8382655,39,Leonardo Valencia,Botafogo RJ,yellow
+8382655,77,Emerson Santos,Botafogo RJ,yellow
+8382657,84,Maicon,Grêmio Porto Alegre,yellow
+8382657,90,Paulo Victor,Grêmio Porto Alegre,yellow
+8382657,90,Arthur,Grêmio Porto Alegre,yellow
+8382657,70,Bremer,Atlético Mineiro,yellow
+8382658,27,Eduardo Santos,EC Bahia,yellow
+8382658,36,Régis,EC Bahia,yellow
+8382658,42,Tiago,EC Bahia,yellow
+8382658,45,Jean,EC Bahia,yellow
+8382658,22,Marcinho,São Paulo FC,yellow
+8382658,25,Christian Cueva,São Paulo FC,yellow
+8382659,77,Rodrigo,Ponte Preta,yellow
+8382659,40,Paulinho,Vasco da Gama,yellow
+8382659,84,Breno,Vasco da Gama,yellow
+8382659,88,Gilberto,Vasco da Gama,yellow
+8382659,90,Wellington,Vasco da Gama,yellow
+8382660,45,Júnior Dutra,Avaí FC,yellow
+8382660,57,Alemão,Avaí FC,yellow
+8382660,75,Judson,Avaí FC,yellow
+8382660,83,Lucas Veríssimo,Santos FC,yellow
+8382669,23,Niltinho,Atlético GO,yellow
+8382669,70,Wálter,Atlético GO,yellow
+8382669,41,Alecsandro,Coritiba FC,yellow
+8382669,81,Luizão,Coritiba FC,yellow
+8382669,90,Rildo,Coritiba FC,yellow
+8382668,19,Kanu,EC Vitória BA,yellow
+8382668,27,Douglas Friedrich,Avaí FC,yellow
+8382668,71,Wellington Simião,Avaí FC,yellow
+8382668,71,Betão,Avaí FC,yellow
+8382664,45,Diego Lugano,São Paulo FC,yellow
+8382664,52,Hernanes,São Paulo FC,yellow
+8382664,60,Marcinho,São Paulo FC,yellow
+8382664,90,Lucas Pratto,São Paulo FC,yellow-red
+8382664,90,Renan Ribeiro,São Paulo FC,yellow
+8382664,45,Léo,Cruzeiro EC,yellow
+8382664,81,Ezequiel,Cruzeiro EC,yellow
+8382664,81,Bryan Garcia,Cruzeiro EC,yellow
+8382664,90,Digão,Cruzeiro EC,yellow-red
+8382664,90,Rafael Sóbis,Cruzeiro EC,red
+8382662,70,Nenê,Vasco da Gama,yellow
+8382662,77,Raphael Veiga,SE Palmeiras,yellow
+8382662,86,Jean,SE Palmeiras,yellow
+8382665,23,Gabriel França,Atlético Mineiro,yellow
+8382665,30,Adílson,Atlético Mineiro,yellow
+8382665,49,Rafael Carioca,Atlético Mineiro,yellow
+8382665,52,Robinho,Atlético Mineiro,yellow
+8382665,52,Miguel Trauco,Flamengo RJ,yellow-red
+8382665,59,Rhodolfo,Flamengo RJ,yellow
+8382667,83,Thallyson,Sport Club Recife,yellow
+8382667,22,Lucca,Ponte Preta,yellow
+8382661,45,Matheus Fernandes,Botafogo RJ,yellow
+8382661,60,Gilson,Botafogo RJ,yellow
+8382661,70,Emerson Silva,Botafogo RJ,yellow
+8382661,57,Bruno Rodrigo,Grêmio Porto Alegre,yellow
+8382666,42,Matheus Rossetto,Atlético Paranaense,yellow
+8382666,61,Thiago Heleno,Atlético Paranaense,yellow
+8382666,24,Matheus Reis,EC Bahia,yellow
+8382666,34,Eduardo Santos,EC Bahia,yellow
+8382666,65,Zé Rafael,EC Bahia,yellow
+8382666,70,Éder Ferreira,EC Bahia,yellow
+8382663,88,Alison,Santos FC,yellow
+8382663,90,Lucas Lima,Santos FC,yellow
+8382663,21,Henrique Dourado,Fluminense RJ,yellow
+8382663,56,Marlon Freitas,Fluminense RJ,yellow
+8382670,54,Reinaldo,Chapecoense,yellow
+8382670,32,Jô,Corinthians SP,yellow
+8382670,73,Clayson,Corinthians SP,yellow
+8382670,76,Moisés,Corinthians SP,yellow
+8382670,88,Ángel Romero,Corinthians SP,yellow
+8382674,90,Fabián Balbuena,Corinthians SP,yellow
+8382674,69,Ramon,EC Vitória BA,yellow
+8382674,87,Fillipe Soutto,EC Vitória BA,yellow
+8382672,10,Vinicius Júnior,Flamengo RJ,yellow
+8382672,12,Márcio Araújo,Flamengo RJ,yellow
+8382672,14,Andrigo,Atlético GO,yellow
+8382672,45,Igor,Atlético GO,yellow
+8382672,59,Jonathan,Atlético GO,yellow
+8382677,57,Jailson,Grêmio Porto Alegre,yellow
+8382677,88,Kaio,Grêmio Porto Alegre,yellow
+8382677,28,Zé Ivaldo,Atlético Paranaense,yellow
+8382677,76,Guilherme,Atlético Paranaense,yellow
+8382675,84,Rafinha,Cruzeiro EC,yellow
+8382678,33,Jean,Vasco da Gama,yellow
+8382678,73,Bruno Paulista,Vasco da Gama,yellow
+8382678,79,Anderson Martins,Vasco da Gama,yellow
+8382678,82,Luís Fabiano,Vasco da Gama,yellow
+8382679,21,Lucca,Ponte Preta,yellow
+8382679,76,Naldo,Ponte Preta,yellow
+8382679,83,Emerson Sheik,Ponte Preta,yellow
+8382679,90,Aranha,Ponte Preta,yellow
+8382679,2,Leonardo Valencia,Botafogo RJ,yellow
+8382679,66,Fernandes,Botafogo RJ,yellow
+8382679,79,Jefferson,Botafogo RJ,yellow
+8382679,84,Wenderson,Botafogo RJ,yellow
+8382680,84,Diego Tavares,Avaí FC,yellow
+8382680,34,Hernanes,São Paulo FC,yellow
+8382680,66,Robert Arboleda,São Paulo FC,yellow
+8382680,69,Edimar,São Paulo FC,yellow
+8382673,47,Moisés Mineiro,SE Palmeiras,yellow
+8382673,34,Reinaldo,Chapecoense,yellow
+8382673,45,Moisés Ribeiro,Chapecoense,yellow
+8382673,73,Douglas Grolli,Chapecoense,yellow
+8382673,83,Roberto,Chapecoense,yellow
+8382676,14,Marcio,Coritiba FC,yellow
+8382676,65,Matheus Galdezani,Coritiba FC,yellow
+8382676,70,Neto Berola,Coritiba FC,yellow
+8382676,65,Lucas Lima,Santos FC,yellow
+8382671,79,Wendel,Fluminense RJ,yellow
+8382671,37,Luan,Atlético Mineiro,yellow
+8382671,78,Fred,Atlético Mineiro,yellow
+8382681,44,Marlon Freitas,Fluminense RJ,yellow
+8382681,54,Lucas,Fluminense RJ,yellow
+8382681,59,Jean,Vasco da Gama,yellow
+8382681,67,Mádson,Vasco da Gama,yellow
+8382681,79,Wellington,Vasco da Gama,yellow
+8382681,90,Gilberto,Vasco da Gama,yellow
+8382684,90,Camacho,Corinthians SP,yellow
+8382684,49,Igor,Atlético GO,yellow
+8382684,51,Andrigo,Atlético GO,yellow
+8382684,59,Marcos Dutra,Atlético GO,yellow
+8382684,66,Wálter,Atlético GO,yellow
+8382684,69,Paulinho,Atlético GO,yellow
+8382682,45,Paulo André,Atlético Paranaense,yellow
+8382682,51,Esteban Pavez,Atlético Paranaense,yellow
+8382683,55,Edimar,São Paulo FC,yellow
+8382683,64,Robert Arboleda,São Paulo FC,yellow
+8382688,44,Tiago,EC Bahia,yellow
+8382688,85,Edson,EC Bahia,yellow
+8382689,32,Emerson Sheik,Ponte Preta,yellow
+8382689,84,Claudinho,Ponte Preta,yellow
+8382689,90,Wendel,Ponte Preta,yellow
+8382689,90,Elton,Ponte Preta,yellow
+8382689,13,Elías,Atlético Mineiro,yellow
+8382689,18,Adílson,Atlético Mineiro,yellow
+8382689,32,Marcos Rocha,Atlético Mineiro,yellow
+8382689,90,Rómulo Otero,Atlético Mineiro,yellow
+8382685,63,Lucas Veríssimo,Santos FC,yellow
+8382685,82,David Braz,Santos FC,yellow
+8382690,52,Juan,Avaí FC,yellow
+8382690,58,Capa,Avaí FC,yellow
+8382690,75,Willians Santana,Avaí FC,yellow
+8382690,90,Alemão,Avaí FC,yellow
+8382690,38,Arthur,Chapecoense,yellow
+8382690,39,Reinaldo,Chapecoense,yellow
+8382690,57,Moisés Ribeiro,Chapecoense,yellow
+8382690,78,Fabricio Bruno,Chapecoense,yellow
+8382690,90,Wellington Paulista,Chapecoense,yellow
+8382686,21,Alecsandro,Coritiba FC,yellow
+8382686,64,William Matheus,Coritiba FC,yellow
+8382686,80,Marcio,Coritiba FC,red
+8382686,90,Anderson,Coritiba FC,red
+8382686,41,Juninho,EC Vitória BA,yellow
+8382686,43,Ramon,EC Vitória BA,yellow
+8382686,90,Yago,EC Vitória BA,red
+8382687,89,Bruno Cortês,Grêmio Porto Alegre,yellow
+8382687,18,Ronaldo Alves,Sport Club Recife,yellow
+8382687,33,Sander,Sport Club Recife,yellow
+8382687,67,Samuel Xavier,Sport Club Recife,yellow
+8382687,68,Diego Souza,Sport Club Recife,yellow
+8382687,84,André,Sport Club Recife,yellow
+8382695,9,Fred,Atlético Mineiro,yellow
+8382695,56,Leonardo Silva,Atlético Mineiro,yellow
+8382695,62,Alex Silva,Atlético Mineiro,yellow
+8382695,42,Luan Garcia,SE Palmeiras,red
+8382695,75,Tchê Tchê,SE Palmeiras,yellow
+8382695,79,Willian,SE Palmeiras,red
+8382695,86,Fernando Prass,SE Palmeiras,yellow
+8382692,30,Damián Escudero,Vasco da Gama,yellow
+8382692,73,Wellington,Vasco da Gama,yellow
+8382692,90,Bruno Paulista,Vasco da Gama,yellow
+8382694,38,Edimar,São Paulo FC,yellow
+8382694,63,Jucilei,São Paulo FC,red
+8382694,72,Rodrigo Caio,São Paulo FC,yellow
+8382694,30,Elton,Ponte Preta,yellow
+8382696,75,Guilherme,Atlético Paranaense,yellow
+8382696,15,William Matheus,Coritiba FC,yellow
+8382696,42,Kléber Gladiador,Coritiba FC,yellow
+8382696,85,Léo,Coritiba FC,yellow
+8382696,90,Werley,Coritiba FC,red
+8382693,19,Lucas Veríssimo,Santos FC,yellow
+8382693,31,Victor Ferraz,Santos FC,yellow
+8382693,60,Lucas Lima,Santos FC,yellow
+8382693,29,Gabriel,Corinthians SP,yellow
+8382693,34,Ángel Romero,Corinthians SP,yellow
+8382693,40,Marciel,Corinthians SP,yellow
+8382693,84,Clayson,Corinthians SP,yellow
+8382693,90,Fágner,Corinthians SP,yellow
+8382697,25,Diego Souza,Sport Club Recife,yellow
+8382697,58,Oswaldo Henriquez,Sport Club Recife,yellow
+8382697,85,André,Sport Club Recife,yellow
+8382697,90,Eugenio Mena,Sport Club Recife,yellow
+8382697,27,Kozlinski,Avaí FC,yellow
+8382697,41,Capa,Avaí FC,yellow
+8382697,50,Júnior Dutra,Avaí FC,yellow
+8382697,76,Rômulo,Avaí FC,yellow
+8382697,81,João Paulo,Avaí FC,yellow
+8382698,88,Thallyson,EC Vitória BA,yellow
+8382698,43,Lucas,Fluminense RJ,yellow
+8382698,58,Renato Chaves,Fluminense RJ,yellow
+8382698,74,Robinho,Fluminense RJ,red
+8382698,90,Marlon,Fluminense RJ,yellow
+8382700,62,Héctor Canteros,Chapecoense,yellow
+8382700,89,Douglas Grolli,Chapecoense,yellow
+8382700,56,Murilo Cerqueira,Cruzeiro EC,yellow
+8382699,43,André Castro,Atlético GO,yellow
+8382699,10,Lucas Fonseca,EC Bahia,yellow
+8382699,37,Juninho Capixaba,EC Bahia,yellow
+8382701,49,Guilherme Augusto,Botafogo RJ,yellow
+8382701,83,Victor Luís,Botafogo RJ,yellow
+8382701,36,Leandro Donizete,Santos FC,yellow
+8382701,73,Luiz Felipe,Santos FC,yellow
+8382709,26,Elton,Ponte Preta,yellow
+8382709,60,Naldo,Ponte Preta,yellow
+8382709,58,Ronaldo,Atlético GO,yellow
+8382709,66,Wálter,Atlético GO,yellow
+8382710,65,Judson,Avaí FC,yellow
+8382710,90,Rômulo,Avaí FC,yellow
+8382710,15,Fábio Santos,Atlético Mineiro,yellow
+8382710,52,Marcos Rocha,Atlético Mineiro,yellow
+8382710,88,Elías,Atlético Mineiro,yellow-red
+8382702,41,Rithely,Sport Club Recife,yellow
+8382702,44,Wesley,Sport Club Recife,yellow
+8382702,64,Patrick Bezerra,Sport Club Recife,red
+8382704,17,Ángel Romero,Corinthians SP,yellow
+8382704,90,Breno,Vasco da Gama,yellow
+8382704,90,Wagner,Vasco da Gama,yellow
+8382706,41,Fabrício,Atlético Paranaense,yellow
+8382706,45,Lucho González,Atlético Paranaense,yellow
+8382706,69,Thiago Heleno,Atlético Paranaense,yellow
+8382706,25,Wendel,Fluminense RJ,yellow
+8382706,39,Marlon,Fluminense RJ,yellow
+8382706,88,Frazan,Fluminense RJ,yellow
+8382707,36,Michel,Grêmio Porto Alegre,yellow
+8382707,25,Héctor Canteros,Chapecoense,yellow
+8382707,29,Wellington Paulista,Chapecoense,yellow
+8382707,45,Alan Ruschel,Chapecoense,yellow
+8382707,83,Apodi,Chapecoense,yellow
+8382707,85,Douglas Grolli,Chapecoense,yellow
+8382708,45,Uillian Correia,EC Vitória BA,yellow
+8382708,51,Patric,EC Vitória BA,yellow
+8382708,75,Cleiton Xavier,EC Vitória BA,yellow
+8382708,31,Jonatan Gómez,São Paulo FC,yellow
+8382708,35,Robert Arboleda,São Paulo FC,yellow
+8382705,13,Henrique,Cruzeiro EC,yellow
+8382705,41,Raniel,Cruzeiro EC,yellow
+8382705,77,Robinho,Cruzeiro EC,yellow
+8382705,84,Lucas Silva,Cruzeiro EC,red
+8382705,90,Thiago Neves,Cruzeiro EC,yellow
+8382705,90,Léo,Cruzeiro EC,yellow
+8382705,30,Vinicius,EC Bahia,yellow
+8382703,59,Edu Dracena,SE Palmeiras,yellow
+8382703,65,Egídio,SE Palmeiras,yellow
+8382703,67,Mayke,SE Palmeiras,yellow
+8382703,32,Henrique Almeida,Coritiba FC,yellow
+8382703,52,Dodô,Coritiba FC,yellow
+8382703,70,Alan Santos,Coritiba FC,yellow
+8382712,45,Gabriel,Flamengo RJ,yellow
+8382712,89,Orlando Berrío,Flamengo RJ,yellow
+8382713,42,David Braz,Santos FC,yellow
+8382713,6,Lucho González,Atlético Paranaense,yellow
+8382714,19,Júnior Tavares,São Paulo FC,yellow
+8382714,51,Lucas Fernandes,São Paulo FC,yellow
+8382714,45,Gabriel,Corinthians SP,yellow
+8382714,70,Fabián Balbuena,Corinthians SP,yellow
+8382714,72,Rodriguinho,Corinthians SP,yellow
+8382714,79,Clayson,Corinthians SP,yellow
+8382711,9,Lucas,Fluminense RJ,yellow
+8382711,19,Nogueira,Fluminense RJ,yellow
+8382711,31,Edu Dracena,SE Palmeiras,yellow
+8382711,41,Egídio,SE Palmeiras,yellow
+8382716,41,Léo,Coritiba FC,yellow
+8382716,50,Jonas,Coritiba FC,yellow
+8382716,13,Roger,Botafogo RJ,yellow
+8382716,33,Joel Carli,Botafogo RJ,yellow
+8382716,34,Rodrigo Lindoso,Botafogo RJ,yellow
+8382716,45,Arnaldo,Botafogo RJ,yellow
+8382719,45,Jonathan,Atlético GO,yellow
+8382719,56,Luiz Fernando,Atlético GO,yellow
+8382719,73,Bruno Pacheco,Atlético GO,yellow
+8382719,90,Gilvan,Atlético GO,yellow
+8382719,38,Nonoca,Cruzeiro EC,yellow
+8382719,43,John Lennon,Cruzeiro EC,yellow
+8382720,33,Reinaldo,Chapecoense,yellow
+8382720,36,Lucas Marques,Chapecoense,yellow
+8382720,39,Lucas Mineiro,Chapecoense,yellow
+8382720,71,Moisés Ribeiro,Chapecoense,yellow
+8382720,33,Marllon,Ponte Preta,yellow
+8382720,36,Fernando Bob,Ponte Preta,yellow
+8382720,79,Danilo Barcelos,Ponte Preta,yellow
+8382715,34,Luan,Atlético Mineiro,yellow
+8382715,45,Santiago Tréllez,EC Vitória BA,yellow
+8382718,35,Eduardo Santos,EC Bahia,yellow
+8382718,41,Lucas Fonseca,EC Bahia,yellow
+8382718,76,Edson,EC Bahia,yellow
+8382718,88,John Mendoza,EC Bahia,yellow
+8382718,32,Michel,Grêmio Porto Alegre,yellow
+8382718,35,Michael Arroyo,Grêmio Porto Alegre,yellow
+8382718,47,Jael,Grêmio Porto Alegre,yellow
+8382718,62,Matheus Bressan,Grêmio Porto Alegre,yellow
+8382718,90,Walter Kannemann,Grêmio Porto Alegre,yellow
+8382717,20,Diego Souza,Sport Club Recife,yellow-red
+8382717,20,Wellington,Vasco da Gama,yellow
+8382717,33,Jean,Vasco da Gama,yellow
+8382717,45,Ramon,Vasco da Gama,yellow
+8382717,90,Bruno Paulista,Vasco da Gama,yellow
+8382722,49,Jean,Vasco da Gama,yellow
+8382722,69,Breno,Vasco da Gama,yellow
+8382722,80,Thalles Lima,Vasco da Gama,yellow
+8382728,12,Juninho,EC Bahia,yellow
+8382728,83,Tiago,EC Bahia,yellow
+8382728,90,Juninho Capixaba,EC Bahia,yellow
+8382728,90,Edson,EC Bahia,yellow
+8382728,12,Léo,Coritiba FC,yellow
+8382728,23,Jonas,Coritiba FC,yellow
+8382728,29,Thiago Carleto,Coritiba FC,yellow
+8382728,58,Cléber Reis,Coritiba FC,yellow
+8382728,88,Yílmar Filigrana,Coritiba FC,yellow
+8382723,43,Luan Garcia,SE Palmeiras,yellow
+8382723,75,Mayke,SE Palmeiras,yellow
+8382723,90,Fernando Prass,SE Palmeiras,yellow
+8382723,60,Matheus Jesus,Santos FC,yellow
+8382723,69,Jean Mota,Santos FC,yellow
+8382723,81,Zeca,Santos FC,yellow
+8382723,88,Alison,Santos FC,yellow
+8382723,90,Bruno Henrique,Santos FC,yellow
+8382721,80,Roberto Fernández,Botafogo RJ,yellow
+8382721,90,Leonardo Valencia,Botafogo RJ,red
+8382721,90,Marcos Vinicius,Botafogo RJ,yellow-red
+8382721,60,Caíque,EC Vitória BA,yellow
+8382721,87,Cleiton Xavier,EC Vitória BA,yellow
+8382724,17,Sander,Sport Club Recife,yellow
+8382724,19,Rithely,Sport Club Recife,yellow
+8382725,37,Rafael Sóbis,Cruzeiro EC,yellow
+8382725,48,Léo,Cruzeiro EC,yellow
+8382725,88,Giorgian de Arrascaeta,Cruzeiro EC,yellow
+8382725,67,Fabián Balbuena,Corinthians SP,yellow
+8382725,75,Fágner,Corinthians SP,yellow
+8382725,90,Guilherme Arana,Corinthians SP,yellow
+8382725,90,Ángel Romero,Corinthians SP,yellow
+8382727,23,Geromel,Grêmio Porto Alegre,yellow
+8382727,84,Frazan,Fluminense RJ,yellow
+8382727,85,Lucas,Fluminense RJ,yellow
+8382730,10,Judson,Avaí FC,yellow
+8382730,76,Marquinhos,Avaí FC,yellow
+8382730,77,Andrigo,Atlético GO,yellow
+8382730,79,Silva,Atlético GO,yellow
+8382726,36,Ribamar,Atlético Paranaense,yellow
+8382726,43,Robinho,Atlético Mineiro,yellow
+8382726,45,Elías,Atlético Mineiro,yellow
+8382726,80,Victor,Atlético Mineiro,yellow
+8382726,80,Alex Silva,Atlético Mineiro,yellow
+8382729,39,Jorge Mendoza,Ponte Preta,yellow
+8382729,46,Wendel,Ponte Preta,yellow
+8382729,75,Jeferson,Ponte Preta,yellow
+8382729,77,Danilo Barcelos,Ponte Preta,yellow
+8382729,80,Luan Peres,Ponte Preta,yellow
+8382729,82,Naldo,Ponte Preta,red
+8382729,46,Márcio Araújo,Flamengo RJ,yellow
+8382729,65,Renê,Flamengo RJ,yellow
+8382729,75,Pará,Flamengo RJ,yellow
+8382731,45,Matheus Fernandes,Botafogo RJ,yellow
+8382731,23,Apodi,Chapecoense,yellow
+8382731,37,Moisés Ribeiro,Chapecoense,yellow
+8382731,81,Douglas Grolli,Chapecoense,yellow
+8382736,31,Fabrício,Atlético Paranaense,yellow
+8382736,35,Wanderson,Atlético Paranaense,yellow
+8382736,56,Lucho González,Atlético Paranaense,yellow
+8382736,34,Jorginho,Atlético GO,yellow
+8382736,71,Luiz Fernando,Atlético GO,yellow
+8382734,26,Marquinhos Gabriel,Corinthians SP,yellow
+8382734,45,Thiago Carleto,Coritiba FC,yellow
+8382734,59,William Matheus,Coritiba FC,yellow
+8382734,71,Léo,Coritiba FC,yellow
+8382735,61,Robinho,Atlético Mineiro,yellow
+8382735,43,Eder Militão,São Paulo FC,yellow
+8382735,52,Bruno Alves,São Paulo FC,yellow
+8382735,65,Rodrigo Caio,São Paulo FC,yellow
+8382740,45,Willians Santana,Avaí FC,red
+8382740,45,Betão,Avaí FC,yellow
+8382740,46,Luanzinho,Avaí FC,yellow
+8382740,54,Judson,Avaí FC,yellow
+8382740,74,Lourenço,Avaí FC,yellow
+8382740,87,Júnior Dutra,Avaí FC,yellow
+8382740,29,Mádson,Vasco da Gama,yellow
+8382740,32,Wagner,Vasco da Gama,yellow
+8382740,61,Andrés Ríos,Vasco da Gama,yellow-red
+8382732,71,Lucas Paquetá,Flamengo RJ,yellow
+8382732,90,Orlando Berrío,Flamengo RJ,yellow
+8382732,23,Marcos Júnior,Fluminense RJ,yellow
+8382732,58,Douglas,Fluminense RJ,yellow
+8382732,72,Lucas,Fluminense RJ,yellow
+8382732,76,Reginaldo,Fluminense RJ,yellow
+8382738,74,Uillian Correia,EC Vitória BA,yellow
+8382738,90,André Lima,EC Vitória BA,yellow-red
+8382738,22,Diego Souza,Sport Club Recife,yellow
+8382738,22,André,Sport Club Recife,yellow
+8382738,90,Eugenio Mena,Sport Club Recife,yellow
+8382739,28,Naldo,Ponte Preta,yellow
+8382739,68,Luan Peres,Ponte Preta,yellow
+8382739,85,Fernando Bob,Ponte Preta,yellow-red
+8382739,66,Lucas Lima,Santos FC,yellow
+8382739,80,Zeca,Santos FC,yellow
+8382733,35,Edu Dracena,SE Palmeiras,yellow
+8382733,28,John Mendoza,EC Bahia,yellow
+8382733,67,Renê Júnior,EC Bahia,yellow
+8382745,12,Rafael,Cruzeiro EC,yellow
+8382745,18,Rafinha,Cruzeiro EC,yellow
+8382745,44,Thiago Neves,Cruzeiro EC,yellow
+8382745,58,Diogo Barbosa,Cruzeiro EC,yellow
+8382745,78,Húdson,Cruzeiro EC,yellow
+8382745,89,Elton,Ponte Preta,yellow-red
+8382742,80,Yago Pikachu,Vasco da Gama,yellow
+8382742,82,Caio Monteiro,Vasco da Gama,yellow
+8382742,90,Paulo Vitor,Vasco da Gama,yellow
+8382742,90,Nenê,Vasco da Gama,yellow
+8382742,90,Jean,Vasco da Gama,yellow
+8382742,90,Mádson,Vasco da Gama,yellow
+8382742,67,Marcos Vinicius,Botafogo RJ,yellow
+8382742,70,Joel Carli,Botafogo RJ,yellow
+8382742,90,Bruno Silva,Botafogo RJ,yellow
+8382744,84,Maicosuel,São Paulo FC,yellow
+8382744,47,Sidcley,Atlético Paranaense,yellow
+8382744,70,Matheus Rossetto,Atlético Paranaense,yellow
+8382744,90,Nikão,Atlético Paranaense,red
+8382741,57,Henrique Dourado,Fluminense RJ,yellow
+8382741,90,Wendel,Fluminense RJ,yellow
+8382741,11,Alemão,Avaí FC,yellow
+8382741,33,Joel Tagueu,Avaí FC,yellow
+8382747,81,Eugenio Mena,Sport Club Recife,yellow
+8382747,90,Anselmo,Sport Club Recife,yellow
+8382747,36,Adílson,Atlético Mineiro,yellow
+8382747,81,Fred,Atlético Mineiro,yellow
+8382749,45,Gilvan,Atlético GO,yellow
+8382749,81,William Alves,Atlético GO,yellow-red
+8382749,72,Dudu,SE Palmeiras,yellow
+8382750,3,Elicarlos,Chapecoense,yellow
+8382750,36,Arthur,Chapecoense,yellow
+8382750,81,Márcio Araújo,Flamengo RJ,yellow
+8382750,90,Orlando Berrío,Flamengo RJ,yellow
+8382746,39,Dodô,Coritiba FC,yellow
+8382746,55,Luizão,Coritiba FC,yellow
+8382746,71,Jonas,Coritiba FC,yellow
+8382746,78,Henrique Almeida,Coritiba FC,yellow
+8382746,22,Ramiro,Grêmio Porto Alegre,yellow
+8382746,54,Walter Kannemann,Grêmio Porto Alegre,yellow
+8382746,81,Luiz da Silva,Grêmio Porto Alegre,yellow
+8382748,58,Jô,Corinthians SP,yellow
+8382748,82,Camacho,Corinthians SP,yellow
+8382743,34,David Braz,Santos FC,yellow
+8382743,90,Alison,Santos FC,yellow
+8382743,44,Caique Sá,EC Vitória BA,yellow
+8382743,45,Wallace Reis,EC Vitória BA,yellow
+8382743,61,Yago,EC Vitória BA,yellow
+8382743,85,Carlos Eduardo,EC Vitória BA,yellow
+8382756,90,Tiago Real,Coritiba FC,yellow
+8382756,76,Ezequiel,Cruzeiro EC,yellow
+8382759,35,André Castro,Atlético GO,yellow
+8382759,50,Andrigo,Atlético GO,yellow
+8382759,79,Niltinho,Atlético GO,red
+8382759,23,Bruno Paulista,Vasco da Gama,yellow
+8382759,46,Yago Pikachu,Vasco da Gama,yellow
+8382755,50,Elías,Atlético Mineiro,yellow-red
+8382755,57,Roger,Atlético Mineiro,yellow
+8382755,38,Douglas,Chapecoense,yellow
+8382755,74,Moisés Ribeiro,Chapecoense,yellow
+8382755,90,Douglas Grolli,Chapecoense,yellow
+8382751,27,Douglas,Fluminense RJ,yellow
+8382751,77,Reginaldo,Fluminense RJ,yellow
+8382754,26,Fágner,Corinthians SP,yellow
+8382754,18,Lucas Barrios,Grêmio Porto Alegre,yellow
+8382760,59,Rômulo,Avaí FC,yellow
+8382760,74,Leandro Silva,Avaí FC,yellow
+8382760,45,Matheus Fernandes,Botafogo RJ,yellow
+8382760,58,Marcos Vinicius,Botafogo RJ,yellow
+8382760,63,Rodrigo Pimpão,Botafogo RJ,yellow
+8382760,80,Igor Rabello,Botafogo RJ,yellow
+8382753,2,Elton,Ponte Preta,yellow
+8382753,35,Marllon,Ponte Preta,yellow
+8382753,40,Jeferson,Ponte Preta,yellow
+8382753,86,Nino Paraíba,Ponte Preta,yellow
+8382758,20,Lucho González,Atlético Paranaense,yellow
+8382758,84,Ribamar,Atlético Paranaense,yellow
+8382758,90,Fabrício,Atlético Paranaense,yellow
+8382752,4,Willian Arão,Flamengo RJ,yellow
+8382752,24,Paolo Guerrero,Flamengo RJ,yellow
+8382752,44,Diego,Flamengo RJ,yellow
+8382752,50,Éverton Ribeiro,Flamengo RJ,yellow
+8382752,69,Juan,Flamengo RJ,yellow
+8382752,12,Juninho Capixaba,EC Bahia,yellow
+8382752,45,Renê Júnior,EC Bahia,yellow
+8382752,47,Eduardo Santos,EC Bahia,yellow
+8382752,86,Lucas Fonseca,EC Bahia,yellow
+8382757,16,Wesley,Sport Club Recife,yellow
+8382757,49,Lucas Veríssimo,Santos FC,yellow
+8382757,54,Yuri Oliveira,Santos FC,yellow
+8382757,58,Emiliano Vecchio,Santos FC,yellow
+8382757,65,Jonathan Copete,Santos FC,yellow
+8382757,69,Matheus Jesus,Santos FC,yellow
+8382762,64,Mateus Vital,Vasco da Gama,yellow
+8382762,90,Breno,Vasco da Gama,red
+8382762,4,Matheus Galdezani,Coritiba FC,yellow
+8382762,83,Iago Dias,Coritiba FC,yellow
+8382763,79,Alison,Santos FC,yellow
+8382763,75,André Castro,Atlético GO,yellow
+8382764,36,Sidão,São Paulo FC,yellow
+8382764,74,Gustavo Cuéllar,Flamengo RJ,yellow
+8382765,28,Alisson,Cruzeiro EC,yellow
+8382765,45,Henrique,Cruzeiro EC,yellow
+8382765,42,Leonardo Silva,Atlético Mineiro,yellow
+8382765,61,Cleiton,Atlético Mineiro,yellow
+8382765,68,Robinho,Atlético Mineiro,yellow
+8382765,72,Gabriel França,Atlético Mineiro,yellow
+8382766,22,Samuel Xavier,Sport Club Recife,yellow
+8382766,88,Oswaldo Henriquez,Sport Club Recife,yellow
+8382767,24,Michel,Grêmio Porto Alegre,yellow
+8382767,81,Luan,Grêmio Porto Alegre,yellow
+8382767,44,Bruno Henrique,SE Palmeiras,yellow
+8382768,44,John Mendoza,EC Bahia,yellow
+8382768,90,Edigar Junio,EC Bahia,yellow
+8382768,12,Neilton,EC Vitória BA,yellow
+8382768,24,Ramon,EC Vitória BA,yellow
+8382768,39,Fred,EC Vitória BA,yellow
+8382769,36,Rodrigo,Ponte Preta,yellow
+8382769,41,Jadson,Ponte Preta,yellow
+8382769,45,Léo Gamalho,Ponte Preta,yellow
+8382769,60,Nino Paraíba,Ponte Preta,yellow
+8382769,62,Lucca,Ponte Preta,yellow
+8382769,64,João Paulo,Avaí FC,yellow
+8382769,90,Willians Santana,Avaí FC,yellow
+8382770,37,Douglas,Chapecoense,yellow
+8382770,45,Gum,Fluminense RJ,yellow
+8382761,18,Rodrigo Pimpão,Botafogo RJ,yellow
+8382761,43,Marcos Vinicius,Botafogo RJ,yellow
+8382761,85,Rodrigo Lindoso,Botafogo RJ,yellow
+8382761,20,Gabriel,Corinthians SP,yellow
+8382761,90,Jô,Corinthians SP,yellow
+8382774,63,Jucilei,São Paulo FC,yellow
+8382774,43,Matheus Jesus,Santos FC,yellow
+8382774,48,Bruno Henrique,Santos FC,yellow
+8382774,69,Lucas Lima,Santos FC,yellow
+8382774,75,Ricardo Oliveira,Santos FC,yellow
+8382774,76,Jean Mota,Santos FC,yellow
+8382774,82,Serginho,Santos FC,yellow
+8382772,79,Juan,Flamengo RJ,yellow
+8382772,79,Wellington,Vasco da Gama,yellow
+8382776,53,Lucho González,Atlético Paranaense,yellow
+8382776,19,Apodi,Chapecoense,yellow
+8382776,59,Fabricio Bruno,Chapecoense,yellow
+8382776,59,Jandrei,Chapecoense,yellow
+8382776,90,Héctor Canteros,Chapecoense,yellow
+8382771,90,Reginaldo,Fluminense RJ,yellow
+8382771,55,Tiago,EC Bahia,yellow
+8382771,69,Matheus Reis,EC Bahia,yellow
+8382771,86,Matheus Sales,EC Bahia,red
+8382771,90,Agustin Allione,EC Bahia,yellow
+8382775,81,Elías,Atlético Mineiro,yellow
+8382775,22,João Paulo,Botafogo RJ,yellow
+8382775,36,Joel Carli,Botafogo RJ,yellow
+8382779,39,Fernando Bob,Ponte Preta,yellow
+8382779,51,Emerson Sheik,Ponte Preta,yellow
+8382779,61,Naldo,Ponte Preta,yellow
+8382779,88,Danilo Barcelos,Ponte Preta,yellow
+8382779,58,Clayson,Corinthians SP,yellow
+8382777,10,Samuel Xavier,Sport Club Recife,yellow
+8382777,71,Oswaldo Henriquez,Sport Club Recife,yellow
+8382777,77,Ronaldo Alves,Sport Club Recife,yellow
+8382777,11,Iago Dias,Coritiba FC,yellow
+8382777,20,Henrique Almeida,Coritiba FC,yellow
+8382777,24,Rildo,Coritiba FC,yellow
+8382777,65,Léo,Coritiba FC,yellow
+8382777,70,Cléber Reis,Coritiba FC,yellow
+8382777,82,Werley,Coritiba FC,yellow
+8382777,90,Yan Sasse,Coritiba FC,yellow
+8382777,90,Alan Santos,Coritiba FC,yellow
+8382778,46,Uillian Correia,EC Vitória BA,yellow
+8382778,31,Wálter,Atlético GO,yellow
+8382778,40,William Alves,Atlético GO,yellow
+8382778,42,Jorginho,Atlético GO,yellow
+8382780,59,João Paulo,Avaí FC,yellow
+8382780,3,Jael,Grêmio Porto Alegre,yellow
+8382780,90,Matheus Bressan,Grêmio Porto Alegre,yellow
+8382773,29,Lucas Romero,Cruzeiro EC,yellow
+8382773,78,Robinho,Cruzeiro EC,yellow
+8382783,70,Daniel Guedes,Santos FC,yellow
+8382783,33,Rómulo Otero,Atlético Mineiro,yellow
+8382783,47,Fábio Santos,Atlético Mineiro,yellow
+8382783,60,Elías,Atlético Mineiro,yellow
+8382781,30,Arnaldo,Botafogo RJ,yellow
+8382781,75,Gilson,Botafogo RJ,yellow
+8382781,75,Victor Luís,Botafogo RJ,yellow
+8382781,32,Junior Sornoza,Fluminense RJ,yellow
+8382781,71,Marcos Júnior,Fluminense RJ,yellow
+8382781,72,Gustavo Scarpa,Fluminense RJ,yellow
+8382781,83,Wendel,Fluminense RJ,yellow
+8382789,45,Paulinho,Atlético GO,yellow
+8382789,87,André Castro,Atlético GO,yellow
+8382786,75,Léo,Coritiba FC,yellow
+8382786,26,Alemão,Avaí FC,yellow
+8382786,41,Leandro Silva,Avaí FC,yellow
+8382784,31,Ángel Romero,Corinthians SP,yellow
+8382784,59,Gabriel,Corinthians SP,yellow
+8382784,79,Fágner,Corinthians SP,yellow
+8382784,81,Maycon,Corinthians SP,yellow
+8382784,83,Cássio,Corinthians SP,yellow
+8382784,88,Jádson,Corinthians SP,yellow
+8382784,37,Edu Dracena,SE Palmeiras,yellow
+8382784,50,Tchê Tchê,SE Palmeiras,yellow
+8382784,55,Egídio,SE Palmeiras,yellow
+8382784,58,Bruno Henrique,SE Palmeiras,yellow
+8382784,90,Deyverson,SE Palmeiras,red
+8382784,90,Dudu,SE Palmeiras,yellow
+8382785,32,Rafinha,Cruzeiro EC,yellow
+8382785,70,Sidcley,Atlético Paranaense,yellow
+8382785,71,Esteban Pavez,Atlético Paranaense,yellow
+8382788,90,Edigar Junio,EC Bahia,yellow
+8382788,33,Nino Paraíba,Ponte Preta,yellow
+8382788,41,Yago,Ponte Preta,yellow
+8382782,45,Luís Fabiano,Vasco da Gama,yellow
+8382782,57,Mádson,Vasco da Gama,yellow
+8382782,65,Martín Silva,Vasco da Gama,yellow
+8382782,24,Juninho,EC Vitória BA,yellow
+8382782,40,Neilton,EC Vitória BA,yellow
+8382782,45,Kanu,EC Vitória BA,yellow
+8382782,90,Yago,EC Vitória BA,yellow
+8382790,71,Amaral,Chapecoense,yellow
+8382790,79,Alan Ruschel,Chapecoense,yellow
+8382790,90,Douglas,Chapecoense,yellow
+8382790,59,Anselmo,Sport Club Recife,red
+8382790,90,Patrick Bezerra,Sport Club Recife,yellow
+8382790,90,Diego Souza,Sport Club Recife,yellow
+8382790,90,Durval,Sport Club Recife,yellow
+8382799,18,Fernando Bob,Ponte Preta,red
+8382799,52,Lucca,Ponte Preta,yellow
+8382799,56,Rodrigo,Ponte Preta,yellow
+8382799,57,Elton,Ponte Preta,yellow
+8382799,66,Danilo Barcelos,Ponte Preta,yellow
+8382799,56,Matheus Bressan,Grêmio Porto Alegre,yellow
+8382799,79,Marcelo Oliveira,Grêmio Porto Alegre,yellow
+8382799,90,Fernandinho Silva,Grêmio Porto Alegre,yellow
+8382800,19,Rômulo,Avaí FC,yellow
+8382800,29,Pedro Castro,Avaí FC,yellow
+8382800,30,Agustin Allione,EC Bahia,yellow
+8382800,89,Juninho Capixaba,EC Bahia,yellow
+8382796,45,Thiago Heleno,Atlético Paranaense,yellow
+8382796,90,Fabrício,Atlético Paranaense,yellow
+8382796,45,Maycon,Corinthians SP,yellow
+8382797,29,Oswaldo Henriquez,Sport Club Recife,yellow
+8382797,82,Durval,Sport Club Recife,yellow
+8382797,12,Igor Rabello,Botafogo RJ,yellow
+8382797,43,Arnaldo,Botafogo RJ,yellow
+8382797,60,João Paulo,Botafogo RJ,yellow
+8382797,83,Matheus Fernandes,Botafogo RJ,yellow
+8382792,55,Rhodolfo,Flamengo RJ,yellow
+8382792,90,Lucas Paquetá,Flamengo RJ,yellow
+8382792,28,Henrique,Cruzeiro EC,yellow
+8382792,56,Manoel,Cruzeiro EC,yellow
+8382792,64,Rafael Sóbis,Cruzeiro EC,yellow
+8382793,39,Arthur Gomes,Santos FC,yellow
+8382793,90,Bruno Henrique,Santos FC,yellow
+8382793,20,Andrés Ríos,Vasco da Gama,yellow
+8382793,34,Paulão,Vasco da Gama,yellow
+8382793,76,Breno,Vasco da Gama,yellow
+8382793,90,Wellington,Vasco da Gama,yellow
+8382793,90,Bruno Paulista,Vasco da Gama,yellow
+8382798,32,Yago,EC Vitória BA,yellow
+8382798,64,Uillian Correia,EC Vitória BA,yellow-red
+8382798,71,José Welison,EC Vitória BA,yellow
+8382798,83,Renê,EC Vitória BA,yellow
+8382798,88,Mayke,SE Palmeiras,yellow
+8382794,59,Marcos Guilherme,São Paulo FC,yellow
+8382794,9,Luiz Antônio,Chapecoense,yellow
+8382794,90,Amaral,Chapecoense,yellow
+8382795,26,Leonardo Silva,Atlético Mineiro,yellow
+8382795,28,Juan Cazares,Atlético Mineiro,yellow
+8382795,32,Fred,Atlético Mineiro,yellow
+8382795,45,Robinho,Atlético Mineiro,yellow
+8382795,45,Adílson,Atlético Mineiro,yellow
+8382795,74,Marcos Rocha,Atlético Mineiro,yellow
+8382795,16,Gilvan,Atlético GO,yellow
+8382795,32,Diego Rosa,Atlético GO,yellow
+8382795,73,Luiz Fernando,Atlético GO,yellow
+8382795,84,Jonathan,Atlético GO,yellow
+8382795,90,Paulinho,Atlético GO,yellow
+8382791,45,Henrique Dourado,Fluminense RJ,yellow
+8382791,57,Reginaldo,Fluminense RJ,yellow
+8382791,65,Junior Sornoza,Fluminense RJ,yellow
+8382791,58,Rildo,Coritiba FC,yellow
+8382791,70,Matheus Galdezani,Coritiba FC,yellow
+8382791,72,Tiago Real,Coritiba FC,yellow
+8382791,90,Getterson,Coritiba FC,yellow
+8382801,89,Éderson,Atlético Paranaense,yellow
+8382804,45,Fabián Balbuena,Corinthians SP,yellow
+8382804,50,Colin Kâzım-Richards,Corinthians SP,yellow
+8382804,67,Ángel Romero,Corinthians SP,yellow
+8382804,41,Júnior Dutra,Avaí FC,yellow
+8382804,52,Judson,Avaí FC,yellow
+8382804,86,Maurinho,Avaí FC,yellow
+8382802,85,Henrique,Vasco da Gama,yellow
+8382802,90,Caio Monteiro,Vasco da Gama,yellow
+8382802,90,Yago Pikachu,Vasco da Gama,yellow
+8382802,38,Edimar,São Paulo FC,yellow
+8382802,45,Robert Arboleda,São Paulo FC,yellow
+8382802,83,Eder Militão,São Paulo FC,red
+8382803,34,Renê,Flamengo RJ,yellow
+8382807,58,Fillipe Soutto,EC Vitória BA,yellow-red
+8382807,80,Kanu,EC Vitória BA,yellow
+8382809,34,Neris,Sport Club Recife,yellow
+8382809,72,Samuel Xavier,Sport Club Recife,yellow
+8382809,90,Osvaldo,Sport Club Recife,yellow
+8382808,83,Zé Rafael,EC Bahia,yellow
+8382808,21,Matheus Mancini,Atlético Mineiro,yellow
+8382808,41,Valdivia,Atlético Mineiro,yellow
+8382808,50,Rómulo Otero,Atlético Mineiro,yellow
+8382808,71,Luan,Atlético Mineiro,yellow
+8382805,26,Murilo Cerqueira,Cruzeiro EC,yellow
+8382805,31,Lucas Romero,Cruzeiro EC,yellow
+8382805,54,Robinho,Cruzeiro EC,yellow
+8382805,82,Thiago Neves,Cruzeiro EC,yellow
+8382805,56,Marlon,Fluminense RJ,yellow-red
+8382805,68,Renato Chaves,Fluminense RJ,yellow
+8382805,88,Matheus Alessandro,Fluminense RJ,yellow
+8382806,38,Jonas,Coritiba FC,yellow
+8382806,44,Rildo,Coritiba FC,yellow
+8382806,41,Naldo,Ponte Preta,yellow
+8382806,65,João Carlos,Ponte Preta,yellow
+8382810,13,Lucas Veríssimo,Santos FC,yellow
+8382810,24,Luiz Felipe,Santos FC,yellow
+8382810,66,Serginho,Santos FC,yellow
+8382819,27,Elton,Ponte Preta,yellow
+8382819,33,Guilherme,Atlético Paranaense,yellow
+8382819,40,Esteban Pavez,Atlético Paranaense,yellow
+8382819,57,Thiago Heleno,Atlético Paranaense,yellow
+8382815,28,Digão,Cruzeiro EC,yellow
+8382815,69,Léo,Cruzeiro EC,yellow
+8382815,79,Robinho,Cruzeiro EC,yellow
+8382815,90,Thiago Neves,Cruzeiro EC,yellow
+8382815,32,Judson,Avaí FC,yellow
+8382815,75,Douglas Friedrich,Avaí FC,yellow
+8382817,20,Fernandinho Silva,Grêmio Porto Alegre,yellow
+8382817,5,Jucilei,São Paulo FC,yellow
+8382817,16,Robert Arboleda,São Paulo FC,yellow
+8382817,38,Hernanes,São Paulo FC,yellow
+8382812,23,Evander,Vasco da Gama,yellow
+8382814,59,Gabriel,Corinthians SP,yellow
+8382814,45,Leo,Fluminense RJ,yellow
+8382814,45,Henrique Dourado,Fluminense RJ,yellow
+8382814,58,Reginaldo,Fluminense RJ,yellow
+8382814,80,Pedro,Fluminense RJ,yellow
+8382814,80,Henrique,Fluminense RJ,yellow
+8382814,90,Lucas,Fluminense RJ,yellow
+8382811,71,Guilherme Augusto,Botafogo RJ,yellow
+8382811,23,Luiz Fernando,Atlético GO,yellow
+8382811,76,Andrigo,Atlético GO,yellow
+8382811,89,Ronaldo,Atlético GO,yellow
+8382813,69,Diego Souza,Sport Club Recife,yellow
+8382813,73,Anselmo,Sport Club Recife,yellow
+8382820,35,Wellington Paulista,Chapecoense,yellow
+8382820,22,Uillian Correia,EC Vitória BA,yellow
+8382820,34,Wallace Reis,EC Vitória BA,yellow
+8382820,58,Caique Sá,EC Vitória BA,yellow
+8382820,79,José Welison,EC Vitória BA,yellow
+8382816,43,Thiago Carleto,Coritiba FC,yellow
+8382816,45,Cléber Reis,Coritiba FC,yellow
+8382816,78,Rildo,Coritiba FC,yellow
+8382816,9,Diego Alves,Flamengo RJ,yellow
+8382816,37,Renê,Flamengo RJ,yellow
+8382816,61,Vinicius Júnior,Flamengo RJ,yellow
+8382816,84,Lucas Paquetá,Flamengo RJ,yellow
+8382816,87,Gustavo Cuéllar,Flamengo RJ,yellow
+8382818,31,Renê Júnior,EC Bahia,yellow
+8382818,54,Tiago,EC Bahia,yellow
+8382818,85,Éder Ferreira,EC Bahia,yellow
+8382818,77,Jean Mota,Santos FC,yellow
+8382818,82,Lucas Lima,Santos FC,yellow
+8382822,20,Geuvânio,Flamengo RJ,yellow
+8382822,58,Pará,Flamengo RJ,yellow
+8382822,67,Rhodolfo,Flamengo RJ,yellow
+8382822,78,Rafael Vaz,Flamengo RJ,yellow
+8382822,2,Marquinhos Gabriel,Corinthians SP,yellow
+8382822,58,Giovanni Augusto,Corinthians SP,yellow
+8382822,61,Ángel Romero,Corinthians SP,yellow
+8382822,84,Léo Príncipe,Corinthians SP,yellow
+8382824,56,Gilberto,São Paulo FC,yellow
+8382824,59,Petros,São Paulo FC,yellow
+8382824,39,Joel Carli,Botafogo RJ,yellow
+8382824,53,Bruno Silva,Botafogo RJ,yellow
+8382824,84,João Paulo,Botafogo RJ,yellow
+8382827,17,Oswaldo Henriquez,Sport Club Recife,yellow
+8382827,34,Durval,Sport Club Recife,yellow
+8382827,69,Sander,Sport Club Recife,yellow
+8382827,76,André,Sport Club Recife,yellow
+8382827,50,Eduardo Santos,EC Bahia,yellow
+8382827,76,Régis,EC Bahia,yellow
+8382827,85,Juninho Capixaba,EC Bahia,yellow
+8382828,39,Kanu,EC Vitória BA,yellow
+8382828,58,Yago,EC Vitória BA,yellow
+8382828,82,Neilton,EC Vitória BA,yellow
+8382828,45,Lucas Romero,Cruzeiro EC,yellow
+8382828,78,Alisson,Cruzeiro EC,yellow
+8382829,34,Jonathan,Atlético GO,yellow
+8382829,64,Jorginho,Atlético GO,yellow
+8382829,80,Marcão Silva,Atlético GO,yellow
+8382829,90,William Alves,Atlético GO,yellow
+8382829,41,Apodi,Chapecoense,yellow
+8382829,60,Túlio de Melo,Chapecoense,yellow
+8382829,78,Lucas Mineiro,Chapecoense,yellow
+8382829,86,Arthur,Chapecoense,yellow
+8382823,18,Alison,Santos FC,yellow
+8382823,70,Lucas Veríssimo,Santos FC,yellow
+8382823,25,Jael,Grêmio Porto Alegre,yellow
+8382823,29,Kaio,Grêmio Porto Alegre,yellow
+8382825,34,Fred,Atlético Mineiro,yellow
+8382825,90,Gustavo Blanco,Atlético Mineiro,yellow
+8382825,23,Alan Santos,Coritiba FC,yellow
+8382825,34,Léo,Coritiba FC,yellow
+8382825,35,Kléber Gladiador,Coritiba FC,yellow
+8382825,76,Werley,Coritiba FC,yellow
+8382825,87,Marcio,Coritiba FC,yellow
+8382826,33,Guilherme,Atlético Paranaense,yellow
+8382826,12,Jean,Vasco da Gama,yellow
+8382826,80,Wellington,Vasco da Gama,yellow
+8382821,34,Gustavo Scarpa,Fluminense RJ,yellow
+8382821,79,Matheus Alessandro,Fluminense RJ,yellow
+8382821,14,Yago,Ponte Preta,yellow
+8382821,29,Naldo,Ponte Preta,yellow-red
+8382821,29,Danilo Barcelos,Ponte Preta,yellow
+8382830,87,Wellington Simião,Avaí FC,yellow
+8382830,90,Kozlinski,Avaí FC,yellow
+8382830,57,Fernando Prass,SE Palmeiras,yellow
+8382830,90,Willian,SE Palmeiras,yellow
+8382831,34,Marcos Júnior,Fluminense RJ,yellow
+8382831,57,Renato Chaves,Fluminense RJ,yellow
+8382831,65,Marlon,Fluminense RJ,yellow
+8382831,90,Henrique Dourado,Fluminense RJ,yellow
+8382831,15,Anselmo,Sport Club Recife,yellow
+8382831,64,Patrick Bezerra,Sport Club Recife,yellow
+8382834,32,Camacho,Corinthians SP,yellow
+8382834,33,Clayson,Corinthians SP,yellow
+8382834,86,Marquinhos Gabriel,Corinthians SP,yellow
+8382834,90,Maycon,Corinthians SP,yellow
+8382834,35,Marcos Rocha,Atlético Mineiro,yellow
+8382835,52,Bryan Garcia,Cruzeiro EC,yellow
+8382835,79,Thiago Neves,Cruzeiro EC,yellow
+8382835,84,Léo,Cruzeiro EC,yellow
+8382835,51,Wellington,Vasco da Gama,yellow
+8382835,89,Henrique,Vasco da Gama,yellow
+8382836,32,Cléber Reis,Coritiba FC,yellow
+8382836,45,Yan Sasse,Coritiba FC,yellow
+8382836,81,Werley,Coritiba FC,yellow
+8382836,83,Dodô,Coritiba FC,yellow
+8382836,74,Marcos Guilherme,São Paulo FC,yellow
+8382837,41,Léo Gomes,Grêmio Porto Alegre,yellow
+8382837,61,Machado,Grêmio Porto Alegre,yellow
+8382837,45,William Alves,Atlético GO,yellow
+8382837,69,André Castro,Atlético GO,yellow
+8382837,88,Gilvan,Atlético GO,yellow
+8382839,19,Jeferson,Ponte Preta,yellow
+8382839,20,Rodrigo,Ponte Preta,red
+8382839,62,Wendel,Ponte Preta,yellow
+8382839,73,Danilo Barcelos,Ponte Preta,yellow
+8382839,11,Geferson,EC Vitória BA,yellow
+8382839,15,Wallace Reis,EC Vitória BA,yellow
+8382839,19,Yago,EC Vitória BA,yellow
+8382839,30,Kanu,EC Vitória BA,yellow
+8382839,74,Uillian Correia,EC Vitória BA,yellow
+8382839,83,Santiago Tréllez,EC Vitória BA,yellow
+8382840,26,Betão,Avaí FC,yellow
+8382840,90,Pedro Castro,Avaí FC,yellow
+8382840,90,Judson,Avaí FC,yellow
+8382840,90,Jonathan,Atlético Paranaense,yellow
+8382832,35,Diego,Flamengo RJ,yellow
+8382832,75,Felipe Vizeu,Flamengo RJ,yellow
+8382832,89,Réver,Flamengo RJ,yellow
+8382832,8,Ricardo Oliveira,Santos FC,yellow
+8382832,11,Matheus,Santos FC,yellow
+8382832,29,Jean Mota,Santos FC,yellow
+8382832,84,Alison,Santos FC,yellow
+8382838,55,John Mendoza,EC Bahia,yellow
+8382838,79,Feijão,EC Bahia,yellow
+8382838,79,Matheus Sales,EC Bahia,yellow
+8382838,85,Zé Rafael,EC Bahia,yellow-red
+8382838,87,Eduardo Santos,EC Bahia,yellow
+8382838,44,Amaral,Chapecoense,yellow
+8382838,53,Douglas Grolli,Chapecoense,yellow
+8382838,54,Douglas,Chapecoense,yellow
+8382838,55,Reinaldo,Chapecoense,yellow
+8382833,11,Felipe Melo,SE Palmeiras,yellow
+8382833,49,Moisés Mineiro,SE Palmeiras,yellow
+8382833,80,Edu Dracena,SE Palmeiras,yellow
+8382833,17,Bruno Silva,Botafogo RJ,yellow
+8382833,29,João Paulo,Botafogo RJ,yellow
+8382833,46,Gilson,Botafogo RJ,yellow
+8382833,51,Rodrigo Pimpão,Botafogo RJ,yellow
+8382841,46,Joel Carli,Botafogo RJ,yellow
+8382841,41,Thiago Neves,Cruzeiro EC,yellow
+8382841,59,Henrique,Cruzeiro EC,yellow
+8382841,66,Lucas Romero,Cruzeiro EC,yellow
+8382841,76,Rafinha,Cruzeiro EC,yellow-red
+8382841,89,Giorgian de Arrascaeta,Cruzeiro EC,yellow
+8382842,30,Paulinho,Vasco da Gama,yellow
+8382842,38,Wellington,Vasco da Gama,yellow
+8382842,45,Anderson Martins,Vasco da Gama,yellow
+8382842,58,Gilberto,Vasco da Gama,yellow
+8382842,67,Nenê,Vasco da Gama,yellow
+8382842,33,Jeferson,Ponte Preta,yellow
+8382842,36,Lucca,Ponte Preta,yellow
+8382842,46,Marllon,Ponte Preta,yellow
+8382842,58,Nino Paraíba,Ponte Preta,yellow
+8382842,88,Elton,Ponte Preta,yellow
+8382843,73,Emerson,Santos FC,yellow
+8382843,74,Matheus Jesus,Santos FC,yellow
+8382843,28,Wellington Simião,Avaí FC,yellow
+8382844,41,Brenner,São Paulo FC,yellow
+8382844,47,Diego Lugano,São Paulo FC,yellow
+8382844,61,Rodrigo Caio,São Paulo FC,yellow
+8382844,90,Petros,São Paulo FC,yellow-red
+8382844,11,Éder Ferreira,EC Bahia,yellow
+8382844,45,Edson,EC Bahia,yellow
+8382844,75,Renê Júnior,EC Bahia,yellow
+8382844,90,Agustin Allione,EC Bahia,yellow
+8382844,90,Juninho,EC Bahia,red
+8382845,10,Adílson,Atlético Mineiro,yellow
+8382845,43,Robinho,Atlético Mineiro,yellow
+8382845,77,Elías,Atlético Mineiro,yellow
+8382845,83,Gustavo Blanco,Atlético Mineiro,red
+8382845,90,Victor,Atlético Mineiro,yellow
+8382845,90,Leonardo Silva,Atlético Mineiro,yellow
+8382845,90,Fábio Santos,Atlético Mineiro,yellow
+8382845,90,Rómulo Otero,Atlético Mineiro,yellow
+8382845,57,Dionathã,Grêmio Porto Alegre,yellow
+8382846,45,Santos,Atlético Paranaense,yellow
+8382846,45,Sidcley,Atlético Paranaense,yellow
+8382846,80,Esteban Pavez,Atlético Paranaense,yellow
+8382846,17,Luan Garcia,SE Palmeiras,yellow
+8382846,27,Dudu,SE Palmeiras,yellow
+8382846,79,Thiago Santos,SE Palmeiras,yellow
+8382846,81,Alejandro Guerra,SE Palmeiras,yellow
+8382846,86,Yerry Mina,SE Palmeiras,yellow
+8382847,31,Durval,Sport Club Recife,yellow
+8382847,87,Raul Prata,Sport Club Recife,yellow
+8382847,90,Osvaldo,Sport Club Recife,yellow
+8382847,32,Fellipe Bastos,Corinthians SP,yellow
+8382847,37,Colin Kâzım-Richards,Corinthians SP,yellow
+8382848,66,André Lima,EC Vitória BA,yellow
+8382848,90,Uillian Correia,EC Vitória BA,yellow
+8382848,90,Caique Sá,EC Vitória BA,yellow-red
+8382848,90,Carlos Eduardo,EC Vitória BA,red
+8382848,74,Diego,Flamengo RJ,yellow
+8382848,76,Gabriel,Flamengo RJ,yellow
+8382848,88,Lincoln,Flamengo RJ,yellow
+8382849,75,Jorginho,Atlético GO,yellow
+8382849,43,Henrique Dourado,Fluminense RJ,yellow
+8382849,53,Lucas,Fluminense RJ,yellow
+8382849,75,Douglas,Fluminense RJ,yellow
+8382849,81,Romarinho,Fluminense RJ,yellow
+8382850,26,João Pedro,Chapecoense,yellow
+8382850,62,Fabricio Bruno,Chapecoense,yellow
+8382850,75,Reinaldo,Chapecoense,yellow
+8382850,5,Thiago Carleto,Coritiba FC,yellow
+8382850,90,Jonas,Coritiba FC,yellow
