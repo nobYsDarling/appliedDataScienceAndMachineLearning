@@ -11,7 +11,7 @@ API_URL = 'https://en.wikipedia.org/w/api.php'
 API_PAGE_IDS_ROOT = 13327177  # 2018_FIFA_World_Cup
 
 
-API_PARAMS_QUERY = 'format=json&titles=%s&action=query&prop=content'
+API_PARAMS_QUERY = 'format=json&list=search&srsearch=%s&action=query&utf8='
 API_PARAMS_PAGE_CONTENT = 'action=parse&pageid=%s&prop=wikitext&format=json'
 API_PARAMS_SECTIONS = 'action=parse&pageid=%s&prop=sections&format=json'
 API_PARAMS_SECTION_CONTENT = 'action=parse&pageid=%s&prop=wikitext&section=%s&format=json'
@@ -80,7 +80,15 @@ def get_page_id_by_link(link, redirects=None):
 
     data = json.loads(url.read().decode())
 
-    page_id = int(list(data['query']['pages'].keys())[0])
+    if 0 == data['query']['searchinfo']['totalhits']:
+        return None
+
+    if 'suggestion' in data['query']['searchinfo'].keys():
+        return get_page_id_by_link(data['query']['searchinfo']['suggestion'])
+
+    page_id = int(data['query']['search'][0]['pageid'])
+    if -1 == page_id:
+        return None
 
     info = get_page_content_by_id(page_id)
     redirect = re.findall('#REDIRECT ?\[\[([^\]]*)\]\]', info, re.IGNORECASE)

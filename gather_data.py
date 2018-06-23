@@ -229,6 +229,76 @@ def get_team_list():
     return teams
 
 
+def parse_team_nationality(pid, name):
+    if name in TEAM_NAT_MAP.keys():
+        return TEAM_NAT_MAP[name]
+
+    info = wikilib.get_page_section_content_by_priority_list(pid, ['Current squad', 'Current squads', 'Players'])
+
+    if info is None:
+        info = wikilib.get_page_content_by_id(pid)
+
+    empty = re.findall('{{Empty section\|date[^}]*}}', info)
+    if empty:
+        return []
+
+    empty = re.findall('{{cl|UD Salamanca footballers}}', info)
+    if empty:
+        return []
+
+    empty = re.findall('{{See also\|:Category:[^}]*}}', info)
+    if empty:
+        return []
+
+    redirect = re.findall('#REDIRECT ?\[\[([^\]]*)\]\]', info, re.IGNORECASE)
+    if redirect:
+        page_id = wikilib.get_page_id_by_link(redirect[0])
+        return parse_team_nationality(page_id, name)
+
+    template = re.findall('({{[^}]*}})', info)
+    if 1 == len(template) and len(info) < 255:
+        info = wikilib.parse_template(template[0])['data']['expandtemplates']['wikitext']
+
+    nats = re.findall(r'\bnat= *([A-Z]*) *\b', info, re.IGNORECASE)
+    _t = {}
+    for n in nats:
+        if n in _t.keys():
+            _t[n] += 1
+        else:
+            _t[n] = 1
+
+    if 0 == len(_t.keys()):
+        _nat_values = list(set(TEAM_NAT_MAP.values()))
+        nats = re.findall(r'\b(%s)\b' % '|'.join(_nat_values), info)
+        _t = {}
+        for n in nats:
+            if n in _t.keys():
+                _t[n] += 1
+            else:
+                _t[n] = 1
+
+        nats = re.findall(r'\b(%s)\b' % '|'.join(list(NAT_NAT_MAPPING.keys())), info)
+        for n in nats:
+            _k = NAT_NAT_MAPPING[n]
+            if _k in _t.keys():
+                _t[_k] += 1
+            else:
+                _t[_k] = 1
+
+        nats = re.findall(r'\b(%s)\b' % '|'.join(list(NAT_NAT_MAPPING.values())), info)
+        for n in nats:
+            if n in _t.keys():
+                _t[n] += 1
+            else:
+                _t[n] = 1
+
+    candidate = max(_t.items(), key=operator.itemgetter(1))[0] if len(_t.keys()) else None
+    if candidate in NAT_NAT_MAPPING.keys():
+        candidate = NAT_NAT_MAPPING[candidate]
+
+    return candidate
+
+
 def get_player_detail_info(link):
     def get_info(pid, link):
         static_redirect = link in WIKI_PLAYER_MAP.keys()
@@ -261,78 +331,6 @@ def get_player_detail_info(link):
                 return get_player_detail_info(footballer[0])
 
         return info
-
-    def parse_team_nationality(pid, name):
-        if name in TEAM_NAT_MAP.keys():
-            return TEAM_NAT_MAP[name]
-
-        info = wikilib.get_page_section_content_by_priority_list(pid, ['Current squad', 'Current squads', 'Players'])
-
-        if info is None:
-            info = wikilib.get_page_content_by_id(pid)
-
-        empty = re.findall('{{Empty section\|date[^}]*}}', info)
-        if empty:
-            return []
-
-        empty = re.findall('{{cl|UD Salamanca footballers}}', info)
-        if empty:
-            return []
-
-        empty = re.findall('{{See also\|:Category:[^}]*}}', info)
-        if empty:
-            return []
-
-        redirect = re.findall('#REDIRECT ?\[\[([^\]]*)\]\]', info, re.IGNORECASE)
-        if redirect:
-            page_id = wikilib.get_page_id_by_link(redirect[0])
-            return parse_team_nationality(page_id, name)
-
-        template = re.findall('({{[^}]*}})', info)
-        if 1 == len(template) and len(info) < 255:
-            print(template)
-            info = wikilib.parse_template(template[0])['data']['expandtemplates']['wikitext']
-
-        nats = re.findall(r'\bnat= *([A-Z]*) *\b', info, re.IGNORECASE)
-        _t = {}
-        for n in nats:
-            if n in _t.keys():
-                _t[n] += 1
-            else:
-                _t[n] = 1
-
-        if 0 == len(_t.keys()):
-            _nat_values = list(set(TEAM_NAT_MAP.values()))
-            nats = re.findall(r'\b(%s)\b' % '|'.join(_nat_values), info)
-            _t = {}
-            for n in nats:
-                if n in _t.keys():
-                    _t[n] += 1
-                else:
-                    _t[n] = 1
-
-            nats = re.findall(r'\b(%s)\b' % '|'.join(list(NAT_NAT_MAPPING.keys())), info)
-            for n in nats:
-                _k = NAT_NAT_MAPPING[n]
-                if _k in _t.keys():
-                    _t[_k] += 1
-                else:
-                    _t[_k] = 1
-
-            nats = re.findall(r'\b(%s)\b' % '|'.join(list(NAT_NAT_MAPPING.values())), info)
-            for n in nats:
-                if n in _t.keys():
-                    _t[n] += 1
-                else:
-                    _t[n] = 1
-
-        if name == 'Íþróttabandalag Akraness':
-            print(_t)
-        candidate = max(_t.items(), key=operator.itemgetter(1))[0] if len(_t.keys()) else None
-        if candidate in NAT_NAT_MAPPING.keys():
-            candidate = NAT_NAT_MAPPING[candidate]
-
-        return candidate
 
     page_id = wikilib.get_page_id_by_link(link, WIKI_PLAYER_MAP)
     info = get_info(page_id, link)
@@ -391,9 +389,7 @@ def get_player_detail_info(link):
 
 def get_current_squad(team_page_id):
     data = wikilib.get_page_section_content_by_priority_list(team_page_id, ['Current squad', 'Current squads', 'Players'])
-    print(team_page_id)
-    if int(team_page_id) == 3642837:
-        print(1)
+
     empty = re.findall('{{Empty section\|date=[^}]*}}', data)
     if empty:
         return []
@@ -490,13 +486,9 @@ def add_squad(team, conn):
     cur = conn.cursor()
 
     for player in team['current_squad']:
-        print(player)
-
         t = player['team']
         t = assert_team(t, 0, conn)
 
-        if player['name'][0] == 'N':
-            print(player)
         sql = "INSERT INTO player (name, number, position, birthday, caps, goals, wiki_page_id) VALUES (\"%s\", %d, '%s', '%s', %d, %d, %d)"
         cur.execute(sql % (
             player['name'],
@@ -523,23 +515,23 @@ def add_squad(team, conn):
 
     conn.commit()
 
-
-conn = sqlite3.connect('data/fifa.db')
-cur = conn.cursor()
-cur.execute("DELETE FROM nation")
-cur.execute("DELETE FROM team")
-cur.execute("DELETE FROM player")
-cur.execute("DELETE FROM player_to_team")
-conn.commit()
-
-print('Start gathering teams...')
-for team in get_team_list():
-    print('Gathering teams done.')
-    print('Assert Team.')
-    assert_team(team, 1, conn)
-    print('Add Nation.')
-    add_nation(team, conn)
-    print('Add Squad.')
-    add_squad(team, conn)
-
-conn.close()
+#
+# conn = sqlite3.connect('data/fifa.db')
+# cur = conn.cursor()
+# cur.execute("DELETE FROM nation")
+# cur.execute("DELETE FROM team")
+# cur.execute("DELETE FROM player")
+# cur.execute("DELETE FROM player_to_team")
+# conn.commit()
+#
+# print('Start gathering teams...')
+# for team in get_team_list():
+#     print('Gathering teams done.')
+#     print('Assert Team.')
+#     assert_team(team, 1, conn)
+#     print('Add Nation.')
+#     add_nation(team, conn)
+#     print('Add Squad.')
+#     add_squad(team, conn)
+#
+# conn.close()
