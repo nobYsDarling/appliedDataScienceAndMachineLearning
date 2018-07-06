@@ -359,7 +359,7 @@ def renewLeague(league, season, conn) :
 ####################################################################################################
 
 # Data import
-conn = sqlite3.connect('wm2018Games.db')
+conn = sqlite3.connect('./fifaComplete.db')
 
 ####################### BUNDESLIGA #######################
 

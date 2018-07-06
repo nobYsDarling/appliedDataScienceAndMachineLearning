@@ -1,4 +1,9 @@
 .idea
 *.pyc
-wikilib/__pycache__/
-wikilib/__pycache__/wikipedia.cpython-35.pyc
+.DS_Store
+data/.DS_Store
+data/fifaComplete.db
+data/data_complex_test.csv
+data/data_complex_train.csv
+data/data_simple_test.csv
+data/data_simple_train.csv
