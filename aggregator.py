@@ -165,7 +165,7 @@ def get_data_from_table(table: str, where=None, purify=False) -> list:
     cur = conn.cursor()
 
     pre_select = ['gd.GameID', 'League', 'Season', 'Date']
-    select = pre_select + ['Player%d%s' % (i, state) for i in range(1, 12) for state in ['Home', 'Away']]
+    select = pre_select + ['Player%d%s' % (i, state) for state in ['Home', 'Away'] for i in range(1, 12)]
 
     select.append('result')
     data = cur.execute(
@@ -221,7 +221,7 @@ def get_fifa_players() -> set:
     conn = sqlite3.connect(DATABASE_NAME)
     cur = conn.cursor()
 
-    select = ['GameID'] + ['Player%d%s' % (i, state) for i in range(1, 12) for state in ['Home', 'Away']]
+    select = ['GameID'] + ['Player%d%s' % (i, state) for state in ['Home', 'Away'] for i in range(1, 12)]
     # bench
     # select = select + ['Bench%d%s' % (i, state) for i in range(1, 13) for state in ['Home', 'Away']]
     data = cur.execute(
@@ -424,12 +424,12 @@ if __name__ == '__main__':
     print('Create simple train data set...')
     create_train_data_set(False)
     print('Done.')
-    # print('Create complex train data set...')
-    # create_train_data_set()
-    # print('Done.')
+    print('Create complex train data set...')
+    create_train_data_set()
+    print('Done.')
     print('Create simple test data set...')
     create_test_data_set(False)
     print('Done.')
-    # print('Create complex test data set...')
-    # create_test_data_set()
-    # print('Done.')
+    print('Create complex test data set...')
+    create_test_data_set()
+    print('Done.')
