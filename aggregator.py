@@ -312,8 +312,8 @@ def create_data_set(data, target_file, complex=True):
         result_part = [l[len(l) - 1]]
 
         if complex:
-            new_player_part_home = [player in player_part[:11] for player in all_players_in_wm]
-            new_player_part_away = [player in player_part[11:] for player in all_players_in_wm]
+            new_player_part_home = [int(player in player_part[:11]) for player in all_players_in_wm]
+            new_player_part_away = [int(player in player_part[11:]) for player in all_players_in_wm]
             new_player_part = new_player_part_home + new_player_part_away
         else:
             new_player_part = [player_map[player] for player in player_part]
@@ -424,12 +424,12 @@ if __name__ == '__main__':
     print('Create simple train data set...')
     create_train_data_set(False)
     print('Done.')
-    print('Create complex train data set...')
-    create_train_data_set()
-    print('Done.')
+    # print('Create complex train data set...')
+    # create_train_data_set()
+    # print('Done.')
     print('Create simple test data set...')
     create_test_data_set(False)
     print('Done.')
-    print('Create complex test data set...')
-    create_test_data_set()
-    print('Done.')
+    # print('Create complex test data set...')
+    # create_test_data_set()
+    # print('Done.')

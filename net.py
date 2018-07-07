@@ -19,12 +19,18 @@ types = {k: np.int32 for k in range(26)}
 types[1] = np.string_
 types[2] = np.string_
 
-fifa = pd.read_csv("__data_set.csv", encoding='utf8', dtype=types, index_col=0, header=None)
+# fifa = pd.read_csv('/Users/thildebrandt/Projects/FH-Wedel/Applied Data Science/data/data_simple_train.csv')
+print('Read CSV...')
+fifa = pd.read_csv('/Users/thildebrandt/Projects/FH-Wedel/Applied Data Science/data/data_complex_train.csv')
+print('done.')
+# fifa = pd.read_csv('./data/data_simple_test.csv', encoding='utf8', dtype=types, index_col=0, header=None)
 # fifa = fifa.drop([1, 2], axis=1)
+
 fifa.columns = range(0, len(fifa.columns))
 
-feature = fifa.drop([22], axis=1).values
-target = fifa[22].values
+print('Prepare Dataset...')
+feature = fifa.drop([23], axis=1).values
+target = fifa[23].values
 
 X_train, X_test, y_train, y_test = train_test_split(feature, target, test_size=0.2)
 
@@ -51,18 +57,23 @@ classifiers = [
 ]
 
 result = []
+print('done.')
 
 for i, clf in enumerate(classifiers):
+    print('Train net...')
     c = clf.fit(X_train, y_train)
+    print('done.')
 
-    l = []
-    for i, p in enumerate(clf.predict(X_test)):
-        l.append(y_test[i] == p)
-        # print(p)
-        # print(y_test[i])
+    # l = []
+    # for i, p in enumerate(clf.predict(X_test)):
+    #     l.append(y_test[i] == p)
+    # print(p)
+    # print(y_test[i])
     # print(l)
 
+    print('Test Dataset...')
     score = clf.score(X_test, y_test)
+    print('done.')
     result.append('%s -> %f' % (type(c).__name__, score))
 
 print(result)
